@@ -1,0 +1,3957 @@
+{
+  "schema_version": 6,
+  "topic": "05 Samkhya",
+  "derivation_policy": "separate_post_classification_matrix_layer",
+  "classification_hash": "6af0e2e4557833fde73c59d8875c14ee2e8783293716baa56a3abe7c96b4d3ce",
+  "legacy_fixed_total": false,
+  "cell_count": 68,
+  "question_total": 74,
+  "testable_obligation_count": 65,
+  "cells": [
+    {
+      "cell_id": "SK-CELL-03A488D3136BDC9E-B037BB3562",
+      "title": "Two modifications",
+      "probe_mode": "two-modifications",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-03A488D3136BDC9E"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-BFCE78470EC03073",
+          "proposition_id": "prop-a2f0d7ef0099f18a283e",
+          "block_sha256": "bfce78470ec03073fda2b596ff2cacdd1191ae13eca3740898585cd710a1bc6f",
+          "proposition_sha256": "f41879fecee938bf5784b1d2d14256482cfb3c00a18e7f77509d8d663794bc7d"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q16"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-0802282F00F58AB1-F65E16121B",
+      "title": "Explanatory sufficiency without creator",
+      "probe_mode": "dual-principle-sufficiency",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-0802282F00F58AB1"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-FDC3B61484619626",
+          "proposition_id": "prop-a076eb6a556a396f8821",
+          "block_sha256": "fdc3b6148461962624f82dc6dc6f64a17365f9074011f3bebef412b36a5e9723",
+          "proposition_sha256": "57e7179e655ccc7c5f43932a938e3bc8c135f6a076345acf6b0b859881254a47"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this promoted atomic argument.",
+      "mapped_question_ids": [
+        "Q73"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-0D294623261357B4-E90267F6F5",
+      "title": "Guṇa characters",
+      "probe_mode": "guṇa-characters",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-0D294623261357B4"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-BFCE78470EC03073",
+          "proposition_id": "prop-32f344aa50ff140e601a",
+          "block_sha256": "bfce78470ec03073fda2b596ff2cacdd1191ae13eca3740898585cd710a1bc6f",
+          "proposition_sha256": "87476ad99f8b7c55d66fc2230eab67348ca6f8caafcded8cd7f13398c09cf50f"
+        }
+      ],
+      "minimum_probes": 2,
+      "extra_probe_justification": "A second independently worded probe is justified because this source proposition contains two separately confusable doctrinal discriminators.",
+      "mapped_question_ids": [
+        "Q13",
+        "Q14"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-0F5B624039B148B3-7242B7549F",
+      "title": "Contact problem",
+      "probe_mode": "contact-problem",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-0F5B624039B148B3"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-41F7F608A0268C53",
+          "proposition_id": "prop-3d047025cf556bb634af",
+          "block_sha256": "41f7f608a0268c53937594b36dd755398b9f59de4708b4a37c1aa419ef854d19",
+          "proposition_sha256": "7d8eb15b5ca95a88a61f9fdb8360aab165a2c33bc8b646f791b3346148be363b"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q46"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-13B2667F0A7063E5-426104B70A",
+      "title": "Textual discipline",
+      "probe_mode": "textual-discipline",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-13B2667F0A7063E5"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-B70BE0233A83E767",
+          "proposition_id": "prop-0a438fc66841375de86a",
+          "block_sha256": "b70be0233a83e767b8a682bb270b555403d41815434b4353c0f79e97a6ed44a2",
+          "proposition_sha256": "f9736a6f4345ca478cdf81b142dc8899929119467e00ac069d6a3c813ba68274"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q55"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-14E15A5D7FA10072-D5F817AB9B",
+      "title": "Counting trap",
+      "probe_mode": "counting-trap",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-14E15A5D7FA10072"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-75219E40F4DC7283",
+          "proposition_id": "prop-7210643199e69508b85c",
+          "block_sha256": "75219e40f4dc728375b3d5783f593dbb749480024f4d72faef97cdcfd4f76c1b",
+          "proposition_sha256": "5ff97f3951d302f69805a882e7c20b7412698ae52e5f13ffe9225cefca67784b"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q52"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-15929874F905ACAF-9AC92847D4",
+      "title": "Faculties",
+      "probe_mode": "faculties",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-15929874F905ACAF"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-E20F2A503DF5883C",
+          "proposition_id": "prop-cac57c42622cc684527a",
+          "block_sha256": "e20f2a503df5883cd7fd59d5042009ccc24559bbd4fd6b4a3d9de1756a6dda23",
+          "proposition_sha256": "77f10ae6a6617d3a9c5cf58d0d1b4dda385ded7baf0079ab011d74e9d9511cdd"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q27"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-1DAB471600A734B6-DBA62B07D9",
+      "title": "Jīva distinction",
+      "probe_mode": "jīva-distinction",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-1DAB471600A734B6"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-F2996E89B2D6D13E",
+          "proposition_id": "prop-21bee5777c9f784344e6",
+          "block_sha256": "f2996e89b2d6d13ec08186458ddc50cfd484c19691a7b5101e2a0b30a0d3c379",
+          "proposition_sha256": "1d3e95fe6117d4027597670047d9245d6a879339414c898fa1f75827c87c81a4"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q23"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-29CE4DC1EBAC2E29-0552CC1CC6",
+      "title": "Reduction strategy",
+      "probe_mode": "reduction-strategy",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-29CE4DC1EBAC2E29"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-659467FD3207169D",
+          "proposition_id": "prop-7b7a0a9c0bf9c3d469d5",
+          "block_sha256": "659467fd3207169d53eba87c7d180e9899a19b9ea2b765aca5baf808a83c70c7",
+          "proposition_sha256": "f1567db535029d40854bba6b393e57aa162eabbe613c8db3500ef2707920ef43"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q5"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-2B097DDA5D538D68-67846B8729",
+      "title": "Reflected cognition",
+      "probe_mode": "reflected-cognition",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-2B097DDA5D538D68"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-FF1382F9C3BEED7F",
+          "proposition_id": "prop-ad298bc28d759ecc8666",
+          "block_sha256": "ff1382f9c3beed7f500e65727c8f321096a8f86d655147221af14404fba57464",
+          "proposition_sha256": "b29965f356570bf76365de50d335bfdbd3b28b89fe07e6907edee74f37737776"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q8"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-30D16B4CE07B485C-037CCA0BAA",
+      "title": "Sāttvika branch",
+      "probe_mode": "sāttvika-branch",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-30D16B4CE07B485C"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-46A76807B5F7898A",
+          "proposition_id": "prop-0350933f16a19f9184df",
+          "block_sha256": "46a76807b5f7898ac47f023d84a026dcc5f29f95858949abf763d5cb29506ef5",
+          "proposition_sha256": "bcd28f1a902ff8418e8f9ac4f15d16933fbe97c305dc8218122c071dc75dcc9f"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q28"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-30D16B4CE07B485C-37B8215884",
+      "title": "Elemental sequence",
+      "probe_mode": "elemental-sequence",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-30D16B4CE07B485C"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-46A76807B5F7898A",
+          "proposition_id": "prop-0350933f16a19f9184df",
+          "block_sha256": "46a76807b5f7898ac47f023d84a026dcc5f29f95858949abf763d5cb29506ef5",
+          "proposition_sha256": "bcd28f1a902ff8418e8f9ac4f15d16933fbe97c305dc8218122c071dc75dcc9f"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q58"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-30D16B4CE07B485C-9BEA59F097",
+      "title": "Mahat and buddhi",
+      "probe_mode": "mahat-and-buddhi",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-30D16B4CE07B485C"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-46A76807B5F7898A",
+          "proposition_id": "prop-0350933f16a19f9184df",
+          "block_sha256": "46a76807b5f7898ac47f023d84a026dcc5f29f95858949abf763d5cb29506ef5",
+          "proposition_sha256": "bcd28f1a902ff8418e8f9ac4f15d16933fbe97c305dc8218122c071dc75dcc9f"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q26"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-3905D97C9C0369FF-3E0C81FF4A",
+      "title": "Karma and divine justice",
+      "probe_mode": "karma-justice-dilemma",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-3905D97C9C0369FF"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-FDC3B61484619626",
+          "proposition_id": "prop-ed334f2a17d5ddb91067",
+          "block_sha256": "fdc3b6148461962624f82dc6dc6f64a17365f9074011f3bebef412b36a5e9723",
+          "proposition_sha256": "15da585e1b4f28e10a346a900857e86a37f8b439e9c3beab5aa8213c0d45c9d1"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this promoted atomic argument.",
+      "mapped_question_ids": [
+        "Q71"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-3E90F2C86F9738BE-7BF763D999",
+      "title": "Graded verdict",
+      "probe_mode": "graded-verdict",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-3E90F2C86F9738BE"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-E138E91488B5DFB6",
+          "proposition_id": "prop-236a923c3b58241a38ec",
+          "block_sha256": "e138e91488b5dfb68fbbe50f91ff27adab2a18810ae591ef0229e138cffe2be8",
+          "proposition_sha256": "7540001f2529f1bdd77f4992fd0ecdf8225306e22f587fdfd17deb1b1f89fad7"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q53"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-403F5A63B7812C3D-2359F85E85",
+      "title": "Non-being argument",
+      "probe_mode": "non-being-argument",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-403F5A63B7812C3D"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-E6181B983B354C30",
+          "proposition_id": "prop-7db3970e53b5b8b7c1e4",
+          "block_sha256": "e6181b983b354c308a84956a3b0fbc9b685e8754cc0f8ace1b0d0af10fb37f4b",
+          "proposition_sha256": "b395d8f4d6e68129309850e742e9f55bcd96e5499a6b946297e0fc13560a94cc"
+        }
+      ],
+      "minimum_probes": 2,
+      "extra_probe_justification": "A second independently worded probe is justified because this source proposition contains two separately confusable doctrinal discriminators.",
+      "mapped_question_ids": [
+        "Q34",
+        "Q35"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-435EDC811E3B83F5-18DB96FFFB",
+      "title": "Satkāryavāda thesis",
+      "probe_mode": "satkāryavāda-thesis",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-435EDC811E3B83F5"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-65CBF718F0DB770D",
+          "proposition_id": "prop-4c1fd9c418d760c2e85e",
+          "block_sha256": "65cbf718f0db770db0c8ca137934f8425c41ba4d0246700180d706329129db41",
+          "proposition_sha256": "91d16f21c21e4fa5870bc39469db3747876a703af16d9f0f875f7ce5c901c3ef"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q33"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-44475A24658D5B9C-20BAA6FCE0",
+      "title": "Teleology without deliberation",
+      "probe_mode": "teleology-without-deliberation",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-44475A24658D5B9C"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-7D3BBF6A5B1F7B7A",
+          "proposition_id": "prop-331c46faf54850aa5a56",
+          "block_sha256": "7d3bbf6a5b1f7b7ac6f33be2fc77572a71c28b1dc7984339d4d02179a151fcf9",
+          "proposition_sha256": "a00006e1a0c76ba578b7989b33aa86ca1ea9d5b9760f537096887692a3809399"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q64"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-4649144CE0ED54C1-918318571F",
+      "title": "Non-theism",
+      "probe_mode": "non-theism",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-4649144CE0ED54C1"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-1BE102A367F885B6",
+          "proposition_id": "prop-5599eb6597db2dfffc05",
+          "block_sha256": "1be102a367f885b6f085d79e1ae506f7a59b056a35b75b63e841123543f1d8a1",
+          "proposition_sha256": "a49ea60a3e933d2336b37c35c8b3cd0e41726a623ed73f8a915fdb076325275f"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q45"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-4C93189DBB115B7E-BEB98962A8",
+      "title": "Tāmasa branch",
+      "probe_mode": "tāmasa-branch",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-4C93189DBB115B7E"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-A90F79D1C1923EB1",
+          "proposition_id": "prop-85dc9d5278d7c3562d0a",
+          "block_sha256": "a90f79d1c1923eb1130a14962b8ed8bc9257e2402e25efc65b1cc8bc7336a44c",
+          "proposition_sha256": "046f3a700712503d37ed8dccd6456cb3d54dc877852c1ccd6087ce79fa7df3d7"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q29"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-4D57A7DF23232B76-42E0275F6D",
+      "title": "Subtle body",
+      "probe_mode": "subtle-body",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-4D57A7DF23232B76"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-D30BE5900F82626E",
+          "proposition_id": "prop-f52d8857b866fad92301",
+          "block_sha256": "d30be5900f82626e1496c0951d3f901ab59b97c80c89f234a89387b0c957a23f",
+          "proposition_sha256": "2b0c16a0e1e349508eade38b13ffa5786dd0a96aac5a859826b9ca6598bc1285"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q32"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-4FEA72017330BC36-43136A6B3D",
+      "title": "Equilibrium",
+      "probe_mode": "equilibrium",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-4FEA72017330BC36"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-DFDBCB2DA8CB0F73",
+          "proposition_id": "prop-84dd8c4455be01480d35",
+          "block_sha256": "dfdbcb2da8cb0f73dfe2bd333af19f2da6ef8d53bffb67480a0b39c473f6195c",
+          "proposition_sha256": "ee13467c41404503f1d7b6560f1662eca83107be263d82e8dbd722539e31bddd"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q15"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-521E227998BFB7C2+SK-OBL-23BB2D7DC415FC53-AEB1B1FE9D",
+      "title": "Analogy functions",
+      "probe_mode": "analogy-functions",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-521E227998BFB7C2",
+        "SK-OBL-23BB2D7DC415FC53"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-1BE102A367F885B6",
+          "proposition_id": "prop-05d28840ed6a07aeca09",
+          "block_sha256": "1be102a367f885b6f085d79e1ae506f7a59b056a35b75b63e841123543f1d8a1",
+          "proposition_sha256": "492f3c91b3ce6902f6f8875f98315051142b99b8a3ca571a9a3dd439ddc3647c"
+        },
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-1BE102A367F885B6",
+          "proposition_id": "prop-1840c99044751f5a7e4c",
+          "block_sha256": "1be102a367f885b6f085d79e1ae506f7a59b056a35b75b63e841123543f1d8a1",
+          "proposition_sha256": "462a0c7f6f2e75f3e9a641f383f7b62af7e5170a994ef72d0e143acc546d2f45"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One paired probe is justified because the source gives two explicitly contrasted analogy-functions and the question tests that pairing.",
+      "mapped_question_ids": [
+        "Q43"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-53E3ECA18159A98B-9889660CD3",
+      "title": "Inferential reach",
+      "probe_mode": "inferential-reach",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-53E3ECA18159A98B"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-D88128EDC9B3F0AA",
+          "proposition_id": "prop-3b5e3ce2e150a6fc2e8d",
+          "block_sha256": "d88128edc9b3f0aa90e693ecd74fe44e72bd4060cef7545e65379a57b4a2d08e",
+          "proposition_sha256": "cff31e856e15211e53a873c6a8e06967d775d3a78092a4b8eec5a3f6ec797d1b"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q60"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-58978F55C0E3EBB0-2C42010936",
+      "title": "Individuation objection",
+      "probe_mode": "individuation-objection",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-58978F55C0E3EBB0"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-0D9B6DBB522EDFB7",
+          "proposition_id": "prop-dee97265ae0175ba968d",
+          "block_sha256": "0d9b6dbb522edfb7f9ccea81e9fa18d58a2e91d0b70328a59eaf6e899edc26d2",
+          "proposition_sha256": "3de8c1a4836471a887cf20abab52e08c20bfd57871bf921ae5e71a84c68b6d0c"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q21"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-5F72F7BED7CFF814-FF1695A634",
+      "title": "Nature of Puruṣa",
+      "probe_mode": "nature-of-puruṣa",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-5F72F7BED7CFF814"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-D30BE5900F82626E",
+          "proposition_id": "prop-7a387509b2febd0825df",
+          "block_sha256": "d30be5900f82626e1496c0951d3f901ab59b97c80c89f234a89387b0c957a23f",
+          "proposition_sha256": "67ccde112e631a745b68ac03264c0b36b910a5ab5690b97944bbd74976eaa848"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q17"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-60550F4BFDFED9EF-6347EE921D",
+      "title": "Kaivalya",
+      "probe_mode": "kaivalya",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-60550F4BFDFED9EF"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-7E47F5B00C21D56D",
+          "proposition_id": "prop-500c895616855db806ed",
+          "block_sha256": "7e47f5b00c21d56d050a39942a31f01a082f4ac2caf21cc9ed928edc2727d2bb",
+          "proposition_sha256": "34b4b5808f66c2bb2e586e7b3ee3cd52eb27e287caedec2faf660c9f08bcec75"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q42"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-6145EFED25E8C6E9-7AC4E70974",
+      "title": "Unseen ultimates",
+      "probe_mode": "unseen-ultimates",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-6145EFED25E8C6E9"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-FF1382F9C3BEED7F",
+          "proposition_id": "prop-ac4b5ea0111e2aba7d56",
+          "block_sha256": "ff1382f9c3beed7f500e65727c8f321096a8f86d655147221af14404fba57464",
+          "proposition_sha256": "ce141356f255976cc12739912c17885bfbcad53a6cd2d63672db49879bb12e02"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q6"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-69F35D82FE3BC5AD-C1A2CC3843",
+      "title": "Nyāya contrast",
+      "probe_mode": "nyāya-contrast",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-69F35D82FE3BC5AD"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-BA97C7890274871F",
+          "proposition_id": "prop-88e2b4423b520001baca",
+          "block_sha256": "ba97c7890274871f6f2c68310ec2b066374c32a7e5c6422a7de732a88dcc9856",
+          "proposition_sha256": "6ad147af971c3816e156df3f687d88ab9f5d37e3c1a926edf5d39adb0d0fb19b"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q37"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-7488DD9C7AC2B1E5-FCC919D273",
+      "title": "Divine motive dilemma",
+      "probe_mode": "divine-motive-dilemma",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-7488DD9C7AC2B1E5"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-FDC3B61484619626",
+          "proposition_id": "prop-925035fb4c9ad50dd7d0",
+          "block_sha256": "fdc3b6148461962624f82dc6dc6f64a17365f9074011f3bebef412b36a5e9723",
+          "proposition_sha256": "4137874ca20cd6e2f2ea93f3b575acdeaaf78454c43fde6c52e3dad390f15002"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this promoted atomic argument.",
+      "mapped_question_ids": [
+        "Q69"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-78713E24CD9962E4-C1115003F8",
+      "title": "Proofs for Puruṣa",
+      "probe_mode": "proofs-for-puruṣa",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-78713E24CD9962E4"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-8DF146D23DD282B6",
+          "proposition_id": "prop-ddd1baacb45add90c53b",
+          "block_sha256": "8df146d23dd282b687e64e57e77abb3447ceea96186bcec2895c868a28c772dd",
+          "proposition_sha256": "b98fb036ac17189d5fa461d4a93f5fe6d7ad0345afd1678f4dcc0f7995322584"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q18"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-7ADCAB699559AD84-9D107F1811",
+      "title": "Inference taxonomy",
+      "probe_mode": "inference-taxonomy",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-7ADCAB699559AD84"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-E359653965C1AD51",
+          "proposition_id": "prop-e7da68d136f1dfd4a404",
+          "block_sha256": "e359653965c1ad51fa1aeb68f0c2a43c72a1eb2c9c56e2d02f3c95dfde709d75",
+          "proposition_sha256": "e5705cc51c727b5fddbd720ce42701465e2b43404b4d2ec6250c5b9afff9a73f"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q4"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-7B46EDF0D1A6ACE3-51931D866F",
+      "title": "Latent effect",
+      "probe_mode": "latent-effect",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-7B46EDF0D1A6ACE3"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-E6181B983B354C30",
+          "proposition_id": "prop-fbbe6e5922a3b1ab6887",
+          "block_sha256": "e6181b983b354c308a84956a3b0fbc9b685e8754cc0f8ace1b0d0af10fb37f4b",
+          "proposition_sha256": "e09290adb05dc8c228d3e7b369f6342ee5d42d161ee99d875385d95d7ebbe6cd"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q61"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-7ECF0334EE341E5E-9547AAF1FB",
+      "title": "Controlled application",
+      "probe_mode": "controlled-application",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-7ECF0334EE341E5E"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-B35DCFEDFCB6145C",
+          "proposition_id": "prop-02df06ca51419ebb8a15",
+          "block_sha256": "b35dcfedfcb6145cc21eaab8827c989c79be532bfceb2edf49f86ac67f766552",
+          "proposition_sha256": "126302b6960eaf426d40b0b26fb405bc8dbb70e1cbb2f9daae9c5ac1314b7270"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q67"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-84A881C5F9CB557F-669C5FAE38",
+      "title": "Limits of ordinary remedies",
+      "probe_mode": "limits-of-ordinary-remedies",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-84A881C5F9CB557F"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-F1AA717567D5EAC0",
+          "proposition_id": "prop-ecd2c5f351186af40dd1",
+          "block_sha256": "f1aa717567d5eac01c108609f47338d12b12103c606eabfb2f75b9e2ccef6801",
+          "proposition_sha256": "3a45143fe90890fe3b7a304d6c3b53c357aa47e640510c3ab037312978b80a0f"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q54"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-869118FA67B57B9D-AAB43C0F52",
+      "title": "Disconnected sources and cosmic unity",
+      "probe_mode": "disconnected-source-unity",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-869118FA67B57B9D"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-411D0BB7C68290BB",
+          "proposition_id": "prop-89e2d1b23a4f02f3c18c",
+          "block_sha256": "411d0bb7c68290bbd029b18cab43fa10e42b1fd08fc8e593244624d10788c5bf",
+          "proposition_sha256": "29240151e312df087cb480988646a7551412da6a5cadb02be53318f72a1d988b"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this promoted atomic inference.",
+      "mapped_question_ids": [
+        "Q74"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-87B1BBFDB338731A-9EA68047E9",
+      "title": "Rājasa role",
+      "probe_mode": "rājasa-role",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-87B1BBFDB338731A"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-2A4BE89443571715",
+          "proposition_id": "prop-ac1df0bc2404dd1fe083",
+          "block_sha256": "2a4be89443571715c843f1ad2ebf30e0dd74c469f3711107c190615db4406cce",
+          "proposition_sha256": "15f1596989b558a19cd1c4fa7058d69e35770a31990a9fff43bddd64944607da"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q30"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-8A60EA5F0D67F225-FDFE9FE90F",
+      "title": "Split demand",
+      "probe_mode": "split-demand",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-8A60EA5F0D67F225"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-46A76807B5F7898A",
+          "proposition_id": "prop-b4123f8fbc4064bd8014",
+          "block_sha256": "46a76807b5f7898ac47f023d84a026dcc5f29f95858949abf763d5cb29506ef5",
+          "proposition_sha256": "369eea29f23a4d78d3ee686b009657c33d114203dc4dd3748e06769bffb84d2f"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q66"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-9E84F032C381BFDA-51257AD491",
+      "title": "Prakṛti proof cluster",
+      "probe_mode": "prakṛti-proof-cluster",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-9E84F032C381BFDA"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-F094D41E5FBF37F8",
+          "proposition_id": "prop-9243b1e8ae919506cdce",
+          "block_sha256": "f094d41e5fbf37f8736be76fcb9d4a4b7f6a1352e54db80621fbe7031f8d2ab9",
+          "proposition_sha256": "978b6575dc1e19b20fe14190959c06f27b3d7e7bccdaa080ab7bf6d6130e050d"
+        }
+      ],
+      "minimum_probes": 2,
+      "extra_probe_justification": "A second independently worded probe is justified because this source proposition contains two separately confusable doctrinal discriminators.",
+      "mapped_question_ids": [
+        "Q10",
+        "Q11"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-9E84F032C381BFDA-69294F2846",
+      "title": "Unity of Prakṛti",
+      "probe_mode": "unity-of-prakṛti",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-9E84F032C381BFDA"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-F094D41E5FBF37F8",
+          "proposition_id": "prop-9243b1e8ae919506cdce",
+          "block_sha256": "f094d41e5fbf37f8736be76fcb9d4a4b7f6a1352e54db80621fbe7031f8d2ab9",
+          "proposition_sha256": "978b6575dc1e19b20fe14190959c06f27b3d7e7bccdaa080ab7bf6d6130e050d"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q12"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-9E84F032C381BFDA-CFF5A26659",
+      "title": "Proof-job control",
+      "probe_mode": "proof-job-control",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-9E84F032C381BFDA"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-F094D41E5FBF37F8",
+          "proposition_id": "prop-9243b1e8ae919506cdce",
+          "block_sha256": "f094d41e5fbf37f8736be76fcb9d4a4b7f6a1352e54db80621fbe7031f8d2ab9",
+          "proposition_sha256": "978b6575dc1e19b20fe14190959c06f27b3d7e7bccdaa080ab7bf6d6130e050d"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q59"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-A0D0F8BFFE0A59E7-A2D3FCD68F",
+      "title": "Bondage",
+      "probe_mode": "bondage",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-A0D0F8BFFE0A59E7"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-7AC5C913BFA56FB4",
+          "proposition_id": "prop-68958830720a272ad38c",
+          "block_sha256": "7ac5c913bfa56fb4690163099cf4210da072583591e084aceaaa13ccabda682f",
+          "proposition_sha256": "03366ad05e7fc782e9ea1626f7fb750aebdf1af25ef4ed0cbdcfc66bbf89b3c6"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q41"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-A138A129E08B4CD6-87FBCE2EFD",
+      "title": "Imperceptibility and subtlety",
+      "probe_mode": "imperceptibility-subtlety",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-A138A129E08B4CD6"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-54AEE49A7C9F497A",
+          "proposition_id": "prop-ebf1cd762bf6791adc7c",
+          "block_sha256": "54aee49a7c9f497a8b02be83bac9da6d507b2c4c88045f171bedfa23c66334e0",
+          "proposition_sha256": "71150c1848560a6588427663cfa9d3c88a573817ee4ee03e059020c8000d59ef"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q68"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-A489143CF9EE3AF9-EB37BBE9D0",
+      "title": "Retrieval spine",
+      "probe_mode": "retrieval-spine",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-A489143CF9EE3AF9"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-C5004989ADFEDC22",
+          "proposition_id": "prop-975dec7d9e4d6c92cab6",
+          "block_sha256": "c5004989adfedc22c64e284e2ac37fc758303c8d20df2ebe77032a537aa82b35",
+          "proposition_sha256": "8329ba9cf391ac0e83685de522833454b6bebbf4fade7fb06dd76acd71f6e723"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q65"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-A5DD1CA65B76514C-F5728A73F3",
+      "title": "Buddhist contrast",
+      "probe_mode": "buddhist-contrast",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-A5DD1CA65B76514C"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-BCC2B5CF165734F0",
+          "proposition_id": "prop-55635b7afa3085f28f2d",
+          "block_sha256": "bcc2b5cf165734f03adabfcfe452e45839c24a8f6bf2091c4be62dda045179dc",
+          "proposition_sha256": "6ad16080f24ef4d251b7f19a92c5967172407e55b3668869e97ae1399a7ef8af"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q39"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-AA0485A0C9C30EAE-E1887FE32C",
+      "title": "Names of the root",
+      "probe_mode": "names-of-the-root",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-AA0485A0C9C30EAE"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-713CA67A9F4D7160",
+          "proposition_id": "prop-768eef9b234fb90f60e5",
+          "block_sha256": "713ca67a9f4d7160147c723647969778277e1306ad9ea7d0cf0dfbe1f4f8c321",
+          "proposition_sha256": "c560f50840679621e3584e632f3b19752352fb8889e02703c2f027163ef07298"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q9"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-B61AD2D8F9D398A9-753FFA779A",
+      "title": "Instrument complex",
+      "probe_mode": "instrument-complex",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-B61AD2D8F9D398A9"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-707A7F9AE33F96F7",
+          "proposition_id": "prop-0e049a8772b4ffe47c5b",
+          "block_sha256": "707a7f9ae33f96f74f5adff86a02c14c9465869feb8f9eeb0cd052551860b201",
+          "proposition_sha256": "6e0c74d79b9ad836d7f598195fa4023e4e6d3579c26d17f5def1381de3aab059"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q7"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-B89B1A81E01FAFAC-DB9FF617E6",
+      "title": "Real transformation",
+      "probe_mode": "real-transformation",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-B89B1A81E01FAFAC"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-2ECF901F1E5D0AFD",
+          "proposition_id": "prop-f6b25f58c71d52c15e12",
+          "block_sha256": "2ecf901f1e5d0afd7dcb96883e91491e74dea364b24e83b230feb5de64093513",
+          "proposition_sha256": "7cef74694d65f76068d5f7eea8bc562d057a3933a0c0536686e0f23a31e93713"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q36"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-BC05A70C7585A899-BD8C14A5E8",
+      "title": "Three pains",
+      "probe_mode": "three-pains",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-BC05A70C7585A899"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-B6547BD82E7EF859",
+          "proposition_id": "prop-962cfefd99e45b33621e",
+          "block_sha256": "b6547bd82e7ef859ccaa8fef64d0190a1ebba334e12225b58b2f088cb0a60a28",
+          "proposition_sha256": "b54aa23158fbc4ee066cd5ab4e1c6b1337f1066bd33ee3bf0f8b1bacd0f308bf"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q40"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-C12754F8D762BE72-01EB57CBE2",
+      "title": "Yoga boundary",
+      "probe_mode": "yoga-boundary",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-C12754F8D762BE72"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-3804436224494A7F",
+          "proposition_id": "prop-338d6cd09d33c65e657e",
+          "block_sha256": "3804436224494a7f68954c3cf2a582af31f75b471e1a26df7d0a680d0df06c3a",
+          "proposition_sha256": "4ff172f119f649718804aeb5a7d81aa34087374c9d6fab9e279bf12ffb0c6082"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q51"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-C17605EAF89C5F84-341F40C8E8",
+      "title": "Nyāya pressure",
+      "probe_mode": "nyāya-pressure",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-C17605EAF89C5F84"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-38CF27382D351A08",
+          "proposition_id": "prop-e163aa5aebc2f2525b1b",
+          "block_sha256": "38cf27382d351a0840e6ec4e5c096e49253c41a9fede2935b0e31fa05b3ae214",
+          "proposition_sha256": "19d47eee4277655e734e6b68ab0f54e0269882fc5389c8800caab13372326fe9"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q49"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-C19CBEFB0514A647-455934D072",
+      "title": "Plurality basis",
+      "probe_mode": "plurality-basis",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-C19CBEFB0514A647"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-1FDC946F61463B6D",
+          "proposition_id": "prop-570438b684642d2078ab",
+          "block_sha256": "1fdc946f61463b6d6b387bb76f907c0ed38b42906dc8201db3598720895a4a61",
+          "proposition_sha256": "707d638b8c325c466e70026429fb1c51303317e0bcceb3195d38f5e36a5e8748"
+        }
+      ],
+      "minimum_probes": 2,
+      "extra_probe_justification": "A second independently worded probe is justified because this source proposition contains two separately confusable doctrinal discriminators.",
+      "mapped_question_ids": [
+        "Q19",
+        "Q20"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-C20050FFAA363C0C-6CC7E3152D",
+      "title": "Fulfilled deity and creation",
+      "probe_mode": "fulfilled-deity-motive",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-C20050FFAA363C0C"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-FDC3B61484619626",
+          "proposition_id": "prop-934ec45118003204c48c",
+          "block_sha256": "fdc3b6148461962624f82dc6dc6f64a17365f9074011f3bebef412b36a5e9723",
+          "proposition_sha256": "4bea314b91daa3290989928bada5a6da0fbe527473d040b098d6f6bf5b76b010"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this promoted atomic argument.",
+      "mapped_question_ids": [
+        "Q70"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-C28F21FFE4806B6F-55654442A0",
+      "title": "Immutable deity as material cause",
+      "probe_mode": "immutable-material-cause",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-C28F21FFE4806B6F"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-FDC3B61484619626",
+          "proposition_id": "prop-132302d47b4a8ba52ecf",
+          "block_sha256": "fdc3b6148461962624f82dc6dc6f64a17365f9074011f3bebef412b36a5e9723",
+          "proposition_sha256": "2bc0e7368163d2370475a9daee8e1d25e3662515f48754b863ab639b583116b0"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this promoted atomic argument.",
+      "mapped_question_ids": [
+        "Q72"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-D395EB13CA7AB006-B49C6823AC",
+      "title": "Teleology",
+      "probe_mode": "teleology",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-D395EB13CA7AB006"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-53FB3996220AF512",
+          "proposition_id": "prop-359d97f172f770d1b820",
+          "block_sha256": "53fb3996220af512cdef4b73fd767ece3bb28a83452ef72b89507fad8c94ca36",
+          "proposition_sha256": "a85b487ac5fb2ad2d5c1aeb9f05d1f67adf44cdf8a48e9673e83d90e93d96880"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q22"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-D54D832C31CFC95F-9A4DCE6522",
+      "title": "Two liberation stages",
+      "probe_mode": "two-liberation-stages",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-D54D832C31CFC95F"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-1BE102A367F885B6",
+          "proposition_id": "prop-b1db3f036d39090638d8",
+          "block_sha256": "1be102a367f885b6f085d79e1ae506f7a59b056a35b75b63e841123543f1d8a1",
+          "proposition_sha256": "95f9d61a29239207c9c608722ea8299f84f8c53569f601b18d4e568d5b009d93"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q44"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-D586739279BBF0E6-15CB6AB642",
+      "title": "Eight dispositions",
+      "probe_mode": "eight-dispositions",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-D586739279BBF0E6"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-048D425A983AACEA",
+          "proposition_id": "prop-f22a9a7576f86c89bf9e",
+          "block_sha256": "048d425a983aacea0773811bfd8cdd17d3151d0eee2d7e17e6708800bfca0165",
+          "proposition_sha256": "a85a48073c90c2b43309dd73abfc9823c2083a200b8f318f294bf5435062c046"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q56"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-D8B4BFA1D8050C80-0994AF2FCB",
+      "title": "Buddhist pressure",
+      "probe_mode": "buddhist-pressure",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-D8B4BFA1D8050C80"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-AD48488173F90607",
+          "proposition_id": "prop-41eceb7b09e5e287962f",
+          "block_sha256": "ad48488173f906075e7f92b99019a4221a12a4c2bdbd38d65dd651bf896e7605",
+          "proposition_sha256": "02e2210c50d295be52e8d4ae91cc5564299e6e8bc399c4a5964c38c847f8f02e"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q50"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-D9381E75FBF3DFE3-C039837506",
+      "title": "Meaning of proximity",
+      "probe_mode": "meaning-of-proximity",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-D9381E75FBF3DFE3"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-E138E91488B5DFB6",
+          "proposition_id": "prop-aaa62cd75af9de258605",
+          "block_sha256": "e138e91488b5dfb68fbbe50f91ff27adab2a18810ae591ef0229e138cffe2be8",
+          "proposition_sha256": "79e2a55e53852b3d63086faea9817068f476c2daf8671a76b506d8901cff3c0f"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q63"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-DAF6FA8F4C8A3882-1C2BEBCD53",
+      "title": "Pramāṇa count",
+      "probe_mode": "pramāṇa-count",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-DAF6FA8F4C8A3882"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-FF1382F9C3BEED7F",
+          "proposition_id": "prop-edc4e6b2782682c32797",
+          "block_sha256": "ff1382f9c3beed7f500e65727c8f321096a8f86d655147221af14404fba57464",
+          "proposition_sha256": "9d4625d65f496596bf41e7b6e6056d3c082bb171f68f4516e6dddac58b4ebb7f"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q2"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-DBD02789BBD152A5-B4F0E1832E",
+      "title": "Perception definition",
+      "probe_mode": "perception-definition",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-DBD02789BBD152A5"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-3FDB2B42B7FCD552",
+          "proposition_id": "prop-cab94054285e307e7205",
+          "block_sha256": "3fdb2b42b7fcd552530cf39ad2f8190b46cc8eb7257d94aca4f13559b3a1d8f1",
+          "proposition_sha256": "f78e2eb64dfc06ee35295480fba941a94c77f490e5c0e7359a55a322a84a4aca"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q3"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-DCDF9BD867066798-E73D967637",
+      "title": "Causal classes",
+      "probe_mode": "causal-classes",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-DCDF9BD867066798"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-6078915A28F6FCF7",
+          "proposition_id": "prop-e6be7cfcf0bae8ed205e",
+          "block_sha256": "6078915a28f6fcf710bdb743bb662a7c1f984e041b882153a07b8aca3105aec3",
+          "proposition_sha256": "557b9eda1f97bf89fc54895c594210edcceafbd70033d52d8c66fd69a76966a1"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q31"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-E3813818A22E3E8A-AB31104629",
+      "title": "Evolution opening",
+      "probe_mode": "evolution-opening",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-E3813818A22E3E8A"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-D2789F85D6E84E04",
+          "proposition_id": "prop-efc3a28ff2ac9cf2e816",
+          "block_sha256": "d2789f85d6e84e0417719a512efd9187100e77fb4faa71e2f89af4f757d4555b",
+          "proposition_sha256": "4681aba00bc7aba18b15334401a1fce42c8059c76ced3116b8a935d1db8f090f"
+        }
+      ],
+      "minimum_probes": 2,
+      "extra_probe_justification": "A second independently worded probe is justified because this source proposition contains two separately confusable doctrinal discriminators.",
+      "mapped_question_ids": [
+        "Q24",
+        "Q25"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-E579375318097F14-B13773F04B",
+      "title": "Subtle-body count",
+      "probe_mode": "subtle-body-count",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-E579375318097F14"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-E4BBD7CFD8FC1B6C",
+          "proposition_id": "prop-e7b08019d18442642dc3",
+          "block_sha256": "e4bbd7cfd8fc1b6c577a988dfbb8120881cd890a3575d3b83ce2583581216154",
+          "proposition_sha256": "196c53204d4002d4906fd98be8798fc2b241939b93fad7eefaef8194654ce45d"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q57"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-E66F2DF8908C64C6-17683B7F8F",
+      "title": "Classical source control",
+      "probe_mode": "classical-source-control",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-E66F2DF8908C64C6"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-C18B18F396453DE3",
+          "proposition_id": "prop-632f48936043efdf32ad",
+          "block_sha256": "c18b18f396453de3babec27fce3131a13f8a0ebaf321783a4bb379a80fbb588c",
+          "proposition_sha256": "daf99f434938e95ed776e09ccb63a694816939830e43f0a5a9f05f981895aa83"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q1"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-EC2E1D83E6255698-A1369208DE",
+      "title": "Advaita contrast",
+      "probe_mode": "advaita-contrast",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-EC2E1D83E6255698"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-E138E91488B5DFB6",
+          "proposition_id": "prop-913deb9915adb6e7c6a7",
+          "block_sha256": "e138e91488b5dfb68fbbe50f91ff27adab2a18810ae591ef0229e138cffe2be8",
+          "proposition_sha256": "e3120da5b03318c502b7d54b9b6f9de520ca62ce9beb514bfe68f3e12dc099b4"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q38"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-EE45F00DC6F86C9B-F6842982C5",
+      "title": "Śaṅkara’s challenge",
+      "probe_mode": "śaṅkara’s-challenge",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-EE45F00DC6F86C9B"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-779A8DA39286B9C1",
+          "proposition_id": "prop-644261df007cd5a2e2f1",
+          "block_sha256": "779a8da39286b9c198d3511d197fcd36747e234be56ee34a612f7d208a03933c",
+          "proposition_sha256": "b42dbfb9a7eaf1aa94ad96313d23513360b1861a2ddd9d866748cfc31da716f9"
+        }
+      ],
+      "minimum_probes": 2,
+      "extra_probe_justification": "A second independently worded probe is justified because this source proposition contains two separately confusable doctrinal discriminators.",
+      "mapped_question_ids": [
+        "Q47",
+        "Q48"
+      ],
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "SK-CELL-F7B7A940C3A74F6F-BD4C5F14F1",
+      "title": "Isolation diagnostic",
+      "probe_mode": "isolation-diagnostic",
+      "derivation": "post_classification_obligation_plus_probe_mode",
+      "obligation_ids": [
+        "SK-OBL-F7B7A940C3A74F6F"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-5A5F10C2F59E6415",
+          "proposition_id": "prop-890604ac76166f1d1566",
+          "block_sha256": "5a5f10c2f59e6415de57800922af93ab6c3c8cbe9a7b4bfcf64dee811dd91aa7",
+          "proposition_sha256": "bb1fb595dc0fb7fc6f6001e210ae459c783dbcd933bceb4cf92150cb2ae127f4"
+        }
+      ],
+      "minimum_probes": 1,
+      "extra_probe_justification": "One direct probe is sufficient for this atomic discriminator.",
+      "mapped_question_ids": [
+        "Q62"
+      ],
+      "coverage_status": "covered"
+    }
+  ],
+  "question_mappings": [
+    {
+      "question_id": "Q1",
+      "cell_id": "SK-CELL-E66F2DF8908C64C6-17683B7F8F",
+      "obligation_ids": [
+        "SK-OBL-E66F2DF8908C64C6"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-C18B18F396453DE3",
+          "proposition_id": "prop-632f48936043efdf32ad",
+          "block_sha256": "c18b18f396453de3babec27fce3131a13f8a0ebaf321783a4bb379a80fbb588c",
+          "proposition_sha256": "daf99f434938e95ed776e09ccb63a694816939830e43f0a5a9f05f981895aa83"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-E66F2DF8908C64C6",
+          "doctrine_specific_terms": [
+            "sāṃkhyakārikā",
+            "īśvarakṛṣṇa",
+            "systematic",
+            "classical",
+            "earliest",
+            "extant",
+            "text"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "7a92c10b5441d874a6bac236f65fd8cd8b5b0e3e2832076758022ddeac4ac919"
+    },
+    {
+      "question_id": "Q2",
+      "cell_id": "SK-CELL-DAF6FA8F4C8A3882-1C2BEBCD53",
+      "obligation_ids": [
+        "SK-OBL-DAF6FA8F4C8A3882"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-FF1382F9C3BEED7F",
+          "proposition_id": "prop-edc4e6b2782682c32797",
+          "block_sha256": "ff1382f9c3beed7f500e65727c8f321096a8f86d655147221af14404fba57464",
+          "proposition_sha256": "9d4625d65f496596bf41e7b6e6056d3c082bb171f68f4516e6dddac58b4ebb7f"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-DAF6FA8F4C8A3882",
+          "doctrine_specific_terms": [
+            "perception",
+            "inference",
+            "testimony",
+            "pramāṇas",
+            "reliable",
+            "pramāṇa",
+            "sāṃkhya",
+            "three"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "f8513bb34856ab24731d8e4bbb20790cfc5bcd1ed42ab042809fa9a76301192a"
+    },
+    {
+      "question_id": "Q3",
+      "cell_id": "SK-CELL-DBD02789BBD152A5-B4F0E1832E",
+      "obligation_ids": [
+        "SK-OBL-DBD02789BBD152A5"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-3FDB2B42B7FCD552",
+          "proposition_id": "prop-cab94054285e307e7205",
+          "block_sha256": "3fdb2b42b7fcd552530cf39ad2f8190b46cc8eb7257d94aca4f13559b3a1d8f1",
+          "proposition_sha256": "f78e2eb64dfc06ee35295480fba941a94c77f490e5c0e7359a55a322a84a4aca"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-DBD02789BBD152A5",
+          "doctrine_specific_terms": [
+            "prativiṣayādhyavasāya",
+            "ascertainment",
+            "perception",
+            "presented",
+            "object"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "e570a81b561f0b2a98304dff4bc28af9a8f5ebce02cf5606a5caa32d73b25fdc"
+    },
+    {
+      "question_id": "Q4",
+      "cell_id": "SK-CELL-7ADCAB699559AD84-9D107F1811",
+      "obligation_ids": [
+        "SK-OBL-7ADCAB699559AD84"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-E359653965C1AD51",
+          "proposition_id": "prop-e7da68d136f1dfd4a404",
+          "block_sha256": "e359653965c1ad51fa1aeb68f0c2a43c72a1eb2c9c56e2d02f3c95dfde709d75",
+          "proposition_sha256": "e5705cc51c727b5fddbd720ce42701465e2b43404b4d2ec6250c5b9afff9a73f"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-7ADCAB699559AD84",
+          "doctrine_specific_terms": [
+            "correlation",
+            "inference",
+            "sāmānyato",
+            "pūrvavat",
+            "general",
+            "śeṣavat",
+            "effect",
+            "cause"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "d54f4ddff309b817c168fdcb40fb63bc8ef20d198bdd0359714af6fc3cd2fb86"
+    },
+    {
+      "question_id": "Q5",
+      "cell_id": "SK-CELL-29CE4DC1EBAC2E29-0552CC1CC6",
+      "obligation_ids": [
+        "SK-OBL-29CE4DC1EBAC2E29"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-659467FD3207169D",
+          "proposition_id": "prop-7b7a0a9c0bf9c3d469d5",
+          "block_sha256": "659467fd3207169d53eba87c7d180e9899a19b9ea2b765aca5baf808a83c70c7",
+          "proposition_sha256": "f1567db535029d40854bba6b393e57aa162eabbe613c8db3500ef2707920ef43"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-29CE4DC1EBAC2E29",
+          "doctrine_specific_terms": [
+            "postulation",
+            "inference",
+            "reduces",
+            "sāṃkhya",
+            "rather",
+            "than"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "c8e9af394904750c9aa9fc6af0e283c18d9ff76c2003ebdf26eaa1239c490bbd"
+    },
+    {
+      "question_id": "Q6",
+      "cell_id": "SK-CELL-6145EFED25E8C6E9-7AC4E70974",
+      "obligation_ids": [
+        "SK-OBL-6145EFED25E8C6E9"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-FF1382F9C3BEED7F",
+          "proposition_id": "prop-ac4b5ea0111e2aba7d56",
+          "block_sha256": "ff1382f9c3beed7f500e65727c8f321096a8f86d655147221af14404fba57464",
+          "proposition_sha256": "ce141356f255976cc12739912c17885bfbcad53a6cd2d63672db49879bb12e02"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-6145EFED25E8C6E9",
+          "doctrine_specific_terms": [
+            "imperceptible",
+            "inference",
+            "sāmānyato",
+            "general",
+            "prakṛti",
+            "dṛṣṭa"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "0fab9fd8e01f467876224128bb4f4063b2e5223299c9325f320e6b00ea40deb4"
+    },
+    {
+      "question_id": "Q7",
+      "cell_id": "SK-CELL-B61AD2D8F9D398A9-753FFA779A",
+      "obligation_ids": [
+        "SK-OBL-B61AD2D8F9D398A9"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-707A7F9AE33F96F7",
+          "proposition_id": "prop-0e049a8772b4ffe47c5b",
+          "block_sha256": "707a7f9ae33f96f74f5adff86a02c14c9465869feb8f9eeb0cd052551860b201",
+          "proposition_sha256": "6e0c74d79b9ad836d7f598195fa4023e4e6d3579c26d17f5def1381de3aab059"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-B61AD2D8F9D398A9",
+          "doctrine_specific_terms": [
+            "appropriates",
+            "coordinates",
+            "determines",
+            "ahaṃkāra",
+            "buddhi",
+            "manas"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "bc2cc00960fd6437f293258222b4f8ef136d7fd3e3b4c99cfae9106efa5b5cb1"
+    },
+    {
+      "question_id": "Q8",
+      "cell_id": "SK-CELL-2B097DDA5D538D68-67846B8729",
+      "obligation_ids": [
+        "SK-OBL-2B097DDA5D538D68"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-FF1382F9C3BEED7F",
+          "proposition_id": "prop-ad298bc28d759ecc8666",
+          "block_sha256": "ff1382f9c3beed7f500e65727c8f321096a8f86d655147221af14404fba57464",
+          "proposition_sha256": "b29965f356570bf76365de50d335bfdbd3b28b89fe07e6907edee74f37737776"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-2B097DDA5D538D68",
+          "doctrine_specific_terms": [
+            "reflection",
+            "cognition",
+            "conscious",
+            "appear",
+            "buddhi",
+            "puruṣa"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "a2ad2564d20fbea02b6e4bf295a2362043821e80dc579e13325a626452f29933"
+    },
+    {
+      "question_id": "Q9",
+      "cell_id": "SK-CELL-AA0485A0C9C30EAE-E1887FE32C",
+      "obligation_ids": [
+        "SK-OBL-AA0485A0C9C30EAE"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-713CA67A9F4D7160",
+          "proposition_id": "prop-768eef9b234fb90f60e5",
+          "block_sha256": "713ca67a9f4d7160147c723647969778277e1306ad9ea7d0cf0dfbe1f4f8c321",
+          "proposition_sha256": "c560f50840679621e3584e632f3b19752352fb8889e02703c2f027163ef07298"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-AA0485A0C9C30EAE",
+          "doctrine_specific_terms": [
+            "unmanifest",
+            "material",
+            "pradhāna",
+            "avyakta",
+            "prakṛti",
+            "called"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "efc4e3270f61bdd46e1f2d3e5e5c1fa2a030c9605c3e5c335b0ef6d7873de793"
+    },
+    {
+      "question_id": "Q10",
+      "cell_id": "SK-CELL-9E84F032C381BFDA-51257AD491",
+      "obligation_ids": [
+        "SK-OBL-9E84F032C381BFDA"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-F094D41E5FBF37F8",
+          "proposition_id": "prop-9243b1e8ae919506cdce",
+          "block_sha256": "f094d41e5fbf37f8736be76fcb9d4a4b7f6a1352e54db80621fbe7031f8d2ab9",
+          "proposition_sha256": "978b6575dc1e19b20fe14190959c06f27b3d7e7bccdaa080ab7bf6d6130e050d"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-9E84F032C381BFDA",
+          "doctrine_specific_terms": [
+            "samanvayāt",
+            "arguments",
+            "effects",
+            "source",
+            "proof",
+            "five"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "3dd3917647d679a86c9512fd1e5e800b90f9a107a19e2457937492ff4d8daabf"
+    },
+    {
+      "question_id": "Q11",
+      "cell_id": "SK-CELL-9E84F032C381BFDA-51257AD491",
+      "obligation_ids": [
+        "SK-OBL-9E84F032C381BFDA"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-F094D41E5FBF37F8",
+          "proposition_id": "prop-9243b1e8ae919506cdce",
+          "block_sha256": "f094d41e5fbf37f8736be76fcb9d4a4b7f6a1352e54db80621fbe7031f8d2ab9",
+          "proposition_sha256": "978b6575dc1e19b20fe14190959c06f27b3d7e7bccdaa080ab7bf6d6130e050d"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-9E84F032C381BFDA",
+          "doctrine_specific_terms": [
+            "operation",
+            "pravṛtteś",
+            "śaktitaḥ",
+            "causal",
+            "power",
+            "proof"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "ab7a4c961cc29f4587af5cdebd09841867b2b22d1301bf9b7b456273e85620fd"
+    },
+    {
+      "question_id": "Q12",
+      "cell_id": "SK-CELL-9E84F032C381BFDA-69294F2846",
+      "obligation_ids": [
+        "SK-OBL-9E84F032C381BFDA"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-F094D41E5FBF37F8",
+          "proposition_id": "prop-9243b1e8ae919506cdce",
+          "block_sha256": "f094d41e5fbf37f8736be76fcb9d4a4b7f6a1352e54db80621fbe7031f8d2ab9",
+          "proposition_sha256": "978b6575dc1e19b20fe14190959c06f27b3d7e7bccdaa080ab7bf6d6130e050d"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-9E84F032C381BFDA",
+          "doctrine_specific_terms": [
+            "vaiśvarūpyasya",
+            "diversified",
+            "avibhāgāt",
+            "undivided",
+            "effects",
+            "source",
+            "proof"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "f027512e81d417b93be101d4e6f330e0991578ee5117f596cc2c3ba1cf99887c"
+    },
+    {
+      "question_id": "Q13",
+      "cell_id": "SK-CELL-0D294623261357B4-E90267F6F5",
+      "obligation_ids": [
+        "SK-OBL-0D294623261357B4"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-BFCE78470EC03073",
+          "proposition_id": "prop-32f344aa50ff140e601a",
+          "block_sha256": "bfce78470ec03073fda2b596ff2cacdd1191ae13eca3740898585cd710a1bc6f",
+          "proposition_sha256": "87476ad99f8b7c55d66fc2230eab67348ca6f8caafcded8cd7f13398c09cf50f"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-0D294623261357B4",
+          "doctrine_specific_terms": [
+            "sattva",
+            "rajas",
+            "tamas",
+            "guṇa"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "e06aeb53c354d8d993e67e6da0589fd4ad5eb1e74fcea6908c09c1a051444d6f"
+    },
+    {
+      "question_id": "Q14",
+      "cell_id": "SK-CELL-0D294623261357B4-E90267F6F5",
+      "obligation_ids": [
+        "SK-OBL-0D294623261357B4"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-BFCE78470EC03073",
+          "proposition_id": "prop-32f344aa50ff140e601a",
+          "block_sha256": "bfce78470ec03073fda2b596ff2cacdd1191ae13eca3740898585cd710a1bc6f",
+          "proposition_sha256": "87476ad99f8b7c55d66fc2230eab67348ca6f8caafcded8cd7f13398c09cf50f"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-0D294623261357B4",
+          "doctrine_specific_terms": [
+            "inseparable",
+            "tendencies",
+            "present",
+            "every",
+            "three"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "5ee9c88ee1ee3d6b78ea66d3a5c5d11914d2fbe927b0f16dbbbb13cec8766255"
+    },
+    {
+      "question_id": "Q15",
+      "cell_id": "SK-CELL-4FEA72017330BC36-43136A6B3D",
+      "obligation_ids": [
+        "SK-OBL-4FEA72017330BC36"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-DFDBCB2DA8CB0F73",
+          "proposition_id": "prop-84dd8c4455be01480d35",
+          "block_sha256": "dfdbcb2da8cb0f73dfe2bd333af19f2da6ef8d53bffb67480a0b39c473f6195c",
+          "proposition_sha256": "ee13467c41404503f1d7b6560f1662eca83107be263d82e8dbd722539e31bddd"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-4FEA72017330BC36",
+          "doctrine_specific_terms": [
+            "unmanifest",
+            "evolution",
+            "manifest",
+            "avyakta",
+            "prakṛti"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "c075cfbd67f5344f58a92898a989224db9c894ead3bb24e3d9dbcf2c76ef828c"
+    },
+    {
+      "question_id": "Q16",
+      "cell_id": "SK-CELL-03A488D3136BDC9E-B037BB3562",
+      "obligation_ids": [
+        "SK-OBL-03A488D3136BDC9E"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-BFCE78470EC03073",
+          "proposition_id": "prop-a2f0d7ef0099f18a283e",
+          "block_sha256": "bfce78470ec03073fda2b596ff2cacdd1191ae13eca3740898585cd710a1bc6f",
+          "proposition_sha256": "f41879fecee938bf5784b1d2d14256482cfb3c00a18e7f77509d8d663794bc7d"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-03A488D3136BDC9E",
+          "doctrine_specific_terms": [
+            "heterogeneous",
+            "equilibrium",
+            "evolution",
+            "sarūpa",
+            "virūpa"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "3dd061bb5fa38b6a28b3138dc563e4efa8418990811c91fe6dfcf1be57de7341"
+    },
+    {
+      "question_id": "Q17",
+      "cell_id": "SK-CELL-5F72F7BED7CFF814-FF1695A634",
+      "obligation_ids": [
+        "SK-OBL-5F72F7BED7CFF814"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-D30BE5900F82626E",
+          "proposition_id": "prop-7a387509b2febd0825df",
+          "block_sha256": "d30be5900f82626e1496c0951d3f901ab59b97c80c89f234a89387b0c957a23f",
+          "proposition_sha256": "67ccde112e631a745b68ac03264c0b36b910a5ab5690b97944bbd74976eaa848"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-5F72F7BED7CFF814",
+          "doctrine_specific_terms": [
+            "consciousness",
+            "changeless",
+            "inactive",
+            "belongs",
+            "beyond",
+            "nature",
+            "pure"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "4125c9100d3ad7b07c6e9bba73da10e3d8e68a91175ce32c71f4fffb282ddbf8"
+    },
+    {
+      "question_id": "Q18",
+      "cell_id": "SK-CELL-78713E24CD9962E4-C1115003F8",
+      "obligation_ids": [
+        "SK-OBL-78713E24CD9962E4"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-8DF146D23DD282B6",
+          "proposition_id": "prop-ddd1baacb45add90c53b",
+          "block_sha256": "8df146d23dd282b687e64e57e77abb3447ceea96186bcec2895c868a28c772dd",
+          "proposition_sha256": "b98fb036ac17189d5fa461d4a93f5fe6d7ad0345afd1678f4dcc0f7995322584"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-78713E24CD9962E4",
+          "doctrine_specific_terms": [
+            "parārthatvāt",
+            "saṅghāta",
+            "bhoktṛ",
+            "bhāvāt"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "d1a12a95221dbe4b903ff13b14c05a0decde5f0e2c2b8cd8efd1c76a224e7d2a"
+    },
+    {
+      "question_id": "Q19",
+      "cell_id": "SK-CELL-C19CBEFB0514A647-455934D072",
+      "obligation_ids": [
+        "SK-OBL-C19CBEFB0514A647"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-1FDC946F61463B6D",
+          "proposition_id": "prop-570438b684642d2078ab",
+          "block_sha256": "1fdc946f61463b6d6b387bb76f907c0ed38b42906dc8201db3598720895a4a61",
+          "proposition_sha256": "707d638b8c325c466e70026429fb1c51303317e0bcceb3195d38f5e36a5e8748"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-C19CBEFB0514A647",
+          "doctrine_specific_terms": [
+            "configurations",
+            "simultaneous",
+            "divergent",
+            "plurality",
+            "activity",
+            "births",
+            "guṇa"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "8d3582e60104c1ea59e3bfd844b61f3034bdb6e000395df84e268343b7ee9774"
+    },
+    {
+      "question_id": "Q20",
+      "cell_id": "SK-CELL-C19CBEFB0514A647-455934D072",
+      "obligation_ids": [
+        "SK-OBL-C19CBEFB0514A647"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-1FDC946F61463B6D",
+          "proposition_id": "prop-570438b684642d2078ab",
+          "block_sha256": "1fdc946f61463b6d6b387bb76f907c0ed38b42906dc8201db3598720895a4a61",
+          "proposition_sha256": "707d638b8c325c466e70026429fb1c51303317e0bcceb3195d38f5e36a5e8748"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-C19CBEFB0514A647",
+          "doctrine_specific_terms": [
+            "liberation",
+            "plurality",
+            "release"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "152324e39aaaa09926e1841b84b3213e19c8b1c2c7215e773689b349bca3038d"
+    },
+    {
+      "question_id": "Q21",
+      "cell_id": "SK-CELL-58978F55C0E3EBB0-2C42010936",
+      "obligation_ids": [
+        "SK-OBL-58978F55C0E3EBB0"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-0D9B6DBB522EDFB7",
+          "proposition_id": "prop-dee97265ae0175ba968d",
+          "block_sha256": "0d9b6dbb522edfb7f9ccea81e9fa18d58a2e91d0b70328a59eaf6e899edc26d2",
+          "proposition_sha256": "3de8c1a4836471a887cf20abab52e08c20bfd57871bf921ae5e71a84c68b6d0c"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-58978F55C0E3EBB0",
+          "doctrine_specific_terms": [
+            "individuation",
+            "qualitatively",
+            "identical",
+            "plurality",
+            "principle",
+            "internal"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "0824fae69dcd56f6f9e769665b7f912cf8a09c5f4fc03cefce7524cc99d6f92c"
+    },
+    {
+      "question_id": "Q22",
+      "cell_id": "SK-CELL-D395EB13CA7AB006-B49C6823AC",
+      "obligation_ids": [
+        "SK-OBL-D395EB13CA7AB006"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-53FB3996220AF512",
+          "proposition_id": "prop-359d97f172f770d1b820",
+          "block_sha256": "53fb3996220af512cdef4b73fd767ece3bb28a83452ef72b89507fad8c94ca36",
+          "proposition_sha256": "a85b487ac5fb2ad2d5c1aeb9f05d1f67adf44cdf8a48e9673e83d90e93d96880"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-D395EB13CA7AB006",
+          "doctrine_specific_terms": [
+            "deliberation",
+            "unconscious",
+            "teleology",
+            "without",
+            "calf",
+            "milk"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "0279af4edce1cf46169e51dec6405dbf3c824aa5e68d4f532265212fe5204e23"
+    },
+    {
+      "question_id": "Q23",
+      "cell_id": "SK-CELL-1DAB471600A734B6-DBA62B07D9",
+      "obligation_ids": [
+        "SK-OBL-1DAB471600A734B6"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-F2996E89B2D6D13E",
+          "proposition_id": "prop-21bee5777c9f784344e6",
+          "block_sha256": "f2996e89b2d6d13ec08186458ddc50cfd484c19691a7b5101e2a0b30a0d3c379",
+          "proposition_sha256": "1d3e95fe6117d4027597670047d9245d6a879339414c898fa1f75827c87c81a4"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-1DAB471600A734B6",
+          "doctrine_specific_terms": [
+            "conditioned",
+            "empirical",
+            "sāṃkhya",
+            "through",
+            "puruṣa",
+            "jīva"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "4392708c68318c9332af3a938150c85357d6a6f2f92385f695c68f3aac3402bd"
+    },
+    {
+      "question_id": "Q24",
+      "cell_id": "SK-CELL-E3813818A22E3E8A-AB31104629",
+      "obligation_ids": [
+        "SK-OBL-E3813818A22E3E8A"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-D2789F85D6E84E04",
+          "proposition_id": "prop-efc3a28ff2ac9cf2e816",
+          "block_sha256": "d2789f85d6e84e0417719a512efd9187100e77fb4faa71e2f89af4f757d4555b",
+          "proposition_sha256": "4681aba00bc7aba18b15334401a1fce42c8059c76ced3116b8a935d1db8f090f"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-E3813818A22E3E8A",
+          "doctrine_specific_terms": [
+            "ahaṃkāra",
+            "buddhi",
+            "mahat"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "de30016b2e7721a9d24ecfce164e35332703ce703602679e2e6df55b29c2a3bc"
+    },
+    {
+      "question_id": "Q25",
+      "cell_id": "SK-CELL-E3813818A22E3E8A-AB31104629",
+      "obligation_ids": [
+        "SK-OBL-E3813818A22E3E8A"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-D2789F85D6E84E04",
+          "proposition_id": "prop-efc3a28ff2ac9cf2e816",
+          "block_sha256": "d2789f85d6e84e0417719a512efd9187100e77fb4faa71e2f89af4f757d4555b",
+          "proposition_sha256": "4681aba00bc7aba18b15334401a1fce42c8059c76ced3116b8a935d1db8f090f"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-E3813818A22E3E8A",
+          "doctrine_specific_terms": [
+            "principles",
+            "material",
+            "evolute",
+            "puruṣa",
+            "tattva",
+            "twenty",
+            "fifth",
+            "five"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "d38e38c4109214398bf175d3e63911da8f532fe70223e46dcaaca60b69c3dd64"
+    },
+    {
+      "question_id": "Q26",
+      "cell_id": "SK-CELL-30D16B4CE07B485C-9BEA59F097",
+      "obligation_ids": [
+        "SK-OBL-30D16B4CE07B485C"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-46A76807B5F7898A",
+          "proposition_id": "prop-0350933f16a19f9184df",
+          "block_sha256": "46a76807b5f7898ac47f023d84a026dcc5f29f95858949abf763d5cb29506ef5",
+          "proposition_sha256": "bcd28f1a902ff8418e8f9ac4f15d16933fbe97c305dc8218122c071dc75dcc9f"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-30D16B4CE07B485C",
+          "doctrine_specific_terms": [
+            "ahaṃkāra",
+            "evolves",
+            "buddhi",
+            "mahat"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "5f4ccd63ef765715131de5f597579d12823efc7f397d4577f0e7769c0f3904ef"
+    },
+    {
+      "question_id": "Q27",
+      "cell_id": "SK-CELL-15929874F905ACAF-9AC92847D4",
+      "obligation_ids": [
+        "SK-OBL-15929874F905ACAF"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-E20F2A503DF5883C",
+          "proposition_id": "prop-cac57c42622cc684527a",
+          "block_sha256": "e20f2a503df5883cd7fd59d5042009ccc24559bbd4fd6b4a3d9de1756a6dda23",
+          "proposition_sha256": "77f10ae6a6617d3a9c5cf58d0d1b4dda385ded7baf0079ab011d74e9d9511cdd"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-15929874F905ACAF",
+          "doctrine_specific_terms": [
+            "capacities",
+            "cognitive",
+            "action",
+            "manas",
+            "five"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "f79a8185ac0b81f94e652d09b82c4f87f66e1526dd2cf52955bf8d1326c75e57"
+    },
+    {
+      "question_id": "Q28",
+      "cell_id": "SK-CELL-30D16B4CE07B485C-037CCA0BAA",
+      "obligation_ids": [
+        "SK-OBL-30D16B4CE07B485C"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-46A76807B5F7898A",
+          "proposition_id": "prop-0350933f16a19f9184df",
+          "block_sha256": "46a76807b5f7898ac47f023d84a026dcc5f29f95858949abf763d5cb29506ef5",
+          "proposition_sha256": "bcd28f1a902ff8418e8f9ac4f15d16933fbe97c305dc8218122c071dc75dcc9f"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-30D16B4CE07B485C",
+          "doctrine_specific_terms": [
+            "cognitive",
+            "ahaṃkāra",
+            "evolves",
+            "action",
+            "manas"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "0a814b06ea7c26f205d21d11620a7fd4319095b4a462e0b8f584f05e1e3b4575"
+    },
+    {
+      "question_id": "Q29",
+      "cell_id": "SK-CELL-4C93189DBB115B7E-BEB98962A8",
+      "obligation_ids": [
+        "SK-OBL-4C93189DBB115B7E"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-A90F79D1C1923EB1",
+          "proposition_id": "prop-85dc9d5278d7c3562d0a",
+          "block_sha256": "a90f79d1c1923eb1130a14962b8ed8bc9257e2402e25efc65b1cc8bc7336a44c",
+          "proposition_sha256": "046f3a700712503d37ed8dccd6456cb3d54dc877852c1ccd6087ce79fa7df3d7"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-4C93189DBB115B7E",
+          "doctrine_specific_terms": [
+            "tanmātras",
+            "ahaṃkāra",
+            "tāmasa",
+            "five"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "8b2ba4c13bcbb781ffcba71c5c8f2037761c011ab8f5025582d5de861f50331a"
+    },
+    {
+      "question_id": "Q30",
+      "cell_id": "SK-CELL-87B1BBFDB338731A-9EA68047E9",
+      "obligation_ids": [
+        "SK-OBL-87B1BBFDB338731A"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-2A4BE89443571715",
+          "proposition_id": "prop-ac1df0bc2404dd1fe083",
+          "block_sha256": "2a4be89443571715c843f1ad2ebf30e0dd74c469f3711107c190615db4406cce",
+          "proposition_sha256": "15f1596989b558a19cd1c4fa7058d69e35770a31990a9fff43bddd64944607da"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-87B1BBFDB338731A",
+          "doctrine_specific_terms": [
+            "energizes",
+            "ahaṃkāra",
+            "rajas",
+            "both"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "06b51cf996260e91aed80ea030e65cf1a450e3c915db89ffd5be98947adec9aa"
+    },
+    {
+      "question_id": "Q31",
+      "cell_id": "SK-CELL-DCDF9BD867066798-E73D967637",
+      "obligation_ids": [
+        "SK-OBL-DCDF9BD867066798"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-6078915A28F6FCF7",
+          "proposition_id": "prop-e6be7cfcf0bae8ed205e",
+          "block_sha256": "6078915a28f6fcf710bdb743bb662a7c1f984e041b882153a07b8aca3105aec3",
+          "proposition_sha256": "557b9eda1f97bf89fc54895c594210edcceafbd70033d52d8c66fd69a76966a1"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-DCDF9BD867066798",
+          "doctrine_specific_terms": [
+            "tanmātras",
+            "ahaṃkāra",
+            "buddhi",
+            "effect",
+            "cause",
+            "both",
+            "five"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "5378f4b04cb64d347cb305cdd09650bc4b36822876f6702ee97dbd82c9fbe369"
+    },
+    {
+      "question_id": "Q32",
+      "cell_id": "SK-CELL-4D57A7DF23232B76-42E0275F6D",
+      "obligation_ids": [
+        "SK-OBL-4D57A7DF23232B76"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-D30BE5900F82626E",
+          "proposition_id": "prop-f52d8857b866fad92301",
+          "block_sha256": "d30be5900f82626e1496c0951d3f901ab59b97c80c89f234a89387b0c957a23f",
+          "proposition_sha256": "2b0c16a0e1e349508eade38b13ffa5786dd0a96aac5a859826b9ca6598bc1285"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-4D57A7DF23232B76",
+          "doctrine_specific_terms": [
+            "dispositions",
+            "literally",
+            "migrates",
+            "carries",
+            "neither",
+            "subtle",
+            "acts",
+            "body"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "aaaa0baa0f2b3fa4b489f52cc2bf6bdfa963f772617ebdd342a04a99433334cc"
+    },
+    {
+      "question_id": "Q33",
+      "cell_id": "SK-CELL-435EDC811E3B83F5-18DB96FFFB",
+      "obligation_ids": [
+        "SK-OBL-435EDC811E3B83F5"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-65CBF718F0DB770D",
+          "proposition_id": "prop-4c1fd9c418d760c2e85e",
+          "block_sha256": "65cbf718f0db770db0c8ca137934f8425c41ba4d0246700180d706329129db41",
+          "proposition_sha256": "91d16f21c21e4fa5870bc39469db3747876a703af16d9f0f875f7ce5c901c3ef"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-435EDC811E3B83F5",
+          "doctrine_specific_terms": [
+            "manifestation",
+            "satkāryavāda",
+            "latently",
+            "material",
+            "effect",
+            "exists",
+            "cause"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "3b0f9957f19aa21ac30cb69c8fb6c856e53d68c3192a9f2e5dc34fdc18e2ba12"
+    },
+    {
+      "question_id": "Q34",
+      "cell_id": "SK-CELL-403F5A63B7812C3D-2359F85E85",
+      "obligation_ids": [
+        "SK-OBL-403F5A63B7812C3D"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-E6181B983B354C30",
+          "proposition_id": "prop-7db3970e53b5b8b7c1e4",
+          "block_sha256": "e6181b983b354c308a84956a3b0fbc9b685e8754cc0f8ace1b0d0af10fb37f4b",
+          "proposition_sha256": "b395d8f4d6e68129309850e742e9f55bcd96e5499a6b946297e0fc13560a94cc"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-403F5A63B7812C3D",
+          "doctrine_specific_terms": [
+            "asadakaraṇāt",
+            "produced",
+            "cannot",
+            "effect",
+            "being"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "c2d6b7433fa8453141625ca51aeed870afde38830c095103cf4aef80e436b3f9"
+    },
+    {
+      "question_id": "Q35",
+      "cell_id": "SK-CELL-403F5A63B7812C3D-2359F85E85",
+      "obligation_ids": [
+        "SK-OBL-403F5A63B7812C3D"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-E6181B983B354C30",
+          "proposition_id": "prop-7db3970e53b5b8b7c1e4",
+          "block_sha256": "e6181b983b354c308a84956a3b0fbc9b685e8754cc0f8ace1b0d0af10fb37f4b",
+          "proposition_sha256": "b395d8f4d6e68129309850e742e9f55bcd96e5499a6b946297e0fc13560a94cc"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-403F5A63B7812C3D",
+          "doctrine_specific_terms": [
+            "material",
+            "bhāvāt",
+            "effect",
+            "kāraṇa",
+            "being",
+            "cause"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "f3877bbfe4750bc6476672a00c6441ff4e09e6bae0810687e047042e6a53e8a6"
+    },
+    {
+      "question_id": "Q36",
+      "cell_id": "SK-CELL-B89B1A81E01FAFAC-DB9FF617E6",
+      "obligation_ids": [
+        "SK-OBL-B89B1A81E01FAFAC"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-2ECF901F1E5D0AFD",
+          "proposition_id": "prop-f6b25f58c71d52c15e12",
+          "block_sha256": "2ecf901f1e5d0afd7dcb96883e91491e74dea364b24e83b230feb5de64093513",
+          "proposition_sha256": "7cef74694d65f76068d5f7eea8bc562d057a3933a0c0536686e0f23a31e93713"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-B89B1A81E01FAFAC",
+          "doctrine_specific_terms": [
+            "transformation",
+            "manifestation",
+            "pariṇāmavāda",
+            "production",
+            "material",
+            "sāṃkhya",
+            "cause",
+            "real"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "676a9a8743e66e51dbb1e403e086068f585ed78ee122163186ef44d671c15706"
+    },
+    {
+      "question_id": "Q37",
+      "cell_id": "SK-CELL-69F35D82FE3BC5AD-C1A2CC3843",
+      "obligation_ids": [
+        "SK-OBL-69F35D82FE3BC5AD"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-BA97C7890274871F",
+          "proposition_id": "prop-88e2b4423b520001baca",
+          "block_sha256": "ba97c7890274871f6f2c68310ec2b066374c32a7e5c6422a7de732a88dcc9856",
+          "proposition_sha256": "6ad147af971c3816e156df3f687d88ab9f5d37e3c1a926edf5d39adb0d0fb19b"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-69F35D82FE3BC5AD",
+          "doctrine_specific_terms": [
+            "asatkāryavāda",
+            "causes",
+            "effect",
+            "nyāya"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "29d6ad86792ea96ece9ed71068b469a69cef07ce7a2612b25f0b03e41df4fa8f"
+    },
+    {
+      "question_id": "Q38",
+      "cell_id": "SK-CELL-EC2E1D83E6255698-A1369208DE",
+      "obligation_ids": [
+        "SK-OBL-EC2E1D83E6255698"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-E138E91488B5DFB6",
+          "proposition_id": "prop-913deb9915adb6e7c6a7",
+          "block_sha256": "e138e91488b5dfb68fbbe50f91ff27adab2a18810ae591ef0229e138cffe2be8",
+          "proposition_sha256": "e3120da5b03318c502b7d54b9b6f9de520ca62ce9beb514bfe68f3e12dc099b4"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-EC2E1D83E6255698",
+          "doctrine_specific_terms": [
+            "transformation",
+            "vivartavāda",
+            "apparent",
+            "ultimate",
+            "advaita",
+            "brahman",
+            "world"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "c8891b7675d76f63c81b8b5cb765256fc00512a7fa058e6a35bdafffd3ef9a90"
+    },
+    {
+      "question_id": "Q39",
+      "cell_id": "SK-CELL-A5DD1CA65B76514C-F5728A73F3",
+      "obligation_ids": [
+        "SK-OBL-A5DD1CA65B76514C"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-BCC2B5CF165734F0",
+          "proposition_id": "prop-55635b7afa3085f28f2d",
+          "block_sha256": "bcc2b5cf165734f03adabfcfe452e45839c24a8f6bf2091c4be62dda045179dc",
+          "proposition_sha256": "6ad16080f24ef4d251b7f19a92c5967172407e55b3668869e97ae1399a7ef8af"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-A5DD1CA65B76514C",
+          "doctrine_specific_terms": [
+            "transformation",
+            "origination",
+            "dependent",
+            "buddhism",
+            "buddhist",
+            "contrast",
+            "enduring",
+            "material"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "6ecfbf6edbcaa1ccb909abdc1c1b210861bb9e891ced2ece5abed568e45572db"
+    },
+    {
+      "question_id": "Q40",
+      "cell_id": "SK-CELL-BC05A70C7585A899-BD8C14A5E8",
+      "obligation_ids": [
+        "SK-OBL-BC05A70C7585A899"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-B6547BD82E7EF859",
+          "proposition_id": "prop-962cfefd99e45b33621e",
+          "block_sha256": "b6547bd82e7ef859ccaa8fef64d0190a1ebba334e12225b58b2f088cb0a60a28",
+          "proposition_sha256": "b54aa23158fbc4ee066cd5ab4e1c6b1337f1066bd33ee3bf0f8b1bacd0f308bf"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-BC05A70C7585A899",
+          "doctrine_specific_terms": [
+            "ādhibhautika",
+            "ādhidaivika",
+            "ādhyātmika",
+            "suffering",
+            "duḥkha",
+            "traya"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "42fcd7569e5f64ee8cb6f20113cf7ab8e7c577f980cbf6b785c8ab0689d50c26"
+    },
+    {
+      "question_id": "Q41",
+      "cell_id": "SK-CELL-A0D0F8BFFE0A59E7-A2D3FCD68F",
+      "obligation_ids": [
+        "SK-OBL-A0D0F8BFFE0A59E7"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-7AC5C913BFA56FB4",
+          "proposition_id": "prop-68958830720a272ad38c",
+          "block_sha256": "7ac5c913bfa56fb4690163099cf4210da072583591e084aceaaa13ccabda682f",
+          "proposition_sha256": "03366ad05e7fc782e9ea1626f7fb750aebdf1af25ef4ed0cbdcfc66bbf89b3c6"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-A0D0F8BFFE0A59E7",
+          "doctrine_specific_terms": [
+            "abhimāna",
+            "bondage",
+            "prakṛti",
+            "agency",
+            "puruṣa"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "03afb1155adbc03b7d5014e99f676549ab67fecb65aa8321c3551b5d1c2eb04c"
+    },
+    {
+      "question_id": "Q42",
+      "cell_id": "SK-CELL-60550F4BFDFED9EF-6347EE921D",
+      "obligation_ids": [
+        "SK-OBL-60550F4BFDFED9EF"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-7E47F5B00C21D56D",
+          "proposition_id": "prop-500c895616855db806ed",
+          "block_sha256": "7e47f5b00c21d56d050a39942a31f01a082f4ac2caf21cc9ed928edc2727d2bb",
+          "proposition_sha256": "34b4b5808f66c2bb2e586e7b3ee3cd52eb27e287caedec2faf660c9f08bcec75"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-60550F4BFDFED9EF",
+          "doctrine_specific_terms": [
+            "consciousness",
+            "kaivalya",
+            "witness",
+            "viveka",
+            "jñāna"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "d599ee1955e2e4de4f534c2801a5df5323ba38a1dfe71c44d47c1b9e2c924c0b"
+    },
+    {
+      "question_id": "Q43",
+      "cell_id": "SK-CELL-521E227998BFB7C2+SK-OBL-23BB2D7DC415FC53-AEB1B1FE9D",
+      "obligation_ids": [
+        "SK-OBL-521E227998BFB7C2",
+        "SK-OBL-23BB2D7DC415FC53"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-1BE102A367F885B6",
+          "proposition_id": "prop-05d28840ed6a07aeca09",
+          "block_sha256": "1be102a367f885b6f085d79e1ae506f7a59b056a35b75b63e841123543f1d8a1",
+          "proposition_sha256": "492f3c91b3ce6902f6f8875f98315051142b99b8a3ca571a9a3dd439ddc3647c"
+        },
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-1BE102A367F885B6",
+          "proposition_id": "prop-1840c99044751f5a7e4c",
+          "block_sha256": "1be102a367f885b6f085d79e1ae506f7a59b056a35b75b63e841123543f1d8a1",
+          "proposition_sha256": "462a0c7f6f2e75f3e9a641f383f7b62af7e5170a994ef72d0e143acc546d2f45"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-521E227998BFB7C2",
+          "doctrine_specific_terms": [
+            "complementarity",
+            "blind",
+            "lame"
+          ]
+        },
+        {
+          "obligation_id": "SK-OBL-23BB2D7DC415FC53",
+          "doctrine_specific_terms": [
+            "disclosure",
+            "dancer",
+            "after"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "1d545c4011d934c7faa1c4188e46fb5f47314046b6efe4793c7ce3d01be9d3f4"
+    },
+    {
+      "question_id": "Q44",
+      "cell_id": "SK-CELL-D54D832C31CFC95F-9A4DCE6522",
+      "obligation_ids": [
+        "SK-OBL-D54D832C31CFC95F"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-1BE102A367F885B6",
+          "proposition_id": "prop-b1db3f036d39090638d8",
+          "block_sha256": "1be102a367f885b6f085d79e1ae506f7a59b056a35b75b63e841123543f1d8a1",
+          "proposition_sha256": "95f9d61a29239207c9c608722ea8299f84f8c53569f601b18d4e568d5b009d93"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-D54D832C31CFC95F",
+          "doctrine_specific_terms": [
+            "videhamukti",
+            "jīvanmukti",
+            "liberation",
+            "potter",
+            "stages",
+            "wheel",
+            "body"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "d78fb0dfde22eb685825df3b9bed4771fcedb1fcc7f839943aadfcf45405973c"
+    },
+    {
+      "question_id": "Q45",
+      "cell_id": "SK-CELL-4649144CE0ED54C1-918318571F",
+      "obligation_ids": [
+        "SK-OBL-4649144CE0ED54C1"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-1BE102A367F885B6",
+          "proposition_id": "prop-5599eb6597db2dfffc05",
+          "block_sha256": "1be102a367f885b6f085d79e1ae506f7a59b056a35b75b63e841123543f1d8a1",
+          "proposition_sha256": "a49ea60a3e933d2336b37c35c8b3cd0e41726a623ed73f8a915fdb076325275f"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-4649144CE0ED54C1",
+          "doctrine_specific_terms": [
+            "classical",
+            "theistic",
+            "unproved",
+            "sāṃkhya",
+            "theism"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "442fe54d61e3f7471fbc46a2e3d40d765676c7b87062096d49992ac4a53bfc8a"
+    },
+    {
+      "question_id": "Q46",
+      "cell_id": "SK-CELL-0F5B624039B148B3-7242B7549F",
+      "obligation_ids": [
+        "SK-OBL-0F5B624039B148B3"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-41F7F608A0268C53",
+          "proposition_id": "prop-3d047025cf556bb634af",
+          "block_sha256": "41f7f608a0268c53937594b36dd755398b9f59de4708b4a37c1aa419ef854d19",
+          "proposition_sha256": "7d8eb15b5ca95a88a61f9fdb8360aab165a2c33bc8b646f791b3346148be363b"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-0F5B624039B148B3",
+          "doctrine_specific_terms": [
+            "proximity",
+            "sānnidhya",
+            "physical",
+            "contact",
+            "problem"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "babc33e83c757c1c76e961f3e50f4f7b8c34014aade332d34250befd387b924a"
+    },
+    {
+      "question_id": "Q47",
+      "cell_id": "SK-CELL-EE45F00DC6F86C9B-F6842982C5",
+      "obligation_ids": [
+        "SK-OBL-EE45F00DC6F86C9B"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-779A8DA39286B9C1",
+          "proposition_id": "prop-644261df007cd5a2e2f1",
+          "block_sha256": "779a8da39286b9c198d3511d197fcd36747e234be56ee34a612f7d208a03933c",
+          "proposition_sha256": "b42dbfb9a7eaf1aa94ad96313d23513360b1861a2ddd9d866748cfc31da716f9"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-EE45F00DC6F86C9B",
+          "doctrine_specific_terms": [
+            "unconscious",
+            "prakṛti",
+            "cannot",
+            "puruṣa"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "724f4d23ed3b810bd9307d48cd1bb29cdb54f24089b5d19f9427fe2aa9f6a198"
+    },
+    {
+      "question_id": "Q48",
+      "cell_id": "SK-CELL-EE45F00DC6F86C9B-F6842982C5",
+      "obligation_ids": [
+        "SK-OBL-EE45F00DC6F86C9B"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-779A8DA39286B9C1",
+          "proposition_id": "prop-644261df007cd5a2e2f1",
+          "block_sha256": "779a8da39286b9c198d3511d197fcd36747e234be56ee34a612f7d208a03933c",
+          "proposition_sha256": "b42dbfb9a7eaf1aa94ad96313d23513360b1861a2ddd9d866748cfc31da716f9"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-EE45F00DC6F86C9B",
+          "doctrine_specific_terms": [
+            "unconscious",
+            "opponent",
+            "sāṃkhya",
+            "causal",
+            "system",
+            "chief",
+            "rival"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "fe10f666573e5341b750d44f10304b044e4f261e383baac291e540bd22e49f4b"
+    },
+    {
+      "question_id": "Q49",
+      "cell_id": "SK-CELL-C17605EAF89C5F84-341F40C8E8",
+      "obligation_ids": [
+        "SK-OBL-C17605EAF89C5F84"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-38CF27382D351A08",
+          "proposition_id": "prop-e163aa5aebc2f2525b1b",
+          "block_sha256": "38cf27382d351a0840e6ec4e5c096e49253c41a9fede2935b0e31fa05b3ae214",
+          "proposition_sha256": "19d47eee4277655e734e6b68ab0f54e0269882fc5389c8800caab13372326fe9"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-C17605EAF89C5F84",
+          "doctrine_specific_terms": [
+            "restriction",
+            "existence",
+            "capacity",
+            "specific",
+            "causal",
+            "effect",
+            "latent",
+            "mango"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "4df51a3ed2434e12f618ea45dab4114fc00110b5862a9ba1a2f910f83023857d"
+    },
+    {
+      "question_id": "Q50",
+      "cell_id": "SK-CELL-D8B4BFA1D8050C80-0994AF2FCB",
+      "obligation_ids": [
+        "SK-OBL-D8B4BFA1D8050C80"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-AD48488173F90607",
+          "proposition_id": "prop-41eceb7b09e5e287962f",
+          "block_sha256": "ad48488173f906075e7f92b99019a4221a12a4c2bdbd38d65dd651bf896e7605",
+          "proposition_sha256": "02e2210c50d295be52e8d4ae91cc5564299e6e8bc399c4a5964c38c847f8f02e"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-D8B4BFA1D8050C80",
+          "doctrine_specific_terms": [
+            "arthakriyā",
+            "productive",
+            "permanent",
+            "buddhist",
+            "efficacy",
+            "inactive",
+            "witness"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "5d418dcd0bf90978c0aa97bc87879bef3426a68e35981bf53601660b6d00a00d"
+    },
+    {
+      "question_id": "Q51",
+      "cell_id": "SK-CELL-C12754F8D762BE72-01EB57CBE2",
+      "obligation_ids": [
+        "SK-OBL-C12754F8D762BE72"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-3804436224494A7F",
+          "proposition_id": "prop-338d6cd09d33c65e657e",
+          "block_sha256": "3804436224494a7f68954c3cf2a582af31f75b471e1a26df7d0a680d0df06c3a",
+          "proposition_sha256": "4ff172f119f649718804aeb5a7d81aa34087374c9d6fab9e279bf12ffb0c6082"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-C12754F8D762BE72",
+          "doctrine_specific_terms": [
+            "discipline",
+            "framework",
+            "detailed",
+            "sāṃkhya",
+            "owns",
+            "yoga"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "ef0435a6b1438a4312f33b09eeb033bc3e68946ba7767fc370c3c7fb7901488f"
+    },
+    {
+      "question_id": "Q52",
+      "cell_id": "SK-CELL-14E15A5D7FA10072-D5F817AB9B",
+      "obligation_ids": [
+        "SK-OBL-14E15A5D7FA10072"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-75219E40F4DC7283",
+          "proposition_id": "prop-7210643199e69508b85c",
+          "block_sha256": "75219e40f4dc728375b3d5783f593dbb749480024f4d72faef97cdcfd4f76c1b",
+          "proposition_sha256": "5ff97f3951d302f69805a882e7c20b7412698ae52e5f13ffe9225cefca67784b"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-14E15A5D7FA10072",
+          "doctrine_specific_terms": [
+            "psychological",
+            "separate",
+            "buddhi",
+            "cosmic",
+            "mahat",
+            "name",
+            "they"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "b1dc4580dd519232edd227b68195da3628b7aa47b10973559dd067ca77a8c34c"
+    },
+    {
+      "question_id": "Q53",
+      "cell_id": "SK-CELL-3E90F2C86F9738BE-7BF763D999",
+      "obligation_ids": [
+        "SK-OBL-3E90F2C86F9738BE"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-E138E91488B5DFB6",
+          "proposition_id": "prop-236a923c3b58241a38ec",
+          "block_sha256": "e138e91488b5dfb68fbbe50f91ff27adab2a18810ae591ef0229e138cffe2be8",
+          "proposition_sha256": "7540001f2529f1bdd77f4992fd0ecdf8225306e22f587fdfd17deb1b1f89fad7"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-3E90F2C86F9738BE",
+          "doctrine_specific_terms": [
+            "unconscious",
+            "teleology",
+            "relation",
+            "sāṃkhya",
+            "verdict"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "4163def1e509457c136c088f554ffc99d49c236612936a759adcdc4c264b84a3"
+    },
+    {
+      "question_id": "Q54",
+      "cell_id": "SK-CELL-84A881C5F9CB557F-669C5FAE38",
+      "obligation_ids": [
+        "SK-OBL-84A881C5F9CB557F"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-F1AA717567D5EAC0",
+          "proposition_id": "prop-ecd2c5f351186af40dd1",
+          "block_sha256": "f1aa717567d5eac01c108609f47338d12b12103c606eabfb2f75b9e2ccef6801",
+          "proposition_sha256": "3a45143fe90890fe3b7a304d6c3b53c357aa47e640510c3ab037312978b80a0f"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-84A881C5F9CB557F",
+          "doctrine_specific_terms": [
+            "discriminative",
+            "cessation",
+            "temporary",
+            "ordinary",
+            "remedies"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "044d7440464118638d239821b5ad54288a0fca779bd05ed5d9495886dee9ee78"
+    },
+    {
+      "question_id": "Q55",
+      "cell_id": "SK-CELL-13B2667F0A7063E5-426104B70A",
+      "obligation_ids": [
+        "SK-OBL-13B2667F0A7063E5"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-B70BE0233A83E767",
+          "proposition_id": "prop-0a438fc66841375de86a",
+          "block_sha256": "b70be0233a83e767b8a682bb270b555403d41815434b4353c0f79e97a6ed44a2",
+          "proposition_sha256": "f9736a6f4345ca478cdf81b142dc8899929119467e00ac069d6a3c813ba68274"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-13B2667F0A7063E5",
+          "doctrine_specific_terms": [
+            "sāṃkhyakārikā",
+            "commentary",
+            "discipline",
+            "classical",
+            "sāṃkhya",
+            "later"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "eb5e3b4e38c3f10dbd4eac0acd4e195bdfad39249f739cee0b955770e1874e8d"
+    },
+    {
+      "question_id": "Q56",
+      "cell_id": "SK-CELL-D586739279BBF0E6-15CB6AB642",
+      "obligation_ids": [
+        "SK-OBL-D586739279BBF0E6"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-048D425A983AACEA",
+          "proposition_id": "prop-f22a9a7576f86c89bf9e",
+          "block_sha256": "048d425a983aacea0773811bfd8cdd17d3151d0eee2d7e17e6708800bfca0165",
+          "proposition_sha256": "a85a48073c90c2b43309dd73abfc9823c2083a200b8f318f294bf5435062c046"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-D586739279BBF0E6",
+          "doctrine_specific_terms": [
+            "powerlessness",
+            "dispositions",
+            "detachment",
+            "ignorance",
+            "knowledge",
+            "eight",
+            "power"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "aa2414c5231258644864af9f9dc3e3362d9c67d1f20d1536f88d125b4649fcf7"
+    },
+    {
+      "question_id": "Q57",
+      "cell_id": "SK-CELL-E579375318097F14-B13773F04B",
+      "obligation_ids": [
+        "SK-OBL-E579375318097F14"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-E4BBD7CFD8FC1B6C",
+          "proposition_id": "prop-e7b08019d18442642dc3",
+          "block_sha256": "e4bbd7cfd8fc1b6c577a988dfbb8120881cd890a3575d3b83ce2583581216154",
+          "proposition_sha256": "196c53204d4002d4906fd98be8798fc2b241939b93fad7eefaef8194654ce45d"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-E579375318097F14",
+          "doctrine_specific_terms": [
+            "eighteen",
+            "eleven",
+            "subtle",
+            "count",
+            "five"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "e729a8ecbb7d0ce8c859ae1cf2cc26932e45382f785fd126d9af53bbca980064"
+    },
+    {
+      "question_id": "Q58",
+      "cell_id": "SK-CELL-30D16B4CE07B485C-37B8215884",
+      "obligation_ids": [
+        "SK-OBL-30D16B4CE07B485C"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-46A76807B5F7898A",
+          "proposition_id": "prop-0350933f16a19f9184df",
+          "block_sha256": "46a76807b5f7898ac47f023d84a026dcc5f29f95858949abf763d5cb29506ef5",
+          "proposition_sha256": "bcd28f1a902ff8418e8f9ac4f15d16933fbe97c305dc8218122c071dc75dcc9f"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-30D16B4CE07B485C",
+          "doctrine_specific_terms": [
+            "tanmātra",
+            "subtle",
+            "earth",
+            "ether",
+            "gross",
+            "smell",
+            "sound",
+            "taste"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "153321a4bac43de5bcb3db788745d345d0d92588a1e898aa0a77e591605bd7dc"
+    },
+    {
+      "question_id": "Q59",
+      "cell_id": "SK-CELL-9E84F032C381BFDA-CFF5A26659",
+      "obligation_ids": [
+        "SK-OBL-9E84F032C381BFDA"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-F094D41E5FBF37F8",
+          "proposition_id": "prop-9243b1e8ae919506cdce",
+          "block_sha256": "f094d41e5fbf37f8736be76fcb9d4a4b7f6a1352e54db80621fbe7031f8d2ab9",
+          "proposition_sha256": "978b6575dc1e19b20fe14190959c06f27b3d7e7bccdaa080ab7bf6d6130e050d"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-9E84F032C381BFDA",
+          "doctrine_specific_terms": [
+            "distinction",
+            "undivided",
+            "finitude",
+            "causal",
+            "effect",
+            "source",
+            "cause",
+            "power"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "b63a9fc1056751393a9d61541d670078242cc3fb153fa396d2055ffececd4797"
+    },
+    {
+      "question_id": "Q60",
+      "cell_id": "SK-CELL-53E3ECA18159A98B-9889660CD3",
+      "obligation_ids": [
+        "SK-OBL-53E3ECA18159A98B"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-D88128EDC9B3F0AA",
+          "proposition_id": "prop-3b5e3ce2e150a6fc2e8d",
+          "block_sha256": "d88128edc9b3f0aa90e693ecd74fe44e72bd4060cef7545e65379a57b4a2d08e",
+          "proposition_sha256": "cff31e856e15211e53a873c6a8e06967d775d3a78092a4b8eec5a3f6ec797d1b"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-53E3ECA18159A98B",
+          "doctrine_specific_terms": [
+            "establish",
+            "inactive",
+            "eternal",
+            "subject",
+            "plural",
+            "pole",
+            "they"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "b98504df2648764cb9b98059a75d33b9443156ff8c1dd52461e4bc3436310106"
+    },
+    {
+      "question_id": "Q61",
+      "cell_id": "SK-CELL-7B46EDF0D1A6ACE3-51931D866F",
+      "obligation_ids": [
+        "SK-OBL-7B46EDF0D1A6ACE3"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-E6181B983B354C30",
+          "proposition_id": "prop-fbbe6e5922a3b1ab6887",
+          "block_sha256": "e6181b983b354c308a84956a3b0fbc9b685e8754cc0f8ace1b0d0af10fb37f4b",
+          "proposition_sha256": "e09290adb05dc8c228d3e7b369f6342ee5d42d161ee99d875385d95d7ebbe6cd"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-7B46EDF0D1A6ACE3",
+          "doctrine_specific_terms": [
+            "determinate",
+            "miniature",
+            "capacity",
+            "material",
+            "effect",
+            "latent",
+            "seed",
+            "tree"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "672a21f546e6910dfab575f7dec3b04c416852ea3839988f13fafd6fe2ae3ba3"
+    },
+    {
+      "question_id": "Q62",
+      "cell_id": "SK-CELL-F7B7A940C3A74F6F-BD4C5F14F1",
+      "obligation_ids": [
+        "SK-OBL-F7B7A940C3A74F6F"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-5A5F10C2F59E6415",
+          "proposition_id": "prop-890604ac76166f1d1566",
+          "block_sha256": "5a5f10c2f59e6415de57800922af93ab6c3c8cbe9a7b4bfcf64dee811dd91aa7",
+          "proposition_sha256": "bb1fb595dc0fb7fc6f6001e210ae459c783dbcd933bceb4cf92150cb2ae127f4"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-F7B7A940C3A74F6F",
+          "doctrine_specific_terms": [
+            "discrimination",
+            "isolation",
+            "kaivalya",
+            "account"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "5245d329c7502be44d8db5eb87d2dd87a287f23a0edd644c7387970361eef892"
+    },
+    {
+      "question_id": "Q63",
+      "cell_id": "SK-CELL-D9381E75FBF3DFE3-C039837506",
+      "obligation_ids": [
+        "SK-OBL-D9381E75FBF3DFE3"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-E138E91488B5DFB6",
+          "proposition_id": "prop-aaa62cd75af9de258605",
+          "block_sha256": "e138e91488b5dfb68fbbe50f91ff27adab2a18810ae591ef0229e138cffe2be8",
+          "proposition_sha256": "79e2a55e53852b3d63086faea9817068f476c2daf8671a76b506d8901cff3c0f"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-D9381E75FBF3DFE3",
+          "doctrine_specific_terms": [
+            "proximity",
+            "relation",
+            "contact",
+            "problem"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "31c6d6ad0f9fb44a38837f0c0f0704d67c245ab581c38ccffdbd06fc20640d63"
+    },
+    {
+      "question_id": "Q64",
+      "cell_id": "SK-CELL-44475A24658D5B9C-20BAA6FCE0",
+      "obligation_ids": [
+        "SK-OBL-44475A24658D5B9C"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-7D3BBF6A5B1F7B7A",
+          "proposition_id": "prop-331c46faf54850aa5a56",
+          "block_sha256": "7d3bbf6a5b1f7b7ac6f33be2fc77572a71c28b1dc7984339d4d02179a151fcf9",
+          "proposition_sha256": "a00006e1a0c76ba578b7989b33aa86ca1ea9d5b9760f537096887692a3809399"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-44475A24658D5B9C",
+          "doctrine_specific_terms": [
+            "conscious",
+            "purposive",
+            "teleology",
+            "ordered",
+            "remains",
+            "without"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "2467954687beff22401d6aac9c11e97f51a1e1fb98335eedccd70af280845298"
+    },
+    {
+      "question_id": "Q65",
+      "cell_id": "SK-CELL-A489143CF9EE3AF9-EB37BBE9D0",
+      "obligation_ids": [
+        "SK-OBL-A489143CF9EE3AF9"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-C5004989ADFEDC22",
+          "proposition_id": "prop-975dec7d9e4d6c92cab6",
+          "block_sha256": "c5004989adfedc22c64e284e2ac37fc758303c8d20df2ebe77032a537aa82b35",
+          "proposition_sha256": "8329ba9cf391ac0e83685de522833454b6bebbf4fade7fb06dd76acd71f6e723"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-A489143CF9EE3AF9",
+          "doctrine_specific_terms": [
+            "ultimates",
+            "twenty",
+            "five"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "a91d4d9af52979f09b4ac0a736863a82af688f74dce0ebb534ddd9e5a8c267b8"
+    },
+    {
+      "question_id": "Q66",
+      "cell_id": "SK-CELL-8A60EA5F0D67F225-FDFE9FE90F",
+      "obligation_ids": [
+        "SK-OBL-8A60EA5F0D67F225"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-46A76807B5F7898A",
+          "proposition_id": "prop-b4123f8fbc4064bd8014",
+          "block_sha256": "46a76807b5f7898ac47f023d84a026dcc5f29f95858949abf763d5cb29506ef5",
+          "proposition_sha256": "369eea29f23a4d78d3ee686b009657c33d114203dc4dd3748e06769bffb84d2f"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-8A60EA5F0D67F225",
+          "doctrine_specific_terms": [
+            "evolution",
+            "ahaṃkāra",
+            "question",
+            "between",
+            "buddhi",
+            "mahat"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "e537a8a3b830c2dfc8d029300acac13081012749f08b1d49b340010ecb64195a"
+    },
+    {
+      "question_id": "Q67",
+      "cell_id": "SK-CELL-7ECF0334EE341E5E-9547AAF1FB",
+      "obligation_ids": [
+        "SK-OBL-7ECF0334EE341E5E"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-B35DCFEDFCB6145C",
+          "proposition_id": "prop-02df06ca51419ebb8a15",
+          "block_sha256": "b35dcfedfcb6145cc21eaab8827c989c79be532bfceb2edf49f86ac67f766552",
+          "proposition_sha256": "126302b6960eaf426d40b0b26fb405bc8dbb70e1cbb2f9daae9c5ac1314b7270"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-7ECF0334EE341E5E",
+          "doctrine_specific_terms": [
+            "inertia",
+            "guṇa"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "cc68d1e81c7f065efd6e240a2ccb308868d547713bd64a2db41c0aa2b55e1c82"
+    },
+    {
+      "question_id": "Q68",
+      "cell_id": "SK-CELL-A138A129E08B4CD6-87FBCE2EFD",
+      "obligation_ids": [
+        "SK-OBL-A138A129E08B4CD6"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "canonical",
+          "authority_block_id": "SK-SRC-CANONICAL-54AEE49A7C9F497A",
+          "proposition_id": "prop-ebf1cd762bf6791adc7c",
+          "block_sha256": "54aee49a7c9f497a8b02be83bac9da6d507b2c4c88045f171bedfa23c66334e0",
+          "proposition_sha256": "71150c1848560a6588427663cfa9d3c88a573817ee4ee03e059020c8000d59ef"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-A138A129E08B4CD6",
+          "doctrine_specific_terms": [
+            "imperceptibility",
+            "existence",
+            "subtlety",
+            "prakṛti",
+            "puruṣa",
+            "mūla"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "2b0a0d432014c1b4d2c362c7a79848996ad01f86f93d8e499eddd122c2c19c96"
+    },
+    {
+      "question_id": "Q69",
+      "cell_id": "SK-CELL-7488DD9C7AC2B1E5-FCC919D273",
+      "obligation_ids": [
+        "SK-OBL-7488DD9C7AC2B1E5"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-FDC3B61484619626",
+          "proposition_id": "prop-925035fb4c9ad50dd7d0",
+          "block_sha256": "fdc3b6148461962624f82dc6dc6f64a17365f9074011f3bebef412b36a5e9723",
+          "proposition_sha256": "4137874ca20cd6e2f2ea93f3b575acdeaaf78454c43fde6c52e3dad390f15002"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-7488DD9C7AC2B1E5",
+          "doctrine_specific_terms": [
+            "desire",
+            "motive",
+            "free"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "823bf151b7f04c45ffdffd04956f1a47dee40cd5aed81a54d544539699fe8918"
+    },
+    {
+      "question_id": "Q70",
+      "cell_id": "SK-CELL-C20050FFAA363C0C-6CC7E3152D",
+      "obligation_ids": [
+        "SK-OBL-C20050FFAA363C0C"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-FDC3B61484619626",
+          "proposition_id": "prop-934ec45118003204c48c",
+          "block_sha256": "fdc3b6148461962624f82dc6dc6f64a17365f9074011f3bebef412b36a5e9723",
+          "proposition_sha256": "4bea314b91daa3290989928bada5a6da0fbe527473d040b098d6f6bf5b76b010"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-C20050FFAA363C0C",
+          "doctrine_specific_terms": [
+            "eternally",
+            "fulfilled",
+            "painful",
+            "world"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "093ff07e980f8d2248b16d490d4bd706617173c9914a30e5bab37c8dfdc9b3b0"
+    },
+    {
+      "question_id": "Q71",
+      "cell_id": "SK-CELL-3905D97C9C0369FF-3E0C81FF4A",
+      "obligation_ids": [
+        "SK-OBL-3905D97C9C0369FF"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-FDC3B61484619626",
+          "proposition_id": "prop-ed334f2a17d5ddb91067",
+          "block_sha256": "fdc3b6148461962624f82dc6dc6f64a17365f9074011f3bebef412b36a5e9723",
+          "proposition_sha256": "15da585e1b4f28e10a346a900857e86a37f8b439e9c3beab5aa8213c0d45c9d1"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-3905D97C9C0369FF",
+          "doctrine_specific_terms": [
+            "distribution",
+            "independence",
+            "arbitrary",
+            "justice",
+            "limited",
+            "divine",
+            "fails",
+            "karma"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "f052a04ce8af83b5dacd3e5f4d1a0f765379258908fc949aac5ba5379039c3d3"
+    },
+    {
+      "question_id": "Q72",
+      "cell_id": "SK-CELL-C28F21FFE4806B6F-55654442A0",
+      "obligation_ids": [
+        "SK-OBL-C28F21FFE4806B6F"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-FDC3B61484619626",
+          "proposition_id": "prop-132302d47b4a8ba52ecf",
+          "block_sha256": "fdc3b6148461962624f82dc6dc6f64a17365f9074011f3bebef412b36a5e9723",
+          "proposition_sha256": "2bc0e7368163d2370475a9daee8e1d25e3662515f48754b863ab639b583116b0"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-C28F21FFE4806B6F",
+          "doctrine_specific_terms": [
+            "unconscious",
+            "continuity",
+            "conscious",
+            "immutable",
+            "changing",
+            "material",
+            "sāṃkhya",
+            "cannot"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "26f98dd80e9e0fa744275fce4713fea84cbe6c0fd64c0ffaccb29cad57b3bb26"
+    },
+    {
+      "question_id": "Q73",
+      "cell_id": "SK-CELL-0802282F00F58AB1-F65E16121B",
+      "obligation_ids": [
+        "SK-OBL-0802282F00F58AB1"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-FDC3B61484619626",
+          "proposition_id": "prop-a076eb6a556a396f8821",
+          "block_sha256": "fdc3b6148461962624f82dc6dc6f64a17365f9074011f3bebef412b36a5e9723",
+          "proposition_sha256": "57e7179e655ccc7c5f43932a938e3bc8c135f6a076345acf6b0b859881254a47"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-0802282F00F58AB1",
+          "doctrine_specific_terms": [
+            "consciousness",
+            "hypothesis",
+            "primordial",
+            "evolution",
+            "witnesses",
+            "material",
+            "already",
+            "creator"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "6feee0d70e61d2974fc028fbc09c614e3ea64b952aaaa98fb26a04fe85ead3c0"
+    },
+    {
+      "question_id": "Q74",
+      "cell_id": "SK-CELL-869118FA67B57B9D-AAB43C0F52",
+      "obligation_ids": [
+        "SK-OBL-869118FA67B57B9D"
+      ],
+      "authority_refs": [
+        {
+          "authority_source": "formal_session",
+          "authority_block_id": "SK-SRC-FORMAL-SESSION-411D0BB7C68290BB",
+          "proposition_id": "prop-89e2d1b23a4f02f3c18c",
+          "block_sha256": "411d0bb7c68290bbd029b18cab43fa10e42b1fd08fc8e593244624d10788c5bf",
+          "proposition_sha256": "29240151e312df087cb480988646a7551412da6a5cadb02be53318f72a1d988b"
+        }
+      ],
+      "mapping_anchors": [
+        {
+          "obligation_id": "SK-OBL-869118FA67B57B9D",
+          "doctrine_specific_terms": [
+            "interconnected",
+            "undividedness",
+            "disconnected",
+            "ultimates",
+            "cosmos",
+            "source",
+            "many"
+          ]
+        }
+      ],
+      "evidence_scope": "title_stem_keyed_option_keyed_explanation_only",
+      "substantive_question_hash": "f1b414cbbc405873dd2fd6f4116917ee64c6d3cc90cd5451f84f445f2c98bbe8"
+    }
+  ]
+}

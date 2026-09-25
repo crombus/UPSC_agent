@@ -1,0 +1,160 @@
+{
+  "schema_version": 2,
+  "policy": "markdown_and_machine_readable_audits_are_canonical_pdfs_optional",
+  "pdf_validation": "not_requested",
+  "artifacts": [
+    {
+      "file": "README.md",
+      "sha256": "fef62f83ab9467fbf182edd28e48744df8b2fec286b0fe582d5b4eb1fe5006f9",
+      "bytes": 2241
+    },
+    {
+      "file": "REVISION-GUIDE.md",
+      "sha256": "6ce8c8583609c4d9d12866086a6cbc6c508c0852794bbcc7f21e64e9630fb3ca",
+      "bytes": 453103
+    },
+    {
+      "file": "MCQ-QUESTIONS.md",
+      "sha256": "8a35b9fe06941fd7581d156ef3e6a74aa29feca62caec8ad4e03a07a68ce4fcd",
+      "bytes": 26695
+    },
+    {
+      "file": "MCQ-SOLUTIONS.md",
+      "sha256": "8e65e2a994c08a555db16b881d5054aa5a3c36dce84a0fa0f313d4c42cf49041",
+      "bytes": 125539
+    },
+    {
+      "file": "COVERAGE-LEDGER.md",
+      "sha256": "7cf1f4abe0e4eece3bcf2e83ee509b2cf64cbb272e79e06c25b52ff4441917dd",
+      "bytes": 135948
+    },
+    {
+      "file": "FORMAL-COVERAGE-AUDIT.json",
+      "sha256": "5cc51fa59fddc8fe16a98c1bd85bd021896040a0e646b76a36ffe495a4b20fb9",
+      "bytes": 2444
+    },
+    {
+      "file": "FORMAL-COVERAGE-REVIEW.json",
+      "sha256": "983dc5de4d239ad027cb1c5ca9a9df7795aac7775f1ee1c40dc2a68232c3137f",
+      "bytes": 3547992
+    },
+    {
+      "file": "AUTHORITY-CLASSIFICATION.json",
+      "sha256": "fe42c24c35035540d277ce3b08a453bca00c33463ed837ead0c82e32edb896ae",
+      "bytes": 4552117
+    },
+    {
+      "file": "AUTHORITY-OBLIGATION-LEDGER.json",
+      "sha256": "a2952c08b65834c81a16579c1b0bfe3c187dbe3de1ad0717888ee134d0937b14",
+      "bytes": 5464817
+    },
+    {
+      "file": "TEST-MATRIX.json",
+      "sha256": "3df4f57cf7a47241a61dbe88cecb97792733a717b41903a46f8308f20858378f",
+      "bytes": 144106
+    },
+    {
+      "file": "MCQ-AUDIT.json",
+      "sha256": "59f2b49d0fb12127709948305a5b9fa68b1669c6a0172114b906587f6df7d293",
+      "bytes": 54823
+    },
+    {
+      "file": "PYQ-DEMAND-AUDIT.json",
+      "sha256": "7a30ceda33b50cdcecd71dfe1057f2bf2504b99f6f9a5a17102a33bfd22949ba",
+      "bytes": 14504
+    },
+    {
+      "file": "PRACTICE-LOG.md",
+      "sha256": "62d8916fe1821f33c7d6a3fb935da71607fc05beaefcab5a9f818abbff966651",
+      "bytes": 555
+    },
+    {
+      "file": "ANSWER-WRITING-TOOLKIT.md",
+      "sha256": "c61df7fcc1d64997770a1e43a990fcc89d722fd97635c2363a6c99fc1c44f209",
+      "bytes": 49171
+    },
+    {
+      "file": "FORMAL-SOURCE-MIRROR.md",
+      "sha256": "3d4707c128e6fa7d40eb7f69023e45ee11a2176427f3b9152fdefe2c1540d404",
+      "bytes": 545479
+    },
+    {
+      "file": "source-snapshots/canonical-Samkhya.md",
+      "sha256": "d9b680bec22968d42ee41cb4acd6fc7bb9803deec4202afcd6aecd553cb9231d",
+      "bytes": 76403
+    },
+    {
+      "file": "source-snapshots/formal-Learning-Session.md",
+      "sha256": "f847272fd032151fda3be9aa36267134ab32b51743792111ca1e8e8cfa66928c",
+      "bytes": 335992
+    },
+    {
+      "file": "source-snapshots/formal-Solved-Practice-Workbook.md",
+      "sha256": "9bb5a8b8ce3951946af54d2d86ad10538e3009ba2528a9a83bd98c0117a3d482",
+      "bytes": 89666
+    },
+    {
+      "file": "source-snapshots/supplementary-complete-session.md",
+      "sha256": "ad12780073758aba7b443db1b45a289801076c6f22dfc4ac17212068d38f9ab7",
+      "bytes": 99158
+    },
+    {
+      "file": "source-snapshots/supplementary-layered-session.md",
+      "sha256": "557f5e83ec8de59d2dc725f67a8888838af1595d0136b6a758b435c6ec9d5267",
+      "bytes": 121518
+    },
+    {
+      "file": "source-snapshots/supplementary-solved-workbook.md",
+      "sha256": "8ba05769015037e853949260bf70375895da445ca589fcde3873b70ac7953ea1",
+      "bytes": 30686
+    },
+    {
+      "file": "source-snapshots/pyq-2018-2025.md",
+      "sha256": "c7b556c7b4b750943b7b5f0ac94273664a46c6c75f1c444ae2d953fd77d34eec",
+      "bytes": 25796
+    },
+    {
+      "file": "source-snapshots/pyq-2026.md",
+      "sha256": "1e3b86dbf301bf929851ecc39f1b8585485707cd19fc7a2168861bbb142a8806",
+      "bytes": 8502
+    },
+    {
+      "file": "build_package.py",
+      "sha256": "f05771e0f45063cac062d08ec4dba9c4ec8c94d211deec56f4a577259ef22d0e",
+      "bytes": 170767
+    },
+    {
+      "file": "question_bank.py",
+      "sha256": "5e520341fb05971b95b1af9208329c8a704c5be2eea513c55365a9cf184679e1",
+      "bytes": 27413
+    },
+    {
+      "file": "validate_package.py",
+      "sha256": "502aac52874b34e388d5bd6efc9370b0168c86b5cb431bb970d65a4bd71505b2",
+      "bytes": 111393
+    },
+    {
+      "file": "run_negative_tests.py",
+      "sha256": "f33eeece77006fce98a7b4fc34436ed9753068285f9c2c7a8eadbf78936d5010",
+      "bytes": 48473
+    },
+    {
+      "file": "render_pdfs.py",
+      "sha256": "21841761ece232a6301797fddf574a061b247a96d85fd0d43c1ea055dbb49682",
+      "bytes": 129
+    },
+    {
+      "file": ".gitattributes",
+      "sha256": "d769f486bf3e90e407928ad95bfc54c67fdfa05773f172cc9d9d456db2edc10f",
+      "bytes": 53
+    }
+  ],
+  "runtime_outputs_not_canonical_hash_inputs": [
+    "SOURCE-ARTIFACT-AUDIT.json",
+    "NEGATIVE-TEST-RESULTS.json",
+    "RELEASE-CHECK.json",
+    "VALIDATION.json"
+  ],
+  "runtime_exclusion_reason": "Self-referential or post-build validation outputs; every authored Markdown, source-bound JSON, script and snapshot is hash-bound above.",
+  "status": "CANONICAL_SOURCE_ARTIFACTS_CURRENT"
+}

@@ -1,0 +1,1579 @@
+{
+  "schema_version": 5,
+  "question_total": 74,
+  "matrix_cell_count": 68,
+  "testable_obligation_count": 65,
+  "answer_sequence": "BCABADADCBACDBAADDBDCDBCDDCDCBAACBDCCADBDCDACDADCBCBAACACBCCBBDDACCDBDDBDB",
+  "answer_counts": {
+    "A": 15,
+    "B": 17,
+    "C": 20,
+    "D": 22
+  },
+  "max_answer_run": 2,
+  "short_cycles": [],
+  "position_policy": {
+    "algorithm_version": "sha256-rejection-v1",
+    "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+    "safety_rejections_only": [
+      "max_run_two",
+      "reject_three_repeated_cycles_period_2_to_4"
+    ],
+    "quota_or_target_distribution": null,
+    "predictable_cycle_detected": false
+  },
+  "question_draws": [
+    {
+      "question_id": "Q1",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "33ca44a4e63b204dda2bbafe5e7f080d9f4022a70ec216328890d3c782b9cc61",
+      "raw_draw": "B",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "0700ddce0d34b05c335e1e98fe0aec73e4b67932d09a45c880956e2098024d0d",
+          "draw_index": 1,
+          "draw_letter": "B",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "B",
+      "draw_hash": "f517d4be95ef6271188f3672cc11929d1db866623052749aa78dacafc439a87e"
+    },
+    {
+      "question_id": "Q2",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "e0fc47a3ec44a548a4db018c5d4ab067db86b0a8d2404e4f6a88fdeb5b3076dc",
+      "raw_draw": "C",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "ffec1837e53e0d10f1ee358d44423003c24f364ec6f06b83885936cf270aa93a",
+          "draw_index": 2,
+          "draw_letter": "C",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "C",
+      "draw_hash": "937c4ee23a35d8a98d6c7d5b0da99b0ed272201ee716734a24a7c570e01b195f"
+    },
+    {
+      "question_id": "Q3",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "e1352adcc765c43fcd7ad8701b2c0af2e9eb7a0befd0bdf9569e0369ae30d739",
+      "raw_draw": "A",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "bed8b62e749b970ec3b2e8fda43f81cf6cb05e099f49dd70d3aff094e951894c",
+          "draw_index": 0,
+          "draw_letter": "A",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "A",
+      "draw_hash": "19c9e37ea8fda76e3752e9e5fd9002ab4a62c9070fbe880a38a59c16c112a949"
+    },
+    {
+      "question_id": "Q4",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "37c8c4123c5c637d85a8948ca56c5ecdf45bda0729eadd8f5ce3067b59a8e83f",
+      "raw_draw": "B",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "b71f586bc224282deead3e89008d04caa7ac1f48dc641f127a7f813741a0e54d",
+          "draw_index": 1,
+          "draw_letter": "B",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "B",
+      "draw_hash": "da04f58c78e59823b64010a8bed471742db383f9ba896dd0aff76ff02541cca7"
+    },
+    {
+      "question_id": "Q5",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "150ff29a760b375f822abd1652c11547b99d88fdf30cf1c634c1e5013b3bc9f8",
+      "raw_draw": "A",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "5e9d49d30391b50f0b131b02c7300a45a53dd487bbb8d5ebd6ada14d7925daa8",
+          "draw_index": 0,
+          "draw_letter": "A",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "A",
+      "draw_hash": "3bde4b69221ec8c6084515a2434542b9569c87c2a1fdc17a1ad6ed551c31757e"
+    },
+    {
+      "question_id": "Q6",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "0007161c8d426449eafeb171242e1b654861740a12fb515142ec41f85c0273d7",
+      "raw_draw": "D",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "fdb8319899c067b1edfe8f702bee2e31d72d43a50b81b0aaf5bbe4e124886c53",
+          "draw_index": 3,
+          "draw_letter": "D",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "D",
+      "draw_hash": "7c307da6e405ee69de2cf2c1e7c92702ac8081e95008056b1bd47b995540bb48"
+    },
+    {
+      "question_id": "Q7",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "a73cc1ebf60bdf524f03b9d3cbe92d03f63391b824c6537ae229e8cf3e9cb739",
+      "raw_draw": "A",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "4b8c32ddbb71b0fe89e303395138821e2979464f02891bc4f653334140aaabb0",
+          "draw_index": 0,
+          "draw_letter": "A",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "A",
+      "draw_hash": "c41302b172bcba937ed3098c0b82f95e4ec4cec0677a5c2074d938bca5b0760b"
+    },
+    {
+      "question_id": "Q8",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "171ebd62dc6b58959c4004ceb5e697075dfedebb5610f88090bc549568dc7e0f",
+      "raw_draw": "D",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "e7977fd820481729b459e75e97394844284a13630983c0f789caccdd88446f07",
+          "draw_index": 3,
+          "draw_letter": "D",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "D",
+      "draw_hash": "0e339ef26241d9e22e981b73329e9cdda54615327bbdc0a11cc95068f9a10aec"
+    },
+    {
+      "question_id": "Q9",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "84feeaf3d6078a682d1848e9ebd702eb9a2cd5be14d826c28c234e93d661f8da",
+      "raw_draw": "C",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "4c352988008f220d0f724d63103c0eeefb559d525a6302cdc4de1876b2e4434e",
+          "draw_index": 2,
+          "draw_letter": "C",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "C",
+      "draw_hash": "bd93edcc2df4dfc785ed236aff121f9f1f7df2a2a28e15467f99f7221e551bdd"
+    },
+    {
+      "question_id": "Q10",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "e9b8fc0f378595040037beb8f4685c32a65c9bb5a963412372a67468534d74e2",
+      "raw_draw": "B",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "2619cf90af3b0ef39d39ecbf563b225245e4ca260fc6055f7b2912df8fef9c21",
+          "draw_index": 1,
+          "draw_letter": "B",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "B",
+      "draw_hash": "fbafed7a6e22d1f66fee08962061e6a6eb485a9730978c7c989c77485a3f164a"
+    },
+    {
+      "question_id": "Q11",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "31077124b26b80c2e906045bf63fa10bec79bb14c2bc6f5d21509964d4e65500",
+      "raw_draw": "A",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "e1f29a602483a403ca5c19086b9d96868a830e2eaef93ff54ae36eed72efbb20",
+          "draw_index": 0,
+          "draw_letter": "A",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "A",
+      "draw_hash": "d6c4a8e8a6638d0239760eecef39137f41d2b7489c5b3ba5bdf185fd57426b2e"
+    },
+    {
+      "question_id": "Q12",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "9f8ef9f084485566fa8ef7777f090f7580461f265d518153733b80bfec07bfa3",
+      "raw_draw": "C",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "7710107be7710cf26e2063f9c299b94921c5a8c997f9b4fcd5e6d6aa9dc664fe",
+          "draw_index": 2,
+          "draw_letter": "C",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "C",
+      "draw_hash": "beb65c8205b7e04552cce0aa509ad644ea15eeb1983f15e733ddae5128973b1f"
+    },
+    {
+      "question_id": "Q13",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "3f0528b6bdf689646e97a288fc92f7b3c0d06f0e3f42a2cf3d95bc5834548d4f",
+      "raw_draw": "D",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "84c1d47f5c27f7be7e4f3f770909a4130005c8fe3452c94883174810127526d3",
+          "draw_index": 3,
+          "draw_letter": "D",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "D",
+      "draw_hash": "ea88fa8e3f636bfe17e3ac682e447471a2d39b8222199fc3a41aa8cd010588f8"
+    },
+    {
+      "question_id": "Q14",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "cdd05581f0fb4c38b3ebe50075899dfc4b2984f24621311ce6338496bca700d5",
+      "raw_draw": "B",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "25b32e517486ac94704bfa6c1e328408a6f58af145707e1e651d23f9dee648f9",
+          "draw_index": 1,
+          "draw_letter": "B",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "B",
+      "draw_hash": "313dd5a7be346576c26deb7e6a7b1d0a6243804b6454a9e7e68f488f9913a873"
+    },
+    {
+      "question_id": "Q15",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "02fb64256b01e6b8dc5d37c2933d5ca91997b2878eefacc48a01b0ae3e78f612",
+      "raw_draw": "A",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "ae5c40e192572fcdbc8a9037ded3d0416ed977ce7eb0c37b9fa8bb910c8f04d8",
+          "draw_index": 0,
+          "draw_letter": "A",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "A",
+      "draw_hash": "1e30214fafd4e00eb1059a117838b1696605368d1d45492c2c9bba83c3da0a6f"
+    },
+    {
+      "question_id": "Q16",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "c8db4457a53380c2a84e080ae16f357061acfeb00bce854f45b00e4279b4539a",
+      "raw_draw": "A",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "9883a885cae0dc53c015c04c336ef3c74909872f60ccedf7fc5667e178ee5878",
+          "draw_index": 0,
+          "draw_letter": "A",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "A",
+      "draw_hash": "cc5ae2aa396323b74441def3ed07e88d50378b75861b589c645e1c9d086a1b56"
+    },
+    {
+      "question_id": "Q17",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "79e6f41b83212edb447399a6be814c9268cfca015f97cd74d1214bcc5c82af22",
+      "raw_draw": "D",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "8eb41dfac62682dc7c873b2262d39852e34108aa27a1a415c0b968a3005fc4f3",
+          "draw_index": 3,
+          "draw_letter": "D",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "D",
+      "draw_hash": "0a77af078a5529066af76470fe6e0b8a8e8e92d1bbc0e4e6b2385314470afec0"
+    },
+    {
+      "question_id": "Q18",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "a2283bb3bae7a8f47aa64983417103fb7928ea0e602a11cfa656c7826f714882",
+      "raw_draw": "D",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "3660549dad3573ec63284bdfcdab26b0783d77738bb30d6396d25a05013ac1f3",
+          "draw_index": 3,
+          "draw_letter": "D",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "D",
+      "draw_hash": "eedbdfd732219af4264add81d1a2336a75cce187b2f19d6eb33c770cfadd2394"
+    },
+    {
+      "question_id": "Q19",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "4b00c8b0c24882d2bf6fc1ca024cf358c8ed3866c9220d8a40fdb66b911a9b11",
+      "raw_draw": "B",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "2a4aedced4a645e2020834b378955a962e23225ed1b4d47ab045ad9eb73f0bdd",
+          "draw_index": 1,
+          "draw_letter": "B",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "B",
+      "draw_hash": "ffe06ecfc4cccaf940ae3ed79250f5589855bec69ee419125da89a465afdbd77"
+    },
+    {
+      "question_id": "Q20",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "bf7be91df58550cc7af42f8eead28eee691ab6741aa952866943548c9e7893ad",
+      "raw_draw": "D",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "4199e11d194eaf8214f54b21fecf0702158be49576e8b302d6b544e754dc0747",
+          "draw_index": 3,
+          "draw_letter": "D",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "D",
+      "draw_hash": "33fef8cccc24795c98c8937231f518513334bf98b0b1359a054f9c4120508ae9"
+    },
+    {
+      "question_id": "Q21",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "d6d27b6e2c2f88238d97a77e5123447142dd0de3d8d50a471c425586a57da928",
+      "raw_draw": "C",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "3e424a0895a6cafc86ce547959bacb4deefdbb8219c853876b24b2092e400126",
+          "draw_index": 2,
+          "draw_letter": "C",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "C",
+      "draw_hash": "bed1c367fb735c3d25a00ff81822d444c3d2716d7d72e27e0ab1c98184c71e1f"
+    },
+    {
+      "question_id": "Q22",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "73216768cf8c76f29d942af62a19542c02470fc398b4b6aa3e116daaaa6c84f2",
+      "raw_draw": "D",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "27f601fb0ec85278cd69a986165189e33de5bd2c130186e2d16de95ea40ce653",
+          "draw_index": 3,
+          "draw_letter": "D",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "D",
+      "draw_hash": "955cbe5c3018ec580921a00a89b14c4aa692e7cfb3e34bb128b3d9b8bc1d952d"
+    },
+    {
+      "question_id": "Q23",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "ed36b6eb9acc35ea42587d3a3a2e9dc900d0e655568e754677c2f5978cc8c8b2",
+      "raw_draw": "B",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "0c64974c16bca29294f3f308403fec50b527b986d37b3287777905fa15a2ef05",
+          "draw_index": 1,
+          "draw_letter": "B",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "B",
+      "draw_hash": "16ab017d66db0fb13d7ced7b80137b7f1d7ec26d65689bd59881facb0f004a14"
+    },
+    {
+      "question_id": "Q24",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "eae8471e7f8f17c7713bd852aa1615cca3fe854c71033542bf2e72c1f71efbc2",
+      "raw_draw": "C",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "7d7c2e73d1de14ae09e4070f65f293c8e345dbaacc0ba409ca6c822ca354b722",
+          "draw_index": 2,
+          "draw_letter": "C",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "C",
+      "draw_hash": "4982b6bc7aec089879ee4d6dddb03dd40c4438684ed5d8aa6652c653ef5359a9"
+    },
+    {
+      "question_id": "Q25",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "6b33a113b8f560e7346e54b0cd64eb58b135ae0e4eaf0cd3db496d2a22a0b33c",
+      "raw_draw": "D",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "26827dcae88199be0c8dbbe8021c96e925c683b643eb80fe205b1683f3b52667",
+          "draw_index": 3,
+          "draw_letter": "D",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "D",
+      "draw_hash": "d146a5719c4cf4dacdf89280aae7cf46b0d6e8f77cffebd813effeff0776ae8c"
+    },
+    {
+      "question_id": "Q26",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "ba77c265ae49d8a99b5694909d22e580b67aa7d61823febd7a5c5c62d32da0b4",
+      "raw_draw": "D",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "3ec4ab8f31ee3260f4db1c5d52faa7f2d38cf4bfb71269d5b542a92108691ab7",
+          "draw_index": 3,
+          "draw_letter": "D",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "D",
+      "draw_hash": "1ebec7029574750e05d5d01e615bc6ebf0109895407661d68a99ce79a33599e0"
+    },
+    {
+      "question_id": "Q27",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "e6d6de7d979689e0c29f79a64c1a3584a461e5a627044109156d793cda110a98",
+      "raw_draw": "C",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "90ede7de444a1de916cb104763b1a6944ec0e99da14506b3b4be27f0c311665e",
+          "draw_index": 2,
+          "draw_letter": "C",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "C",
+      "draw_hash": "1ed4e23cb745bec90e3a9f1e568e875b7d13f9215215b51576a6398b900bbb6c"
+    },
+    {
+      "question_id": "Q28",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "d04042324982168b1751afedd940f0a53b1bbb366b01cf0a0ce5836acda6f270",
+      "raw_draw": "D",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "cf2c29cb1fbf651ffe8652a47b79a489b28ec90dcedb6736c2dc0d07c0af6cd7",
+          "draw_index": 3,
+          "draw_letter": "D",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "D",
+      "draw_hash": "7e8948331398f86cd515531905994fc9d90731a37aeb72eaa6889f6724331429"
+    },
+    {
+      "question_id": "Q29",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "86b28f3bd13869c218b1050bca05cccc6f7b1535b04b5db397c515704a3ce01b",
+      "raw_draw": "C",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "ed73b1471011f31d55a1171d0817d25d1c1c43a1845aaea308fe64ab47366cd6",
+          "draw_index": 2,
+          "draw_letter": "C",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "C",
+      "draw_hash": "17b7ca8b2547b97a5fd9076e310d0a0a278979b4a0f65e605c327c24ed79b66c"
+    },
+    {
+      "question_id": "Q30",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "d24615a0c9beb4b2ba72afd31c70cfa6161c34b89ae6eb94700f5d8f0281ed0a",
+      "raw_draw": "B",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "6b79b48916a20e689bc2972c910398ab3202e9562c47888185daa89c8f4eb315",
+          "draw_index": 1,
+          "draw_letter": "B",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "B",
+      "draw_hash": "a56ebb2ed343ce0f050a021247b7df984d0b3c2378bd9c479f4e695ff27d5a06"
+    },
+    {
+      "question_id": "Q31",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "76696708ca37722d586e13845fedde51595157ef3e7405b6e436e8cba0131df6",
+      "raw_draw": "A",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "84d1dbbae4e460143931d13aeaba10f2abc7e78ab5c20d7facd4b4082c952134",
+          "draw_index": 0,
+          "draw_letter": "A",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "A",
+      "draw_hash": "548a1ef5c4aadc9ce06efed216193bf1f2b12670685a170638be386fab41ff2a"
+    },
+    {
+      "question_id": "Q32",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "c533fb9fb7d6d6a8a67fcc3bee56d213e57f02ae6b18ab8bcaa358515a217cc6",
+      "raw_draw": "A",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "a6e22271747d93f38799d7991fef042bf30f8b403ce219a834cd0267d5367900",
+          "draw_index": 0,
+          "draw_letter": "A",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "A",
+      "draw_hash": "150e68b00fe82b29d58dbddadf0e8c434d648ad90b5a7a0bffcee0c3d783b580"
+    },
+    {
+      "question_id": "Q33",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "fe7031e76b7f07930c1c4bf2631e37e281c82e96e2183a752487801687af6d43",
+      "raw_draw": "C",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "6b4ab222f39cd2bc566caa0b97bec7b44777b625123d8b0a6aa11f5249f81efa",
+          "draw_index": 2,
+          "draw_letter": "C",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "C",
+      "draw_hash": "0daca15a61b8242bef5cc7cd94f67f39698383c8c029f0b2403bb8af03ae9867"
+    },
+    {
+      "question_id": "Q34",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "2b5247a5db0e485db6775db3eb0a2f77bab54194ccf66d96b5c0cfe1974f8045",
+      "raw_draw": "B",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "f1acd38f3de35b10c32cd8d112f7875faf76ea884b700076e01d5d0af9dd059d",
+          "draw_index": 1,
+          "draw_letter": "B",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "B",
+      "draw_hash": "6845024301ea79e3868defd3d2ea41c16de70de80d1eef1d5f1cfca3eb2a3499"
+    },
+    {
+      "question_id": "Q35",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "e9857489e4df7afb3c7a92925c0fcede9d73306842a68fd687d4e59baed381bf",
+      "raw_draw": "D",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "d77e7cdc49d7986dedfd09e450ae06593dd42009988746b05c1e879417db4c57",
+          "draw_index": 3,
+          "draw_letter": "D",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "D",
+      "draw_hash": "3429d227565407bf537596a1559dc2ed6a388e19a37c51cf729271251af97e0e"
+    },
+    {
+      "question_id": "Q36",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "54d3a426d471fe357dd188389bbc81758a3e9cb9be2818bc6bd2382caf2f5ee0",
+      "raw_draw": "C",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "cd84e7a6856f0653067270a6be091236ddc67b59a425ff34879d62dfcc9c911a",
+          "draw_index": 2,
+          "draw_letter": "C",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "C",
+      "draw_hash": "19cc4760f8ab05046bac77fff002673ae80656c9b0a8152b4879ec9b3e5d44f0"
+    },
+    {
+      "question_id": "Q37",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "94430ffda0755caa5680add5300654ea3d1c2135ad7d2a31cdfe367480fc4404",
+      "raw_draw": "C",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "6c46d9d275c85960261ac71bdcdaafac1e4a5e592eebb5856e59feca7f9c180e",
+          "draw_index": 2,
+          "draw_letter": "C",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "C",
+      "draw_hash": "2e4eab7a68f2892e16931ef57371cd3da6b5caf0e55247de366f34f648da82e5"
+    },
+    {
+      "question_id": "Q38",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "d424fa17cb497ffc0b04d82409d90664e6f4b8e946b8d42426bb1330c445ba43",
+      "raw_draw": "A",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "d07acdc2771b27371629d2ffdd2061771375d7710d29eda0def8113f5886c928",
+          "draw_index": 0,
+          "draw_letter": "A",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "A",
+      "draw_hash": "04592c4440de0d0346a50cd9db8a667b5f46bbb05a93a6c0e602e615a2190b8f"
+    },
+    {
+      "question_id": "Q39",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "6e8492233329a41ecfc80667d62c630fc4ed5615d0be5d5b08bf852862a14aba",
+      "raw_draw": "D",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "fe879082e7cee06946b309f1f6cba9fbc48d3c81bcffe6a7db4da5eb2052fe23",
+          "draw_index": 3,
+          "draw_letter": "D",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "D",
+      "draw_hash": "b692f31259fa598baf4b9b910076aee316a22f9f703b19ba468923453f120f46"
+    },
+    {
+      "question_id": "Q40",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "ded28ce9712240f41a20bc556f6831366b1e03b66066eaaeef0ed59ce58b22b0",
+      "raw_draw": "B",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "4602dbc19f056b7f83be8b10c50ada928109064f44e7481baa4ac59b3e3d5025",
+          "draw_index": 1,
+          "draw_letter": "B",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "B",
+      "draw_hash": "9c43c9daac71ccecd76c46f68d99954d87343129030878f98ea93646e0ff152a"
+    },
+    {
+      "question_id": "Q41",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "b823573045f45be20729453a561e48614042034f5ee0ae0e411c280dcc04a2c6",
+      "raw_draw": "D",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "1587e1800d7fff9c3d7e3e71170a6a969e45894f93b246558b2dfc011a45caab",
+          "draw_index": 3,
+          "draw_letter": "D",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "D",
+      "draw_hash": "2e3af9bd970718241475318016b7cd46542d0d8ee7641a0a8d2e4e9f8767ada1"
+    },
+    {
+      "question_id": "Q42",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "6c91a86b5c33652188e4995dc5dfdea84f5cbd3b866faceedacd6fae3a8bf995",
+      "raw_draw": "C",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "5c7c7e82e0bfd78882f62ff486021eff9d3fc2ac6ca9f2b39b87579632fd6622",
+          "draw_index": 2,
+          "draw_letter": "C",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "C",
+      "draw_hash": "e5ebd68cfdcac962a786f06b49e87ed139cbc878fb06c11cc0e05c6e309c016d"
+    },
+    {
+      "question_id": "Q43",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "f18fb837b55eb65df7d0ecda4960913c73f256e165933c2dca58d55daeca02bf",
+      "raw_draw": "D",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "c514ae16318aec7b91d972872a0575cd4e0588b7c16d12f2a2e49065d67e73a3",
+          "draw_index": 3,
+          "draw_letter": "D",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "D",
+      "draw_hash": "3157955671dfe7e44479506601eb193a8de79b2feaaa462c56bc82f578bad9e8"
+    },
+    {
+      "question_id": "Q44",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "fb4a948e907c0f8b94738178bf426887e1a94d78ed76d3659be20c85226767f0",
+      "raw_draw": "A",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "e8359843ab198287fd534c8546b6998b529cb4a68b44cf6b797f91f94c23d87c",
+          "draw_index": 0,
+          "draw_letter": "A",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "A",
+      "draw_hash": "d67d9df13e3e9da6671d0df9b411df6dc98eefd295c81de81e1c59d7bc8dcbc8"
+    },
+    {
+      "question_id": "Q45",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "2eabc0023876f7bbc248de283909d44e72f2ac5d56925b7abbb5c05728e0aed9",
+      "raw_draw": "C",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "568ce48423e60dd0ef77f75f5d6ee1b11626fe359e6a527899ca069fcd18e772",
+          "draw_index": 2,
+          "draw_letter": "C",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "C",
+      "draw_hash": "05174a847d44bdb3404e411b514ddb0450cbb73d27764533f622d0dfc04582d9"
+    },
+    {
+      "question_id": "Q46",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "ab2b57d0d16bce45fca7419a9f30454f7130e2b0113e1b153889e88c755bac89",
+      "raw_draw": "D",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "632ae72123d6b6a90b5699ea25236c25394d85a7ef7be8907619e936fa1fb2af",
+          "draw_index": 3,
+          "draw_letter": "D",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "D",
+      "draw_hash": "8670cd8d3b5f8fd02d8af8e30cb4cc06bf2e21d5cdd244beaf0b3b63aed289ed"
+    },
+    {
+      "question_id": "Q47",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "f67ac20976cbadf5f25f01b2c67a8a57e3eb8a9619872b2e3edf592e456c0a36",
+      "raw_draw": "A",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "c62e16d01b7e9bc07b5cf2805839a098c65b1613129b5097ad7b22996dd606bc",
+          "draw_index": 0,
+          "draw_letter": "A",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "A",
+      "draw_hash": "ba400a415ffd1c685eb3c5a2630fdeb0b3836e6985ac77238c15bbf7f0f7dd73"
+    },
+    {
+      "question_id": "Q48",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "6c2ba32fac9da1c2ee5e83b8929decb8d672b570f92fcc4434b813790e4ed0b7",
+      "raw_draw": "D",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "eb8315e7c16bb214e3397f98e97d112dbeeda37d20599d7450bf1faca11cd397",
+          "draw_index": 3,
+          "draw_letter": "D",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "D",
+      "draw_hash": "83568dfa95d551733d4116d8becaba9d6ca34ee74a54702f5446f70a8f221176"
+    },
+    {
+      "question_id": "Q49",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "82dc76baa108c5955aa820a9df6e5598f8c3c1dae430db2f34695158485848ac",
+      "raw_draw": "C",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "1d8058152e5b15e427f41a5944f95e06322d5f73905f00ae89a8190a2dca90d2",
+          "draw_index": 2,
+          "draw_letter": "C",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "C",
+      "draw_hash": "485e3ee1ceeb7360c32df326490c37be492aec59cefe5a3e0fa14f65094b8f08"
+    },
+    {
+      "question_id": "Q50",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "4d9399e1a0e8a3087750ab6eba50f55fecb48df06ba3af28d325424e0f97047a",
+      "raw_draw": "B",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "8b51610fecdf4f3fb27a2e8bd25423c365f442b54a36b83193b5006ca6a7dead",
+          "draw_index": 1,
+          "draw_letter": "B",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "B",
+      "draw_hash": "f09ef7db582d79b2ff7904e9ce22121de2e8825cf1c3a19d16a58e8b64b16cef"
+    },
+    {
+      "question_id": "Q51",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "47bdb1eaa70e29a7318dd5773fe87745d3e181e8f55d4a2f1acca48eb47a7913",
+      "raw_draw": "C",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "93fd073c1ff4c503c1b90d043a6de2fff065350f0a95087180d0fc79ecfc4552",
+          "draw_index": 2,
+          "draw_letter": "C",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "C",
+      "draw_hash": "d9a1f3d1ef95c4bd52fdb4ce5eed4db8adb727087107935ccaca0d22aa99d67d"
+    },
+    {
+      "question_id": "Q52",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "f2ae532a0379239779241c46b0c3f3b8fd654ec2955723d66c14c3eaa49885fa",
+      "raw_draw": "B",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "d60898e80750f0fa0c3edb4ed9e92d5072b94fe8f6c430e6406d1d3d4327c8a9",
+          "draw_index": 1,
+          "draw_letter": "B",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "B",
+      "draw_hash": "febb7dc5f76736180e249f07ed64a01e39d1d493b18f0811a5c0f5dd40f1b034"
+    },
+    {
+      "question_id": "Q53",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "c51e86d113eb105fb3bfc86785700eb7582234cdf6cd6559498e8a15794d3645",
+      "raw_draw": "A",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "3a1fe7fbb28e871be464becc832c92fb70131dfd2e9f634623fdbac458a47640",
+          "draw_index": 0,
+          "draw_letter": "A",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "A",
+      "draw_hash": "24a4ce6c6c5f8a526fa607401d2959e08ce237ed0c8f68e970f31b36c513db09"
+    },
+    {
+      "question_id": "Q54",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "3180efc8f500222e2ce34c1336c23cecb865d7f39d547dbd141f3a1858bb8afa",
+      "raw_draw": "A",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "97daa1cc4e52799e6cec506089ef049a929df23e9a9dfc802e68d5e4fd77b498",
+          "draw_index": 0,
+          "draw_letter": "A",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "A",
+      "draw_hash": "c7db5e0ac5bb239a2064eb0de4647df9c44551ad66cab9e16b99e6bab07f4c79"
+    },
+    {
+      "question_id": "Q55",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "53db293df6d4d138a97a1268c57017fa90f19db76f1d4fc0f448c3efbf9e5b53",
+      "raw_draw": "A",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "610240fd6be76838bee119ba5410509b88fc04d536dd7d1a383db3c31da8b718",
+          "draw_index": 0,
+          "draw_letter": "A",
+          "rejected": true,
+          "rejection_reasons": [
+            "max_run_two"
+          ]
+        },
+        {
+          "attempt": 1,
+          "digest": "86f1bc3ee1a4c06d37ba470cf3ace7f9a6eafbbda590cb9c9236ca51d5b48ea0",
+          "draw_index": 0,
+          "draw_letter": "A",
+          "rejected": true,
+          "rejection_reasons": [
+            "max_run_two"
+          ]
+        },
+        {
+          "attempt": 2,
+          "digest": "726e196204f2267f978bdf1d3415b3e532f2884854c399d42d8aec680537bb36",
+          "draw_index": 2,
+          "draw_letter": "C",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [
+        {
+          "attempt": 0,
+          "digest": "610240fd6be76838bee119ba5410509b88fc04d536dd7d1a383db3c31da8b718",
+          "draw_index": 0,
+          "draw_letter": "A",
+          "rejected": true,
+          "rejection_reasons": [
+            "max_run_two"
+          ]
+        },
+        {
+          "attempt": 1,
+          "digest": "86f1bc3ee1a4c06d37ba470cf3ace7f9a6eafbbda590cb9c9236ca51d5b48ea0",
+          "draw_index": 0,
+          "draw_letter": "A",
+          "rejected": true,
+          "rejection_reasons": [
+            "max_run_two"
+          ]
+        }
+      ],
+      "final_placement": "C",
+      "draw_hash": "d5a8840278de32f6cd7cd9415ffe7919bfe2071574ca696d8fdab15e7b3d5372"
+    },
+    {
+      "question_id": "Q56",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "15e87871d0b7308604234739980fb3d419f62b94e2290cbd2d03c4d96dcf931f",
+      "raw_draw": "A",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "cac05bdf76450c41862a39529eff63340e247035e889ea2813d1156714fbb990",
+          "draw_index": 0,
+          "draw_letter": "A",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "A",
+      "draw_hash": "4437c291a10e775ad32e984b632d4e2bc3016155996e669a1a2d26f5910153d8"
+    },
+    {
+      "question_id": "Q57",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "ed39193b3c0c77cb11ad0dd541e1b551d649832f94e9890c28f99b4a25222a33",
+      "raw_draw": "C",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "4ffe38fb8112e870ad34c293608a7069d40ce7ce1972d1d05db8a6f5c3e7c07e",
+          "draw_index": 2,
+          "draw_letter": "C",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "C",
+      "draw_hash": "e06b8aedac83aa63af90f3a48a47c24edf800ef2f2284b097b621c245c77a1e7"
+    },
+    {
+      "question_id": "Q58",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "fb85af4e33a9c97f3e4bf8ad06238b11c96fb3a69d9992d08a3fdbd986edb0fe",
+      "raw_draw": "B",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "9b63e553bbe95fb3ad3a0b462f9718cd62f28449bea5478ef464175b37e04865",
+          "draw_index": 1,
+          "draw_letter": "B",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "B",
+      "draw_hash": "f657598ccbb3d77fc5108834598ab8f9624a5c55b528c932c780ceeca0d8a342"
+    },
+    {
+      "question_id": "Q59",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "5a4469432c8a3ab5c6c2506dd772affa670a1b0fa43d8007edf28484c64ce4f9",
+      "raw_draw": "C",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "b366a258303674fb410adf55349a2cd954ec2c5ea5ef7d7a080eeee7169f6c1e",
+          "draw_index": 2,
+          "draw_letter": "C",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "C",
+      "draw_hash": "54fbe5692a074d3ddbfc728cf36bf06b3729b4b6275bd0c38410d3bf58711eb1"
+    },
+    {
+      "question_id": "Q60",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "753b9133e46bf64a5249cb5d7324aca892a56f6550093f6f44863d2b7bec25de",
+      "raw_draw": "C",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "0f4cdf66d9eb72bfcca0bd28b18c55eb6c18d81fb1dc618e8c0856be0337808e",
+          "draw_index": 2,
+          "draw_letter": "C",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "C",
+      "draw_hash": "47601c2299700b92dea641d777c19b10b54d16d6b6b4ef06429a492b1c9eb8b1"
+    },
+    {
+      "question_id": "Q61",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "2bd6565585eefe4707bfcce17ad4705dc45c8af9d991f2c5feb3c931cf5bb927",
+      "raw_draw": "C",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "886f5c4f201e52499940fd56c8f837b5e5f9b1c860ae581cbcdc1429a14ba1d6",
+          "draw_index": 2,
+          "draw_letter": "C",
+          "rejected": true,
+          "rejection_reasons": [
+            "max_run_two"
+          ]
+        },
+        {
+          "attempt": 1,
+          "digest": "1306683d83626513ce424e4ea7ee3e0dbbc06a41767bf60f47b9bd38f424587d",
+          "draw_index": 1,
+          "draw_letter": "B",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [
+        {
+          "attempt": 0,
+          "digest": "886f5c4f201e52499940fd56c8f837b5e5f9b1c860ae581cbcdc1429a14ba1d6",
+          "draw_index": 2,
+          "draw_letter": "C",
+          "rejected": true,
+          "rejection_reasons": [
+            "max_run_two"
+          ]
+        }
+      ],
+      "final_placement": "B",
+      "draw_hash": "5a0771522d3319298f4e39fef00bfbf24b702a773cda66ff8853d31bdf77df70"
+    },
+    {
+      "question_id": "Q62",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "bfbbe3233ee28f8ca3b561b09ac5974aedfad29d314c1c5001ff13ff5953652b",
+      "raw_draw": "B",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "628770e1fa50837481c68649f2d6b83c0a355d4a4795604816b35fff5e996835",
+          "draw_index": 1,
+          "draw_letter": "B",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "B",
+      "draw_hash": "f08d5535efc41c7dd93794a4d97c74238ccb8f327f17728bb0f03a1575a8151c"
+    },
+    {
+      "question_id": "Q63",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "e004e0678969f82c05ded1d78f1990880a922e4e788a4d242e0e5c7b8a104696",
+      "raw_draw": "D",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "a14c2c26978ead5dcc89c658c45a4c7d89408935b3b409eb0ae52c8a517ddff3",
+          "draw_index": 3,
+          "draw_letter": "D",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "D",
+      "draw_hash": "71f23727adbf6e4e86e41540b683f6422f2aa389ad82981782bcdd6f14a25918"
+    },
+    {
+      "question_id": "Q64",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "19e061ff4c525d3ce5967457d98feeebc7da90838764d68b798918c6b6c345b5",
+      "raw_draw": "D",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "0e1f6fa03bdfb79f71587db18688268aef0be431865d34302187fd7b6966657b",
+          "draw_index": 3,
+          "draw_letter": "D",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "D",
+      "draw_hash": "c366e92509c7abbeadf0e851c19ddc8516e9daf64db22afffc43e390a9dffdb7"
+    },
+    {
+      "question_id": "Q65",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "28af87bdd382c470aff1ae47bd887119be59cb102e0df7989285b4cae3f51b95",
+      "raw_draw": "A",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "f664bf2e7d7c09cceb1db595f87057bfce94dfe6c1dc6c34a245a3ae0c441fb4",
+          "draw_index": 0,
+          "draw_letter": "A",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "A",
+      "draw_hash": "a44d7ca8586b3772e7f3f739092406326e16056bc3cfcb1bda6d64c05363f8f8"
+    },
+    {
+      "question_id": "Q66",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "dceea295ad0e785c6790260ba5c2bd122710f47dad39d9eeac7f74bf161151e2",
+      "raw_draw": "C",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "20b5204b03fb44ca4bf8af66b85e0f424d7177b958458893c2cfaad54fa4417a",
+          "draw_index": 2,
+          "draw_letter": "C",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "C",
+      "draw_hash": "266b8fb87fc9f20b02d1b187708d46c324b74831cdb9ff5185ac7b9b9246800c"
+    },
+    {
+      "question_id": "Q67",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "8a1de89967f43ce263ae0b2a211fe89cf8bcc893c20cab0ef8e525dab62cadd3",
+      "raw_draw": "C",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "efaa0996255ad4ec3e28dd28816fc68b013b3aa1a6ca810c21eb1fec355bb6ae",
+          "draw_index": 2,
+          "draw_letter": "C",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "C",
+      "draw_hash": "1efc78de7279089347cbf52596696bc0317e609e007471cdcba519fdc52e8916"
+    },
+    {
+      "question_id": "Q68",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "83e527523afc26cb0063e0e1db8b0b0117dece938aa8a849fc239c48d3b22014",
+      "raw_draw": "D",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "9bd21effccb3a6473d590f76d7f42cff0924b0e959ccb01e9b35126763a01b8b",
+          "draw_index": 3,
+          "draw_letter": "D",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "D",
+      "draw_hash": "55a9823a52eba75a28ec92ba03e1cc970bd841bd21dad46295bcbb1311089f7a"
+    },
+    {
+      "question_id": "Q69",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "2224c6f6c319de769dc265419940b8cc2c1a88e2150acded77d2592d0fa1a6c6",
+      "raw_draw": "B",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "c25f453e1f34226931ae7b1b9a40f4e63589fac78f376e76f7c9b296d903f819",
+          "draw_index": 1,
+          "draw_letter": "B",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "B",
+      "draw_hash": "b20e68fd7eaca8efec8352e705300026d0524ca36866d9119c6ecfe8c13f891e"
+    },
+    {
+      "question_id": "Q70",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "0182faa85e224f73edcee0397c9cf3a4757caf1a69f2f20412fdba000625f7aa",
+      "raw_draw": "D",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "1624c27de76ac12bdedd1015c9873c8fdba9e1c6e637da9d95d4cb579edff647",
+          "draw_index": 3,
+          "draw_letter": "D",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "D",
+      "draw_hash": "f80c906a77ffc4a044dda6d7f38461447d91b8b53c94a43e8a3114828a32ad2b"
+    },
+    {
+      "question_id": "Q71",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "df3deced1580aa61501f210cf20af0906a182c129f38544e5f9081b45f26d92b",
+      "raw_draw": "D",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "3004d4acefe1b6bb8d018784211c107f0f399ec01e77a15e7e0a4115636ffd4f",
+          "draw_index": 3,
+          "draw_letter": "D",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "D",
+      "draw_hash": "fcb1eac398548437ca36d7f1dfc992b05d9791fc8ffabc4f795db47d5f8026aa"
+    },
+    {
+      "question_id": "Q72",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "7f1b3ba46150adae1c8c0e02c0f419d1fb79668cf4c629f528cde976de5a1f7f",
+      "raw_draw": "B",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "aa5f1c83439aa3405e9ab176f8c3a42d4f02e5ba0a958e6919fa2fd571061ea1",
+          "draw_index": 1,
+          "draw_letter": "B",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "B",
+      "draw_hash": "ac9c4b69fe6d5134426428c80bbc3ca87643a6025a314e44951c43a886021054"
+    },
+    {
+      "question_id": "Q73",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "1a1349906ba6670b63f306668e8075b78841ed418c7f368e0626768ff81a38df",
+      "raw_draw": "D",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "909232e887bfb9a6f8c00bd353e7382ba189e689d820120e9fb6a9a2d6fafb53",
+          "draw_index": 3,
+          "draw_letter": "D",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "D",
+      "draw_hash": "09a466f4ef444e051e1f307baef445392b0cd1ea17c695c8bc94f3d657d69918"
+    },
+    {
+      "question_id": "Q74",
+      "algorithm_version": "sha256-rejection-v1",
+      "seed_policy": "sha256('samkhya-answer-position-v1|' + stable_question_id)",
+      "seed": "b944ca02fb1786fedd89b81ceabfe5dc65aab7e5b56827224f73151d285e5420",
+      "raw_draw": "B",
+      "attempts": [
+        {
+          "attempt": 0,
+          "digest": "98dfafa1dbb8dccfa9eead2b400ee9079127cb957bba20aa066fdcac3850a279",
+          "draw_index": 1,
+          "draw_letter": "B",
+          "rejected": false,
+          "rejection_reasons": []
+        }
+      ],
+      "rejection_log": [],
+      "final_placement": "B",
+      "draw_hash": "d6e82ff035855f9fb642ddf358f020c48d18af6299e38960ccc619527e780dd3"
+    }
+  ],
+  "option_cues": {
+    "maximum_word_length_ratio": 2.667,
+    "threshold": 3.5,
+    "format_mismatches": 0,
+    "specificity_flags": 0,
+    "lexical_key_flags": 0
+  },
+  "mapping_scope": "question_title_plus_stem_plus_keyed_correct_option_plus_keyed_explanation_only",
+  "distractors_may_not_supply_primary_mapping": true,
+  "redundant_stem_groups": []
+}

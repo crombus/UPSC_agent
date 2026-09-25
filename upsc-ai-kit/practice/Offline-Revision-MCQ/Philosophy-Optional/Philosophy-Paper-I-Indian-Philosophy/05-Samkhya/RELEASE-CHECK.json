@@ -1,0 +1,184 @@
+{
+  "schema_version": 3,
+  "topic": "05 Samkhya",
+  "validated_at": "2026-09-25T00:40:07+05:30",
+  "mode": "release",
+  "state": "FAIL",
+  "release_ready": false,
+  "pdf_validation": "not_requested",
+  "release_blockers": [
+    "RELEASE_NOT_STAGED"
+  ],
+  "checks": {
+    "required_files": 31,
+    "pdf_validation": "not_requested",
+    "source_artifacts": 29,
+    "source_identities": 8,
+    "formal_session_blocks": 279,
+    "formal_workbook_blocks": 58,
+    "canonical_blocks": 122,
+    "supplementary_units": 9,
+    "panels": 97,
+    "master_flow_panels": 14,
+    "advanced_modules": 3,
+    "register_sections": 14,
+    "workbook_diagnostics": 32,
+    "large_leaves": 55,
+    "large_leaf_segments": 123,
+    "raw_propositions": 2721,
+    "unique_propositions": 2497,
+    "duplicate_occurrences": 224,
+    "duplicate_groups": 222,
+    "excluded_coordinates": 1762,
+    "source_proposition_breakdown": {
+      "formal_session": {
+        "raw": 1930,
+        "unique": 1912,
+        "duplicate_occurrences": 18,
+        "duplicate_groups": 18,
+        "excluded": 1114,
+        "excluded_reason_counts": {
+          "heading_coordinate": 281,
+          "table_header_scaffolding": 29,
+          "table_separator": 29,
+          "package_composition_metadata": 10,
+          "answer_key_coordinate": 74,
+          "fence_coordinate": 60,
+          "diagram_border": 120,
+          "diagram_column_header": 50,
+          "symbol_fragment": 45,
+          "visual_label_coordinate": 22,
+          "blank_or_fence": 82,
+          "mcq_option_coordinate": 264,
+          "yaml_or_separator": 18,
+          "diagram_heading_coordinate": 14,
+          "panel_label_coordinate": 14,
+          "boundary_caption_coordinate": 1,
+          "parenthetical_routing_instruction": 1
+        }
+      },
+      "formal_workbook": {
+        "raw": 197,
+        "unique": 196,
+        "duplicate_occurrences": 1,
+        "duplicate_groups": 1,
+        "excluded": 401,
+        "excluded_reason_counts": {
+          "heading_coordinate": 58,
+          "package_composition_metadata": 3,
+          "mcq_option_coordinate": 256,
+          "answer_key_coordinate": 64,
+          "table_header_scaffolding": 1,
+          "table_separator": 1,
+          "yaml_or_separator": 18
+        }
+      },
+      "canonical": {
+        "raw": 519,
+        "unique": 519,
+        "duplicate_occurrences": 0,
+        "duplicate_groups": 0,
+        "excluded": 179,
+        "excluded_reason_counts": {
+          "heading_coordinate": 122,
+          "fence_coordinate": 10,
+          "blank_or_fence": 5,
+          "visual_label_coordinate": 3,
+          "answer_key_coordinate": 1,
+          "table_header_scaffolding": 18,
+          "table_separator": 18,
+          "symbol_fragment": 2
+        }
+      },
+      "supplementary_layered": {
+        "raw": 75,
+        "unique": 75,
+        "duplicate_occurrences": 0,
+        "duplicate_groups": 0,
+        "excluded": 67,
+        "excluded_reason_counts": {
+          "heading_coordinate": 8,
+          "fence_coordinate": 18,
+          "diagram_column_header": 1,
+          "symbol_fragment": 16,
+          "blank_or_fence": 5,
+          "table_header_scaffolding": 5,
+          "table_separator": 5,
+          "visual_label_coordinate": 8,
+          "answer_or_explanation_coordinate": 1
+        }
+      },
+      "supplementary_workbook": {
+        "raw": 0,
+        "unique": 0,
+        "duplicate_occurrences": 0,
+        "duplicate_groups": 0,
+        "excluded": 1,
+        "excluded_reason_counts": {
+          "heading_coordinate": 1
+        }
+      }
+    },
+    "classification_hash": "b15cfaf9d0c744f7e2fbd0ff8a2d6f1b78690476b265404680248f5126efb07e",
+    "obligation_count": 2683,
+    "obligation_classifications": {
+      "supporting_non_testable_context": 2402,
+      "testable_atomic": 56,
+      "normalized_duplicate": 224,
+      "routed_boundary": 1
+    },
+    "classification_categories": {
+      "explanatory_elaboration": 1564,
+      "answer_writing_meta_instruction": 136,
+      "contextual_chronology": 83,
+      "example_or_analogy": 94,
+      "non_atomic_composite": 261,
+      "repeated_implication": 63,
+      "core_doctrine_discriminator": 21,
+      "evolutionary_sequence_discriminator": 7,
+      "evaluative_qualification": 73,
+      "source_or_citation_note": 92,
+      "source_boundary_discriminator": 3,
+      "critical_contrast_discriminator": 10,
+      "soteriological_discriminator": 5,
+      "causal_doctrine_discriminator": 3,
+      "argument_structure_discriminator": 3,
+      "epistemic_discriminator": 4,
+      "duplicate_route": 224,
+      "empty_structural_block": 36,
+      "cross_topic_boundary_route": 1
+    },
+    "authority_derivation_question_independent": true,
+    "validator_builder_imports": [],
+    "represented_mandatory_formal_blocks": 337,
+    "matrix_cells": 61,
+    "mcq_total": 67,
+    "answer_distribution": {
+      "A": 15,
+      "B": 14,
+      "C": 20,
+      "D": 18
+    },
+    "testable_obligations": 56,
+    "max_answer_run": 2,
+    "short_cycle_count": 0,
+    "answer_rejections": 3,
+    "option_max_length_ratio": 2.667,
+    "option_format_flags": 0,
+    "option_specificity_flags": 0,
+    "option_lexical_flags": 0,
+    "repeated_wrong_explanation_fragments": 0,
+    "repeated_examiner_traps": 0,
+    "primary_pyqs": 12,
+    "supporting_pyqs": 3,
+    "original_timed_models": 6,
+    "model_answers_independently_counted": 18,
+    "git_normalized_staged_files": 0
+  },
+  "errors": [
+    {
+      "code": "RELEASE_NOT_STAGED",
+      "detail": "32 package files absent/different in index"
+    }
+  ]
+}

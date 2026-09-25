@@ -19,6 +19,30 @@
       "registered_at_utc": "2026-09-25T01:45:52+00:00"
     },
     {
+      "source_id": "src-0a66c3fd579663e279648de8",
+      "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/05-Samkhya",
+      "authority_role": "verified-pyq",
+      "permitted_scope": "topic-local source role only; no ownership transfer",
+      "path": "C:\\up\\upsc-ai-kit\\practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Indian-Philosophy\\05-Samkhya\\source-snapshots\\pyq-2026.md",
+      "sha256": "1e3b86dbf301bf929851ecc39f1b8585485707cd19fc7a2168861bbb142a8806",
+      "bytes": 8502,
+      "provenance": "Hash-bound package source artifact: source-snapshots/pyq-2026.md",
+      "rights": "Inherited from the recorded source artifact; verify before redistribution",
+      "registered_at_utc": "2026-09-25T02:54:47+00:00"
+    },
+    {
+      "source_id": "src-1b268e51a3e106bf07ee1f56",
+      "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/05-Samkhya",
+      "authority_role": "canonical",
+      "permitted_scope": "topic-local source role only; no ownership transfer",
+      "path": "C:\\up\\upsc-ai-kit\\practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Indian-Philosophy\\05-Samkhya\\source-snapshots\\canonical-Samkhya.md",
+      "sha256": "d9b680bec22968d42ee41cb4acd6fc7bb9803deec4202afcd6aecd553cb9231d",
+      "bytes": 76403,
+      "provenance": "Hash-bound package source artifact: source-snapshots/canonical-Samkhya.md",
+      "rights": "Inherited from the recorded source artifact; verify before redistribution",
+      "registered_at_utc": "2026-09-25T02:54:47+00:00"
+    },
+    {
       "source_id": "src-293dd51256a070b2aaa96888",
       "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/06-Yoga",
       "authority_role": "formal",
@@ -55,6 +79,18 @@
       "registered_at_utc": "2026-09-25T01:45:52+00:00"
     },
     {
+      "source_id": "src-3dafa6262786db207d5f1333",
+      "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/05-Samkhya",
+      "authority_role": "formal",
+      "permitted_scope": "topic-local source role only; no ownership transfer",
+      "path": "C:\\up\\upsc-ai-kit\\practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Indian-Philosophy\\05-Samkhya\\source-snapshots\\formal-Learning-Session.md",
+      "sha256": "f847272fd032151fda3be9aa36267134ab32b51743792111ca1e8e8cfa66928c",
+      "bytes": 335992,
+      "provenance": "Hash-bound package source artifact: source-snapshots/formal-Learning-Session.md",
+      "rights": "Inherited from the recorded source artifact; verify before redistribution",
+      "registered_at_utc": "2026-09-25T02:54:47+00:00"
+    },
+    {
       "source_id": "src-47093a61bd98d6f2dbc989aa",
       "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/06-Yoga",
       "authority_role": "supplementary",
@@ -77,6 +113,18 @@
       "provenance": "Hash-bound package source artifact: source-snapshots/formal-Learning-Session.md",
       "rights": "Inherited from the recorded source artifact; verify before redistribution",
       "registered_at_utc": "2026-09-25T01:45:52+00:00"
+    },
+    {
+      "source_id": "src-789f4ae39f4a2a6f5bfce3cf",
+      "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/05-Samkhya",
+      "authority_role": "supplementary",
+      "permitted_scope": "topic-local source role only; no ownership transfer",
+      "path": "C:\\up\\upsc-ai-kit\\practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Indian-Philosophy\\05-Samkhya\\source-snapshots\\supplementary-solved-workbook.md",
+      "sha256": "8ba05769015037e853949260bf70375895da445ca589fcde3873b70ac7953ea1",
+      "bytes": 30686,
+      "provenance": "Hash-bound package source artifact: source-snapshots/supplementary-solved-workbook.md",
+      "rights": "Inherited from the recorded source artifact; verify before redistribution",
+      "registered_at_utc": "2026-09-25T02:54:47+00:00"
     },
     {
       "source_id": "src-950414ea6939e4626ebabe99",
@@ -103,6 +151,30 @@
       "registered_at_utc": "2026-09-25T01:45:52+00:00"
     },
     {
+      "source_id": "src-c2892d57872eff7730bc9507",
+      "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/05-Samkhya",
+      "authority_role": "supplementary",
+      "permitted_scope": "topic-local source role only; no ownership transfer",
+      "path": "C:\\up\\upsc-ai-kit\\practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Indian-Philosophy\\05-Samkhya\\source-snapshots\\supplementary-layered-session.md",
+      "sha256": "557f5e83ec8de59d2dc725f67a8888838af1595d0136b6a758b435c6ec9d5267",
+      "bytes": 121518,
+      "provenance": "Hash-bound package source artifact: source-snapshots/supplementary-layered-session.md",
+      "rights": "Inherited from the recorded source artifact; verify before redistribution",
+      "registered_at_utc": "2026-09-25T02:54:47+00:00"
+    },
+    {
+      "source_id": "src-d5f183638dc3519c3e2aa99b",
+      "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/05-Samkhya",
+      "authority_role": "verified-pyq",
+      "permitted_scope": "topic-local source role only; no ownership transfer",
+      "path": "C:\\up\\upsc-ai-kit\\practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Indian-Philosophy\\05-Samkhya\\source-snapshots\\pyq-2018-2025.md",
+      "sha256": "c7b556c7b4b750943b7b5f0ac94273664a46c6c75f1c444ae2d953fd77d34eec",
+      "bytes": 25796,
+      "provenance": "Hash-bound package source artifact: source-snapshots/pyq-2018-2025.md",
+      "rights": "Inherited from the recorded source artifact; verify before redistribution",
+      "registered_at_utc": "2026-09-25T02:54:47+00:00"
+    },
+    {
       "source_id": "src-d8dc3db01b2d0db0a946eeb8",
       "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/06-Yoga",
       "authority_role": "user-approved-primary",
@@ -115,6 +187,18 @@
       "registered_at_utc": "2026-09-25T01:45:52+00:00"
     },
     {
+      "source_id": "src-dad41eaa32e77c722210ca8e",
+      "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/05-Samkhya",
+      "authority_role": "supplementary",
+      "permitted_scope": "topic-local source role only; no ownership transfer",
+      "path": "C:\\up\\upsc-ai-kit\\practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Indian-Philosophy\\05-Samkhya\\source-snapshots\\supplementary-complete-session.md",
+      "sha256": "ad12780073758aba7b443db1b45a289801076c6f22dfc4ac17212068d38f9ab7",
+      "bytes": 99158,
+      "provenance": "Hash-bound package source artifact: source-snapshots/supplementary-complete-session.md",
+      "rights": "Inherited from the recorded source artifact; verify before redistribution",
+      "registered_at_utc": "2026-09-25T02:54:47+00:00"
+    },
+    {
       "source_id": "src-df6c43cd38389fc0f2d99162",
       "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/06-Yoga",
       "authority_role": "canonical",
@@ -125,7 +209,19 @@
       "provenance": "Hash-bound package source artifact: source-snapshots/canonical-Yoga.md",
       "rights": "Inherited from the recorded source artifact; verify before redistribution",
       "registered_at_utc": "2026-09-25T01:45:52+00:00"
+    },
+    {
+      "source_id": "src-fab4a98e85b7bb0a65e8b7da",
+      "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/05-Samkhya",
+      "authority_role": "formal",
+      "permitted_scope": "topic-local source role only; no ownership transfer",
+      "path": "C:\\up\\upsc-ai-kit\\practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Indian-Philosophy\\05-Samkhya\\source-snapshots\\formal-Solved-Practice-Workbook.md",
+      "sha256": "9bb5a8b8ce3951946af54d2d86ad10538e3009ba2528a9a83bd98c0117a3d482",
+      "bytes": 89666,
+      "provenance": "Hash-bound package source artifact: source-snapshots/formal-Solved-Practice-Workbook.md",
+      "rights": "Inherited from the recorded source artifact; verify before redistribution",
+      "registered_at_utc": "2026-09-25T02:54:47+00:00"
     }
   ],
-  "updated_at_utc": "2026-09-25T01:45:52+00:00"
+  "updated_at_utc": "2026-09-25T02:54:47+00:00"
 }

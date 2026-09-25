@@ -1,0 +1,377 @@
+{
+  "schema_version": 3,
+  "latest_repository_year": 2026,
+  "primary_count": 12,
+  "supporting_count": 3,
+  "formal_pre_2026_corpus": {
+    "primary_count": 10,
+    "routed_count": 3,
+    "total": 13
+  },
+  "verified_ledger_additions_2026": {
+    "primary_count": 2,
+    "questions": [
+      "Q5(c)",
+      "Q6(a)"
+    ]
+  },
+  "authority": {
+    "2018_2025": {
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md",
+      "sha256": "c7b556c7b4b750943b7b5f0ac94273664a46c6c75f1c444ae2d953fd77d34eec",
+      "bytes": 25796
+    },
+    "2026": {
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2026.md",
+      "sha256": "1e3b86dbf301bf929851ecc39f1b8585485707cd19fc7a2168861bbb142a8806",
+      "bytes": 8502
+    }
+  },
+  "scan_ocr_evidence": {
+    "ledger_claim": "2018 and 2020 OCR-repaired papers checked against images; clean official copies control 2022–2023; 2026 wording transcribed from official OCR.",
+    "located_2026_scan": {
+      "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\new_papers\\QP-CSM-26-010926-Optional-PHILOSOPHY-PAPER_I.pdf",
+      "sha256": "f324fbda5baf4a83b579e9ae8f62d676c2857d800e2f650de037d68cafbd52ba",
+      "bytes": 2644864
+    },
+    "local_ocr_text_found_at_referenced_relative_path": false,
+    "older_named_scan_files_located_in_searched_roots": false,
+    "verification_basis": "Authenticated repository ledgers control exact wording and marks; the 2026 official scan identity is additionally hash-recorded. Absence of separately located older scan files is recorded, not concealed."
+  },
+  "wording_notes": {
+    "2026_Q5c": "Ledger-normalized wording uses “Sankhya”; authenticated printed OCR/scan wording reads “Sarnkhya”."
+  },
+  "primary": [
+    {
+      "year": 2018,
+      "question": "Q5(e)",
+      "marks": 10,
+      "exact_wording": "Is Puruṣa one or many? Explain the Sāṃkhya position in this regard and give arguments in support of your answer.",
+      "marks_display": "10 marks",
+      "theme": "plurality",
+      "demand_decoding": "State numerical plurality; present the three Kārikā arguments first; add liberation only as a supplementary inference; evaluate individuation.",
+      "model_word_count": 171,
+      "band": [
+        150,
+        200
+      ],
+      "qualification_present": true,
+      "marks_rationale_present": true,
+      "primary_owner": "Sāṃkhya",
+      "validation_result": "passed"
+    },
+    {
+      "year": 2018,
+      "question": "Q7(b)",
+      "marks": 15,
+      "exact_wording": "How do the Advaita Vedāntins react to the Prakṛtipariṇāmavāda of the Sāṃkhya philosophy? How do the Sāṃkhyas defend their own position in this regard? Discuss.",
+      "marks_display": "15 marks",
+      "theme": "parinama_advaita",
+      "demand_decoding": "Contrast real transformation with apparent transformation; reconstruct Śaṅkara’s objections; present Sāṃkhya replies and a graded verdict.",
+      "model_word_count": 252,
+      "band": [
+        250,
+        300
+      ],
+      "qualification_present": true,
+      "marks_rationale_present": true,
+      "primary_owner": "Sāṃkhya",
+      "validation_result": "passed"
+    },
+    {
+      "year": 2019,
+      "question": "Q5(d)",
+      "marks": 10,
+      "exact_wording": "Critically discuss the metaphysical status of a Jīva and a Puruṣa according to Sāṃkhya philosophy.",
+      "marks_display": "10 marks",
+      "theme": "jiva",
+      "demand_decoding": "Distinguish metaphysical Puruṣa from empirical jīva, explain reflection and transmigration, then expose the bondage paradox.",
+      "model_word_count": 169,
+      "band": [
+        150,
+        200
+      ],
+      "qualification_present": true,
+      "marks_rationale_present": true,
+      "primary_owner": "Sāṃkhya",
+      "validation_result": "passed"
+    },
+    {
+      "year": 2019,
+      "question": "Q8(c)",
+      "marks": 15,
+      "exact_wording": "Which Sāṃkhya proof for the existence of Prakṛti actually shows that there can be only one Prakṛti? Justify your answer.",
+      "marks_display": "15 marks",
+      "theme": "one_prakriti",
+      "demand_decoding": "Identify avibhāgāt vaiśvarūpyasya, distinguish it from the other four proofs, and test whether unity follows demonstratively.",
+      "model_word_count": 282,
+      "band": [
+        250,
+        300
+      ],
+      "qualification_present": true,
+      "marks_rationale_present": true,
+      "primary_owner": "Sāṃkhya",
+      "validation_result": "passed"
+    },
+    {
+      "year": 2020,
+      "question": "Q7(a)",
+      "marks": 20,
+      "exact_wording": "“A mango tree is grown out of a mango seed.” How will Sāṃkhya system explain this process through their theory of causation by rejecting their rival perspectives?",
+      "marks_display": "20 marks",
+      "theme": "mango",
+      "demand_decoding": "Apply all five satkāryavāda arguments to seed-tree continuity and reject Nyāya, Advaita and Buddhist alternatives.",
+      "model_word_count": 340,
+      "band": [
+        340,
+        400
+      ],
+      "qualification_present": true,
+      "marks_rationale_present": true,
+      "primary_owner": "Sāṃkhya",
+      "validation_result": "passed"
+    },
+    {
+      "year": 2021,
+      "question": "Q6(b)",
+      "marks": 15,
+      "exact_wording": "Explain the Sāṃkhya view on three guṇas (guṇa-traya) and their modifications.",
+      "marks_display": "15 marks",
+      "theme": "gunas",
+      "demand_decoding": "Define the guṇas as constituents, explain cooperation and equilibrium, distinguish sarūpa from virūpa pariṇāma, and evaluate.",
+      "model_word_count": 282,
+      "band": [
+        250,
+        300
+      ],
+      "qualification_present": true,
+      "marks_rationale_present": true,
+      "primary_owner": "Sāṃkhya",
+      "validation_result": "passed"
+    },
+    {
+      "year": 2022,
+      "question": "Q5(a)",
+      "marks": 10,
+      "exact_wording": "Examine and evaluate the proofs given by Sāṃkhya philosophy to prove the existence of Puruṣa.",
+      "marks_display": "10 marks",
+      "theme": "purusa_proofs",
+      "demand_decoding": "Explain all five cumulative proofs, identify sāmānyato-dṛṣṭa inference, distinguish proof of subjectivity from proof of plurality, and evaluate.",
+      "model_word_count": 159,
+      "band": [
+        150,
+        200
+      ],
+      "qualification_present": true,
+      "marks_rationale_present": true,
+      "primary_owner": "Sāṃkhya",
+      "validation_result": "passed"
+    },
+    {
+      "year": 2023,
+      "question": "Q5(b)",
+      "marks": 10,
+      "exact_wording": "“If Puruṣa and Prakṛti are two completely independent realities, then no relation between the two is possible.” In the light of this statement make a brief presentation of Śaṅkara’s criticism of Sāṃkhya dualism.",
+      "marks_display": "10 marks",
+      "theme": "contact",
+      "demand_decoding": "Present Śaṅkara’s dilemma about two independent principles, test Sāṃkhya’s proximity and analogies, and conclude briefly.",
+      "model_word_count": 151,
+      "band": [
+        150,
+        200
+      ],
+      "qualification_present": true,
+      "marks_rationale_present": true,
+      "primary_owner": "Sāṃkhya",
+      "validation_result": "passed"
+    },
+    {
+      "year": 2024,
+      "question": "Q7(a)",
+      "marks": 20,
+      "exact_wording": "Present an account of evolution of Prakṛti as propounded in Sāṃkhyakārikā. In this context, also explain the difference between buddhi, mahat and ahaṃkāra.",
+      "marks_display": "20 marks (10+10)",
+      "theme": "evolution",
+      "demand_decoding": "Give the exact ordered 25-tattva sequence, distinguish branches, and clarify that mahat and buddhi are one tattva while ahaṃkāra is its evolute.",
+      "model_word_count": 363,
+      "band": [
+        340,
+        400
+      ],
+      "qualification_present": true,
+      "marks_rationale_present": true,
+      "primary_owner": "Sāṃkhya",
+      "validation_result": "passed"
+    },
+    {
+      "year": 2025,
+      "question": "Q7(a)",
+      "marks": 20,
+      "exact_wording": "Why does Śaṅkara consider Sāṃkhya Philosophy as his chief opponent (pradhāna malla)? Examine his arguments against Sāṃkhya Philosophy.",
+      "marks_display": "20 marks",
+      "theme": "pradhana_malla",
+      "demand_decoding": "Explain why Sāṃkhya is the strongest systematic rival, present Śaṅkara’s scriptural and rational objections, replies, and residual comparison.",
+      "model_word_count": 376,
+      "band": [
+        340,
+        400
+      ],
+      "qualification_present": true,
+      "marks_rationale_present": true,
+      "primary_owner": "Sāṃkhya",
+      "validation_result": "passed"
+    },
+    {
+      "year": 2026,
+      "question": "Q5(c)",
+      "marks": 10,
+      "exact_wording": "Is Purusa one or many? Explain and examine the Sankhya position in this context.",
+      "marks_display": "10 marks",
+      "theme": "plurality_2026",
+      "demand_decoding": "Answer one-or-many directly, explain the classical grounds, then examine both Advaita and internal objections.",
+      "model_word_count": 160,
+      "band": [
+        150,
+        200
+      ],
+      "qualification_present": true,
+      "marks_rationale_present": true,
+      "primary_owner": "Sāṃkhya",
+      "validation_result": "passed"
+    },
+    {
+      "year": 2026,
+      "question": "Q6(a)",
+      "marks": 20,
+      "exact_wording": "\"A mango tree is grown out of a mango seed.\" How do the Sankhya philosophers explain this process through their theory of causation by rejecting their rival perspectives?",
+      "marks_display": "20 marks",
+      "theme": "mango_2026",
+      "demand_decoding": "Use the mango case to explain latent determinacy and pariṇāma, then answer rival asatkārya, vivarta and dependent-origination accounts.",
+      "model_word_count": 360,
+      "band": [
+        340,
+        400
+      ],
+      "qualification_present": true,
+      "marks_rationale_present": true,
+      "primary_owner": "Sāṃkhya",
+      "validation_result": "passed"
+    }
+  ],
+  "supporting": [
+    {
+      "year": 2021,
+      "question": "Q5(a)",
+      "marks": 10,
+      "exact_wording": "Does the seed contain the tree? Discuss with reference to Nyāya-Vaiśeṣika Philosophy.",
+      "route": "Primary owner: Nyāya–Vaiśeṣika; Sāṃkhya supplies the satkāryavāda contrast only.",
+      "primary_owner_is_samkhya": false,
+      "validation_result": "passed"
+    },
+    {
+      "year": 2022,
+      "question": "Q5(e)",
+      "marks": 10,
+      "exact_wording": "Do you agree with the view that ‘Vivartavāda is the logical development of Pariṇāmavāda’? Give reasons in support of your answer.",
+      "route": "Primary owner: Vedānta; Sāṃkhya supplies the pariṇāma comparison only.",
+      "primary_owner_is_samkhya": false,
+      "validation_result": "passed"
+    },
+    {
+      "year": 2023,
+      "question": "Q8(b)",
+      "marks": 15,
+      "exact_wording": "Write a note on Nyāya notion of Prāgabhāva (prior non-existence). How does this notion help Naiyāyikas in defending their position on causation against the Sāṃkhya view of causation? Critically discuss.",
+      "route": "Primary owner: Nyāya–Vaiśeṣika; Sāṃkhya supplies the satkāryavāda comparison only.",
+      "primary_owner_is_samkhya": false,
+      "validation_result": "passed"
+    }
+  ],
+  "originals": [
+    {
+      "id": "ORIGINAL-1",
+      "marks": 10,
+      "question": "Explain why Sāṃkhya restricts the means of valid knowledge to three, and show how this restriction shapes its metaphysics.",
+      "declared_word_count": 177,
+      "model_word_count": 177,
+      "band": [
+        150,
+        200
+      ],
+      "formal_block_id": "formal_workbook-053-original-1-10-marks-659467fd32",
+      "validation_result": "passed"
+    },
+    {
+      "id": "ORIGINAL-2",
+      "marks": 10,
+      "question": "\"Nothing happens to Puruṣa at liberation.\" Comment on this statement with reference to the Sāṃkhya account of bondage and kaivalya.",
+      "declared_word_count": 180,
+      "model_word_count": 180,
+      "band": [
+        150,
+        200
+      ],
+      "formal_block_id": "formal_workbook-054-original-2-10-marks-7e47f5b00c",
+      "validation_result": "passed"
+    },
+    {
+      "id": "ORIGINAL-3",
+      "marks": 15,
+      "question": "Examine the claim that Sāṃkhya's theory of the three qualities makes cosmology and psychology a single subject.",
+      "declared_word_count": 270,
+      "model_word_count": 273,
+      "band": [
+        250,
+        300
+      ],
+      "formal_block_id": "formal_workbook-055-original-3-15-marks-5919c9fc97",
+      "validation_result": "passed"
+    },
+    {
+      "id": "ORIGINAL-4",
+      "marks": 15,
+      "question": "Critically examine whether the Sāṃkhya doctrine of many Puruṣas is proved or merely postulated.",
+      "declared_word_count": 277,
+      "model_word_count": 272,
+      "band": [
+        250,
+        300
+      ],
+      "formal_block_id": "formal_workbook-056-original-4-15-marks-0d9b6dbb52",
+      "validation_result": "passed"
+    },
+    {
+      "id": "ORIGINAL-5",
+      "marks": 20,
+      "question": "Analyse the relation between Sāṃkhya's epistemology, its theory of causation and its account of liberation, and assess whether the three form a coherent system.",
+      "declared_word_count": 368,
+      "model_word_count": 367,
+      "band": [
+        340,
+        400
+      ],
+      "formal_block_id": "formal_workbook-057-original-5-20-marks-ad7957668d",
+      "validation_result": "passed"
+    },
+    {
+      "id": "ORIGINAL-6",
+      "marks": 20,
+      "question": "\"Sāṃkhya purchases the inactivity of consciousness at a high price.\" Discuss with reference to agency, moral responsibility and rebirth.",
+      "declared_word_count": 372,
+      "model_word_count": 373,
+      "band": [
+        340,
+        400
+      ],
+      "formal_block_id": "formal_workbook-058-original-6-20-marks-d30be5900f",
+      "validation_result": "passed"
+    }
+  ],
+  "all_primary_have_exact_wording": true,
+  "all_primary_have_demand_decoding": true,
+  "all_primary_have_complete_independent_model": true,
+  "all_primary_have_qualification": true,
+  "all_primary_have_marks_rationale": true,
+  "ownership_duplicate_count": 0
+}

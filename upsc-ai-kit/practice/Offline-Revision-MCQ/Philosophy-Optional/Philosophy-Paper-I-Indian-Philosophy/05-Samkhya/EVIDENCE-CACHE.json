@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/05-Samkhya",
+  "source_fingerprint": "9950d00111262e849953dee6d8cae9500d96e59ec2ee6ba1a6d713c732b86b27",
+  "sources": [
+    {
+      "file": "source-snapshots/canonical-Samkhya.md",
+      "sha256": "d9b680bec22968d42ee41cb4acd6fc7bb9803deec4202afcd6aecd553cb9231d",
+      "bytes": 76403
+    },
+    {
+      "file": "source-snapshots/formal-Learning-Session.md",
+      "sha256": "f847272fd032151fda3be9aa36267134ab32b51743792111ca1e8e8cfa66928c",
+      "bytes": 335992
+    },
+    {
+      "file": "source-snapshots/formal-Solved-Practice-Workbook.md",
+      "sha256": "9bb5a8b8ce3951946af54d2d86ad10538e3009ba2528a9a83bd98c0117a3d482",
+      "bytes": 89666
+    },
+    {
+      "file": "source-snapshots/pyq-2018-2025.md",
+      "sha256": "c7b556c7b4b750943b7b5f0ac94273664a46c6c75f1c444ae2d953fd77d34eec",
+      "bytes": 25796
+    },
+    {
+      "file": "source-snapshots/pyq-2026.md",
+      "sha256": "1e3b86dbf301bf929851ecc39f1b8585485707cd19fc7a2168861bbb142a8806",
+      "bytes": 8502
+    },
+    {
+      "file": "source-snapshots/supplementary-complete-session.md",
+      "sha256": "ad12780073758aba7b443db1b45a289801076c6f22dfc4ac17212068d38f9ab7",
+      "bytes": 99158
+    },
+    {
+      "file": "source-snapshots/supplementary-layered-session.md",
+      "sha256": "557f5e83ec8de59d2dc725f67a8888838af1595d0136b6a758b435c6ec9d5267",
+      "bytes": 121518
+    },
+    {
+      "file": "source-snapshots/supplementary-solved-workbook.md",
+      "sha256": "8ba05769015037e853949260bf70375895da445ca589fcde3873b70ac7953ea1",
+      "bytes": 30686
+    }
+  ],
+  "cache_policy": "reuse_parsed_evidence_only_while_every_source_hash_and_byte_count_match",
+  "created_at_utc": "2026-09-25T02:54:47+00:00",
+  "last_verified_at_utc": "2026-09-25T02:54:47+00:00",
+  "cache_hit": false
+}

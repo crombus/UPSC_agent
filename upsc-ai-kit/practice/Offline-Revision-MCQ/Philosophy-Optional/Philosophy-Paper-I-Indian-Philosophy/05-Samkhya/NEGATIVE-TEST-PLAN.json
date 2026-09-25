@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "generated_at_utc": "2026-09-25T02:54:48+00:00",
+  "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/05-Samkhya",
+  "focused_invariants": [
+    "representation|composite|fragment|semantic"
+  ],
+  "focused_cases": [
+    {
+      "case": "structural-proposition-inflation",
+      "expected_code": "NON_PROPOSITION_FRAGMENT_INCLUDED"
+    },
+    {
+      "case": "proposition-reference",
+      "expected_code": "SEMANTIC_PROPOSITION_REFERENCE_TAMPER"
+    },
+    {
+      "case": "excluded-fragment-hash-binding",
+      "expected_code": "EXCLUDED_FRAGMENT_HASH_MISMATCH"
+    },
+    {
+      "case": "false-mcq-mapping",
+      "expected_code": "MCQ_SEMANTIC_AUTHORITY_MISMATCH"
+    },
+    {
+      "case": "distractor-only-mapping",
+      "expected_code": "MCQ_SEMANTIC_AUTHORITY_MISMATCH"
+    },
+    {
+      "case": "supporting-representation-ids-deleted",
+      "expected_code": "CLASSIFICATION_SOURCE_ONLY_MISMATCH"
+    },
+    {
+      "case": "supporting-representation-wrong-id",
+      "expected_code": "CLASSIFICATION_SOURCE_ONLY_MISMATCH"
+    },
+    {
+      "case": "generic-only-unrelated-representation",
+      "expected_code": "SUPPORTING_SEMANTIC_RELATION_INVALID"
+    },
+    {
+      "case": "omitted-composite-component",
+      "expected_code": "SUPPORTING_COMPOSITE_COMPONENT_MISSING"
+    },
+    {
+      "case": "hash-valid-semantic-authority-swap",
+      "expected_code": "MCQ_SEMANTIC_AUTHORITY_MISMATCH"
+    }
+  ],
+  "full_suite_case_count": 106,
+  "execution_policy": {
+    "focused_during_repair": true,
+    "full_suite_required_at_final_development_gate": true,
+    "production_validator_required": true
+  }
+}
