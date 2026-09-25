@@ -47,6 +47,10 @@ Mandatory use:
 6. If a needed rule is missing or ambiguous, update this file first, then continue.
 7. Record newly approved durable instructions in the central `instructions\` registry
    and update this file whenever they affect live-session behaviour.
+8. After every generation or repair pass, reread `instructions\README.md`,
+   `instructions\GENERATION-OPTIMIZATION-AND-INTEGRITY.md` and this entire file before
+   beginning the independent validation or release gate. Do not rely on retained
+   context, summaries or an agent's reported validation as a substitute.
 
 ## Vedanta-Economy Reference-Session Fidelity Lock
 
