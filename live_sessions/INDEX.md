@@ -103,6 +103,7 @@
 | Ancient Indian History | Topic 26 - From Ancient to Medieval: Social Change and Legacy | 18 | 27,016 | `355ef9985e09` | [Ancient-Indian-History/26-From-Ancient-to-Medieval-Social-Change-and-Legacy/Learning-Session-Live-Edition.md](Ancient-Indian-History/26-From-Ancient-to-Medieval-Social-Change-and-Legacy/Learning-Session-Live-Edition.md) |
 | Ancient Indian History | Topic 27 - Imperial Cholas: State, Society, Economy and Maritime Power | 16 | 17,113 | `3241cf149cd3` | [Ancient-Indian-History/27-Imperial-Cholas-State-Society-Economy-and-Maritime-Power/Learning-Session-Live-Edition.md](Ancient-Indian-History/27-Imperial-Cholas-State-Society-Economy-and-Maritime-Power/Learning-Session-Live-Edition.md) |
 | Medieval Indian History | Topic 01 - India on the Eve of the Medieval Age and Arab-Turkish Contacts | 10 | 21,722 | `e144b4f43c49` | [Medieval-Indian-History/01-India-on-the-Eve-of-the-Medieval-Age-and-Arab-Turkish-Contacts/Learning-Session-Live-Edition.md](Medieval-Indian-History/01-India-on-the-Eve-of-the-Medieval-Age-and-Arab-Turkish-Contacts/Learning-Session-Live-Edition.md) |
+| Medieval Indian History | Topic 02 - Ghaznavids and Ghurian Invasions | 19 | 35,932 | `e19b26976cb7` | [Medieval-Indian-History/02-Ghaznavids-and-Ghurian-Invasions/Learning-Session-Live-Edition.md](Medieval-Indian-History/02-Ghaznavids-and-Ghurian-Invasions/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
