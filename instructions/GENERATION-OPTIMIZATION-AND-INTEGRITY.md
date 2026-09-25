@@ -44,6 +44,15 @@ accepted learner-facing teaching quality, sequencing, visuals, examples, objecti
 replies, practice and remediation. A generic instruction to "follow the rules" is not
 enough.
 
+Before every generation or repair pass, read the opening and at least one complete
+lesson from
+`live_sessions\Philosophy-Optional\01-Nyaya-Vaisesika\Learning-Session-Live-Edition.md`.
+Treat its natural learner-facing terminal flow as the mandatory primary style
+benchmark across subjects: visible pre-teach context and progress, visual-first
+intuition, numbered teaching, precise distinctions and qualifications, exam linkage,
+mini recap and misconception-driven practice. Reuse the teaching architecture, never
+the topic's doctrine, wording or a mechanically fixed lesson size.
+
 ## Non-compromise lock
 
 Optimization must never skip, compress, merge, weaken or silently reinterpret any
