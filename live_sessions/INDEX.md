@@ -97,6 +97,7 @@
 | Ancient Indian History | Topic 20 - Gupta Empire | 15 | 21,412 | `3798170ca579` | [Ancient-Indian-History/20-Gupta-Empire/Learning-Session-Live-Edition.md](Ancient-Indian-History/20-Gupta-Empire/Learning-Session-Live-Edition.md) |
 | Ancient Indian History | Topic 21 - Life and Culture in the Gupta Age | 14 | 18,314 | `11498cb03d33` | [Ancient-Indian-History/21-Life-Culture-Gupta-Age/Learning-Session-Live-Edition.md](Ancient-Indian-History/21-Life-Culture-Gupta-Age/Learning-Session-Live-Edition.md) |
 | Ancient Indian History | Topic 22 - Post-Gupta India: Harsha and Eastern India | 16 | 20,973 | `2acb63808fa0` | [Ancient-Indian-History/22-Post-Gupta-India-Harsha-and-Eastern-India/Learning-Session-Live-Edition.md](Ancient-Indian-History/22-Post-Gupta-India-Harsha-and-Eastern-India/Learning-Session-Live-Edition.md) |
+| Ancient Indian History | Topic 23 - Peninsular India: Pallavas, Chalukyas and Brahmanization | 14 | 17,893 | `be3bd98b0b38` | [Ancient-Indian-History/23-Peninsular-India-Pallavas-Chalukyas/Learning-Session-Live-Edition.md](Ancient-Indian-History/23-Peninsular-India-Pallavas-Chalukyas/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
