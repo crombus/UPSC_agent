@@ -64,6 +64,7 @@
 | Socio-Political Philosophy | Topic 07 - Crime and Punishment | 14 | 28,835 | `a2d4f01540ef` | [Socio-Political-Philosophy/07-Crime-and-Punishment/Learning-Session-Live-Edition.md](Socio-Political-Philosophy/07-Crime-and-Punishment/Learning-Session-Live-Edition.md) |
 | Socio-Political Philosophy | Topic 08 - Development and Social Progress | 11 | 32,488 | `df52a4bcf10e` | [Socio-Political-Philosophy/08-Development-and-Social-Progress/Learning-Session-Live-Edition.md](Socio-Political-Philosophy/08-Development-and-Social-Progress/Learning-Session-Live-Edition.md) |
 | Socio-Political Philosophy | Topic 09 - Gender Discrimination | 14 | 20,434 | `f02e4244e330` | [Socio-Political-Philosophy/09-Gender-Discrimination/Learning-Session-Live-Edition.md](Socio-Political-Philosophy/09-Gender-Discrimination/Learning-Session-Live-Edition.md) |
+| Socio-Political Philosophy | Topic 10 - Caste Discrimination: Gandhi and Ambedkar | 11 | 31,620 | `25ed40f88314` | [Socio-Political-Philosophy/10-Caste-Discrimination-Gandhi-Ambedkar/Learning-Session-Live-Edition.md](Socio-Political-Philosophy/10-Caste-Discrimination-Gandhi-Ambedkar/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
