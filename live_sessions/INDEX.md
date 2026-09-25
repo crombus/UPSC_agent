@@ -92,6 +92,7 @@
 | Ancient Indian History | Topic 15 - Significance and Decline of Mauryan Rule | 14 | 18,947 | `6f3b6b59424d` | [Ancient-Indian-History/15-Significance-Decline-Mauryan-Rule/Learning-Session-Live-Edition.md](Ancient-Indian-History/15-Significance-Decline-Mauryan-Rule/Learning-Session-Live-Edition.md) |
 | Ancient Indian History | Topic 16 - Central Asian Contacts: Indo-Greeks, Shakas and Kushanas | 15 | 18,320 | `d2e924da198f` | [Ancient-Indian-History/16-Central-Asian-Contacts-Indo-Greeks-Shakas-Kushanas/Learning-Session-Live-Edition.md](Ancient-Indian-History/16-Central-Asian-Contacts-Indo-Greeks-Shakas-Kushanas/Learning-Session-Live-Edition.md) |
 | Ancient Indian History | Topic 17 - Satavahanas and the Deccan | 12 | 16,247 | `87ee8ca0ba72` | [Ancient-Indian-History/17-Satavahanas-Deccan/Learning-Session-Live-Edition.md](Ancient-Indian-History/17-Satavahanas-Deccan/Learning-Session-Live-Edition.md) |
+| Ancient Indian History | Topic 18 - Sangam Age and the Deep South | 18 | 23,193 | `76244936db93` | [Ancient-Indian-History/18-Sangam-Age-and-the-Deep-South/Learning-Session-Live-Edition.md](Ancient-Indian-History/18-Sangam-Age-and-the-Deep-South/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
