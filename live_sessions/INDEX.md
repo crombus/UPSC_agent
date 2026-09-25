@@ -86,6 +86,7 @@
 | Ancient Indian History | Topic 09 - The Later Vedic Phase | 14 | 21,691 | `1265b29225aa` | [Ancient-Indian-History/09-Later-Vedic-Phase/Learning-Session-Live-Edition.md](Ancient-Indian-History/09-Later-Vedic-Phase/Learning-Session-Live-Edition.md) |
 | Ancient Indian History | Topic 10 - Jainism and Buddhism | 15 | 21,394 | `8df73fdbadff` | [Ancient-Indian-History/10-Jainism-Buddhism/Learning-Session-Live-Edition.md](Ancient-Indian-History/10-Jainism-Buddhism/Learning-Session-Live-Edition.md) |
 | Ancient Indian History | Topic 11 - Mahajanapadas and Rise of Magadha | 15 | 25,063 | `a69dee8e3d76` | [Ancient-Indian-History/11-Mahajanapadas-Rise-of-Magadha/Learning-Session-Live-Edition.md](Ancient-Indian-History/11-Mahajanapadas-Rise-of-Magadha/Learning-Session-Live-Edition.md) |
+| Ancient Indian History | Topic 12 - Iranian and Macedonian Invasions | 12 | 14,222 | `36f6d4b57185` | [Ancient-Indian-History/12-Iranian-Macedonian-Invasions/Learning-Session-Live-Edition.md](Ancient-Indian-History/12-Iranian-Macedonian-Invasions/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
