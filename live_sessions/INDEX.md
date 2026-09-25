@@ -69,6 +69,7 @@
 | Philosophy of Religion | Topic 02 - Proofs for God | 14 | 25,114 | `b7d4c2009fb4` | [Philosophy-of-Religion/02-Proofs-for-God/Learning-Session-Live-Edition.md](Philosophy-of-Religion/02-Proofs-for-God/Learning-Session-Live-Edition.md) |
 | Philosophy of Religion | Topic 03 - Problem of Evil | 17 | 20,829 | `5b9f8519efe0` | [Philosophy-of-Religion/03-Problem-of-Evil/Learning-Session-Live-Edition.md](Philosophy-of-Religion/03-Problem-of-Evil/Learning-Session-Live-Edition.md) |
 | Philosophy of Religion | Topic 04 - Soul, Immortality, Rebirth and Liberation | 14 | 20,315 | `44c8b857aca1` | [Philosophy-of-Religion/04-Soul-Immortality-Rebirth-Liberation/Learning-Session-Live-Edition.md](Philosophy-of-Religion/04-Soul-Immortality-Rebirth-Liberation/Learning-Session-Live-Edition.md) |
+| Philosophy of Religion | Topic 05 - Reason, Revelation and Faith | 15 | 16,231 | `9a17581dc91b` | [Philosophy-of-Religion/05-Reason-Revelation-Faith/Learning-Session-Live-Edition.md](Philosophy-of-Religion/05-Reason-Revelation-Faith/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
