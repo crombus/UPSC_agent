@@ -94,6 +94,7 @@
 | Ancient Indian History | Topic 17 - Satavahanas and the Deccan | 12 | 16,247 | `87ee8ca0ba72` | [Ancient-Indian-History/17-Satavahanas-Deccan/Learning-Session-Live-Edition.md](Ancient-Indian-History/17-Satavahanas-Deccan/Learning-Session-Live-Edition.md) |
 | Ancient Indian History | Topic 18 - Sangam Age and the Deep South | 18 | 23,193 | `76244936db93` | [Ancient-Indian-History/18-Sangam-Age-and-the-Deep-South/Learning-Session-Live-Edition.md](Ancient-Indian-History/18-Sangam-Age-and-the-Deep-South/Learning-Session-Live-Edition.md) |
 | Ancient Indian History | Topic 19 - Crafts, Commerce and Urban Growth (200 BC-AD 250) | 14 | 20,534 | `bb02d09ad784` | [Ancient-Indian-History/19-Crafts-Commerce-Urban-Growth/Learning-Session-Live-Edition.md](Ancient-Indian-History/19-Crafts-Commerce-Urban-Growth/Learning-Session-Live-Edition.md) |
+| Ancient Indian History | Topic 20 - Gupta Empire | 15 | 21,412 | `3798170ca579` | [Ancient-Indian-History/20-Gupta-Empire/Learning-Session-Live-Edition.md](Ancient-Indian-History/20-Gupta-Empire/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
