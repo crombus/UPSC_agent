@@ -99,6 +99,7 @@
 | Ancient Indian History | Topic 22 - Post-Gupta India: Harsha and Eastern India | 16 | 20,973 | `2acb63808fa0` | [Ancient-Indian-History/22-Post-Gupta-India-Harsha-and-Eastern-India/Learning-Session-Live-Edition.md](Ancient-Indian-History/22-Post-Gupta-India-Harsha-and-Eastern-India/Learning-Session-Live-Edition.md) |
 | Ancient Indian History | Topic 23 - Peninsular India: Pallavas, Chalukyas and Brahmanization | 14 | 17,893 | `be3bd98b0b38` | [Ancient-Indian-History/23-Peninsular-India-Pallavas-Chalukyas/Learning-Session-Live-Edition.md](Ancient-Indian-History/23-Peninsular-India-Pallavas-Chalukyas/Learning-Session-Live-Edition.md) |
 | Ancient Indian History | Topic 24 - Developments in Philosophy | 16 | 20,376 | `df926c0abb3d` | [Ancient-Indian-History/24-Developments-in-Philosophy/Learning-Session-Live-Edition.md](Ancient-Indian-History/24-Developments-in-Philosophy/Learning-Session-Live-Edition.md) |
+| Ancient Indian History | Topic 25 - Cultural Interaction with Asian Countries | 16 | 20,960 | `5356ad383b79` | [Ancient-Indian-History/25-Cultural-Interaction-with-Asian-Countries/Learning-Session-Live-Edition.md](Ancient-Indian-History/25-Cultural-Interaction-with-Asian-Countries/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
