@@ -1,0 +1,200 @@
+{
+  "schema_version": 4,
+  "latest_repository_year": 2026,
+  "sources": {
+    "2018_2025": {
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md",
+      "sha256": "c7b556c7b4b750943b7b5f0ac94273664a46c6c75f1c444ae2d953fd77d34eec",
+      "bytes": 25796
+    },
+    "2026": {
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2026.md",
+      "sha256": "1e3b86dbf301bf929851ecc39f1b8585485707cd19fc7a2168861bbb142a8806",
+      "bytes": 8502
+    }
+  },
+  "primary_count": 8,
+  "supporting_count": 1,
+  "primary": [
+    {
+      "year": 2019,
+      "question": "Q7(b)",
+      "marks": 15,
+      "exact_wording": "How would Yoga philosophy comprehend the Citta-levels of a Scientist, a God-realized Devotee and a Self-realized Yogi? Justify your answer.",
+      "demand_decoding": "Apply all five citta-bhūmis, justify the three classifications, and distinguish worldly concentration from yogic one-pointedness.",
+      "model_word_count": 261,
+      "qualification_present": true,
+      "marks_rationale_present": true,
+      "primary_owner": "Yoga"
+    },
+    {
+      "year": 2020,
+      "question": "Q5(b)",
+      "marks": 10,
+      "exact_wording": "Explain the difference between Samprajñāta Samādhi and Asamprajñāta Samādhi.",
+      "demand_decoding": "Define both states, identify object-support and saṃskāra-śeṣa, and avoid equating asamprajñāta automatically with nirbīja.",
+      "model_word_count": 157,
+      "qualification_present": true,
+      "marks_rationale_present": true,
+      "primary_owner": "Yoga"
+    },
+    {
+      "year": 2021,
+      "question": "Q6(a)",
+      "marks": 20,
+      "exact_wording": "Explain with reference to Yoga Philosophy, the nature of kleśas. How does the removal of these lead to kaivalya?",
+      "demand_decoding": "Explain five kleśas, four states, karmic causation, attenuation and burning, viveka-khyāti and the transition to kaivalya.",
+      "model_word_count": 344,
+      "qualification_present": true,
+      "marks_rationale_present": true,
+      "primary_owner": "Yoga"
+    },
+    {
+      "year": 2022,
+      "question": "Q5(c)",
+      "marks": 10,
+      "exact_wording": "Discuss the nature and different stages of Samādhi as per Pātañjala yoga and examine the role of Īśvara in it.",
+      "demand_decoding": "Give the stages with exact YS 1.17/1.42–44 control and assess Īśvara-praṇidhāna as aid rather than divine grant.",
+      "model_word_count": 160,
+      "qualification_present": true,
+      "marks_rationale_present": true,
+      "primary_owner": "Yoga"
+    },
+    {
+      "year": 2023,
+      "question": "Q7(c)",
+      "marks": 15,
+      "exact_wording": "Explain Citta and its modifications in the philosophy of Yoga. Why does Yoga philosophy prescribe cessation of modifications of Citta? Give reasons in support of your answer.",
+      "demand_decoding": "Define citta, enumerate five vṛttis and explain nirodha through reflection, misidentification, abhyāsa and vairāgya.",
+      "model_word_count": 250,
+      "qualification_present": true,
+      "marks_rationale_present": true,
+      "primary_owner": "Yoga"
+    },
+    {
+      "year": 2024,
+      "question": "Q7(b)",
+      "marks": 15,
+      "exact_wording": "“So long as there are changes and modifications in citta, the self is reflected therein, and, in the absence of discriminative knowledge, identifies itself with them.” Present an appraisal of Yoga Soteriology in the light of the above statement.",
+      "demand_decoding": "Appraise the complete reflection-based soteriology, including its dualist presupposition, practice, strengths and interaction objection.",
+      "model_word_count": 257,
+      "qualification_present": true,
+      "marks_rationale_present": true,
+      "primary_owner": "Yoga"
+    },
+    {
+      "year": 2025,
+      "question": "Q7(b)",
+      "marks": 15,
+      "exact_wording": "Explain the nature of God and its role in Kaivalya in yoga philosophy.",
+      "demand_decoding": "Define puruṣa-viśeṣa, state untouchedness and teacherhood, explain praṇava and practical role, and deny creator/granter importation.",
+      "model_word_count": 265,
+      "qualification_present": true,
+      "marks_rationale_present": true,
+      "primary_owner": "Yoga"
+    },
+    {
+      "year": 2026,
+      "question": "Q5(e)",
+      "marks": 10,
+      "exact_wording": "Explain, as per Yoga philosophy, the nature of Samadhi with special reference to the difference between Samprajnata Samadhi and Asamprajnata Samadhi.",
+      "demand_decoding": "Explain samādhi and sharply distinguish samprajñāta from asamprajñāta, adding the sabīja/nirbīja and residual-seed qualification.",
+      "model_word_count": 153,
+      "qualification_present": true,
+      "marks_rationale_present": true,
+      "primary_owner": "Yoga"
+    }
+  ],
+  "supporting": [
+    {
+      "year": 2018,
+      "question": "Q6(a)",
+      "marks": 20,
+      "exact_wording": "How do the Naiyāyikas prove the existence of God? Do the Yoga philosophers prove God in the same way? If yes, how? And if no, why? Give reasons for your answer.",
+      "ownership": "Primary owner: Nyāya–Vaiśeṣika. Yoga is a supporting comparison because its Īśvara is a puruṣa-viśeṣa and contemplative aid, not Nyāya's creator inferred through the same proof-set.",
+      "demand_decoding": "Explain Nyāya's creator proofs first, then compare Yoga's puruṣa-viśeṣa, praṇava, teacherhood and contemplative function without transferring primary ownership.",
+      "model_word_count": 340,
+      "qualification_present": true,
+      "marks_rationale_present": true,
+      "primary_owner": "Nyaya-Vaisesika",
+      "supporting_owner": "Yoga"
+    }
+  ],
+  "original_count": 6,
+  "originals": [
+    {
+      "id": "OR-10A",
+      "marks": 10,
+      "question": "Distinguish YS 1.17's account of samprajñāta from the samāpatti classification in YS 1.42–1.44.",
+      "band": [
+        150,
+        200
+      ],
+      "model_word_count": 157
+    },
+    {
+      "id": "OR-10B",
+      "marks": 10,
+      "question": "Explain why siddhis are attainments and yet obstacles in Pātañjala Yoga.",
+      "band": [
+        150,
+        200
+      ],
+      "model_word_count": 160
+    },
+    {
+      "id": "OR-15A",
+      "marks": 15,
+      "question": "Analyse abhyāsa, lower vairāgya and para-vairāgya as a graded discipline of nirodha.",
+      "band": [
+        250,
+        300
+      ],
+      "model_word_count": 250
+    },
+    {
+      "id": "OR-15B",
+      "marks": 15,
+      "question": "Evaluate Yoga's account of Īśvara as a non-creator and non-granter of kaivalya.",
+      "band": [
+        250,
+        300
+      ],
+      "model_word_count": 265
+    },
+    {
+      "id": "OR-20A",
+      "marks": 20,
+      "question": "Critically examine the Yoga account of karma, saṃskāra, vāsanā, karmāśaya and rebirth.",
+      "band": [
+        340,
+        400
+      ],
+      "model_word_count": 344
+    },
+    {
+      "id": "OR-20B",
+      "marks": 20,
+      "question": "Compare Yoga with Buddhist momentariness, Yogācāra, Advaita and Nyāya on mind, self and liberation.",
+      "band": [
+        340,
+        400
+      ],
+      "model_word_count": 341
+    }
+  ],
+  "word_bands": {
+    "10": [
+      150,
+      200
+    ],
+    "15": [
+      250,
+      300
+    ],
+    "20": [
+      340,
+      400
+    ]
+  }
+}

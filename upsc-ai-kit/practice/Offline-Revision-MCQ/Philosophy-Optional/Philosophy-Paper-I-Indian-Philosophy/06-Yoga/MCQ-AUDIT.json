@@ -1,0 +1,1098 @@
+{
+  "schema_version": 5,
+  "question_total": 81,
+  "cell_count": 81,
+  "answer_sequence": "ADABBDCDADADCBDACCDDBDCBDDCCACDBADACCDBCDABBAABDADBABDBCCADCDBDABBADACDBDDBABBCBC",
+  "answer_counts": {
+    "A": 18,
+    "B": 21,
+    "C": 17,
+    "D": 25
+  },
+  "max_answer_run": 2,
+  "short_cycles": [],
+  "mapping_scope": "keyed_evidence_only",
+  "position_policy": {
+    "method": "independent_stable_hash_per_question",
+    "seed": "Yoga|independent-per-question-position|2026-09-24",
+    "accepted_salt": 37,
+    "selection_rule": "first salt whose independent A-D draws satisfy run, cycle, and broad statistical thresholds; equality is neither targeted nor accepted as a goal",
+    "max_run": 2,
+    "prohibited_cycle_periods": [
+      2,
+      3,
+      4
+    ],
+    "min_share": 0.1,
+    "max_share": 0.4,
+    "chi_square_max": 11.345,
+    "observed_chi_square": 1.91358,
+    "predictable_cycle_detected": false
+  },
+  "option_cues": {
+    "policy": "A keyed option is a conspicuous length cue when its word count differs from the within-question median by a factor greater than 3.2; detail-marker and lexical-overlap deltas independently detect keyed specificity. Pairwise max/min is reported, not used alone, because an implausibly terse distractor is not a keyed-answer cue.",
+    "keyed_median_ratio_threshold": 3.2,
+    "keyed_specificity_delta_threshold": 2,
+    "maximum_pairwise_word_ratio": 3.5,
+    "maximum_keyed_median_ratio": 3.111,
+    "length_flags": [],
+    "format_flags": [],
+    "specificity_flags": [],
+    "lexical_key_flags": [],
+    "questions": [
+      {
+        "question_id": "Q1",
+        "word_counts": {
+          "A": 14,
+          "B": 5,
+          "C": 10,
+          "D": 6
+        },
+        "pairwise_max_min_ratio": 2.8,
+        "keyed_to_median_ratio": 1.75,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q2",
+        "word_counts": {
+          "A": 8,
+          "B": 6,
+          "C": 6,
+          "D": 13
+        },
+        "pairwise_max_min_ratio": 2.167,
+        "keyed_to_median_ratio": 1.857,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q3",
+        "word_counts": {
+          "A": 10,
+          "B": 7,
+          "C": 5,
+          "D": 6
+        },
+        "pairwise_max_min_ratio": 2.0,
+        "keyed_to_median_ratio": 1.538,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": -1
+      },
+      {
+        "question_id": "Q4",
+        "word_counts": {
+          "A": 7,
+          "B": 7,
+          "C": 7,
+          "D": 6
+        },
+        "pairwise_max_min_ratio": 1.167,
+        "keyed_to_median_ratio": 1.0,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q5",
+        "word_counts": {
+          "A": 6,
+          "B": 9,
+          "C": 7,
+          "D": 6
+        },
+        "pairwise_max_min_ratio": 1.5,
+        "keyed_to_median_ratio": 1.385,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q6",
+        "word_counts": {
+          "A": 7,
+          "B": 6,
+          "C": 5,
+          "D": 12
+        },
+        "pairwise_max_min_ratio": 2.4,
+        "keyed_to_median_ratio": 1.846,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q7",
+        "word_counts": {
+          "A": 6,
+          "B": 4,
+          "C": 8,
+          "D": 5
+        },
+        "pairwise_max_min_ratio": 2.0,
+        "keyed_to_median_ratio": 1.455,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q8",
+        "word_counts": {
+          "A": 5,
+          "B": 6,
+          "C": 7,
+          "D": 8
+        },
+        "pairwise_max_min_ratio": 1.6,
+        "keyed_to_median_ratio": 1.231,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q9",
+        "word_counts": {
+          "A": 7,
+          "B": 4,
+          "C": 5,
+          "D": 5
+        },
+        "pairwise_max_min_ratio": 1.75,
+        "keyed_to_median_ratio": 1.4,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q10",
+        "word_counts": {
+          "A": 5,
+          "B": 4,
+          "C": 4,
+          "D": 8
+        },
+        "pairwise_max_min_ratio": 2.0,
+        "keyed_to_median_ratio": 1.778,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q11",
+        "word_counts": {
+          "A": 9,
+          "B": 5,
+          "C": 7,
+          "D": 4
+        },
+        "pairwise_max_min_ratio": 2.25,
+        "keyed_to_median_ratio": 1.5,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q12",
+        "word_counts": {
+          "A": 10,
+          "B": 10,
+          "C": 10,
+          "D": 10
+        },
+        "pairwise_max_min_ratio": 1.0,
+        "keyed_to_median_ratio": 1.0,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q13",
+        "word_counts": {
+          "A": 7,
+          "B": 6,
+          "C": 12,
+          "D": 8
+        },
+        "pairwise_max_min_ratio": 2.0,
+        "keyed_to_median_ratio": 1.6,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": -1
+      },
+      {
+        "question_id": "Q14",
+        "word_counts": {
+          "A": 4,
+          "B": 7,
+          "C": 5,
+          "D": 6
+        },
+        "pairwise_max_min_ratio": 1.75,
+        "keyed_to_median_ratio": 1.273,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": -1
+      },
+      {
+        "question_id": "Q15",
+        "word_counts": {
+          "A": 6,
+          "B": 5,
+          "C": 8,
+          "D": 12
+        },
+        "pairwise_max_min_ratio": 2.4,
+        "keyed_to_median_ratio": 1.714,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q16",
+        "word_counts": {
+          "A": 9,
+          "B": 6,
+          "C": 6,
+          "D": 7
+        },
+        "pairwise_max_min_ratio": 1.5,
+        "keyed_to_median_ratio": 1.385,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q17",
+        "word_counts": {
+          "A": 6,
+          "B": 4,
+          "C": 10,
+          "D": 7
+        },
+        "pairwise_max_min_ratio": 2.5,
+        "keyed_to_median_ratio": 1.538,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q18",
+        "word_counts": {
+          "A": 5,
+          "B": 5,
+          "C": 9,
+          "D": 5
+        },
+        "pairwise_max_min_ratio": 1.8,
+        "keyed_to_median_ratio": 1.8,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q19",
+        "word_counts": {
+          "A": 10,
+          "B": 10,
+          "C": 10,
+          "D": 10
+        },
+        "pairwise_max_min_ratio": 1.0,
+        "keyed_to_median_ratio": 1.0,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q20",
+        "word_counts": {
+          "A": 7,
+          "B": 5,
+          "C": 5,
+          "D": 11
+        },
+        "pairwise_max_min_ratio": 2.2,
+        "keyed_to_median_ratio": 1.833,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q21",
+        "word_counts": {
+          "A": 10,
+          "B": 10,
+          "C": 10,
+          "D": 10
+        },
+        "pairwise_max_min_ratio": 1.0,
+        "keyed_to_median_ratio": 1.0,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q22",
+        "word_counts": {
+          "A": 6,
+          "B": 6,
+          "C": 6,
+          "D": 6
+        },
+        "pairwise_max_min_ratio": 1.0,
+        "keyed_to_median_ratio": 1.0,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q23",
+        "word_counts": {
+          "A": 5,
+          "B": 4,
+          "C": 12,
+          "D": 6
+        },
+        "pairwise_max_min_ratio": 3.0,
+        "keyed_to_median_ratio": 2.182,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q24",
+        "word_counts": {
+          "A": 6,
+          "B": 8,
+          "C": 7,
+          "D": 5
+        },
+        "pairwise_max_min_ratio": 1.6,
+        "keyed_to_median_ratio": 1.231,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q25",
+        "word_counts": {
+          "A": 8,
+          "B": 8,
+          "C": 8,
+          "D": 8
+        },
+        "pairwise_max_min_ratio": 1.0,
+        "keyed_to_median_ratio": 1.0,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q26",
+        "word_counts": {
+          "A": 8,
+          "B": 8,
+          "C": 8,
+          "D": 9
+        },
+        "pairwise_max_min_ratio": 1.125,
+        "keyed_to_median_ratio": 1.125,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q27",
+        "word_counts": {
+          "A": 8,
+          "B": 8,
+          "C": 10,
+          "D": 8
+        },
+        "pairwise_max_min_ratio": 1.25,
+        "keyed_to_median_ratio": 1.25,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q28",
+        "word_counts": {
+          "A": 10,
+          "B": 6,
+          "C": 12,
+          "D": 7
+        },
+        "pairwise_max_min_ratio": 2.0,
+        "keyed_to_median_ratio": 1.412,
+        "keyed_detail_marker_delta": -2,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q29",
+        "word_counts": {
+          "A": 9,
+          "B": 5,
+          "C": 5,
+          "D": 5
+        },
+        "pairwise_max_min_ratio": 1.8,
+        "keyed_to_median_ratio": 1.8,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q30",
+        "word_counts": {
+          "A": 7,
+          "B": 7,
+          "C": 7,
+          "D": 7
+        },
+        "pairwise_max_min_ratio": 1.0,
+        "keyed_to_median_ratio": 1.0,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q31",
+        "word_counts": {
+          "A": 12,
+          "B": 7,
+          "C": 7,
+          "D": 8
+        },
+        "pairwise_max_min_ratio": 1.714,
+        "keyed_to_median_ratio": 1.067,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q32",
+        "word_counts": {
+          "A": 7,
+          "B": 11,
+          "C": 8,
+          "D": 7
+        },
+        "pairwise_max_min_ratio": 1.571,
+        "keyed_to_median_ratio": 1.467,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q33",
+        "word_counts": {
+          "A": 10,
+          "B": 7,
+          "C": 6,
+          "D": 5
+        },
+        "pairwise_max_min_ratio": 2.0,
+        "keyed_to_median_ratio": 1.538,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q34",
+        "word_counts": {
+          "A": 6,
+          "B": 4,
+          "C": 7,
+          "D": 8
+        },
+        "pairwise_max_min_ratio": 2.0,
+        "keyed_to_median_ratio": 1.231,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q35",
+        "word_counts": {
+          "A": 10,
+          "B": 8,
+          "C": 5,
+          "D": 6
+        },
+        "pairwise_max_min_ratio": 2.0,
+        "keyed_to_median_ratio": 1.429,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q36",
+        "word_counts": {
+          "A": 7,
+          "B": 6,
+          "C": 11,
+          "D": 8
+        },
+        "pairwise_max_min_ratio": 1.833,
+        "keyed_to_median_ratio": 1.467,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q37",
+        "word_counts": {
+          "A": 6,
+          "B": 7,
+          "C": 9,
+          "D": 4
+        },
+        "pairwise_max_min_ratio": 2.25,
+        "keyed_to_median_ratio": 1.385,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q38",
+        "word_counts": {
+          "A": 6,
+          "B": 5,
+          "C": 7,
+          "D": 12
+        },
+        "pairwise_max_min_ratio": 2.4,
+        "keyed_to_median_ratio": 1.846,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q39",
+        "word_counts": {
+          "A": 6,
+          "B": 11,
+          "C": 7,
+          "D": 5
+        },
+        "pairwise_max_min_ratio": 2.2,
+        "keyed_to_median_ratio": 1.692,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": -1
+      },
+      {
+        "question_id": "Q40",
+        "word_counts": {
+          "A": 7,
+          "B": 5,
+          "C": 11,
+          "D": 6
+        },
+        "pairwise_max_min_ratio": 2.2,
+        "keyed_to_median_ratio": 1.692,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q41",
+        "word_counts": {
+          "A": 5,
+          "B": 5,
+          "C": 6,
+          "D": 11
+        },
+        "pairwise_max_min_ratio": 2.2,
+        "keyed_to_median_ratio": 2.0,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q42",
+        "word_counts": {
+          "A": 12,
+          "B": 7,
+          "C": 5,
+          "D": 5
+        },
+        "pairwise_max_min_ratio": 2.4,
+        "keyed_to_median_ratio": 2.0,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q43",
+        "word_counts": {
+          "A": 6,
+          "B": 9,
+          "C": 5,
+          "D": 4
+        },
+        "pairwise_max_min_ratio": 2.25,
+        "keyed_to_median_ratio": 1.636,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q44",
+        "word_counts": {
+          "A": 9,
+          "B": 11,
+          "C": 6,
+          "D": 6
+        },
+        "pairwise_max_min_ratio": 1.833,
+        "keyed_to_median_ratio": 1.467,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": 1
+      },
+      {
+        "question_id": "Q45",
+        "word_counts": {
+          "A": 10,
+          "B": 7,
+          "C": 6,
+          "D": 3
+        },
+        "pairwise_max_min_ratio": 3.333,
+        "keyed_to_median_ratio": 1.538,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q46",
+        "word_counts": {
+          "A": 11,
+          "B": 5,
+          "C": 6,
+          "D": 7
+        },
+        "pairwise_max_min_ratio": 2.2,
+        "keyed_to_median_ratio": 1.692,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": 1
+      },
+      {
+        "question_id": "Q47",
+        "word_counts": {
+          "A": 5,
+          "B": 8,
+          "C": 4,
+          "D": 6
+        },
+        "pairwise_max_min_ratio": 2.0,
+        "keyed_to_median_ratio": 1.455,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q48",
+        "word_counts": {
+          "A": 5,
+          "B": 5,
+          "C": 6,
+          "D": 7
+        },
+        "pairwise_max_min_ratio": 1.4,
+        "keyed_to_median_ratio": 1.273,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q49",
+        "word_counts": {
+          "A": 10,
+          "B": 6,
+          "C": 8,
+          "D": 6
+        },
+        "pairwise_max_min_ratio": 1.667,
+        "keyed_to_median_ratio": 1.429,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": -1
+      },
+      {
+        "question_id": "Q50",
+        "word_counts": {
+          "A": 8,
+          "B": 7,
+          "C": 7,
+          "D": 11
+        },
+        "pairwise_max_min_ratio": 1.571,
+        "keyed_to_median_ratio": 1.467,
+        "keyed_detail_marker_delta": 1,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q51",
+        "word_counts": {
+          "A": 6,
+          "B": 11,
+          "C": 8,
+          "D": 8
+        },
+        "pairwise_max_min_ratio": 1.833,
+        "keyed_to_median_ratio": 1.375,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": -1
+      },
+      {
+        "question_id": "Q52",
+        "word_counts": {
+          "A": 17,
+          "B": 15,
+          "C": 15,
+          "D": 12
+        },
+        "pairwise_max_min_ratio": 1.417,
+        "keyed_to_median_ratio": 1.133,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q53",
+        "word_counts": {
+          "A": 6,
+          "B": 9,
+          "C": 5,
+          "D": 4
+        },
+        "pairwise_max_min_ratio": 2.25,
+        "keyed_to_median_ratio": 1.636,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q54",
+        "word_counts": {
+          "A": 5,
+          "B": 4,
+          "C": 4,
+          "D": 6
+        },
+        "pairwise_max_min_ratio": 1.5,
+        "keyed_to_median_ratio": 1.333,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q55",
+        "word_counts": {
+          "A": 5,
+          "B": 14,
+          "C": 4,
+          "D": 4
+        },
+        "pairwise_max_min_ratio": 3.5,
+        "keyed_to_median_ratio": 3.111,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q56",
+        "word_counts": {
+          "A": 5,
+          "B": 5,
+          "C": 11,
+          "D": 6
+        },
+        "pairwise_max_min_ratio": 2.2,
+        "keyed_to_median_ratio": 2.0,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q57",
+        "word_counts": {
+          "A": 6,
+          "B": 8,
+          "C": 12,
+          "D": 8
+        },
+        "pairwise_max_min_ratio": 2.0,
+        "keyed_to_median_ratio": 1.5,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": -1
+      },
+      {
+        "question_id": "Q58",
+        "word_counts": {
+          "A": 8,
+          "B": 6,
+          "C": 6,
+          "D": 6
+        },
+        "pairwise_max_min_ratio": 1.333,
+        "keyed_to_median_ratio": 1.333,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": -1
+      },
+      {
+        "question_id": "Q59",
+        "word_counts": {
+          "A": 6,
+          "B": 5,
+          "C": 6,
+          "D": 11
+        },
+        "pairwise_max_min_ratio": 2.2,
+        "keyed_to_median_ratio": 1.833,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q60",
+        "word_counts": {
+          "A": 5,
+          "B": 7,
+          "C": 13,
+          "D": 6
+        },
+        "pairwise_max_min_ratio": 2.6,
+        "keyed_to_median_ratio": 2.0,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q61",
+        "word_counts": {
+          "A": 15,
+          "B": 15,
+          "C": 15,
+          "D": 16
+        },
+        "pairwise_max_min_ratio": 1.067,
+        "keyed_to_median_ratio": 1.067,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q62",
+        "word_counts": {
+          "A": 6,
+          "B": 12,
+          "C": 4,
+          "D": 4
+        },
+        "pairwise_max_min_ratio": 3.0,
+        "keyed_to_median_ratio": 2.4,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q63",
+        "word_counts": {
+          "A": 7,
+          "B": 4,
+          "C": 6,
+          "D": 13
+        },
+        "pairwise_max_min_ratio": 3.25,
+        "keyed_to_median_ratio": 2.0,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q64",
+        "word_counts": {
+          "A": 12,
+          "B": 4,
+          "C": 8,
+          "D": 4
+        },
+        "pairwise_max_min_ratio": 3.0,
+        "keyed_to_median_ratio": 2.0,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q65",
+        "word_counts": {
+          "A": 12,
+          "B": 11,
+          "C": 14,
+          "D": 14
+        },
+        "pairwise_max_min_ratio": 1.273,
+        "keyed_to_median_ratio": 1.182,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q66",
+        "word_counts": {
+          "A": 5,
+          "B": 13,
+          "C": 5,
+          "D": 6
+        },
+        "pairwise_max_min_ratio": 2.6,
+        "keyed_to_median_ratio": 2.364,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q67",
+        "word_counts": {
+          "A": 17,
+          "B": 14,
+          "C": 15,
+          "D": 15
+        },
+        "pairwise_max_min_ratio": 1.214,
+        "keyed_to_median_ratio": 1.133,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q68",
+        "word_counts": {
+          "A": 14,
+          "B": 14,
+          "C": 14,
+          "D": 14
+        },
+        "pairwise_max_min_ratio": 1.0,
+        "keyed_to_median_ratio": 1.0,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q69",
+        "word_counts": {
+          "A": 19,
+          "B": 13,
+          "C": 9,
+          "D": 8
+        },
+        "pairwise_max_min_ratio": 2.375,
+        "keyed_to_median_ratio": 1.727,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q70",
+        "word_counts": {
+          "A": 8,
+          "B": 7,
+          "C": 10,
+          "D": 8
+        },
+        "pairwise_max_min_ratio": 1.429,
+        "keyed_to_median_ratio": 1.25,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": -1
+      },
+      {
+        "question_id": "Q71",
+        "word_counts": {
+          "A": 7,
+          "B": 8,
+          "C": 6,
+          "D": 14
+        },
+        "pairwise_max_min_ratio": 2.333,
+        "keyed_to_median_ratio": 1.867,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": -1
+      },
+      {
+        "question_id": "Q72",
+        "word_counts": {
+          "A": 7,
+          "B": 14,
+          "C": 7,
+          "D": 6
+        },
+        "pairwise_max_min_ratio": 2.333,
+        "keyed_to_median_ratio": 2.0,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": 1
+      },
+      {
+        "question_id": "Q73",
+        "word_counts": {
+          "A": 7,
+          "B": 6,
+          "C": 6,
+          "D": 17
+        },
+        "pairwise_max_min_ratio": 2.833,
+        "keyed_to_median_ratio": 2.615,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q74",
+        "word_counts": {
+          "A": 6,
+          "B": 7,
+          "C": 9,
+          "D": 10
+        },
+        "pairwise_max_min_ratio": 1.667,
+        "keyed_to_median_ratio": 1.25,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q75",
+        "word_counts": {
+          "A": 9,
+          "B": 17,
+          "C": 8,
+          "D": 6
+        },
+        "pairwise_max_min_ratio": 2.833,
+        "keyed_to_median_ratio": 2.0,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q76",
+        "word_counts": {
+          "A": 16,
+          "B": 9,
+          "C": 7,
+          "D": 11
+        },
+        "pairwise_max_min_ratio": 2.286,
+        "keyed_to_median_ratio": 1.6,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 1
+      },
+      {
+        "question_id": "Q77",
+        "word_counts": {
+          "A": 10,
+          "B": 15,
+          "C": 9,
+          "D": 9
+        },
+        "pairwise_max_min_ratio": 1.667,
+        "keyed_to_median_ratio": 1.579,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q78",
+        "word_counts": {
+          "A": 7,
+          "B": 12,
+          "C": 7,
+          "D": 7
+        },
+        "pairwise_max_min_ratio": 1.714,
+        "keyed_to_median_ratio": 1.714,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q79",
+        "word_counts": {
+          "A": 8,
+          "B": 7,
+          "C": 15,
+          "D": 7
+        },
+        "pairwise_max_min_ratio": 2.143,
+        "keyed_to_median_ratio": 2.0,
+        "keyed_detail_marker_delta": 0,
+        "keyed_lexical_overlap_delta": -1
+      },
+      {
+        "question_id": "Q80",
+        "word_counts": {
+          "A": 7,
+          "B": 15,
+          "C": 8,
+          "D": 7
+        },
+        "pairwise_max_min_ratio": 2.143,
+        "keyed_to_median_ratio": 2.0,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": 0
+      },
+      {
+        "question_id": "Q81",
+        "word_counts": {
+          "A": 8,
+          "B": 9,
+          "C": 11,
+          "D": 8
+        },
+        "pairwise_max_min_ratio": 1.375,
+        "keyed_to_median_ratio": 1.294,
+        "keyed_detail_marker_delta": -1,
+        "keyed_lexical_overlap_delta": 0
+      }
+    ]
+  }
+}

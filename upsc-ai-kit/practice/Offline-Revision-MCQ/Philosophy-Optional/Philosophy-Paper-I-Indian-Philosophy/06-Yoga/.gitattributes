@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+source-snapshots/raw/PatanjaliYogaSutraSwamiVivekanandaSanEng_djvu.txt -text -whitespace
+source-snapshots/primary-patanjali-yoga-sutra-ii-27-vivekananda-1896.md -whitespace

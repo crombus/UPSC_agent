@@ -1,0 +1,66 @@
+{
+  "schema_version": 5,
+  "topic": "06 Yoga",
+  "validated_at": "2026-09-25T08:58:31+05:30",
+  "mode": "release",
+  "state": "RELEASE_PASS",
+  "release_ready": true,
+  "pdf_validation": "not_requested",
+  "checks": {
+    "required_files": 34,
+    "pdf_validation": "not_requested",
+    "source_artifacts": 32,
+    "source_identities": 8,
+    "formal_session_blocks": 311,
+    "formal_workbook_blocks": 53,
+    "canonical_blocks": 157,
+    "supplementary_blocks": 479,
+    "raw_propositions": 4223,
+    "unique_propositions": 2314,
+    "duplicate_occurrences": 1909,
+    "duplicate_groups": 1108,
+    "excluded_coordinates": 3324,
+    "diagram_structural_exclusions": 1289,
+    "panels": 187,
+    "large_leaves": 83,
+    "large_leaf_segments": 178,
+    "route_obligations_due": 1,
+    "mandatory_block_classifications": {
+      "testable_atomic_obligation": 65,
+      "supporting_non_testable_context": 406,
+      "duplicate_normalized_obligation": 50,
+      "routed_boundary": 0
+    },
+    "mandatory_proposition_classifications": {
+      "testable_atomic_obligation": 80,
+      "supporting_non_testable_context": 1905,
+      "duplicate_normalized_obligation": 308,
+      "routed_boundary": 2
+    },
+    "atomic_obligations": 81,
+    "matrix_cells": 81,
+    "mcq_total": 81,
+    "answer_distribution": {
+      "A": 18,
+      "D": 25,
+      "B": 21,
+      "C": 17
+    },
+    "answer_sequence": "ADABBDCDADADCBDACCDDBDCBDDCCACDBADACCDBCDABBAABDADBABDBCCADCDBDABBADACDBDDBABBCBC",
+    "max_answer_run": 2,
+    "short_cycle_count": 0,
+    "option_max_length_ratio": 3.5,
+    "option_max_keyed_median_ratio": 3.111,
+    "option_cue_outliers": 0,
+    "primary_pyqs": 8,
+    "supporting_pyqs": 1,
+    "original_timed_models": 6,
+    "word_bands": {
+      "10": "150-200",
+      "15": "250-300",
+      "20": "340-400"
+    },
+    "git_normalized_staged_files": 34
+  },
+  "errors": []
+}

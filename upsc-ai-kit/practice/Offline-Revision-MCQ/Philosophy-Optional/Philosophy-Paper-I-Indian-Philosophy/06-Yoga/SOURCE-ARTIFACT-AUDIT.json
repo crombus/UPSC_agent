@@ -1,0 +1,182 @@
+{
+  "schema_version": 4,
+  "policy": "markdown_and_machine_readable_audits_are_canonical_pdfs_prohibited_for_this_pass",
+  "status": "CANONICAL_SOURCE_ARTIFACTS_CURRENT",
+  "artifacts": [
+    {
+      "file": "README.md",
+      "sha256": "9be904f95f1358fe180299bf60c3bb5bac272db9b42069575d7177c6db9e8529",
+      "bytes": 1425
+    },
+    {
+      "file": "REVISION-GUIDE.md",
+      "sha256": "cdeb858a062132b1c6762e62a652eca8819f31e8c484705f301d6fdfc3985dd4",
+      "bytes": 819751
+    },
+    {
+      "file": "MCQ-QUESTIONS.md",
+      "sha256": "bf621a7eba9aa4fa80d4de880f919ea05ad40623ee6ed5e74d9404ec38d005d3",
+      "bytes": 29658
+    },
+    {
+      "file": "MCQ-SOLUTIONS.md",
+      "sha256": "b9f4331716bca4610919278f4c803035d71827fc61daa4aeae05e8f8ffa7a392",
+      "bytes": 87307
+    },
+    {
+      "file": "COVERAGE-LEDGER.md",
+      "sha256": "4d2abf54ea81378ded0192289512cacb3741727d78abcbd1429d855d42006da1",
+      "bytes": 240444
+    },
+    {
+      "file": "FORMAL-COVERAGE-AUDIT.json",
+      "sha256": "e084f4696b747c76ba47103eb982a8b736a9bba1a0eeb67e97f9f87e724fe647",
+      "bytes": 2425
+    },
+    {
+      "file": "FORMAL-COVERAGE-REVIEW.json",
+      "sha256": "3aeb3567d96a7ff9275825ed97b48da3d49b65a5770a37540fd24487a071f2c2",
+      "bytes": 6678628
+    },
+    {
+      "file": "SOURCE-PROPOSITION-INVENTORY.json",
+      "sha256": "94480e13b830b8fc9db0184aadf117c0ac770108a5f955f691d0b1ad164320f0",
+      "bytes": 5472819
+    },
+    {
+      "file": "TESTABLE-OBLIGATIONS.json",
+      "sha256": "f4aa50c9348ec29d0f0d8a617a18b4a4f4a925cafb10f7e15e742224c93cdb18",
+      "bytes": 3519428
+    },
+    {
+      "file": "TEST-MATRIX.json",
+      "sha256": "5073b5ddf0b95ce1450764a2ff314ca0b6ffa727c322d641d8040287bec64b80",
+      "bytes": 206215
+    },
+    {
+      "file": "MCQ-AUDIT.json",
+      "sha256": "dfa2276bb258854a62330a8dd604ce83233a622c565e58609e8e7146cc097ed6",
+      "bytes": 27142
+    },
+    {
+      "file": "PYQ-DEMAND-AUDIT.json",
+      "sha256": "982ca0295d76b3cffc78645671f56908f57f7edff67162ac34e1897658418cfa",
+      "bytes": 7455
+    },
+    {
+      "file": "PRACTICE-LOG.md",
+      "sha256": "7f3ff8a0d1173c2a003a79e546a303fda78370aa079f846f03f864df2c9ec1d9",
+      "bytes": 258
+    },
+    {
+      "file": "ANSWER-WRITING-TOOLKIT.md",
+      "sha256": "0f4abd4a5cb48c1a6a8175b42d3a7aa3155a907f500428683e52b5a8722d8d2d",
+      "bytes": 128444
+    },
+    {
+      "file": "FORMAL-SOURCE-MIRROR.md",
+      "sha256": "145b87efb368bb07641d4326a408023178cf5c02eb354a96aa466de62ec6bf09",
+      "bytes": 908374
+    },
+    {
+      "file": "source-snapshots/formal-Learning-Session.md",
+      "sha256": "888ce731bfcccc8045ebe94614e682e237b954792d881797d04316ab239be36b",
+      "bytes": 381683
+    },
+    {
+      "file": "source-snapshots/formal-Solved-Practice-Workbook.md",
+      "sha256": "d4ab2ab7fa5d205c806ed56fb29adc4713cd1f8bdc9a366c020457ebcc10fcad",
+      "bytes": 86406
+    },
+    {
+      "file": "source-snapshots/canonical-Yoga.md",
+      "sha256": "f8152d1ea4b103c0571be7c4fc8664a31f14e21fa5c0049e8735bf886ceddd55",
+      "bytes": 97976
+    },
+    {
+      "file": "source-snapshots/supplementary-complete-session.md",
+      "sha256": "aa8ebbc7f295adf4a9074f4394874a980bb60f7cb0c5357569ddcd6b2f42ed3f",
+      "bytes": 114574
+    },
+    {
+      "file": "source-snapshots/supplementary-layered-session.md",
+      "sha256": "1166a148b916eada17fb81fdb3db9a60fd2af05925fb34922a76c03d3159b07c",
+      "bytes": 136537
+    },
+    {
+      "file": "source-snapshots/supplementary-solved-workbook.md",
+      "sha256": "f1312007f012a5bb351a1d1a47db7baef7347d55ec45254cf17be622498f1896",
+      "bytes": 23301
+    },
+    {
+      "file": "source-snapshots/pyq-2018-2025.md",
+      "sha256": "c7b556c7b4b750943b7b5f0ac94273664a46c6c75f1c444ae2d953fd77d34eec",
+      "bytes": 25796
+    },
+    {
+      "file": "source-snapshots/pyq-2026.md",
+      "sha256": "1e3b86dbf301bf929851ecc39f1b8585485707cd19fc7a2168861bbb142a8806",
+      "bytes": 8502
+    },
+    {
+      "file": "SOURCE-REGISTRY.json",
+      "sha256": "5699504811d12b2d2c9cce2dc3a8d1d3dbc6961665a7eefb502e1280c2a46cb5",
+      "bytes": 4262
+    },
+    {
+      "file": "build_package.py",
+      "sha256": "a03b65bd877d76e453b6bec9783b7406c5574a296ab7eb311ab922668ecffebe",
+      "bytes": 120400
+    },
+    {
+      "file": "validate_package.py",
+      "sha256": "4de7e72ebf892e2cd9de339c1d75b9f5bdc5901230f7e1ba228fd4fe1935bb26",
+      "bytes": 79410
+    },
+    {
+      "file": "run_negative_tests.py",
+      "sha256": "676333db5b727617cd87df1fb9e19a3a655a83b1c12722cda22a4ea611df289d",
+      "bytes": 41166
+    },
+    {
+      "file": "render_pdfs.py",
+      "sha256": "2bb40d15d99157962839ac27b3e1c2771aab5a6d45973e74fb02420222813ca2",
+      "bytes": 122
+    },
+    {
+      "file": ".gitattributes",
+      "sha256": "8ca09bca106d9c8143a4ce38aeb1e118301d675f93bc8b4ff52a2328d6594e31",
+      "bytes": 245
+    },
+    {
+      "file": "PRIMARY-SOURCE-AUTHORITY.json",
+      "sha256": "3fd1ecaa0596ec84b5d9016f1b120e18363e88aa523fd000c05fbee9ef11d709",
+      "bytes": 3532
+    },
+    {
+      "file": "source-snapshots/raw/PatanjaliYogaSutraSwamiVivekanandaSanEng_djvu.txt",
+      "sha256": "9ea63241b2b06ed698b754ff8dd71b1bf38a0459b5cf79e485e308d6a0199a29",
+      "bytes": 197940
+    },
+    {
+      "file": "source-snapshots/primary-patanjali-yoga-sutra-ii-27-vivekananda-1896.md",
+      "sha256": "452982928cdf1f62530d27cf07d95b56031177ed7893ccd595e4260804d275fe",
+      "bytes": 2792
+    }
+  ],
+  "approved_primary_source": {
+    "scope": "user_approved_primary_text_authority_for_YG-OB-077",
+    "obligation_id": "YG-OB-077",
+    "snapshot_path": "source-snapshots/primary-patanjali-yoga-sutra-ii-27-vivekananda-1896.md",
+    "snapshot_sha256": "452982928cdf1f62530d27cf07d95b56031177ed7893ccd595e4260804d275fe",
+    "item_url": "https://archive.org/details/PatanjaliYogaSutraSwamiVivekanandaSanEng",
+    "object_url": "https://archive.org/download/PatanjaliYogaSutraSwamiVivekanandaSanEng/PatanjaliYogaSutraSwamiVivekanandaSanEng_djvu.txt",
+    "object_bytes": 197940,
+    "object_sha256": "9ea63241b2b06ed698b754ff8dd71b1bf38a0459b5cf79e485e308d6a0199a29",
+    "coordinate": [
+      3499,
+      3503
+    ],
+    "payload_sha256": "aab615b0d801e05ce27d1689c58b4a5b5c1421f13922def23f89bf4ae416a056"
+  }
+}

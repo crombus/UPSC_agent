@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "generated_at_utc": "2026-09-25T01:58:36+00:00",
+  "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/06-Yoga",
+  "focused_invariants": [
+    "authority|source|provenance|validator|builder"
+  ],
+  "focused_cases": [
+    {
+      "case": "formal-source-path-identity",
+      "expected_code": "SOURCE_IDENTITY_MISMATCH"
+    },
+    {
+      "case": "formal-source-hash-drift",
+      "expected_code": "FORMAL_SOURCE_HASH_DRIFT"
+    },
+    {
+      "case": "formal-source-removal",
+      "expected_code": "FORMAL_SOURCE_MISSING"
+    },
+    {
+      "case": "source-snapshot-staleness",
+      "expected_code": "SOURCE_SNAPSHOT_STALE"
+    },
+    {
+      "case": "primary-snapshot-byte-hash-tamper",
+      "expected_code": "PRIMARY_SOURCE_SNAPSHOT_TAMPER"
+    },
+    {
+      "case": "builder-ii27-url-constant",
+      "expected_code": "PRIMARY_SOURCE_TRUTH_DUPLICATED_IN_BUILDER"
+    },
+    {
+      "case": "builder-ii27-hash-constant",
+      "expected_code": "PRIMARY_SOURCE_TRUTH_DUPLICATED_IN_BUILDER"
+    },
+    {
+      "case": "builder-ii27-coordinate-constant",
+      "expected_code": "PRIMARY_SOURCE_TRUTH_DUPLICATED_IN_BUILDER"
+    },
+    {
+      "case": "builder-ii27-payload-constant",
+      "expected_code": "PRIMARY_SOURCE_TRUTH_DUPLICATED_IN_BUILDER"
+    },
+    {
+      "case": "builder-ii27-scope-constant",
+      "expected_code": "PRIMARY_SOURCE_TRUTH_DUPLICATED_IN_BUILDER"
+    },
+    {
+      "case": "coordinated-builder-generated-provenance-tamper",
+      "expected_code": "PRIMARY_SOURCE_TRUTH_DUPLICATED_IN_BUILDER"
+    },
+    {
+      "case": "recorded-primary-object-byte-length-tamper",
+      "expected_code": "YG-OB-077_PRIMARY_SOURCE_PROVENANCE_TAMPER"
+    },
+    {
+      "case": "recorded-primary-object-sha-tamper",
+      "expected_code": "YG-OB-077_PRIMARY_SOURCE_PROVENANCE_TAMPER"
+    },
+    {
+      "case": "primary-raw-object-byte-tamper",
+      "expected_code": "PRIMARY_SOURCE_RAW_SHA256_TAMPER"
+    },
+    {
+      "case": "primary-manifest-coordinate-tamper",
+      "expected_code": "PRIMARY_SOURCE_AUTHORITY_MANIFEST_TAMPER"
+    },
+    {
+      "case": "primary-snapshot-scope-tamper",
+      "expected_code": "PRIMARY_SOURCE_SNAPSHOT_TAMPER"
+    },
+    {
+      "case": "primary-wrong-sutra-ocr-coordinate",
+      "expected_code": "YG-OB-077_PRIMARY_SOURCE_PROVENANCE_TAMPER"
+    },
+    {
+      "case": "primary-object-url-tamper",
+      "expected_code": "YG-OB-077_PRIMARY_SOURCE_PROVENANCE_TAMPER"
+    },
+    {
+      "case": "primary-provenance-scope-tamper",
+      "expected_code": "YG-OB-077_PRIMARY_SOURCE_SCOPE_TAMPER"
+    },
+    {
+      "case": "copied-package-source-obligation-removal",
+      "expected_code": "SOURCE_DERIVED_OBLIGATION_REMOVED"
+    },
+    {
+      "case": "copied-package-real-examinable-source-row-removed",
+      "expected_code": "SOURCE_PROPOSITION_CLASSIFICATION_INCOMPLETE"
+    },
+    {
+      "case": "irrelevant-authority-loose-substring",
+      "expected_code": "OBLIGATION_REVERSE_COVERAGE_MISSING"
+    },
+    {
+      "case": "copied-package-hard-wrap-continuation-removed",
+      "expected_code": "SOURCE_PROPOSITION_INVENTORY_TAMPER"
+    },
+    {
+      "case": "copied-package-unfinished-connector",
+      "expected_code": "SOURCE_PROPOSITION_INVENTORY_TAMPER"
+    },
+    {
+      "case": "copied-package-unfinished-emphasis",
+      "expected_code": "SOURCE_PROPOSITION_INVENTORY_TAMPER"
+    },
+    {
+      "case": "yg-ob-077-plausible-near-match",
+      "expected_code": "YG-OB-077_AUTHORITY_NEAR_MATCH"
+    },
+    {
+      "case": "yg-ob-078-plausible-near-match",
+      "expected_code": "YG-OB-078_AUTHORITY_NEAR_MATCH"
+    },
+    {
+      "case": "stale-source-artifact-audit",
+      "expected_code": "SOURCE_ARTIFACT_STALE"
+    }
+  ],
+  "full_suite_case_count": 83,
+  "execution_policy": {
+    "focused_during_repair": true,
+    "full_suite_required_at_final_development_gate": true,
+    "production_validator_required": true
+  }
+}

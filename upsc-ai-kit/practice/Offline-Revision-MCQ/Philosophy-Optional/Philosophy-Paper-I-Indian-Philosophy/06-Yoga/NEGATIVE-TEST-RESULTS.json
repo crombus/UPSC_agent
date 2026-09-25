@@ -1,0 +1,1369 @@
+{
+  "schema_version": 3,
+  "test_count": 85,
+  "passed_count": 85,
+  "failed_count": 0,
+  "results": [
+    {
+      "case": "missing-file-stale-success",
+      "expected": "MISSING_REQUIRED_FILE",
+      "returncode": 1,
+      "codes": [
+        "MISSING_REQUIRED_FILE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "formal-source-path-identity",
+      "expected": "SOURCE_IDENTITY_MISMATCH",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "SOURCE_IDENTITY_MISMATCH",
+        "DERIVED_AUDIT_STALE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "formal-source-hash-drift",
+      "expected": "SOURCE_IDENTITY_MISMATCH",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "SOURCE_IDENTITY_MISMATCH",
+        "DERIVED_AUDIT_STALE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "formal-source-removal",
+      "expected": "SOURCE_IDENTITY_MISMATCH",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "SOURCE_ARTIFACT_STALE",
+        "SOURCE_IDENTITY_MISMATCH",
+        "DERIVED_AUDIT_STALE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "source-snapshot-staleness",
+      "expected": "SOURCE_SNAPSHOT_STALE",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "SOURCE_SNAPSHOT_STALE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "coordinated-builder-source-registry-snapshot-tamper",
+      "expected": "SOURCE_REGISTRY_TAMPER",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_REGISTRY_TAMPER"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "primary-snapshot-deletion",
+      "expected": "MISSING_REQUIRED_FILE",
+      "returncode": 1,
+      "codes": [
+        "MISSING_REQUIRED_FILE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "primary-snapshot-byte-hash-tamper",
+      "expected": "PRIMARY_SOURCE_SNAPSHOT_TAMPER",
+      "returncode": 1,
+      "codes": [
+        "PRIMARY_SOURCE_SNAPSHOT_TAMPER",
+        "PRIMARY_SOURCE_SNAPSHOT_PAYLOAD_TAMPER"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "builder-ii27-url-constant",
+      "expected": "PRIMARY_SOURCE_TRUTH_DUPLICATED_IN_BUILDER",
+      "returncode": 1,
+      "codes": [
+        "PRIMARY_SOURCE_TRUTH_DUPLICATED_IN_BUILDER"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "builder-ii27-hash-constant",
+      "expected": "PRIMARY_SOURCE_TRUTH_DUPLICATED_IN_BUILDER",
+      "returncode": 1,
+      "codes": [
+        "PRIMARY_SOURCE_TRUTH_DUPLICATED_IN_BUILDER"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "builder-ii27-coordinate-constant",
+      "expected": "PRIMARY_SOURCE_TRUTH_DUPLICATED_IN_BUILDER",
+      "returncode": 1,
+      "codes": [
+        "PRIMARY_SOURCE_TRUTH_DUPLICATED_IN_BUILDER"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "builder-ii27-payload-constant",
+      "expected": "PRIMARY_SOURCE_TRUTH_DUPLICATED_IN_BUILDER",
+      "returncode": 1,
+      "codes": [
+        "PRIMARY_SOURCE_TRUTH_DUPLICATED_IN_BUILDER"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "builder-ii27-scope-constant",
+      "expected": "PRIMARY_SOURCE_TRUTH_DUPLICATED_IN_BUILDER",
+      "returncode": 1,
+      "codes": [
+        "PRIMARY_SOURCE_TRUTH_DUPLICATED_IN_BUILDER"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "coordinated-builder-generated-provenance-tamper",
+      "expected": "PRIMARY_SOURCE_TRUTH_DUPLICATED_IN_BUILDER",
+      "returncode": 1,
+      "codes": [
+        "PRIMARY_SOURCE_TRUTH_DUPLICATED_IN_BUILDER"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "recorded-primary-object-byte-length-tamper",
+      "expected": "YG-OB-077_PRIMARY_SOURCE_PROVENANCE_TAMPER",
+      "returncode": 1,
+      "codes": [
+        "YG-OB-077_PRIMARY_SOURCE_PROVENANCE_TAMPER",
+        "YG-OB-077_PRIMARY_SOURCE_SCOPE_TAMPER",
+        "DERIVED_AUDIT_STALE",
+        "YG-OB-077_PRIMARY_SOURCE_PROVENANCE_TAMPER",
+        "OBLIGATION_INVENTORY_LINK_MISSING"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "recorded-primary-object-sha-tamper",
+      "expected": "YG-OB-077_PRIMARY_SOURCE_PROVENANCE_TAMPER",
+      "returncode": 1,
+      "codes": [
+        "YG-OB-077_PRIMARY_SOURCE_PROVENANCE_TAMPER",
+        "YG-OB-077_PRIMARY_SOURCE_SCOPE_TAMPER",
+        "DERIVED_AUDIT_STALE",
+        "YG-OB-077_PRIMARY_SOURCE_PROVENANCE_TAMPER",
+        "OBLIGATION_INVENTORY_LINK_MISSING"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "primary-raw-object-byte-tamper",
+      "expected": "PRIMARY_SOURCE_RAW_SHA256_TAMPER",
+      "returncode": 1,
+      "codes": [
+        "PRIMARY_SOURCE_RAW_SHA256_TAMPER"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "primary-manifest-coordinate-tamper",
+      "expected": "PRIMARY_SOURCE_AUTHORITY_MANIFEST_TAMPER",
+      "returncode": 1,
+      "codes": [
+        "PRIMARY_SOURCE_AUTHORITY_MANIFEST_TAMPER",
+        "PRIMARY_SOURCE_COORDINATE_OR_PAYLOAD_TAMPER"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "primary-snapshot-scope-tamper",
+      "expected": "PRIMARY_SOURCE_SNAPSHOT_TAMPER",
+      "returncode": 1,
+      "codes": [
+        "PRIMARY_SOURCE_SNAPSHOT_TAMPER",
+        "PRIMARY_SOURCE_SNAPSHOT_SCOPE_TAMPER"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "primary-wrong-sutra-ocr-coordinate",
+      "expected": "YG-OB-077_PRIMARY_SOURCE_PROVENANCE_TAMPER",
+      "returncode": 1,
+      "codes": [
+        "YG-OB-077_PRIMARY_SOURCE_PROVENANCE_TAMPER",
+        "OBLIGATION_INVENTORY_LINK_MISSING"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "primary-object-url-tamper",
+      "expected": "YG-OB-077_PRIMARY_SOURCE_PROVENANCE_TAMPER",
+      "returncode": 1,
+      "codes": [
+        "YG-OB-077_PRIMARY_SOURCE_PROVENANCE_TAMPER",
+        "OBLIGATION_INVENTORY_LINK_MISSING"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "primary-provenance-scope-tamper",
+      "expected": "YG-OB-077_PRIMARY_SOURCE_SCOPE_TAMPER",
+      "returncode": 1,
+      "codes": [
+        "YG-OB-077_PRIMARY_SOURCE_SCOPE_TAMPER",
+        "DERIVED_AUDIT_STALE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "formal-block-deletion",
+      "expected": "FORMAL_BLOCK_DELETION_OR_INFLATION",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "FORMAL_BLOCK_DELETION_OR_INFLATION",
+        "SEMANTIC_REGISTRY_MISMATCH",
+        "SEMANTIC_TOTAL_MISMATCH",
+        "SEMANTIC_TOTAL_MISMATCH",
+        "SEMANTIC_TOTAL_MISMATCH",
+        "PANEL_COUNT_MISMATCH",
+        "DERIVED_AUDIT_STALE",
+        "DERIVED_AUDIT_COUNT",
+        "DERIVED_AUDIT_COUNT",
+        "DERIVED_AUDIT_COUNT",
+        "DERIVED_AUDIT_COUNT"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "canonical-block-payload",
+      "expected": "BLOCK_IDENTITY_OR_HASH_MISMATCH",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "BLOCK_IDENTITY_OR_HASH_MISMATCH",
+        "DERIVED_AUDIT_STALE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "destination-payload",
+      "expected": "DESTINATION_PAYLOAD_HASH_MISMATCH",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "DESTINATION_PAYLOAD_HASH_MISMATCH"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "learner-payload",
+      "expected": "LEARNER_PAYLOAD_MISMATCH",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "LEARNER_PAYLOAD_MISMATCH"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "semantic-structural-inflation",
+      "expected": "NON_PROPOSITION_FRAGMENT_INCLUDED",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "NON_PROPOSITION_FRAGMENT_INCLUDED",
+        "SEMANTIC_PROPOSITION_COUNT",
+        "DERIVED_AUDIT_STALE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "diagram-connector-inflation",
+      "expected": "NON_PROPOSITION_FRAGMENT_INCLUDED",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "NON_PROPOSITION_FRAGMENT_INCLUDED",
+        "SEMANTIC_PROPOSITION_COUNT",
+        "DERIVED_AUDIT_STALE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "diagram-border-inflation",
+      "expected": "NON_PROPOSITION_FRAGMENT_INCLUDED",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "NON_PROPOSITION_FRAGMENT_INCLUDED",
+        "SEMANTIC_PROPOSITION_COUNT",
+        "DERIVED_AUDIT_STALE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "diagram-incomplete-fragment-inflation",
+      "expected": "NON_PROPOSITION_FRAGMENT_INCLUDED",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "NON_PROPOSITION_FRAGMENT_INCLUDED",
+        "SEMANTIC_PROPOSITION_COUNT",
+        "DERIVED_AUDIT_STALE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "hierarchy-child-union",
+      "expected": "CHILD_UNION_MISMATCH",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "CHILD_UNION_MISMATCH",
+        "DERIVED_AUDIT_STALE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "panel-parity",
+      "expected": "PANEL_PARITY_MISMATCH",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "PANEL_PARITY_MISMATCH",
+        "DERIVED_AUDIT_STALE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "large-leaf-segment",
+      "expected": "LARGE_LEAF_MISMATCH",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "LARGE_LEAF_MISMATCH",
+        "DERIVED_AUDIT_STALE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "route-obligation",
+      "expected": "ROUTE_OBLIGATION_TAMPER",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "ROUTE_OBLIGATION_TAMPER",
+        "DERIVED_AUDIT_STALE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "obligation-inventory-omission",
+      "expected": "MISSING_REQUIRED_FILE",
+      "returncode": 1,
+      "codes": [
+        "MISSING_REQUIRED_FILE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "obligation-block-classification-omission",
+      "expected": "OBLIGATION_BLOCK_CLASSIFICATION_OMISSION",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "OBLIGATION_BLOCK_CLASSIFICATION_OMISSION",
+        "OBLIGATION_INVENTORY_LINK_MISSING"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "obligation-proposition-classification-omission",
+      "expected": "OBLIGATION_PROPOSITION_CLASSIFICATION_OMISSION",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "OBLIGATION_PROPOSITION_CLASSIFICATION_OMISSION",
+        "OBLIGATION_INVENTORY_TAMPER",
+        "OBLIGATION_INVENTORY_LINK_MISSING"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "copied-package-source-obligation-removal",
+      "expected": "SOURCE_DERIVED_OBLIGATION_REMOVED",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_DERIVED_OBLIGATION_REMOVED",
+        "OBLIGATION_ORPHAN_OR_OMISSION",
+        "OBLIGATION_INVENTORY_LINK_MISSING",
+        "MCQ_MATRIX_TOTAL_MISMATCH",
+        "MCQ_DOCUMENT_COUNT",
+        "MCQ_CELL_SET_MISMATCH",
+        "MCQ_UNKNOWN_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "YG-OB-077_QUESTION_NEAR_MATCH",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "YG-OB-078_QUESTION_NEAR_MATCH",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "copied-package-examinable-reclassified",
+      "expected": "EXAMINABLE_PROPOSITION_RECLASSIFIED",
+      "returncode": 1,
+      "codes": [
+        "GENERIC_NON_TESTABILITY_REASON",
+        "SOURCE_PROPOSITION_INVENTORY_TAMPER",
+        "OBLIGATION_ORPHAN_OR_OMISSION",
+        "EXAMINABLE_PROPOSITION_RECLASSIFIED",
+        "OBLIGATION_REVERSE_COVERAGE_MISSING",
+        "OBLIGATION_INVENTORY_LINK_MISSING",
+        "SOURCE_CLASSIFICATION_FREEZE_MISMATCH",
+        "OBLIGATION_CELL_COVERAGE_MISSING",
+        "OBLIGATION_CELL_COVERAGE_MISSING"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "copied-package-real-examinable-source-row-removed",
+      "expected": "SOURCE_PROPOSITION_CLASSIFICATION_INCOMPLETE",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_PROPOSITION_INVENTORY_TAMPER",
+        "SOURCE_PROPOSITION_CLASSIFICATION_INCOMPLETE",
+        "SOURCE_PROPOSITION_INVENTORY_TAMPER",
+        "OBLIGATION_INVENTORY_TAMPER",
+        "OBLIGATION_ORPHAN_OR_OMISSION",
+        "SOURCE_CLASSIFICATION_FREEZE_MISMATCH",
+        "OBLIGATION_CELL_COVERAGE_MISSING",
+        "OBLIGATION_CELL_COVERAGE_MISSING"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "obligation-reverse-coverage-omission",
+      "expected": "OBLIGATION_CLASSIFICATION_INVALID",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "OBLIGATION_CLASSIFICATION_INVALID",
+        "OBLIGATION_INVENTORY_TAMPER",
+        "OBLIGATION_REVERSE_COVERAGE_MISSING",
+        "OBLIGATION_INVENTORY_LINK_MISSING"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "copied-package-plausible-unrelated-representation",
+      "expected": "OBLIGATION_REVERSE_COVERAGE_MISSING",
+      "returncode": 1,
+      "codes": [
+        "OBLIGATION_ORPHAN_OR_OMISSION",
+        "OBLIGATION_REVERSE_COVERAGE_MISSING",
+        "OBLIGATION_INVENTORY_LINK_MISSING",
+        "SOURCE_CLASSIFICATION_FREEZE_MISMATCH",
+        "OBLIGATION_CELL_COVERAGE_MISSING",
+        "OBLIGATION_CELL_COVERAGE_MISSING"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "orphan-obligation",
+      "expected": "OBLIGATION_ORPHAN_OR_OMISSION",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "OBLIGATION_ORPHAN_OR_OMISSION",
+        "OBLIGATION_REVERSE_COVERAGE_MISSING",
+        "OBLIGATION_INVENTORY_LINK_MISSING",
+        "MCQ_MATRIX_TOTAL_MISMATCH",
+        "MCQ_DOCUMENT_COUNT",
+        "MCQ_CELL_SET_MISMATCH",
+        "MCQ_MISSING_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_AUTHORITY_REFERENCE_TAMPER",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_SOLUTION_STRUCTURE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "irrelevant-authority-loose-substring",
+      "expected": "OBLIGATION_REVERSE_COVERAGE_MISSING",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "OBLIGATION_REVERSE_COVERAGE_MISSING",
+        "OBLIGATION_INVENTORY_LINK_MISSING",
+        "MCQ_AUTHORITY_REFERENCE_TAMPER"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "missing-mcq-mapping",
+      "expected": "MCQ_MISSING_MAPPING",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "MCQ_MISSING_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "copied-package-mapped-question-removal",
+      "expected": "MCQ_MISSING_MAPPING",
+      "returncode": 1,
+      "codes": [
+        "MCQ_MISSING_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_ORPHAN_CELL_OR_QUESTION",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_CELL_BELOW_MINIMUM"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "copied-package-hard-wrap-continuation-removed",
+      "expected": "SOURCE_PROPOSITION_INVENTORY_TAMPER",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_PROPOSITION_INVENTORY_TAMPER",
+        "OBLIGATION_INVENTORY_TAMPER",
+        "SOURCE_CLASSIFICATION_FREEZE_MISMATCH"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "copied-package-unfinished-connector",
+      "expected": "SOURCE_PROPOSITION_INVENTORY_TAMPER",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_PROPOSITION_INVENTORY_TAMPER",
+        "OBLIGATION_INVENTORY_TAMPER",
+        "SOURCE_CLASSIFICATION_FREEZE_MISMATCH"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "copied-package-unfinished-emphasis",
+      "expected": "SOURCE_PROPOSITION_INVENTORY_TAMPER",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_PROPOSITION_INVENTORY_TAMPER",
+        "OBLIGATION_INVENTORY_TAMPER",
+        "SOURCE_CLASSIFICATION_FREEZE_MISMATCH"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "yg-ob-077-plausible-near-match",
+      "expected": "YG-OB-077_AUTHORITY_NEAR_MATCH",
+      "returncode": 1,
+      "codes": [
+        "YG-OB-077_AUTHORITY_NEAR_MATCH",
+        "YG-OB-077_PRIMARY_SOURCE_PROVENANCE_TAMPER",
+        "OBLIGATION_INVENTORY_LINK_MISSING",
+        "MCQ_AUTHORITY_REFERENCE_TAMPER"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "yg-ob-078-plausible-near-match",
+      "expected": "YG-OB-078_AUTHORITY_NEAR_MATCH",
+      "returncode": 1,
+      "codes": [
+        "YG-OB-078_AUTHORITY_NEAR_MATCH",
+        "OBLIGATION_INVENTORY_LINK_MISSING",
+        "MCQ_AUTHORITY_REFERENCE_TAMPER"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "primary-obligation-seven-stage-overclaim",
+      "expected": "YG-OB-077_SEVEN_STAGE_OVERCLAIM",
+      "returncode": 1,
+      "codes": [
+        "YG-OB-077_AUTHORITY_NEAR_MATCH",
+        "YG-OB-077_SEVEN_STAGE_OVERCLAIM",
+        "OBLIGATION_INVENTORY_LINK_MISSING"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "primary-question-seven-stage-overclaim",
+      "expected": "YG-OB-077_SEVEN_STAGE_OVERCLAIM",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "SOURCE_ARTIFACT_STALE",
+        "YG-OB-077_SEVEN_STAGE_OVERCLAIM"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "false-mcq-mapping",
+      "expected": "MCQ_FALSE_MAPPING",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "overloaded-mcq-mapping",
+      "expected": "MCQ_MAPPING_OVERLOADED",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "MCQ_MAPPING_OVERLOADED"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "distractor-only-mapping",
+      "expected": "MCQ_DISTRACTOR_ONLY_MAPPING",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "MCQ_DISTRACTOR_ONLY_MAPPING"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "redundant-mcq-mapping",
+      "expected": "MCQ_REDUNDANT_MAPPING",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "MCQ_REDUNDANT_MAPPING",
+        "MCQ_MAPPING_OVERLOADED"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "orphan-cell",
+      "expected": "MCQ_CELL_SET_MISMATCH",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "MCQ_MATRIX_TOTAL_MISMATCH",
+        "MCQ_CELL_SET_MISMATCH",
+        "OBLIGATION_CELL_COVERAGE_MISSING",
+        "MCQ_DUPLICATE_REDUNDANT_CELL"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "orphan-question",
+      "expected": "MCQ_MISSING_MAPPING",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "MCQ_MISSING_MAPPING",
+        "MCQ_FALSE_MAPPING",
+        "MCQ_FALSE_MAPPING"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "duplicate-redundant-cell",
+      "expected": "MCQ_DUPLICATE_REDUNDANT_CELL",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "MCQ_DUPLICATE_REDUNDANT_CELL",
+        "MCQ_AUTHORITY_REFERENCE_TAMPER"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "legacy-fixed-total",
+      "expected": "LEGACY_FIXED_TOTAL",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "LEGACY_FIXED_TOTAL"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "question-first-derivation",
+      "expected": "MCQ_QUESTION_FIRST_DERIVATION",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "MCQ_QUESTION_FIRST_DERIVATION"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "answer-quota-contract",
+      "expected": "LEGACY_FIXED_TOTAL",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "LEGACY_FIXED_TOTAL"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "answer-run",
+      "expected": "MCQ_ANSWER_RUN",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "SOURCE_ARTIFACT_STALE",
+        "MCQ_ANSWER_EXPLANATION_TAMPER",
+        "MCQ_ANSWER_IMBALANCE",
+        "MCQ_ANSWER_RUN",
+        "MCQ_OPTION_CUE_AUDIT_STALE",
+        "MCQ_OPTION_CUE_AUDIT_STALE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "answer-imbalance",
+      "expected": "MCQ_ANSWER_IMBALANCE",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "SOURCE_ARTIFACT_STALE",
+        "MCQ_ANSWER_EXPLANATION_TAMPER",
+        "MCQ_ANSWER_IMBALANCE",
+        "MCQ_ANSWER_RUN",
+        "MCQ_OPTION_CUE_AUDIT_STALE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "answer-short-cycle",
+      "expected": "MCQ_SHORT_CYCLE",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "SOURCE_ARTIFACT_STALE",
+        "MCQ_ANSWER_EXPLANATION_TAMPER",
+        "MCQ_SHORT_CYCLE",
+        "MCQ_OPTION_CUE_AUDIT_STALE",
+        "MCQ_OPTION_CUE_AUDIT_STALE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "ordinary-non-equal-distribution-accepted",
+      "expected": "DEVELOPMENT_PASS",
+      "returncode": 0,
+      "codes": [],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "option-length-cue",
+      "expected": "MCQ_OPTION_LENGTH_CUE",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "SOURCE_ARTIFACT_STALE",
+        "MCQ_OPTION_CUE_AUDIT_STALE",
+        "MCQ_OPTION_CUE_AUDIT_STALE",
+        "MCQ_OPTION_CUE_AUDIT_STALE",
+        "MCQ_OPTION_CUE_AUDIT_STALE",
+        "MCQ_OPTION_LENGTH_CUE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "option-format-cue",
+      "expected": "MCQ_OPTION_FORMAT_CUE",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "SOURCE_ARTIFACT_STALE",
+        "MCQ_OPTION_CUE_AUDIT_STALE",
+        "MCQ_OPTION_FORMAT_CUE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "option-specificity-cue",
+      "expected": "MCQ_OPTION_SPECIFICITY_CUE",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "SOURCE_ARTIFACT_STALE",
+        "MCQ_OPTION_CUE_AUDIT_STALE",
+        "MCQ_OPTION_CUE_AUDIT_STALE",
+        "MCQ_OPTION_CUE_AUDIT_STALE",
+        "MCQ_OPTION_SPECIFICITY_CUE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "option-lexical-cue",
+      "expected": "MCQ_OPTION_LEXICAL_CUE",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "SOURCE_ARTIFACT_STALE",
+        "MCQ_OPTION_CUE_AUDIT_STALE",
+        "MCQ_OPTION_CUE_AUDIT_STALE",
+        "MCQ_OPTION_CUE_AUDIT_STALE",
+        "MCQ_OPTION_LEXICAL_CUE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "copied-package-later-question-definition-mutated",
+      "expected": "MCQ_FALSE_MAPPING",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "SOURCE_ARTIFACT_STALE",
+        "MCQ_FALSE_MAPPING"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "redundant-stem",
+      "expected": "MCQ_REDUNDANT_STEM",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "SOURCE_ARTIFACT_STALE",
+        "MCQ_REDUNDANT_STEM"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "pyq-wording-ownership",
+      "expected": "PYQ_EXACT_WORDING_OR_MARKS",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "PYQ_EXACT_WORDING_OR_MARKS"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "coordinated-builder-pyq-snapshot-audit-tamper",
+      "expected": "SOURCE_REGISTRY_TAMPER",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_REGISTRY_TAMPER"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "pyq-marks",
+      "expected": "PYQ_EXACT_WORDING_OR_MARKS",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "PYQ_EXACT_WORDING_OR_MARKS"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "pyq-ownership",
+      "expected": "PYQ_EXACT_WORDING_OR_MARKS",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "PYQ_EXACT_WORDING_OR_MARKS"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "pyq-components",
+      "expected": "PYQ_SOLUTION_COMPONENT_MISSING",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "PYQ_SOLUTION_COMPONENT_MISSING"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "pyq-word-band",
+      "expected": "PYQ_WORD_BAND",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "PYQ_WORD_BAND"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "original-word-band",
+      "expected": "ORIGINAL_WORD_BAND",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "ORIGINAL_WORD_BAND"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "stale-source-artifact-audit",
+      "expected": "SOURCE_ARTIFACT_STALE",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "markdown-only-pdf-file",
+      "expected": "PDF_ARTIFACT_FORBIDDEN",
+      "returncode": 1,
+      "codes": [
+        "PDF_ARTIFACT_FORBIDDEN"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "markdown-only-pdf-directory",
+      "expected": "PDF_ARTIFACT_FORBIDDEN",
+      "returncode": 1,
+      "codes": [
+        "PDF_ARTIFACT_FORBIDDEN"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "release-not-staged-clean-nonmutating",
+      "expected": "RELEASE_NOT_STAGED",
+      "returncode": 1,
+      "codes": [
+        "RELEASE_NOT_STAGED"
+      ],
+      "nonmutating": true,
+      "passed": true
+    },
+    {
+      "case": "release-mixed-state-nonmutating",
+      "expected": "RELEASE_NOT_STAGED",
+      "returncode": 1,
+      "codes": [
+        "SOURCE_ARTIFACT_STALE",
+        "RELEASE_NOT_STAGED"
+      ],
+      "nonmutating": true,
+      "passed": true
+    }
+  ]
+}

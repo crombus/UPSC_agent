@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/06-Yoga",
+  "source_fingerprint": "e16f0a7aff86b6b0a28c069713cc025fa61464a4edc2e3e6231a978c39444eaa",
+  "sources": [
+    {
+      "file": "source-snapshots/canonical-Yoga.md",
+      "sha256": "f8152d1ea4b103c0571be7c4fc8664a31f14e21fa5c0049e8735bf886ceddd55",
+      "bytes": 97976
+    },
+    {
+      "file": "source-snapshots/formal-Learning-Session.md",
+      "sha256": "888ce731bfcccc8045ebe94614e682e237b954792d881797d04316ab239be36b",
+      "bytes": 381683
+    },
+    {
+      "file": "source-snapshots/formal-Solved-Practice-Workbook.md",
+      "sha256": "d4ab2ab7fa5d205c806ed56fb29adc4713cd1f8bdc9a366c020457ebcc10fcad",
+      "bytes": 86406
+    },
+    {
+      "file": "source-snapshots/primary-patanjali-yoga-sutra-ii-27-vivekananda-1896.md",
+      "sha256": "452982928cdf1f62530d27cf07d95b56031177ed7893ccd595e4260804d275fe",
+      "bytes": 2792
+    },
+    {
+      "file": "source-snapshots/pyq-2018-2025.md",
+      "sha256": "c7b556c7b4b750943b7b5f0ac94273664a46c6c75f1c444ae2d953fd77d34eec",
+      "bytes": 25796
+    },
+    {
+      "file": "source-snapshots/pyq-2026.md",
+      "sha256": "1e3b86dbf301bf929851ecc39f1b8585485707cd19fc7a2168861bbb142a8806",
+      "bytes": 8502
+    },
+    {
+      "file": "source-snapshots/raw/PatanjaliYogaSutraSwamiVivekanandaSanEng_djvu.txt",
+      "sha256": "9ea63241b2b06ed698b754ff8dd71b1bf38a0459b5cf79e485e308d6a0199a29",
+      "bytes": 197940
+    },
+    {
+      "file": "source-snapshots/supplementary-complete-session.md",
+      "sha256": "aa8ebbc7f295adf4a9074f4394874a980bb60f7cb0c5357569ddcd6b2f42ed3f",
+      "bytes": 114574
+    },
+    {
+      "file": "source-snapshots/supplementary-layered-session.md",
+      "sha256": "1166a148b916eada17fb81fdb3db9a60fd2af05925fb34922a76c03d3159b07c",
+      "bytes": 136537
+    },
+    {
+      "file": "source-snapshots/supplementary-solved-workbook.md",
+      "sha256": "f1312007f012a5bb351a1d1a47db7baef7347d55ec45254cf17be622498f1896",
+      "bytes": 23301
+    }
+  ],
+  "cache_policy": "reuse_parsed_evidence_only_while_every_source_hash_and_byte_count_match",
+  "created_at_utc": "2026-09-25T01:58:35+00:00",
+  "last_verified_at_utc": "2026-09-25T01:58:35+00:00",
+  "cache_hit": false
+}

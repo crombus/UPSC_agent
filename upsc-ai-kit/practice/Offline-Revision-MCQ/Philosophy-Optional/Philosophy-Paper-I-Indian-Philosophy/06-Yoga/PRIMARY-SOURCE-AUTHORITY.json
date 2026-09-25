@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "authority_id": "patanjali-yoga-sutra-ii-27-vivekananda-1896",
+  "obligation_id": "YG-OB-077",
+  "source_identity": {
+    "title": "Patanjali Yoga Sutra Swami Vivekananda San Eng",
+    "text": "Patañjali, Yoga Sūtra II.27",
+    "translator": "Swami Vivekananda",
+    "translation_publication_year": 1896,
+    "item_url": "https://archive.org/details/PatanjaliYogaSutraSwamiVivekanandaSanEng",
+    "object_url": "https://archive.org/download/PatanjaliYogaSutraSwamiVivekanandaSanEng/PatanjaliYogaSutraSwamiVivekanandaSanEng_djvu.txt",
+    "archive_identifier": "PatanjaliYogaSutraSwamiVivekanandaSanEng",
+    "archive_ark": "ark:/13960/t6pz8v46c",
+    "retrieval_date": "2026-09-25",
+    "rights": "The Sanskrit sutra is an ancient primary text. Swami Vivekananda's 1896 English translation is in the public domain.",
+    "ocr_metadata": {
+      "software": "ABBYY FineReader 11.0",
+      "language": "eng",
+      "format": "DjVuTXT",
+      "source": "derivative"
+    }
+  },
+  "raw_object": {
+    "path": "source-snapshots/raw/PatanjaliYogaSutraSwamiVivekanandaSanEng_djvu.txt",
+    "bytes": 197940,
+    "sha256": "9ea63241b2b06ed698b754ff8dd71b1bf38a0459b5cf79e485e308d6a0199a29",
+    "encoding": "utf-8",
+    "line_count": 6133
+  },
+  "coordinate": {
+    "line_start": 3499,
+    "line_end": 3503,
+    "line_numbering": "one_based_inclusive"
+  },
+  "payload": {
+    "exact_text": "27. cT^f TO II Rvs II \n\ntasya saptadhaa prantabhoomih prajna \n\nHis knowledge is of the sevenfold highest ground. \n",
+    "sha256": "aab615b0d801e05ce27d1689c58b4a5b5c1421f13922def23f89bf4ae416a056",
+    "hash_encoding": "utf-8",
+    "line_endings": "lf",
+    "exact_translation_excerpt": "His knowledge is of the sevenfold highest ground. "
+  },
+  "snapshot": {
+    "path": "source-snapshots/primary-patanjali-yoga-sutra-ii-27-vivekananda-1896.md",
+    "sha256": "452982928cdf1f62530d27cf07d95b56031177ed7893ccd595e4260804d275fe",
+    "required_scope_markers": [
+      "It is not general formal or canonical authority for any other Yoga obligation, question, learner-content claim, or source classification.",
+      "Neither this snapshot nor `YG-OB-077` supplies an enumerated or named seven-stage scheme."
+    ]
+  },
+  "doctrine": {
+    "category": "sevenfold-insight",
+    "atomic_statement": "Yoga Sūtra II.27 characterizes the culminating prajñā (knowledge) as reaching a sevenfold highest or final ground.",
+    "source_block_id": "primary-patanjali-yoga-sutra-ii-27-lines-3499-3503",
+    "proposition_id": "primary-ys-ii-27-sevenfold-highest-ground",
+    "normalized_sanskrit": "तस्य सप्तधा प्रान्तभूमिः प्रज्ञा ॥ २.२७ ॥",
+    "normalized_transliteration": "tasya saptadhā prāntabhūmiḥ prajñā || 2.27 ||",
+    "required_anchor_groups": [
+      [
+        "Yoga Sūtra II.27",
+        "II.27"
+      ],
+      [
+        "prajñā",
+        "knowledge"
+      ],
+      [
+        "sevenfold"
+      ],
+      [
+        "highest",
+        "final ground"
+      ]
+    ]
+  },
+  "authority": {
+    "kind": "user_approved_primary_text_authority_for_YG-OB-077",
+    "scope_restriction": "YG-OB-077_only_not_general_formal_or_canonical_authority",
+    "coverage_derivation": "user_approved_primary_text_authority_for_YG-OB-077_only",
+    "general_authority": false,
+    "restrained_claim_only": true,
+    "forbids_enumerated_or_named_seven_stage_scheme": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "pass_id": "yoga-release-20260925",
+  "pass_type": "release-validation",
+  "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/06-Yoga",
+  "actor": "copilot-cli",
+  "instructions_read_at_utc": "2026-09-25T03:24:41+00:00",
+  "instruction_files": [
+    {
+      "path": "C:\\up\\OFFLINE-PACKAGE-AGENT-INSTRUCTIONS.md",
+      "sha256": "a5b33a8a6f0471e25f3adc6ae8beec145ca26eacc25b6947a99d90293ed13f94",
+      "bytes": 8821
+    },
+    {
+      "path": "C:\\up\\upsc-ai-kit\\practice\\Offline-Revision-MCQ\\START-HERE.md",
+      "sha256": "adaa6f5be038e3b090fd4e676aecb62ff22a48b7ce1f721601ae98f74ef2303e",
+      "bytes": 27464
+    }
+  ],
+  "execution_budget": {
+    "elapsed_minutes": 30,
+    "tool_calls": 20,
+    "hard_stop_required": true,
+    "silent_extension_forbidden": true,
+    "maximum_complete_builds": 1,
+    "maximum_complete_negative_suites": 1
+  },
+  "pre_pass_attestation": {
+    "coverage_ledger_frozen": true,
+    "verified_pyqs_current": true,
+    "teaching_and_practice_surfaces_preserved": true,
+    "no_skip_or_compression": true,
+    "mcq_total_coverage_derived": true
+  },
+  "manifest_sha256": "9a3ca0af49b11bb84006164de8efca03ecca1a0df3d6f33e255d046945a12614"
+}

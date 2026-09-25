@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "topic": "06 Yoga",
+  "authority_mode": "formal_present_canonical_boundary_controlled",
+  "sources": [
+    {
+      "key": "formal_session",
+      "role": "mandatory_formal_session",
+      "scope": "complete_formal_learning_session",
+      "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Indian-Philosophy\\06-Yoga\\Learning-Session.md",
+      "snapshot": "source-snapshots/formal-Learning-Session.md",
+      "sha256": "888ce731bfcccc8045ebe94614e682e237b954792d881797d04316ab239be36b",
+      "bytes": 381683,
+      "line_count": 5608,
+      "h2_h4_block_count": 311
+    },
+    {
+      "key": "formal_workbook",
+      "role": "mandatory_formal_workbook",
+      "scope": "complete_formal_solved_practice_workbook",
+      "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Indian-Philosophy\\06-Yoga\\Solved-Practice-Workbook.md",
+      "snapshot": "source-snapshots/formal-Solved-Practice-Workbook.md",
+      "sha256": "d4ab2ab7fa5d205c806ed56fb29adc4713cd1f8bdc9a366c020457ebcc10fcad",
+      "bytes": 86406,
+      "line_count": 1166,
+      "h2_h4_block_count": 53
+    },
+    {
+      "key": "canonical",
+      "role": "mandatory_canonical_boundary_owner",
+      "scope": "canonical_yoga_knowledge",
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Yoga.md",
+      "snapshot": "source-snapshots/canonical-Yoga.md",
+      "sha256": "f8152d1ea4b103c0571be7c4fc8664a31f14e21fa5c0049e8735bf886ceddd55",
+      "bytes": 97976,
+      "line_count": 1310,
+      "h2_h4_block_count": 157
+    },
+    {
+      "key": "supplementary_complete",
+      "role": "supplementary_depth",
+      "scope": "complete_learning_session",
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\_learning-sessions\\06_Yoga-Complete-Learning-Session.md",
+      "snapshot": "source-snapshots/supplementary-complete-session.md",
+      "sha256": "aa8ebbc7f295adf4a9074f4394874a980bb60f7cb0c5357569ddcd6b2f42ed3f",
+      "bytes": 114574,
+      "line_count": 1632,
+      "h2_h4_block_count": 186
+    },
+    {
+      "key": "supplementary_layered",
+      "role": "supplementary_depth",
+      "scope": "layered_complete_learning_session",
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Yoga\\Yoga_Layered-Complete-Learning-Session_2026-08-18.md",
+      "snapshot": "source-snapshots/supplementary-layered-session.md",
+      "sha256": "1166a148b916eada17fb81fdb3db9a60fd2af05925fb34922a76c03d3159b07c",
+      "bytes": 136537,
+      "line_count": 2136,
+      "h2_h4_block_count": 259
+    },
+    {
+      "key": "supplementary_workbook",
+      "role": "supplementary_depth",
+      "scope": "layered_solved_practice_workbook",
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Yoga\\Yoga_Layered-Solved-Practice-Workbook_2026-08-18.md",
+      "snapshot": "source-snapshots/supplementary-solved-workbook.md",
+      "sha256": "f1312007f012a5bb351a1d1a47db7baef7347d55ec45254cf17be622498f1896",
+      "bytes": 23301,
+      "line_count": 369,
+      "h2_h4_block_count": 34
+    },
+    {
+      "key": "pyq_2018_2025",
+      "role": "hash_bound_pyq_authority",
+      "scope": "indian_philosophy_pyqs_2018_2025",
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md",
+      "snapshot": "source-snapshots/pyq-2018-2025.md",
+      "sha256": "c7b556c7b4b750943b7b5f0ac94273664a46c6c75f1c444ae2d953fd77d34eec",
+      "bytes": 25796,
+      "line_count": 180,
+      "h2_h4_block_count": null
+    },
+    {
+      "key": "pyq_2026",
+      "role": "hash_bound_pyq_authority",
+      "scope": "indian_philosophy_pyqs_2026",
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2026.md",
+      "snapshot": "source-snapshots/pyq-2026.md",
+      "sha256": "1e3b86dbf301bf929851ecc39f1b8585485707cd19fc7a2168861bbb142a8806",
+      "bytes": 8502,
+      "line_count": 79,
+      "h2_h4_block_count": null
+    }
+  ]
+}
