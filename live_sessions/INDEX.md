@@ -95,6 +95,7 @@
 | Ancient Indian History | Topic 18 - Sangam Age and the Deep South | 18 | 23,193 | `76244936db93` | [Ancient-Indian-History/18-Sangam-Age-and-the-Deep-South/Learning-Session-Live-Edition.md](Ancient-Indian-History/18-Sangam-Age-and-the-Deep-South/Learning-Session-Live-Edition.md) |
 | Ancient Indian History | Topic 19 - Crafts, Commerce and Urban Growth (200 BC-AD 250) | 14 | 20,534 | `bb02d09ad784` | [Ancient-Indian-History/19-Crafts-Commerce-Urban-Growth/Learning-Session-Live-Edition.md](Ancient-Indian-History/19-Crafts-Commerce-Urban-Growth/Learning-Session-Live-Edition.md) |
 | Ancient Indian History | Topic 20 - Gupta Empire | 15 | 21,412 | `3798170ca579` | [Ancient-Indian-History/20-Gupta-Empire/Learning-Session-Live-Edition.md](Ancient-Indian-History/20-Gupta-Empire/Learning-Session-Live-Edition.md) |
+| Ancient Indian History | Topic 21 - Life and Culture in the Gupta Age | 14 | 18,314 | `11498cb03d33` | [Ancient-Indian-History/21-Life-Culture-Gupta-Age/Learning-Session-Live-Edition.md](Ancient-Indian-History/21-Life-Culture-Gupta-Age/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
