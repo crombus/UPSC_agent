@@ -71,6 +71,7 @@
 | Philosophy of Religion | Topic 04 - Soul, Immortality, Rebirth and Liberation | 14 | 20,315 | `44c8b857aca1` | [Philosophy-of-Religion/04-Soul-Immortality-Rebirth-Liberation/Learning-Session-Live-Edition.md](Philosophy-of-Religion/04-Soul-Immortality-Rebirth-Liberation/Learning-Session-Live-Edition.md) |
 | Philosophy of Religion | Topic 05 - Reason, Revelation and Faith | 15 | 16,231 | `9a17581dc91b` | [Philosophy-of-Religion/05-Reason-Revelation-Faith/Learning-Session-Live-Edition.md](Philosophy-of-Religion/05-Reason-Revelation-Faith/Learning-Session-Live-Edition.md) |
 | Philosophy of Religion | Topic 06 - Religious Experience | 12 | 16,831 | `7e086a15da8d` | [Philosophy-of-Religion/06-Religious-Experience/Learning-Session-Live-Edition.md](Philosophy-of-Religion/06-Religious-Experience/Learning-Session-Live-Edition.md) |
+| Philosophy of Religion | Topic 07 - Religion without God | 10 | 17,017 | `74862f4cd2e7` | [Philosophy-of-Religion/07-Religion-without-God/Learning-Session-Live-Edition.md](Philosophy-of-Religion/07-Religion-without-God/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
