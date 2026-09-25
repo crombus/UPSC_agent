@@ -51,6 +51,15 @@ Mandatory use:
    `instructions\GENERATION-OPTIMIZATION-AND-INTEGRITY.md` and this entire file before
    beginning the independent validation or release gate. Do not rely on retained
    context, summaries or an agent's reported validation as a substitute.
+9. Before every generation or repair pass, explicitly restate the learner-first lock
+   in the pass instruction: preserve or improve learner sequencing, visual-first
+   explanation, plain-language intuition, technical depth, examples, objections,
+   replies, practice and remediation. Do not rely on a generic "follow the rules"
+   reference.
+10. Use `tools\validate_live_session.py` before every generation-lane handoff and again
+    during independent controller validation. Use
+    `tools\release_live_session.py` only after semantic review and index preparation.
+    Mechanical automation never replaces semantic review.
 
 ## Vedanta-Economy Reference-Session Fidelity Lock
 
@@ -227,11 +236,18 @@ Do not overwrite an existing canonical knowledge file or generated learning pack
 Use sources in this order:
 
 1. Canonical Markdown knowledge file for the topic.
-2. Verified UPSC PYQ ledgers and question papers through 2026.
-3. OCR-searchable local books and source PDFs.
-4. Official or otherwise reliable live sources where current linkage is relevant.
-5. Existing generated package as a completeness cross-check, not as the sole source.
-6. Qdrant only as an optional fallback.
+2. The exact complete learning-session and solved-practice artifacts under
+   `notes\Final-Learning-Packages\` for learner sequencing, visual teaching,
+   completeness, practice and remediation.
+3. Verified UPSC PYQ ledgers and question papers through 2026.
+4. Relevant layered/complete sessions and advanced dossiers as bounded completeness
+   checks.
+5. OCR-searchable local books and source PDFs.
+6. Official or otherwise reliable live sources where current linkage is relevant.
+7. Qdrant only as an optional fallback.
+
+Do not use learner-v2 artifacts for this live-session workflow. Final-Learning-Packages
+is the learner-session and solved-workbook reference.
 
 If sources disagree, preserve the canonical distinction, verify the disputed point and
 state the qualification. Never silently choose a convenient formulation.
@@ -260,6 +276,11 @@ appearance or inconvenient for the planned lesson count.
 
 The final document must include a coverage table identifying where every canonical
 concept and every relevant PYQ appears.
+
+It must also include the exact `## SOURCE-MANIFEST GATE` table defined in
+`instructions\LIVE-SESSION-VALIDATION-AND-RELEASE.md`. Every required source category
+must be marked `checked`, `not available` or `not relevant`, with concrete evidence or
+a reason. A missing category blocks release.
 
 ## No-Skipping and No-Compression Rules
 

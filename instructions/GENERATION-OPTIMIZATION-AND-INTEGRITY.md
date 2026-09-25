@@ -23,6 +23,27 @@ Report worthwhile optimization opportunities to the user. Distinguish between:
    practice, evidence, validation or delivery and therefore requires explicit user
    approval before implementation.
 
+## Approved live-session optimizations
+
+The following are approved safe operational optimizations:
+
+1. Use `tools\validate_live_session.py` as the single authoritative mechanical
+   validator for live-session Markdown.
+2. Require the source-manifest gate defined in
+   `instructions\LIVE-SESSION-VALIDATION-AND-RELEASE.md`.
+3. Use `tools\release_live_session.py` for fail-fast release preflight and execution.
+4. Give every generation or repair lane the same validator before handoff.
+
+These tools consolidate repeatable checks. They do not replace the independent
+controller's semantic review of learner sequencing, doctrine, source reliability,
+PYQ ownership, MCQ keys, distractors, explanations, Mains answers or completeness.
+
+Every generation and repair pass must begin with an explicit learner-first preamble.
+The pass instruction must state that the final result must preserve or improve the
+accepted learner-facing teaching quality, sequencing, visuals, examples, objections,
+replies, practice and remediation. A generic instruction to "follow the rules" is not
+enough.
+
 ## Non-compromise lock
 
 Optimization must never skip, compress, merge, weaken or silently reinterpret any
