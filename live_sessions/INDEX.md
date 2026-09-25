@@ -96,6 +96,7 @@
 | Ancient Indian History | Topic 19 - Crafts, Commerce and Urban Growth (200 BC-AD 250) | 14 | 20,534 | `bb02d09ad784` | [Ancient-Indian-History/19-Crafts-Commerce-Urban-Growth/Learning-Session-Live-Edition.md](Ancient-Indian-History/19-Crafts-Commerce-Urban-Growth/Learning-Session-Live-Edition.md) |
 | Ancient Indian History | Topic 20 - Gupta Empire | 15 | 21,412 | `3798170ca579` | [Ancient-Indian-History/20-Gupta-Empire/Learning-Session-Live-Edition.md](Ancient-Indian-History/20-Gupta-Empire/Learning-Session-Live-Edition.md) |
 | Ancient Indian History | Topic 21 - Life and Culture in the Gupta Age | 14 | 18,314 | `11498cb03d33` | [Ancient-Indian-History/21-Life-Culture-Gupta-Age/Learning-Session-Live-Edition.md](Ancient-Indian-History/21-Life-Culture-Gupta-Age/Learning-Session-Live-Edition.md) |
+| Ancient Indian History | Topic 22 - Post-Gupta India: Harsha and Eastern India | 16 | 20,973 | `2acb63808fa0` | [Ancient-Indian-History/22-Post-Gupta-India-Harsha-and-Eastern-India/Learning-Session-Live-Edition.md](Ancient-Indian-History/22-Post-Gupta-India-Harsha-and-Eastern-India/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
