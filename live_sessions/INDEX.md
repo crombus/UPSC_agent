@@ -60,6 +60,7 @@
 | Socio-Political Philosophy | Topic 03 - Individual and State | 12 | 21,483 | `ca60b91693f4` | [Socio-Political-Philosophy/03-Individual-and-State/Learning-Session-Live-Edition.md](Socio-Political-Philosophy/03-Individual-and-State/Learning-Session-Live-Edition.md) |
 | Socio-Political Philosophy | Topic 04 - Forms of Government | 12 | 34,368 | `8247974d71d6` | [Socio-Political-Philosophy/04-Forms-of-Government/Learning-Session-Live-Edition.md](Socio-Political-Philosophy/04-Forms-of-Government/Learning-Session-Live-Edition.md) |
 | Socio-Political Philosophy | Topic 05 - Political Ideologies | 13 | 25,061 | `91366d969893` | [Socio-Political-Philosophy/05-Political-Ideologies/Learning-Session-Live-Edition.md](Socio-Political-Philosophy/05-Political-Ideologies/Learning-Session-Live-Edition.md) |
+| Socio-Political Philosophy | Topic 06 - Humanism, Secularism and Multiculturalism | 10 | 33,655 | `7dd0eb6e0341` | [Socio-Political-Philosophy/06-Humanism-Secularism-Multiculturalism/Learning-Session-Live-Edition.md](Socio-Political-Philosophy/06-Humanism-Secularism-Multiculturalism/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
