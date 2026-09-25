@@ -79,6 +79,7 @@
 | Ancient Indian History | Topic 02 - Sources of Ancient Indian History | 12 | 22,225 | `0f28e1013771` | [Ancient-Indian-History/02-Sources-of-Ancient-Indian-History/Learning-Session-Live-Edition.md](Ancient-Indian-History/02-Sources-of-Ancient-Indian-History/Learning-Session-Live-Edition.md) |
 | Ancient Indian History | Topic 03 - Geographical Setting and Ecology | 12 | 20,107 | `d5503b784a28` | [Ancient-Indian-History/03-Geographical-Setting-Ecology/Learning-Session-Live-Edition.md](Ancient-Indian-History/03-Geographical-Setting-Ecology/Learning-Session-Live-Edition.md) |
 | Ancient Indian History | Topic 04 - The Stone Age: Palaeolithic and Mesolithic | 12 | 21,926 | `8f0c6e869a52` | [Ancient-Indian-History/04-Stone-Age-Palaeolithic-Mesolithic/Learning-Session-Live-Edition.md](Ancient-Indian-History/04-Stone-Age-Palaeolithic-Mesolithic/Learning-Session-Live-Edition.md) |
+| Ancient Indian History | Topic 05 - Neolithic and Chalcolithic Cultures | 14 | 18,255 | `fc39951a17d6` | [Ancient-Indian-History/05-Neolithic-Chalcolithic-Cultures/Learning-Session-Live-Edition.md](Ancient-Indian-History/05-Neolithic-Chalcolithic-Cultures/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
