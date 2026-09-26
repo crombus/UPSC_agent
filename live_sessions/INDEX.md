@@ -106,6 +106,7 @@
 | Medieval Indian History | Topic 02 - Ghaznavids and Ghurian Invasions | 19 | 35,932 | `e19b26976cb7` | [Medieval-Indian-History/02-Ghaznavids-and-Ghurian-Invasions/Learning-Session-Live-Edition.md](Medieval-Indian-History/02-Ghaznavids-and-Ghurian-Invasions/Learning-Session-Live-Edition.md) |
 | Medieval Indian History | Topic 03 - Foundation of the Delhi Sultanate: The Slave-Mamluk Dynasty | 20 | 29,943 | `42821cc694b9` | [Medieval-Indian-History/03-Foundation-of-the-Delhi-Sultanate-The-Slave-Mamluk-Dynasty/Learning-Session-Live-Edition.md](Medieval-Indian-History/03-Foundation-of-the-Delhi-Sultanate-The-Slave-Mamluk-Dynasty/Learning-Session-Live-Edition.md) |
 | Medieval Indian History | Topic 04 - The Khaljis: Alauddin Khalji and Market Reforms | 16 | 30,707 | `1f47edacec29` | [Medieval-Indian-History/04-The-Khaljis-Alauddin-Khalji-and-Market-Reforms/Learning-Session-Live-Edition.md](Medieval-Indian-History/04-The-Khaljis-Alauddin-Khalji-and-Market-Reforms/Learning-Session-Live-Edition.md) |
+| Medieval Indian History | Topic 05 - The Tughlaqs: Muhammad bin Tughlaq and Firuz Shah | 10 | 20,014 | `4bad3e3625fa` | [Medieval-Indian-History/05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah/Learning-Session-Live-Edition.md](Medieval-Indian-History/05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
