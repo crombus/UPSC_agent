@@ -118,6 +118,7 @@
 | Medieval Indian History | Topic 14 - Sher Shah and the Sur Empire | 12 | 19,059 | `b24f63e94fca` | [Medieval-Indian-History/14-Sher-Shah-and-the-Sur-Empire/Learning-Session-Live-Edition.md](Medieval-Indian-History/14-Sher-Shah-and-the-Sur-Empire/Learning-Session-Live-Edition.md) |
 | Medieval Indian History | Topic 15 - Akbar: Consolidation and Expansion | 12 | 22,428 | `cc4001adb243` | [Medieval-Indian-History/15-Akbar-Consolidation-and-Expansion/Learning-Session-Live-Edition.md](Medieval-Indian-History/15-Akbar-Consolidation-and-Expansion/Learning-Session-Live-Edition.md) |
 | Medieval Indian History | Topic 16 - State and Government under Akbar | 12 | 21,945 | `bcc43a53c055` | [Medieval-Indian-History/16-State-and-Government-under-Akbar/Learning-Session-Live-Edition.md](Medieval-Indian-History/16-State-and-Government-under-Akbar/Learning-Session-Live-Edition.md) |
+| Medieval Indian History | Topic 17 - Akbar's Religious Views, Ibadat Khana and Din-i Ilahi | 12 | 24,327 | `1b94cc9e5e0c` | [Medieval-Indian-History/17-Akbar-Religious-Views-Ibadat-Khana-and-Din-i-Ilahi/Learning-Session-Live-Edition.md](Medieval-Indian-History/17-Akbar-Religious-Views-Ibadat-Khana-and-Din-i-Ilahi/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
