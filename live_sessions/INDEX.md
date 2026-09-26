@@ -133,6 +133,7 @@
 | Modern Indian History | Topic 04 - British Conquest of Bengal | 14 | 26,359 | `3a5e148cf3b5` | [Modern-Indian-History/04-British-Conquest-of-Bengal/Learning-Session-Live-Edition.md](Modern-Indian-History/04-British-Conquest-of-Bengal/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 05 - British Territorial Expansion | 14 | 29,378 | `462e815246b7` | [Modern-Indian-History/05-British-Territorial-Expansion/Learning-Session-Live-Edition.md](Modern-Indian-History/05-British-Territorial-Expansion/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 06 - Government Structure and Constitutional Development, 1757-1858 | 14 | 26,045 | `a8adf9294758` | [Modern-Indian-History/06-Government-Structure-and-Constitutional-Development-1757-1858/Learning-Session-Live-Edition.md](Modern-Indian-History/06-Government-Structure-and-Constitutional-Development-1757-1858/Learning-Session-Live-Edition.md) |
+| Modern Indian History | Topic 07 - Economic Impact of British Rule | 15 | 32,128 | `5c52132ce432` | [Modern-Indian-History/07-Economic-Impact-of-British-Rule/Learning-Session-Live-Edition.md](Modern-Indian-History/07-Economic-Impact-of-British-Rule/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
