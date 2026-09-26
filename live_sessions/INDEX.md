@@ -125,6 +125,7 @@
 | Medieval Indian History | Topic 21 - Shah Jahan and the Evolution of the Mughal Ruling Class | 12 | 24,574 | `b2f917a953ec` | [Medieval-Indian-History/21-Shah-Jahan-and-the-Evolution-of-the-Mughal-Ruling-Class/Learning-Session-Live-Edition.md](Medieval-Indian-History/21-Shah-Jahan-and-the-Evolution-of-the-Mughal-Ruling-Class/Learning-Session-Live-Edition.md) |
 | Medieval Indian History | Topic 22 - Aurangzeb: Religious Policy, North India and the Rajputs | 12 | 24,574 | `f9f07646a2ce` | [Medieval-Indian-History/22-Aurangzeb-Religious-Policy-North-India-and-the-Rajputs/Learning-Session-Live-Edition.md](Medieval-Indian-History/22-Aurangzeb-Religious-Policy-North-India-and-the-Rajputs/Learning-Session-Live-Edition.md) |
 | Medieval Indian History | Topic 23 - Marathas, Shivaji, Aurangzeb's Deccan Policy and the Jagirdari Crisis | 14 | 25,076 | `a5badb1582fe` | [Medieval-Indian-History/23-Marathas-Shivaji-Aurangzeb-Deccan-and-Jagirdari-Crisis/Learning-Session-Live-Edition.md](Medieval-Indian-History/23-Marathas-Shivaji-Aurangzeb-Deccan-and-Jagirdari-Crisis/Learning-Session-Live-Edition.md) |
+| Medieval Indian History | Topic 24 - Mughal Society, Economy and Culture | 18 | 23,841 | `dbd02ebe4e05` | [Medieval-Indian-History/24-Mughal-Society-Economy-and-Culture/Learning-Session-Live-Edition.md](Medieval-Indian-History/24-Mughal-Society-Economy-and-Culture/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
