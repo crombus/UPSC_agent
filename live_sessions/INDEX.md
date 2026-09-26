@@ -107,6 +107,7 @@
 | Medieval Indian History | Topic 03 - Foundation of the Delhi Sultanate: The Slave-Mamluk Dynasty | 20 | 29,943 | `42821cc694b9` | [Medieval-Indian-History/03-Foundation-of-the-Delhi-Sultanate-The-Slave-Mamluk-Dynasty/Learning-Session-Live-Edition.md](Medieval-Indian-History/03-Foundation-of-the-Delhi-Sultanate-The-Slave-Mamluk-Dynasty/Learning-Session-Live-Edition.md) |
 | Medieval Indian History | Topic 04 - The Khaljis: Alauddin Khalji and Market Reforms | 16 | 30,707 | `1f47edacec29` | [Medieval-Indian-History/04-The-Khaljis-Alauddin-Khalji-and-Market-Reforms/Learning-Session-Live-Edition.md](Medieval-Indian-History/04-The-Khaljis-Alauddin-Khalji-and-Market-Reforms/Learning-Session-Live-Edition.md) |
 | Medieval Indian History | Topic 05 - The Tughlaqs: Muhammad bin Tughlaq and Firuz Shah | 10 | 20,014 | `4bad3e3625fa` | [Medieval-Indian-History/05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah/Learning-Session-Live-Edition.md](Medieval-Indian-History/05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah/Learning-Session-Live-Edition.md) |
+| Medieval Indian History | Topic 06 - Decline of the Sultanate: Timur, Sayyids and Lodis | 8 | 20,025 | `3b9750fd6ef3` | [Medieval-Indian-History/06-Decline-of-the-Sultanate-Timur-Sayyids-and-Lodis/Learning-Session-Live-Edition.md](Medieval-Indian-History/06-Decline-of-the-Sultanate-Timur-Sayyids-and-Lodis/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
