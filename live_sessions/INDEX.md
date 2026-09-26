@@ -130,6 +130,7 @@
 | Modern Indian History | Topic 01 - The Decline of the Mughal Empire, 1707-1740s | 12 | 27,681 | `8fce37a4bde1` | [Modern-Indian-History/01-The-Decline-of-the-Mughal-Empire-1707-1740s/Learning-Session-Live-Edition.md](Modern-Indian-History/01-The-Decline-of-the-Mughal-Empire-1707-1740s/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 02 - Indian States and Society in the Eighteenth Century | 17 | 33,895 | `da6806a2c48c` | [Modern-Indian-History/02-Indian-States-and-Society-in-the-Eighteenth-Century/Learning-Session-Live-Edition.md](Modern-Indian-History/02-Indian-States-and-Society-in-the-Eighteenth-Century/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 03 - Beginnings of European Settlements | 11 | 25,184 | `f08befcde386` | [Modern-Indian-History/03-Beginnings-of-European-Settlements/Learning-Session-Live-Edition.md](Modern-Indian-History/03-Beginnings-of-European-Settlements/Learning-Session-Live-Edition.md) |
+| Modern Indian History | Topic 04 - British Conquest of Bengal | 14 | 26,359 | `3a5e148cf3b5` | [Modern-Indian-History/04-British-Conquest-of-Bengal/Learning-Session-Live-Edition.md](Modern-Indian-History/04-British-Conquest-of-Bengal/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
