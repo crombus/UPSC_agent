@@ -113,6 +113,7 @@
 | Medieval Indian History | Topic 09 - Vijayanagara and Bahmani Kingdoms | 12 | 26,079 | `fcc06c25213a` | [Medieval-Indian-History/09-Vijayanagara-and-Bahmani-Kingdoms/Learning-Session-Live-Edition.md](Medieval-Indian-History/09-Vijayanagara-and-Bahmani-Kingdoms/Learning-Session-Live-Edition.md) |
 | Medieval Indian History | Topic 10 - Bhakti and Sufi Movements | 12 | 19,948 | `230e51390211` | [Medieval-Indian-History/10-Bhakti-and-Sufi-Movements/Learning-Session-Live-Edition.md](Medieval-Indian-History/10-Bhakti-and-Sufi-Movements/Learning-Session-Live-Edition.md) |
 | Medieval Indian History | Topic 11 - Sultanate Art and Architecture | 12 | 18,887 | `acdfd30b3401` | [Medieval-Indian-History/11-Sultanate-Art-and-Architecture/Learning-Session-Live-Edition.md](Medieval-Indian-History/11-Sultanate-Art-and-Architecture/Learning-Session-Live-Edition.md) |
+| Medieval Indian History | Topic 12 - Babur and the Central Asian Backdrop | 12 | 17,969 | `41af35f7ac9a` | [Medieval-Indian-History/12-Babur-and-the-Central-Asian-Backdrop/Learning-Session-Live-Edition.md](Medieval-Indian-History/12-Babur-and-the-Central-Asian-Backdrop/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
