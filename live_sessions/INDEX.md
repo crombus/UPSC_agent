@@ -122,6 +122,7 @@
 | Medieval Indian History | Topic 18 - The Deccan and the Mughals to 1657 | 12 | 20,387 | `7a96dbe442d9` | [Medieval-Indian-History/18-The-Deccan-and-the-Mughals-to-1657/Learning-Session-Live-Edition.md](Medieval-Indian-History/18-The-Deccan-and-the-Mughals-to-1657/Learning-Session-Live-Edition.md) |
 | Medieval Indian History | Topic 19 - Foreign Policy of the Mughals | 12 | 26,446 | `f2a42578291d` | [Medieval-Indian-History/19-Foreign-Policy-of-the-Mughals/Learning-Session-Live-Edition.md](Medieval-Indian-History/19-Foreign-Policy-of-the-Mughals/Learning-Session-Live-Edition.md) |
 | Medieval Indian History | Topic 20 - Jahangir and the Early Seventeenth Century | 14 | 23,797 | `32cd7f1eb078` | [Medieval-Indian-History/20-Jahangir-and-the-Early-Seventeenth-Century/Learning-Session-Live-Edition.md](Medieval-Indian-History/20-Jahangir-and-the-Early-Seventeenth-Century/Learning-Session-Live-Edition.md) |
+| Medieval Indian History | Topic 21 - Shah Jahan and the Evolution of the Mughal Ruling Class | 12 | 24,574 | `b2f917a953ec` | [Medieval-Indian-History/21-Shah-Jahan-and-the-Evolution-of-the-Mughal-Ruling-Class/Learning-Session-Live-Edition.md](Medieval-Indian-History/21-Shah-Jahan-and-the-Evolution-of-the-Mughal-Ruling-Class/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
