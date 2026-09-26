@@ -120,6 +120,7 @@
 | Medieval Indian History | Topic 16 - State and Government under Akbar | 12 | 21,945 | `bcc43a53c055` | [Medieval-Indian-History/16-State-and-Government-under-Akbar/Learning-Session-Live-Edition.md](Medieval-Indian-History/16-State-and-Government-under-Akbar/Learning-Session-Live-Edition.md) |
 | Medieval Indian History | Topic 17 - Akbar's Religious Views, Ibadat Khana and Din-i Ilahi | 12 | 24,327 | `1b94cc9e5e0c` | [Medieval-Indian-History/17-Akbar-Religious-Views-Ibadat-Khana-and-Din-i-Ilahi/Learning-Session-Live-Edition.md](Medieval-Indian-History/17-Akbar-Religious-Views-Ibadat-Khana-and-Din-i-Ilahi/Learning-Session-Live-Edition.md) |
 | Medieval Indian History | Topic 18 - The Deccan and the Mughals to 1657 | 12 | 20,387 | `7a96dbe442d9` | [Medieval-Indian-History/18-The-Deccan-and-the-Mughals-to-1657/Learning-Session-Live-Edition.md](Medieval-Indian-History/18-The-Deccan-and-the-Mughals-to-1657/Learning-Session-Live-Edition.md) |
+| Medieval Indian History | Topic 19 - Foreign Policy of the Mughals | 12 | 26,446 | `f2a42578291d` | [Medieval-Indian-History/19-Foreign-Policy-of-the-Mughals/Learning-Session-Live-Edition.md](Medieval-Indian-History/19-Foreign-Policy-of-the-Mughals/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
