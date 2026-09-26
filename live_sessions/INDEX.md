@@ -110,6 +110,7 @@
 | Medieval Indian History | Topic 06 - Decline of the Sultanate: Timur, Sayyids and Lodis | 8 | 20,025 | `3b9750fd6ef3` | [Medieval-Indian-History/06-Decline-of-the-Sultanate-Timur-Sayyids-and-Lodis/Learning-Session-Live-Edition.md](Medieval-Indian-History/06-Decline-of-the-Sultanate-Timur-Sayyids-and-Lodis/Learning-Session-Live-Edition.md) |
 | Medieval Indian History | Topic 07 - Administration, Economy and Society under the Sultanate | 15 | 21,694 | `c52ee2d860b5` | [Medieval-Indian-History/07-Administration-Economy-and-Society-under-the-Sultanate/Learning-Session-Live-Edition.md](Medieval-Indian-History/07-Administration-Economy-and-Society-under-the-Sultanate/Learning-Session-Live-Edition.md) |
 | Medieval Indian History | Topic 08 - Provincial and Regional Kingdoms: Bengal, Gujarat, Malwa, Jaunpur, Kashmir and Ahom-Assam | 12 | 24,598 | `2dfb56d0c2ab` | [Medieval-Indian-History/08-Provincial-and-Regional-Kingdoms-Bengal-Gujarat-Malwa-Jaunpur-Kashmir-and-Ahom-Assam/Learning-Session-Live-Edition.md](Medieval-Indian-History/08-Provincial-and-Regional-Kingdoms-Bengal-Gujarat-Malwa-Jaunpur-Kashmir-and-Ahom-Assam/Learning-Session-Live-Edition.md) |
+| Medieval Indian History | Topic 09 - Vijayanagara and Bahmani Kingdoms | 12 | 26,079 | `fcc06c25213a` | [Medieval-Indian-History/09-Vijayanagara-and-Bahmani-Kingdoms/Learning-Session-Live-Edition.md](Medieval-Indian-History/09-Vijayanagara-and-Bahmani-Kingdoms/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
