@@ -127,6 +127,7 @@
 | Medieval Indian History | Topic 23 - Marathas, Shivaji, Aurangzeb's Deccan Policy and the Jagirdari Crisis | 14 | 25,076 | `a5badb1582fe` | [Medieval-Indian-History/23-Marathas-Shivaji-Aurangzeb-Deccan-and-Jagirdari-Crisis/Learning-Session-Live-Edition.md](Medieval-Indian-History/23-Marathas-Shivaji-Aurangzeb-Deccan-and-Jagirdari-Crisis/Learning-Session-Live-Edition.md) |
 | Medieval Indian History | Topic 24 - Mughal Society, Economy and Culture | 18 | 23,841 | `dbd02ebe4e05` | [Medieval-Indian-History/24-Mughal-Society-Economy-and-Culture/Learning-Session-Live-Edition.md](Medieval-Indian-History/24-Mughal-Society-Economy-and-Culture/Learning-Session-Live-Edition.md) |
 | Medieval Indian History | Topic 25 - Decline of the Mughal Empire and the Eighteenth Century | 14 | 26,019 | `0f204801779f` | [Medieval-Indian-History/25-Decline-of-the-Mughal-Empire-and-the-Eighteenth-Century/Learning-Session-Live-Edition.md](Medieval-Indian-History/25-Decline-of-the-Mughal-Empire-and-the-Eighteenth-Century/Learning-Session-Live-Edition.md) |
+| Modern Indian History | Topic 01 - The Decline of the Mughal Empire, 1707-1740s | 12 | 27,681 | `8fce37a4bde1` | [Modern-Indian-History/01-The-Decline-of-the-Mughal-Empire-1707-1740s/Learning-Session-Live-Edition.md](Modern-Indian-History/01-The-Decline-of-the-Mughal-Empire-1707-1740s/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
