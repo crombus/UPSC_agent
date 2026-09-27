@@ -146,6 +146,7 @@
 | Modern Indian History | Topic 17 - Growth of Communalism and Muslim League | 10 | 18,585 | `262263fe244f` | [Modern-Indian-History/17-Growth-of-Communalism-and-Muslim-League/Learning-Session-Live-Edition.md](Modern-Indian-History/17-Growth-of-Communalism-and-Muslim-League/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 18 - First World War, Home Rule and Lucknow Pact | 14 | 23,908 | `6172164dc694` | [Modern-Indian-History/18-WWI-Home-Rule-and-Lucknow-Pact/Learning-Session-Live-Edition.md](Modern-Indian-History/18-WWI-Home-Rule-and-Lucknow-Pact/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 19 - Gandhi's Rise, Rowlatt and Jallianwala Bagh | 11 | 23,280 | `ca865d5a065d` | [Modern-Indian-History/19-Gandhis-Rise-Rowlatt-and-Jallianwala/Learning-Session-Live-Edition.md](Modern-Indian-History/19-Gandhis-Rise-Rowlatt-and-Jallianwala/Learning-Session-Live-Edition.md) |
+| Modern Indian History | Topic 20 - Non-Cooperation and Khilafat Movement | 14 | 23,063 | `e65629157a24` | [Modern-Indian-History/20-Non-Cooperation-and-Khilafat-Movement/Learning-Session-Live-Edition.md](Modern-Indian-History/20-Non-Cooperation-and-Khilafat-Movement/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
