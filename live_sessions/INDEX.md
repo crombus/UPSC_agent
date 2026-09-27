@@ -135,6 +135,7 @@
 | Modern Indian History | Topic 06 - Government Structure and Constitutional Development, 1757-1858 | 14 | 26,045 | `a8adf9294758` | [Modern-Indian-History/06-Government-Structure-and-Constitutional-Development-1757-1858/Learning-Session-Live-Edition.md](Modern-Indian-History/06-Government-Structure-and-Constitutional-Development-1757-1858/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 07 - Economic Impact of British Rule | 15 | 32,128 | `5c52132ce432` | [Modern-Indian-History/07-Economic-Impact-of-British-Rule/Learning-Session-Live-Edition.md](Modern-Indian-History/07-Economic-Impact-of-British-Rule/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 08 - Administrative Organisation | 14 | 24,466 | `c492a1423275` | [Modern-Indian-History/08-Administrative-Organisation/Learning-Session-Live-Edition.md](Modern-Indian-History/08-Administrative-Organisation/Learning-Session-Live-Edition.md) |
+| Modern Indian History | Topic 09 - Social and Cultural Policy, Education and Press | 15 | 33,035 | `351de2ae21fb` | [Modern-Indian-History/09-Social-and-Cultural-Policy-Education-and-Press/Learning-Session-Live-Edition.md](Modern-Indian-History/09-Social-and-Cultural-Policy-Education-and-Press/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
