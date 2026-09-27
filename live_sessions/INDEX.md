@@ -148,6 +148,7 @@
 | Modern Indian History | Topic 19 - Gandhi's Rise, Rowlatt and Jallianwala Bagh | 11 | 23,280 | `ca865d5a065d` | [Modern-Indian-History/19-Gandhis-Rise-Rowlatt-and-Jallianwala/Learning-Session-Live-Edition.md](Modern-Indian-History/19-Gandhis-Rise-Rowlatt-and-Jallianwala/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 20 - Non-Cooperation and Khilafat Movement | 14 | 23,063 | `e65629157a24` | [Modern-Indian-History/20-Non-Cooperation-and-Khilafat-Movement/Learning-Session-Live-Edition.md](Modern-Indian-History/20-Non-Cooperation-and-Khilafat-Movement/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 21 - Swarajists and Revolutionaries in the 1920s | 10 | 20,230 | `d40d7cbce4ad` | [Modern-Indian-History/21-Swarajists-and-Revolutionaries-1920s/Learning-Session-Live-Edition.md](Modern-Indian-History/21-Swarajists-and-Revolutionaries-1920s/Learning-Session-Live-Edition.md) |
+| Modern Indian History | Topic 22 - Simon Commission, Nehru Report, Civil Disobedience and Round Table Conferences | 14 | 27,383 | `81b24af7a62a` | [Modern-Indian-History/22-Simon-Nehru-Report-CDM-and-RTC/Learning-Session-Live-Edition.md](Modern-Indian-History/22-Simon-Nehru-Report-CDM-and-RTC/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
