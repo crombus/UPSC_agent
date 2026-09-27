@@ -152,6 +152,7 @@
 | Modern Indian History | Topic 23 - Left, Peasant, Workers' and States Peoples' Movements | 12 | 25,736 | `f1ba0b68839f` | [Modern-Indian-History/23-Left-Peasant-Workers-and-States-Peoples-Movements/Learning-Session-Live-Edition.md](Modern-Indian-History/23-Left-Peasant-Workers-and-States-Peoples-Movements/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 24 - Government of India Act 1935 and Congress Ministries | 8 | 17,388 | `ac9184e7fdf5` | [Modern-Indian-History/24-Government-of-India-Act-1935-and-Congress-Ministries/Learning-Session-Live-Edition.md](Modern-Indian-History/24-Government-of-India-Act-1935-and-Congress-Ministries/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 25 - Second World War, Cripps Mission and Quit India | 11 | 25,315 | `bbeeab18a84e` | [Modern-Indian-History/25-WWII-Cripps-Mission-and-Quit-India/Learning-Session-Live-Edition.md](Modern-Indian-History/25-WWII-Cripps-Mission-and-Quit-India/Learning-Session-Live-Edition.md) |
+| Modern Indian History | Topic 26 - Post-War Upsurge, INA, RIN Mutiny and Cabinet Mission | 13 | 23,829 | `f8fdccb68f06` | [Modern-Indian-History/26-Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission/Learning-Session-Live-Edition.md](Modern-Indian-History/26-Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
