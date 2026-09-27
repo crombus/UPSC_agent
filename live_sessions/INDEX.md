@@ -136,6 +136,7 @@
 | Modern Indian History | Topic 07 - Economic Impact of British Rule | 15 | 32,128 | `5c52132ce432` | [Modern-Indian-History/07-Economic-Impact-of-British-Rule/Learning-Session-Live-Edition.md](Modern-Indian-History/07-Economic-Impact-of-British-Rule/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 08 - Administrative Organisation | 14 | 24,466 | `c492a1423275` | [Modern-Indian-History/08-Administrative-Organisation/Learning-Session-Live-Edition.md](Modern-Indian-History/08-Administrative-Organisation/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 09 - Social and Cultural Policy, Education and Press | 15 | 33,035 | `351de2ae21fb` | [Modern-Indian-History/09-Social-and-Cultural-Policy-Education-and-Press/Learning-Session-Live-Edition.md](Modern-Indian-History/09-Social-and-Cultural-Policy-Education-and-Press/Learning-Session-Live-Edition.md) |
+| Modern Indian History | Topic 10 - Socio-Religious Reform Movements | 14 | 21,079 | `d2dc7d65bd49` | [Modern-Indian-History/10-Socio-Religious-Reform-Movements/Learning-Session-Live-Edition.md](Modern-Indian-History/10-Socio-Religious-Reform-Movements/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
