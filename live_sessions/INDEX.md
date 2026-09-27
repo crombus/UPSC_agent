@@ -144,6 +144,7 @@
 | Modern Indian History | Topic 15 - Militant Nationalism and Swadeshi | 8 | 18,705 | `fc177a5790a2` | [Modern-Indian-History/15-Militant-Nationalism-and-Swadeshi/Learning-Session-Live-Edition.md](Modern-Indian-History/15-Militant-Nationalism-and-Swadeshi/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 16 - Revolutionary Nationalism Phase I, 1907-1917 | 14 | 23,269 | `df2e4ed73666` | [Modern-Indian-History/16-Revolutionary-Nationalism-Phase-I-1907-1917/Learning-Session-Live-Edition.md](Modern-Indian-History/16-Revolutionary-Nationalism-Phase-I-1907-1917/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 17 - Growth of Communalism and Muslim League | 10 | 18,585 | `262263fe244f` | [Modern-Indian-History/17-Growth-of-Communalism-and-Muslim-League/Learning-Session-Live-Edition.md](Modern-Indian-History/17-Growth-of-Communalism-and-Muslim-League/Learning-Session-Live-Edition.md) |
+| Modern Indian History | Topic 18 - First World War, Home Rule and Lucknow Pact | 14 | 23,908 | `6172164dc694` | [Modern-Indian-History/18-WWI-Home-Rule-and-Lucknow-Pact/Learning-Session-Live-Edition.md](Modern-Indian-History/18-WWI-Home-Rule-and-Lucknow-Pact/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
