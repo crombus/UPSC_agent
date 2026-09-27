@@ -140,6 +140,7 @@
 | Modern Indian History | Topic 11 - The Revolt of 1857 | 16 | 27,563 | `92ab83247af8` | [Modern-Indian-History/11-The-Revolt-of-1857/Learning-Session-Live-Edition.md](Modern-Indian-History/11-The-Revolt-of-1857/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 12 - Administrative and Constitutional Changes after 1858 | 14 | 23,847 | `f77b46b69712` | [Modern-Indian-History/12-Administrative-and-Constitutional-Changes-After-1858/Learning-Session-Live-Edition.md](Modern-Indian-History/12-Administrative-and-Constitutional-Changes-After-1858/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 13 - India and Her Neighbours | 16 | 24,074 | `95a6bfeeefb0` | [Modern-Indian-History/13-India-and-Her-Neighbours/Learning-Session-Live-Edition.md](Modern-Indian-History/13-India-and-Her-Neighbours/Learning-Session-Live-Edition.md) |
+| Modern Indian History | Topic 14 - Foundation of INC and Moderate Phase | 14 | 24,596 | `3ac85c5655d4` | [Modern-Indian-History/14-Foundation-of-INC-and-Moderate-Phase/Learning-Session-Live-Edition.md](Modern-Indian-History/14-Foundation-of-INC-and-Moderate-Phase/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
