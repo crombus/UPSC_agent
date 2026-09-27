@@ -155,6 +155,7 @@
 | Modern Indian History | Topic 26 - Post-War Upsurge, INA, RIN Mutiny and Cabinet Mission | 13 | 23,829 | `f8fdccb68f06` | [Modern-Indian-History/26-Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission/Learning-Session-Live-Edition.md](Modern-Indian-History/26-Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 27 - Independence and Partition | 14 | 27,893 | `9f99635713c0` | [Modern-Indian-History/27-Independence-and-Partition/Learning-Session-Live-Edition.md](Modern-Indian-History/27-Independence-and-Partition/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 28 - Integration of Princely States and Making of the Republic | 10 | 22,680 | `54196ac1f5e0` | [Modern-Indian-History/28-Integration-of-Princely-States-and-Making-of-the-Republic/Learning-Session-Live-Edition.md](Modern-Indian-History/28-Integration-of-Princely-States-and-Making-of-the-Republic/Learning-Session-Live-Edition.md) |
+| Modern Indian History | Topic 29 - Colonial Legacy and Foundations of the Republic | 13 | 27,815 | `ec87867a5884` | [Modern-Indian-History/29-Colonial-Legacy-and-Foundations-of-the-Republic/Learning-Session-Live-Edition.md](Modern-Indian-History/29-Colonial-Legacy-and-Foundations-of-the-Republic/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
