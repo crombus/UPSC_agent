@@ -150,6 +150,7 @@
 | Modern Indian History | Topic 21 - Swarajists and Revolutionaries in the 1920s | 10 | 20,230 | `d40d7cbce4ad` | [Modern-Indian-History/21-Swarajists-and-Revolutionaries-1920s/Learning-Session-Live-Edition.md](Modern-Indian-History/21-Swarajists-and-Revolutionaries-1920s/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 22 - Simon Commission, Nehru Report, Civil Disobedience and Round Table Conferences | 14 | 27,383 | `81b24af7a62a` | [Modern-Indian-History/22-Simon-Nehru-Report-CDM-and-RTC/Learning-Session-Live-Edition.md](Modern-Indian-History/22-Simon-Nehru-Report-CDM-and-RTC/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 23 - Left, Peasant, Workers' and States Peoples' Movements | 12 | 25,736 | `f1ba0b68839f` | [Modern-Indian-History/23-Left-Peasant-Workers-and-States-Peoples-Movements/Learning-Session-Live-Edition.md](Modern-Indian-History/23-Left-Peasant-Workers-and-States-Peoples-Movements/Learning-Session-Live-Edition.md) |
+| Modern Indian History | Topic 24 - Government of India Act 1935 and Congress Ministries | 8 | 17,388 | `ac9184e7fdf5` | [Modern-Indian-History/24-Government-of-India-Act-1935-and-Congress-Ministries/Learning-Session-Live-Edition.md](Modern-Indian-History/24-Government-of-India-Act-1935-and-Congress-Ministries/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
