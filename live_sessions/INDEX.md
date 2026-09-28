@@ -158,6 +158,7 @@
 | Modern Indian History | Topic 29 - Colonial Legacy and Foundations of the Republic | 13 | 27,815 | `ec87867a5884` | [Modern-Indian-History/29-Colonial-Legacy-and-Foundations-of-the-Republic/Learning-Session-Live-Edition.md](Modern-Indian-History/29-Colonial-Legacy-and-Foundations-of-the-Republic/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 30 - Linguistic Reorganisation and Regionalism, 1947-1967 | 14 | 31,238 | `c99760861270` | [Modern-Indian-History/30-Linguistic-Reorganisation-and-Regionalism/Learning-Session-Live-Edition.md](Modern-Indian-History/30-Linguistic-Reorganisation-and-Regionalism/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 31 - Integration of Tribals and National Unity | 15 | 29,787 | `af7f99993193` | [Modern-Indian-History/31-Integration-of-Tribals-and-National-Unity/Learning-Session-Live-Edition.md](Modern-Indian-History/31-Integration-of-Tribals-and-National-Unity/Learning-Session-Live-Edition.md) |
+| Modern Indian History | Topic 32 - Nehru Era: Hope, Foreign Policy and Legacy | 17 | 45,543 | `32cb1ace5c1b` | [Modern-Indian-History/32-Nehru-Era-Hope-Foreign-Policy-and-Legacy/Learning-Session-Live-Edition.md](Modern-Indian-History/32-Nehru-Era-Hope-Foreign-Policy-and-Legacy/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
