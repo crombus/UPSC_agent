@@ -175,6 +175,7 @@
 | World History | Topic 08 - Latin American Independence Movements | 22 | 99,520 | `ea4a817ab26b` | [World-History/08-Latin-American-Independence-Movements/Learning-Session-Live-Edition.md](World-History/08-Latin-American-Independence-Movements/Learning-Session-Live-Edition.md) |
 | World History | Topic 09 - World in 1914 and Outbreak of the First World War | 20 | 92,209 | `e050a9a801d1` | [World-History/09-World-in-1914-and-Outbreak-of-WWI/Learning-Session-Live-Edition.md](World-History/09-World-in-1914-and-Outbreak-of-WWI/Learning-Session-Live-Edition.md) |
 | World History | Topic 10 - First World War and Aftermath | 25 | 107,300 | `20292f5d376b` | [World-History/10-First-World-War-and-Aftermath/Learning-Session-Live-Edition.md](World-History/10-First-World-War-and-Aftermath/Learning-Session-Live-Edition.md) |
+| World History | Topic 11 - International Relations, 1919-1939 | 21 | 106,645 | `c633b183a0f9` | [World-History/11-International-Relations-1919-39/Learning-Session-Live-Edition.md](World-History/11-International-Relations-1919-39/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
