@@ -171,6 +171,7 @@
 | World History | Topic 04 - Industrial Revolution | 17 | 70,386 | `2a713a59b165` | [World-History/04-Industrial-Revolution/Learning-Session-Live-Edition.md](World-History/04-Industrial-Revolution/Learning-Session-Live-Edition.md) |
 | World History | Topic 05 - Congress of Vienna and Concert of Europe | 18 | 83,986 | `fcb4a4b331a0` | [World-History/05-Congress-of-Vienna-and-Concert-of-Europe/Learning-Session-Live-Edition.md](World-History/05-Congress-of-Vienna-and-Concert-of-Europe/Learning-Session-Live-Edition.md) |
 | World History | Topic 06 - Unification of Italy and Germany | 20 | 92,790 | `8dc5fab911cc` | [World-History/06-Unification-of-Italy-and-Germany/Learning-Session-Live-Edition.md](World-History/06-Unification-of-Italy-and-Germany/Learning-Session-Live-Edition.md) |
+| World History | Topic 07 - New Imperialism and Scramble for Africa | 21 | 109,398 | `d0ce33f3f729` | [World-History/07-New-Imperialism-and-Scramble-for-Africa/Learning-Session-Live-Edition.md](World-History/07-New-Imperialism-and-Scramble-for-Africa/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
