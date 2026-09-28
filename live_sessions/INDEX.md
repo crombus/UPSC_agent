@@ -162,6 +162,7 @@
 | Modern Indian History | Topic 33 - Party Politics, 1947-1967: Congress System and Opposition | 14 | 28,774 | `007dfe3ef64b` | [Modern-Indian-History/33-Party-Politics-1947-1967-Congress-System-and-Opposition/Learning-Session-Live-Edition.md](Modern-Indian-History/33-Party-Politics-1947-1967-Congress-System-and-Opposition/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 34 - From Shastri to Indira Gandhi, 1964-1973 | 15 | 37,049 | `0edf6df1d4ec` | [Modern-Indian-History/34-From-Shastri-to-Indira-1964-1973/Learning-Session-Live-Edition.md](Modern-Indian-History/34-From-Shastri-to-Indira-1964-1973/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 35 - JP Movement and the Emergency | 14 | 28,736 | `bde639ea44e1` | [Modern-Indian-History/35-JP-Movement-and-the-Emergency/Learning-Session-Live-Edition.md](Modern-Indian-History/35-JP-Movement-and-the-Emergency/Learning-Session-Live-Edition.md) |
+| Modern Indian History | Topic 36 - Janata Interregnum, Indira's Return and Regional Crises | 14 | 30,630 | `46ef72b3a685` | [Modern-Indian-History/36-Janata-Interregnum-Indiras-Return-and-Regional-Crises/Learning-Session-Live-Edition.md](Modern-Indian-History/36-Janata-Interregnum-Indiras-Return-and-Regional-Crises/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
