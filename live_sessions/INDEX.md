@@ -170,6 +170,7 @@
 | World History | Topic 03 - French Revolution and Napoleon | 18 | 80,687 | `712b12a43428` | [World-History/03-French-Revolution-and-Napoleon/Learning-Session-Live-Edition.md](World-History/03-French-Revolution-and-Napoleon/Learning-Session-Live-Edition.md) |
 | World History | Topic 04 - Industrial Revolution | 17 | 70,386 | `2a713a59b165` | [World-History/04-Industrial-Revolution/Learning-Session-Live-Edition.md](World-History/04-Industrial-Revolution/Learning-Session-Live-Edition.md) |
 | World History | Topic 05 - Congress of Vienna and Concert of Europe | 18 | 83,986 | `fcb4a4b331a0` | [World-History/05-Congress-of-Vienna-and-Concert-of-Europe/Learning-Session-Live-Edition.md](World-History/05-Congress-of-Vienna-and-Concert-of-Europe/Learning-Session-Live-Edition.md) |
+| World History | Topic 06 - Unification of Italy and Germany | 20 | 92,790 | `8dc5fab911cc` | [World-History/06-Unification-of-Italy-and-Germany/Learning-Session-Live-Edition.md](World-History/06-Unification-of-Italy-and-Germany/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
