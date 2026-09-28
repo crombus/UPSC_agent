@@ -181,6 +181,7 @@
 | World History | Topic 14 - Second World War | 20 | 99,526 | `f6543ca50dc3` | [World-History/14-Second-World-War/Learning-Session-Live-Edition.md](World-History/14-Second-World-War/Learning-Session-Live-Edition.md) |
 | World History | Topic 15 - Cold War and International Relations | 22 | 124,545 | `5813d0b6bc4a` | [World-History/15-Cold-War-and-International-Relations/Learning-Session-Live-Edition.md](World-History/15-Cold-War-and-International-Relations/Learning-Session-Live-Edition.md) |
 | World History | Topic 16 - United Nations and Global Governance | 18 | 112,009 | `8e7067fdec40` | [World-History/16-United-Nations-and-Global-Governance/Learning-Session-Live-Edition.md](World-History/16-United-Nations-and-Global-Governance/Learning-Session-Live-Edition.md) |
+| World History | Topic 17 - China, Communism and Asia | 22 | 91,546 | `fa41738d6bef` | [World-History/17-China-Communism-and-Asia/Learning-Session-Live-Edition.md](World-History/17-China-Communism-and-Asia/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
