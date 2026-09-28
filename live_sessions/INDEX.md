@@ -165,6 +165,7 @@
 | Modern Indian History | Topic 36 - Janata Interregnum, Indira's Return and Regional Crises | 14 | 30,630 | `46ef72b3a685` | [Modern-Indian-History/36-Janata-Interregnum-Indiras-Return-and-Regional-Crises/Learning-Session-Live-Edition.md](Modern-Indian-History/36-Janata-Interregnum-Indiras-Return-and-Regional-Crises/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 37 - The Rajiv Years and Run-up to the Millennium | 10 | 38,340 | `8d636bbe3190` | [Modern-Indian-History/37-The-Rajiv-Years-and-Run-up-to-the-Millennium/Learning-Session-Live-Edition.md](Modern-Indian-History/37-The-Rajiv-Years-and-Run-up-to-the-Millennium/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 38 - Economy, Land, Society and State: A Post-Independence Synthesis | 18 | 86,628 | `98b425347bbe` | [Modern-Indian-History/38-Economy-Land-Society-and-State-A-Post-Independence-Synthesis/Learning-Session-Live-Edition.md](Modern-Indian-History/38-Economy-Land-Society-and-State-A-Post-Independence-Synthesis/Learning-Session-Live-Edition.md) |
+| World History | Topic 01 - Enlightenment and Age of Revolutions Overview | 15 | 56,735 | `a54ae4b9db17` | [World-History/01-Enlightenment-and-Age-of-Revolutions-Overview/Learning-Session-Live-Edition.md](World-History/01-Enlightenment-and-Age-of-Revolutions-Overview/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
