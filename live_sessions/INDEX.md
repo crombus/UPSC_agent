@@ -173,6 +173,7 @@
 | World History | Topic 06 - Unification of Italy and Germany | 20 | 92,790 | `8dc5fab911cc` | [World-History/06-Unification-of-Italy-and-Germany/Learning-Session-Live-Edition.md](World-History/06-Unification-of-Italy-and-Germany/Learning-Session-Live-Edition.md) |
 | World History | Topic 07 - New Imperialism and Scramble for Africa | 21 | 109,398 | `d0ce33f3f729` | [World-History/07-New-Imperialism-and-Scramble-for-Africa/Learning-Session-Live-Edition.md](World-History/07-New-Imperialism-and-Scramble-for-Africa/Learning-Session-Live-Edition.md) |
 | World History | Topic 08 - Latin American Independence Movements | 22 | 99,520 | `ea4a817ab26b` | [World-History/08-Latin-American-Independence-Movements/Learning-Session-Live-Edition.md](World-History/08-Latin-American-Independence-Movements/Learning-Session-Live-Edition.md) |
+| World History | Topic 09 - World in 1914 and Outbreak of the First World War | 20 | 92,209 | `e050a9a801d1` | [World-History/09-World-in-1914-and-Outbreak-of-WWI/Learning-Session-Live-Edition.md](World-History/09-World-in-1914-and-Outbreak-of-WWI/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
