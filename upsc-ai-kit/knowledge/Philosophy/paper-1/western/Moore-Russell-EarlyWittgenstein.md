@@ -626,7 +626,7 @@ Do you agree? Give reasons and justifications):
 - ✅ Moore: common-sense defence, external-world proof and refutation of idealism.
 - ✅ Russell: logical analysis, atomism, constructions, incomplete symbols, descriptions and acquaintance prerequisite.
 - ✅ Early Wittgenstein: facts/objects/states, logical space, picture theory, truth-functions, saying/showing and ladder problem.
-- ✅ All fourteen routed PYQs with thinker-specific answer routes.
+- ✅ All sixteen routed 2018–2026 PYQs with thinker-specific answer routes.
 
 ### Bounded orientation
 

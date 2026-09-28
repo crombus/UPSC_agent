@@ -72,7 +72,7 @@ HUSSERL'S PROGRAMME: a PRESUPPOSITIONLESS, RIGOROUS SCIENCE of consciousness
 - **Epoché** (Greek ἐποχή = "suspension," "withholding of assent"): we **bracket** (*einklammern*) the existence-positing of the natural attitude.
 - **What is bracketed:** the general thesis — i.e., the positing that the world (and its objects) *exists* independently. Crucially, we bracket the *existence-claim*, **not the content of experience**. The tree I see is still described as presenting itself with its full richness of colour, shape, spatial placement — but I no longer *assert* or *deny* that it exists beyond my experience of it. ✅
 - **What is NOT bracketed:** the stream of consciousness itself, with all its intentional contents. The phenomenological residue (*Residuum*) is the entire field of **pure experience** as lived — phenomena in their self-givenness.
-- **Epoché ≠ Cartesian doubt:** Descartes *denies* existence to reach the indubitable cogito; Husserl neither affirms nor denies — he **suspends** (*enthält sich*). The epoché is not scepticism but a *methodological neutralisation* that frees the philosopher to describe without prejudice. ✅ (This distinction is a favourite UPSC trap — see §5.)
+- **Epoché ≠ Cartesian doubt:** Descartes *withholds assent from what can be doubted* to locate the indubitable cogito, then seeks to establish the external world; methodic doubt is not a blanket denial of existence. Husserl suspends the natural-attitude *positing* of world-existence without testing whether the world exists, in order to describe how it is given. The epoché is not scepticism but a methodological neutralisation. ✅ (See §5.)
 - **The phenomenological reduction** is the *positive* result of the epoché: by putting existence out of play, we are *reduced* (led back, *re-ducere*) to the sphere of pure phenomena — to consciousness as the domain in which everything that can have meaning for us is constituted.
 
 **Do not collapse the reductions:**
@@ -419,7 +419,7 @@ Specific claims of psychologism: ✅
 
 | Trap | Correction |
 |---|---|
-| "Epoché = Cartesian doubt" | **Wrong.** Doubt *denies*; epoché *suspends* (neither affirms nor denies). Descartes sought what *cannot be doubted*; Husserl seeks what is *given purely* when existence-claims are set aside. |
+| "Epoché = Cartesian doubt" | **Wrong.** Cartesian methodic doubt withholds assent pending certainty; it does not simply deny the world. Husserl's epoché brackets the natural attitude's existence-posit without testing or disproving it, then investigates modes of givenness. |
 | "The transcendental ego is a substance / soul" | **Wrong.** It is a *constituting field*, not a *res cogitans*. Husserl explicitly rejects the substance-interpretation. |
 | "Husserl's essences are Platonic Forms in a separate heaven" | **Wrong.** Essences are grasped *in and through* instances — they are not in a separate realm (*χωρισμός*). |
 | "Husserl is a subjective idealist" | **Misleading.** He calls his position *transcendental idealism* (things are constituted *in* consciousness), but this is not Berkeleyan "esse est percipi." The noema is an *objective* correlate accessible to all subjects. |

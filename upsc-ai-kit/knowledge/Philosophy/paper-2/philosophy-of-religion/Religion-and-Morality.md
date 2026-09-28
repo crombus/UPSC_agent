@@ -63,7 +63,7 @@ may justify duty while struggling to motivate every agent in every case.
 - **"One can have morality without religion but not religion without morality" (2022 PYQ):** ⚠️
   - *Normatively adequate religion without morality is difficult to defend* because religion makes claims about worthy life, duty, transformation or liberation. Yet a descriptively identifiable religious institution can transmit immoral commands or practices; calling it immoral does not make it sociologically nonexistent.
   - *Morality without religion is possible* — secular ethics (Kant, utilitarianism, humanism) grounds morality in reason/consequences, not God. → the asymmetry.
-- **"Must normative principles reference God to create obligation?" (2025 PYQ):** DCT says yes; but Kant shows **autonomy** can ground obligation without God. ⚠️
+- **"Must normative principles reference God to produce a feeling of obligation?" (2025 PYQ):** distinguish a norm's **validity**, its felt binding force and actual compliance. DCT may unify authority and motivation; Kant's autonomy and non-theistic formation offer alternative sources of felt duty. See §9.11A. ⚠️
 
 ---
 
@@ -80,7 +80,7 @@ may justify duty while struggling to motivate every agent in every case.
 - **Religion influences moral behaviour:** provides **motivation** (reward/punishment, love of God), **community & sanction**, moral exemplars, and a **worldview** that sustains moral commitment. ✅
 - **Morality influences/refines religion:** moral conscience **critiques** religious practice (prophets against ritualism; reform movements against caste/sati); a religion is judged by its **ethical fruits** (James). ⚠️
 - **Causal caution:** religious narratives and institutions can support care or sanction exclusion, but this contingent influence does not establish that religion is inherently moral or immoral. ⚠️
-- **Indian view:** **dharma** fuses the religious and the moral — right conduct *is* the cosmic-religious order; karma links moral action to spiritual destiny (morality is soteriologically serious). ✅
+- **Indian comparison:** *Dharma* can combine moral, social, ritual and soteriological duties, which sometimes conflict (e.g. role-duty versus *ahiṃsā*). Karma links action to claimed future consequence in many schools, but neither proves victims deserve suffering nor establishes an undetected act's actual fate. ⚠️
 
 ### 3.1 Moral critique, plural moralities and Indian grounds
 
@@ -104,13 +104,13 @@ may justify duty while struggling to motivate every agent in every case.
 ## 4. COMPARISON GRID ⚠️
 | View | Claim | Thinker | Weakness |
 |---|---|---|---|
-| Divine Command | right = God's command | DCT, Dostoevsky | Euthyphro: arbitrariness |
+| Divine Command | obligation constituted by God's command (versions differ) | DCT, Adams | Euthyphro: arbitrariness/independent-goodness pressure |
 | Autonomy | morality = reason | Kant | motivation/why-be-moral gap |
 | Independence (secular) | ethics needs no God | utilitarians, humanists | grounding of obligation |
 | Interaction | mutual reinforcement | James, Indian dharma | relation is contingent |
-| Indian (dharma) | moral = religious order | Gītā, Mīmāṃsā | — |
+| Indian (dharma) | role, moral and ritual duty can overlap or conflict | Gītā, Mīmāṃsā | role-duty, hierarchy and cross-school disagreement |
 
-> 🔑 **Balanced conclusion:** the Euthyphro shows morality **cannot be wholly reducible to** divine command (else arbitrary), so morality has **autonomy**; yet religion powerfully **motivates and sustains** morality, and morality **purifies** religion — hence the **interaction** view, not strict dependence, is soundest.
+> 🔑 **Balanced conclusion:** Euthyphro pressures unqualified command-dependence; Adams's loving-nature reply blocks simple arbitrariness but retains a question about goodness. Moral autonomy is defensible independently of a divine command; religion **can** motivate morality, and moral criticism **can** correct religious practice. Neither effect is automatic.
 
 ---
 
@@ -124,19 +124,19 @@ may justify duty while struggling to motivate every agent in every case.
 ---
 
 ## 6. APPLIED-QUESTION DRILLS ⚠️
-1. **[Asymmetry]** "'Morality without religion, but not religion without morality.' Discuss." (2022) → §1.
-2. **[Religion without morality]** "Can there be a religion without morality?" (2024) → §1.
+1. **[Asymmetry]** "'Morality without religion, but not religion without morality.' Discuss." (2022) → §9.9A.
+2. **[Religion without morality]** "Can there be a religion without morality?" (2024) → §9.9A.
 3. **[Influence]** "Does religion influence moral behaviour? Interactive relation." (2023) → §3.
-4. **[Obligation]** "Must normative principles reference God to produce obligation?" (2025) → §2 + §9.11.
+4. **[Felt obligation]** "Must normative principles reference God to produce a feeling of obligation?" (2025) → §9.11A.
 5. **[Violence]** "Can there be a philosophical argument to support violence in the name of religion?" (2019, 10m) → §9.7 — premises, then the failing premise.
-6. **[Astray]** "Does devoted commitment to a religious way of life make one go astray from social morality?" (2019, 10m) → §9.9 + Kierkegaard's suspension.
+6. **[Astray]** "Does devoted commitment to a religious way of life make one go astray from social morality?" (2019, 10m) → §9.9B, not the 2018 printed-word route.
 7. **[Why be moral]** "Secular ethics cannot fully resolve why one should be moral all the time." (2019, 15m) → §9.10 — justification vs motivation.
-8. **[Compatibility]** "Are religious beliefs and practices incompatible with moral behaviour?" (2020, 15m) → §9.9.
-9. **[Inseparable]** "Are religion and morality inseparable?" (2021, 15m) → §1–§3 + §9.11 — four independent non-theistic groundings.
+8. **[Compatibility]** "Are religious beliefs and practices incompatible with moral behaviour?" (2020, 15m) → §9.9B.
+9. **[Inseparable]** "Are religion and morality inseparable?" (2021, 15m) → §9.9A + §9.11.
 10. **[Religiosity/immorality]** "Inter-relatedness between 'religiosity' and 'immorality'." (2018, 10m) → §9.9 — keep the printed word.
 11. **[Nietzsche]** "Nietzsche's criticism of religion and morality." (2025, 10m) → §9.6 (**this file is the primary owner**).
 12. **[Gandhi]** "Critically evaluate the shift from 'God is Truth' to 'Truth is God', in the context of religion and morality." (2026, 20m) → §9.12 (**this file is the primary owner**) — five reasons, then the religion-under-morality core.
-13. **[Moral autonomy]** "How does moral autonomy conflict with religion as a source of morality?" (2026, 15m) → §2 + §9.2 + §9.11 — Kantian heteronomy, then the modified-DCT reply and its residual concession.
+13. **[Moral autonomy]** "How does moral autonomy conflict with religion as a source of morality?" (2026, 15m) → §9.11B — Kantian heteronomy, then the modified-DCT reply and its residual concession.
 
 ---
 
@@ -149,8 +149,8 @@ may justify duty while struggling to motivate every agent in every case.
 | Natural law | Human goods under divine reason | ✅ Mediates the horns | ⚠️ Partly | Nature-to-norm |
 | Kant | Rational self-legislation | ✅ Not applicable | ⚠️ Justifies, does not motivate | Formalism |
 | Contractarian | Mutual advantage | ✅ Not applicable | ❌ The perfect knave survives | Detectability of dispositions |
-| Karma/dharma | Cosmic moral order | ✅ No commander needed | ✅ **Exhaustive — no undetected act** | Unverifiability |
-| Buddhist (Śāntideva) | Ownerless suffering + *anātman* | ✅ Not applicable | ✅ Impartiality is rationally required | Depends on *anātman* |
+| Karma/dharma | Claimed cosmic moral order (varies by school) | No commander in non-theistic accounts | ⚠️ If karmic causation holds, no act escapes it; this is a premise, not observed evidence | Unverifiability, victim-blaming risk |
+| Buddhist (Śāntideva) | Suffering and *anātman* | ✅ Not applicable | ⚠️ Offers a reason for impartial concern; motivation still needs cultivation | Why deny conventional differences between agents? |
 | Jain | *Ahiṃsā*, graded vows | ✅ Not applicable | ✅ Vow-structure | Rigorism |
 | Mīmāṃsā | Vedic injunction alone | ✅ No personal commander | ⚠️ Ritual-bounded | Authority outside the tradition |
 | Gandhi | Truth (*satya*/*sat*), with *ahiṃsā* as its method | ✅ **Second horn embraced** — religion answers to the good | ✅ Truthfulness is a whole-life discipline, not an occasion-rule | Conscience is the proximate judge; the metaphysics stays thin |
@@ -162,20 +162,23 @@ may justify duty while struggling to motivate every agent in every case.
 ### 7.1 — "'One can have morality without religion but not religion without morality.' Discuss." (2022, 10m)
 ```
 Intro : examine the asymmetry between the two directions.
-Body  : religion WITHOUT morality — impossible (every religion prescribes an ethic; internal link);
+Body  : religion WITHOUT morality — descriptively possible as corrupt practices/institutions;
+        normatively objectionable if a religion claims to transform life for the better;
         morality WITHOUT religion — possible (Kant's autonomy, secular ethics, humanism).
-Assess: Euthyphro blocks strong DCT; yet religion motivates/sustains morality (interaction).
-Concl : the asymmetry holds — morality is autonomous, religion is ethically constituted.
+Assess: distinguish moral teaching, moral behaviour and an external moral standard; an ethical
+        code can itself be morally bad. Religion can motivate and also distort moral conduct.
+Concl : defensible as a claim about WORTHY religion, not a definition of every actual religion.
 ```
 
-### 7.2 — "Must normative principles reference God to produce obligation?" (2025, 15m)
+### 7.2 — "Must normative principles reference God to produce a feeling of obligation?" (2025, 15m)
 ```
-Intro : the Divine Command claim vs the autonomy claim.
-Body  : DCT — obligation from God's will (Dostoevsky); BUT Euthyphro → arbitrariness;
-        Kant — obligation from rational autonomy (categorical imperative), no God needed;
-        secular ethics grounds duty without theism.
-Assess: God can MOTIVATE obligation but is not its logical GROUND; morality is autonomous.
-Concl : normative principles need not reference God to obligate, though religion can reinforce them.
+Intro : the question concerns a FELT duty, not only whether a principle is valid.
+Body  : divine command and covenant can evoke answerability; Euthyphro/interpretation still matter;
+        Kantian respect for law one rationally legislates, Buddhist compassion, or Jain vows can
+        also evoke a felt duty without God.
+Assess: distinguish validity, psychological experience and action: God-reference is neither
+        necessary (counterexamples) nor sufficient (assent without compliance).
+Concl : religion can deepen felt obligation for believers without monopolising its sources.
 ```
 
 ### 7.3 — "Can there be a philosophical argument to support violence in the name of religion?" (2019, 10m)
@@ -183,18 +186,16 @@ Concl : normative principles need not reference God to obligate, though religion
 Intro : the question is about the STRUCTURE OF JUSTIFICATION, not the history of conflict.
         Assess arguments; name no community.
 Body  : state each candidate in premises, then locate the failing premise —
-        (1) divine command → fails at P2: no fallible agent can infallibly identify the divine will
-            (Kierkegaard concedes Abraham cannot make himself intelligible → no public justification);
-        (2) defence of the sacred → fails at P2: it confuses supreme VALUE with vulnerability;
-        (3) coerce-for-salvation → fails at P2 empirically: Locke — force compels profession, not
-            belief; coerced religion yields hypocrisy (Augustine's compelle intrare as the historical
-            counter-position, examined not endorsed);
-        (4) cosmic dualism → fails at P2: total demonisation contradicts image-of-God / ahiṃsā /
-            ātman-in-all anthropologies;
+        (1) divine command → P1 and P2 both contested: authority, fallible interpretation,
+            and Kierkegaard's limit on public justification;
+        (2) defence of the sacred → P2 confuses supreme VALUE with vulnerability;
+        (3) coerce-for-salvation → P2 assumes conformity leads to conviction and overlooks
+            rights/proportionality (Locke versus Augustine's historical counter-position);
+        (4) cosmic dualism → P2's total demonisation fails a person-respecting moral test;
         (5) identity-honour → not a religious argument at all.
 General rebuttals: Euthyphro; epistemic fallibility; Gandhi's means–end unity; internal critiques.
-Concl : no SOUND argument survives; only the ordinary defensive-force permission, which is not
-        religious. Religion's distinctive contribution here is restraint, not licence.
+Concl : a religious appeal alone does not justify harm; defensible protection of persons must
+        meet assessable constraints, whether voiced by theists or non-theists.
 ```
 
 ### 7.4 — "Secular ethics cannot fully resolve why one should be moral all the time." (2019, 15m)
@@ -203,19 +204,21 @@ Intro : the weight is on "all the time" — the undetected, costly, unreciprocat
 Setup : Ring of Gyges; Hobbes' Foole; Hume's sensible knave; Bradley/Prichard on whether the
         question is even well-formed.
 Secular answers and their limits:
-        Kant (categorical, not conditional — but justifies rather than motivates);
+        Kant (categorical, not conditional; respect for the moral law can also motivate);
         Gauthier's constrained maximisation (works only where dispositions are detectable);
         Aristotelian eudaimonism (presupposes a thick nature the sceptic can decline);
         sympathy/reciprocity (explains a motive; has an exception clause for the undetected case).
-Religious answers: divine sanction (works, but heteronomous — Kantian cost);
-        divine love (escapes heteronomy);
-        KARMA — exhaustive and impersonal: no unobserved act, no bribable judge, so Gyges' ring
-        is irrelevant; niṣkāma-karma (Gītā 2.47, 3.19) DISSOLVES the question by removing the fruit
-        from deliberation; dharma/ṛta makes morality the grain of reality, not a constraint on it.
-Assess: separate JUSTIFICATION from MOTIVATION. Secular ethics answers the first; the printed claim
-        bites only on the second — and religion's advantage there is scope, purchased at the price
-        of heteronomy if it works through sanction.
-Concl : half true — and the half that is true is motivational, not logical.
+Religious answers: divine sanction can motivate some believers, but fear risks heteronomy;
+        divine love can move agents without fear, though obedience can remain heteronomous;
+        KARMA — if karmic accountability holds, no act escapes consequence, but the premise
+        is contested and should never justify blaming sufferers;
+        niṣkāma-karma (Gītā 2.47, 3.19) shifts focus from reward to duty;
+        dharma/ṛta offers a claimed cosmic setting, not proof of universal compliance.
+Assess: separate JUSTIFICATION from MOTIVATION. Kantian respect, cultivated compassion and
+        character can also motivate in private; neither secular nor religious ethics guarantees
+        compliance by every agent on every occasion.
+Concl : the hard case tests each theory's account of reasons and motivation, not a theorem
+        that one side always fails and the other always succeeds.
 ```
 
 ### 7.5 — "Present an account of Nietzsche's criticism of religion and morality." (2025, 10m)
@@ -311,14 +314,14 @@ Concl : the critique of morality outlives the programme that was to replace it.
 
 - **The exact question.** ✅ Not "have religions been violent?" (a historical question) but "**can a philosophical argument support violence in the name of religion?**" — i.e., is there a valid argument with religious premises whose conclusion licenses violence?
 - **The candidate arguments, stated fairly, then tested.** ⚠️
-  1. **Divine-command argument.** *P1:* Whatever God commands is obligatory. *P2:* God has commanded this act. *C:* The act is obligatory, whatever its ordinary moral appearance. — **Test:** the argument is *formally* valid; it fails on **P2**, which requires an infallible identification of the divine will that no fallible agent possesses. Kierkegaard's "teleological suspension of the ethical" concedes exactly this: Abraham cannot make himself intelligible, and therefore cannot make a *public* case. An argument that cannot be publicly assessed cannot function as a justification to others.
+  1. **Divine-command argument.** *P1:* Whatever God commands is obligatory. *P2:* God has commanded this act. *C:* The act is obligatory, whatever its ordinary moral appearance. — **Test:** validity does not establish either premise. Identification and interpretation of a claimed command are fallible; even granted P2, Euthyphro challenges P1's moral authority if the act is cruel. Kierkegaard's "teleological suspension of the ethical" presents Abraham as unable to make himself intelligible; it does not offer a generally checkable public licence.
   2. **Defence-of-the-sacred argument.** *P1:* The sacred is of supreme value. *P2:* Supreme value may be defended by force. *C:* Violence in defence of the sacred is permitted. — **Test:** P2 conflates *value* with *vulnerability*. Persons can be defended by force because they can be harmed; the sacred, on most theologies, cannot be diminished by an insult, so the premise misdescribes what is at stake.
-  3. **Soteriological paternalism ("coerce for their own good").** *P1:* Eternal salvation outweighs temporal harm. *P2:* Coercion can produce conformity that leads to salvation. *C:* Coercion is a benefit. — **Test:** **P2 is false**, and this is the decisive philosophical refutation. **Locke's *A Letter Concerning Toleration* (1689):** the magistrate's force can compel outward profession but "the understanding cannot be compelled to the belief of anything by outward force"; belief is not directly voluntary, so coerced religion produces hypocrisy, not salvation. ✅ Augustine's use of *compelle intrare* (Luke 14:23) in the Donatist controversy is the standard historical counter-instance, and it is a **historical position to be examined**, not an endorsement.
+  3. **Soteriological paternalism ("coerce for their own good").** *P1:* Eternal salvation outweighs temporal harm. *P2:* Coercion can produce conformity that leads to salvation. *C:* Coercion is a benefit. — **Test:** P2 requires a disputed bridge from outward conformity to sincere belief, while the conclusion also requires proportionality and respect for persons. **Locke's *A Letter Concerning Toleration* (1689)** argues that force cannot directly compel conviction; Augustine's *compelle intrare* (Luke 14:23) in the Donatist controversy is an important historical counter-position, not an endorsement. Social pressure may alter belief indirectly, so the argument needs moral as well as psychological criticism.
   4. **Cosmic-dualist/apocalyptic argument.** *P1:* History is a war between absolute good and absolute evil. *P2:* Opponents instantiate absolute evil. *C:* Restraint toward them is complicity. — **Test:** **P2 is the flaw** — the total demonisation of persons is precisely what most religious anthropologies (image of God; the Buddha-nature; *ātman* in all beings; *ahiṃsā*) deny.
   5. **Identity/honour argument.** — **Test:** this is not a religious argument at all but a **group-identity** argument wearing religious vocabulary; it is refuted by the ordinary objections to collective punishment.
 - **The general rebuttals.** ✅ (a) **Euthyphro**: if the act is wrong, calling it commanded does not make it right; if it is right, the command is not what makes it so. (b) **Epistemic fallibility**: revelation-claims are contested even inside a tradition, so no agent is entitled to the certainty the argument requires. (c) **Means–end unity**: Gandhi's insistence that means and ends are inseparable — "the means may be likened to a seed, the end to a tree" — denies that a sacred end can sanctify an unholy means. (d) **The internal-critique point**: every major tradition contains its own resources against violence — *ahiṃsā*, the Buddhist first precept, the prophetic critique of sacrifice, the doctrine of the dignity of the person.
-- **What survives.** ⚠️ **Only the ordinary, non-religious justification of defensive force** — self-defence and the protection of the innocent — survives, and it is available to a secular ethic as well. **Religion adds no independent licence.** What religion *can* legitimately add is a *restraint*: many traditions impose limits on defensive force stricter than secular law requires.
-- **Verdict formula.** ⚠️ "There is no **sound** philosophical argument for violence *in the name of* religion. The valid-looking arguments fail at a premise — the identification of the divine will, the vulnerability of the sacred, the efficacy of coercion, or the total evil of the adversary. What survives is the general moral permission of defensive force, which is not religious at all; religion's distinctive contribution to this question is the imposition of limits, not the grant of a licence."
+- **What survives.** ⚠️ A religious believer may frame defence of persons through religious premises, but that does not remove the need to defend necessity, discrimination and proportionality in terms others can scrutinise. The same protections can be justified without theistic premises. Traditions supply both contested justifications and resources for restraint; neither is automatic.
+- **Verdict formula.** ⚠️ "Valid arguments can be formulated, but their claimed religious premises and moral bridges are contestable; a mere appeal to divine will does not publicly justify harm. Defence of persons must meet independently assessable constraints. The issue is not solved by asserting that no possible religious argument exists, nor by treating religious conviction as sufficient licence."
 
 ### 9.8 Just war, *jihād* and *dharma-yuddha*: comparing normative frameworks
 > ⚠️ **Handling rule (non-negotiable).** These are **internally contested normative traditions with long juristic histories**. Compare their *criteria*; do not adjudicate between faiths, do not characterise any community, and mark contested points with ❓. The examinable content is the **structure of restraint**, which is where the three converge.
@@ -358,17 +361,32 @@ Concl : the critique of morality outlives the programme that was to replace it.
 - **Objection → reply.** ⚠️ **Objection:** this makes religiosity morally inert. **Reply:** not inert — an amplifier is not neutral in effect, only in direction; and traditions can be assessed by how strongly they build internal critique and moral universalism into the amplification.
 - **Verdict formula.** ⚠️ "There is a genuine inter-relatedness, but it is **conditional, not necessary**. Religiosity does not produce immorality; it magnifies the moral content it is attached to, and the traditions' own prophetic critiques show that they know it."
 
+### 9.9A Morality without religion; religion without morality (2021, 2022 and 2024 owner-route)
+
+- **First direction: morality without religion.** ⚠️ Kant's rational autonomy, utilitarian attention to suffering and welfare, and Buddhist or Jain non-creator ethics show that a religious *belief in God* is not required for moral judgement or practice; distinguish the stronger question whether any religious orientation whatsoever is required. Secular virtue and public deliberation offer a non-religious counterexample, not a proof that religion never helps.
+- **Second direction: religion without morality.** ⚠️ (a) **Descriptive:** ritual, identity and metaphysical belief can persist with cruel conduct; therefore empirical religiosity does not entail good conduct. (b) **Internal normative:** traditions often impose ethical norms, even when their content is contested; an ethic can be internally present yet externally criticised as unjust. (c) **Evaluative:** to call a religion *worthy* may require that its practices withstand moral criticism. This is a defensible ideal, **not** proof that an immoral religion could not exist or count sociologically as religion.
+- **Inseparability tested.** ⚠️ If it means conceptual identity, religion includes worship/ultimate concern, while morality assesses conduct and reasons; they differ. If it means shared practice, religious observance and moral agency frequently interact but can diverge. If it means a normative ideal, Gandhi's insistence that no religion overrides morality is a serious argument for inseparability *of good religion and morality*, not for empirical inseparability.
+- **Objection → reply.** ⚠️ A theist can say divine goodness grounds moral obligation even where nonbelievers act morally: their action does not settle metaphysical grounding. Reply: the Euthyphro and non-theistic moral theories challenge that grounding separately. Conversely, a moral critique of a harmful tradition cannot be dismissed merely by redefining the tradition out of existence.
+- **Answer discrimination:** 2021 Q6(c) asks whether religion and morality are **inseparable** (specify which relation); 2022 Q5(b) asks whether the two directions of an **asymmetry** hold; 2024 Q5(a) asks whether a **religion without morality can exist**. The same examples serve different conclusions, not three interchangeable answers.
+
+### 9.9B Devotion, social morality and compatibility of religious practice (2019 Q5(d), 2020 Q8(b))
+
+- **Social morality is not automatically moral truth.** ⚠️ Shared law and custom can protect cooperation, but they can also entrench injustice. A devoted person's refusal of an accepted discriminatory custom can look like going astray *from society* while being morally justified; critique of caste exclusion provides an India-centred illustration. Conversely, a practice defended as sacred can harm persons; devotion alone cannot justify it. Identify the particular social norm and the independent ethical reason before judging conflict.
+- **Strongest divergence argument.** ✅ Kierkegaard's Abraham illustrates how a claimed exceptional divine duty can collide with ordinary ethical universality. ⚠️ It does not follow that *all* devotion suspends ethics: Gandhi's Truth and *ahiṃsā*, Buddhist compassion and Jain vows show religious lives organised by moral discipline. Scrutinise claims of exception with publicity, evidence of authority and protection of affected persons.
+- **Compatibility is not identity.** ⚠️ Some beliefs and practices encourage moral behaviour through exemplars, reflection and service; ritual substitution or in-group exclusion can pull in the other direction (§9.9). Neither the existence of immoral practices proves **necessary incompatibility** (2020), nor the presence of ethical teachings proves that a particular devotee cannot go astray (2019).
+- **Verdict.** ⚠️ A devoted way of life can conflict with *a given social code* for morally good or bad reasons. Religious belief/practice and moral behaviour are **compatible but not guaranteed to coincide**; judge conduct by stated principles and effects rather than by religious or social labels alone.
+
 ### 9.10 "Why be moral — all the time?" (2019 Q7(b) owner-module)
 - **The exact stem.** ✅ "Secular ethics cannot fully resolve as to **why one should be moral all the time**." The load is carried by "**all the time**" — the hard case is morality when it is **costly, undetected and unenforced**.
 - **The classical statements of the problem.** ✅ **Glaucon's Ring of Gyges** (*Republic* II): given invisibility, would anyone remain just? — the challenge is to show justice is good *in itself*, not for its reputation. ✅ **Hobbes' Foole**: the one who says in his heart there is no justice, and that covenant-breaking is rational when it pays. ✅ **Hume's sensible knave** (*Enquiry Concerning the Principles of Morals*, IX.ii): the person who observes the rules generally but makes exceptions when they profit and go undetected — Hume admits he finds the knave hard to answer, and falls back on the "inward peace of mind" and integrity that the knave forfeits. ✅ **F. H. Bradley** (*Ethical Studies*, Essay II, "Why Should I Be Moral?"): the question may be **self-defeating**, because to ask for a *non-moral* reason to be moral is to ask morality to justify itself before a tribunal it does not recognise; ✅ **H. A. Prichard**, "Does Moral Philosophy Rest on a Mistake?" (1912), makes the parallel point that demanding a self-interested justification of obligation misconstrues obligation.
 - **The secular answers, and where each stops.** ⚠️
-  - **Kantian:** the question is confused — a categorical imperative is by definition not conditional on desire, and the rational agent legislating universally is not asking "what's in it for me?" *Limit:* it explains why the moral law binds, not why *this* agent will act on it when inclination pulls hard.
+  - **Kantian:** the question is confused — a categorical imperative is not conditional on desire, and the rational agent legislating universally is not asking "what's in it for me?" **Respect for the law** is a moral incentive on Kant's account; it does not ensure every agent obeys when inclination pulls hard.
   - **Contractarian (Hobbes, Gauthier):** morality is the rational output of mutually advantageous constraint; Gauthier's **constrained maximisation** argues that being disposed to keep agreements is itself the utility-maximising *disposition*. *Limit:* the disposition-argument works where dispositions are detectable; the perfect knave with a perfect mask remains unanswered.
   - **Eudaimonist/virtue-ethical (Aristotle):** being moral is partly **constitutive** of flourishing, so the question "why be moral?" mistakes a component of the good life for a cost. *Limit:* it presupposes a thick account of human nature that the sceptic can decline.
   - **Sentimentalist/evolutionary:** sympathy, reciprocity and reputation explain both the origin and the motive. *Limit:* explaining a motive is not justifying a norm — and reciprocity has an explicit exception clause for the undetected case.
-- **The religious answers — and what they actually add.** ⚠️ (1) **Divine sanction**: the undetected case does not exist, because God sees. *Limit:* prudential motivation is **heteronomous** and, by Kant's lights, morally worthless — a serious cost. (2) **Divine love/relationship:** mature theism motivates by love of the good and of God, not fear — this escapes the heteronomy objection. (3) ✅ **Karma:** the strongest Indian answer to the "all the time" clause. Karma is **exhaustive and impersonal**: there is no unobserved act, no bribable judge, no escape by concealment, and no gap between the moral order and the causal order. The Ring of Gyges has no purchase where invisibility to *persons* is irrelevant. (4) ✅ **Niṣkāma-karma** (*Gītā* 2.47, 3.19): the deepest Indian move is to **dissolve the question** — one acts because the act is *svadharma*, having renounced the fruit, so "what do I get?" has already been removed from the deliberation. ⚠️ (5) **Dharma/ṛta as cosmic order:** morality is not a constraint imposed on nature but the *grain* of it, so immorality is a form of disorder, not merely a rule-violation.
-- **Assessment.** ⚠️ The distinction that must be drawn is between **justification** and **motivation**. Secular ethics can *justify* moral norms (Kant, contractarianism, virtue ethics all supply grounds). Where the printed claim has force is on **motivation in the hard case**: the undetected, costly, unreciprocated act. Religion's distinctive contribution there is **scope** — a moral order coextensive with reality, from which nothing is exempt — and that is a motivational, not a logical, advantage. ⚠️ The counter-cost is equally real: a motivation grounded in sanction is morally inferior to one grounded in the good itself, so the religious advantage is purchased at the price the Euthyphro and heteronomy objections identify.
-- **Verdict formula.** ⚠️ "The claim is **half true**. Secular ethics resolves the *justificatory* question as well as any theory can; it is weaker on the *motivational* question in the undetected, costly case. Religion's answer there — karma's exhaustiveness, or love of the good — has genuine reach, but if it operates through sanction it wins the motivation and loses the moral worth."
+- **The religious answers — and what they actually add.** ⚠️ (1) **Divine sanction:** on theistic assumptions, an act unnoticed by other people remains answerable to God; fear alone is heteronomous on Kant's account, and belief does not guarantee compliance. (2) **Divine love/relationship:** love of the good can motivate without fear; the question remains whether such love is a self-chosen moral commitment or obedience to authority. (3) **Karma:** in traditions holding an inescapable moral causal order, concealment from people does not escape consequences. This is a contested metaphysical premise, not an observed guarantee; karma must not be used to blame victims. (4) **Niṣkāma-karma** (*Gītā* 2.47, 3.19): renouncing the fruit reframes the question of personal payoff without removing the challenge of how one cultivates non-attachment. (5) **Dharma/ṛta:** the thesis of a cosmic order situates conduct in a wider account of reality; distinct schools contest its content.
+- **Assessment.** ⚠️ Distinguish **justification** (why a norm binds), **felt motivation** (why someone wants to comply) and **compliance** (what they do). Both religious and secular theories offer reasons and incentives; neither guarantees that every person will act morally in an undetected, costly case. Karma and judgement add claimed accountability, while respect, compassion and character can motivate without supernatural sanctions.
+- **Verdict formula.** ⚠️ "The 'all the time' qualifier exposes a real challenge to any ethic: why obey when it costs and no one sees? Religious accountability and secular respect or cultivated virtue give rival answers. Each must justify its grounds and explain its motivational limits; neither enjoys a demonstrated universal solution."
 
 ### 9.11 Divine command refined, and the non-theistic grounding of ethics
 - **Modified divine command theory.** ✅ **Robert Merrihew Adams** (*Finite and Infinite Goods*, 1999) reformulates DCT so that **moral obligation** consists in the commands of a **loving God**, while **goodness** is grounded in resemblance to God's own nature rather than in commands. The Euthyphro's first horn is thereby blocked: God cannot command cruelty, because commands issue from an essentially loving nature. ✅ **William Alston's** "standard" reply runs parallel: God is the **supreme standard** of goodness, not a conformer to an external one — as the standard metre bar was the standard of length without there being a further length it had to match, so there is no vicious regress and no arbitrariness.
@@ -379,7 +397,30 @@ Concl : the critique of morality outlives the programme that was to replace it.
   2. **Jain.** ***Ahiṃsā*** as the supreme vow, extended to all *jīva*s in proportion to their sense-capacity; the *aṇuvrata*/*mahāvrata* structure grades obligation by vocation; and ***anekāntavāda*** functions as an **ethic of intellectual non-violence** — refusing to do epistemic harm by absolutising one's own standpoint.
   3. **Mīmāṃsā.** Duty from **injunction** alone (*codanā*), with no God and no consequentialist reduction — a pure deontology of the *śāstra*, and a genuine counter-example to the claim that duty needs a commander who is a person.
   4. **Secular Western.** Kantian autonomy, utilitarian welfare, contractarian agreement, and virtue-eudaimonism — all grounding obligation without theistic premises, each with its own well-known difficulty (formalism, demandingness, circularity, thick-nature dependence).
-- **The comparative verdict.** ⚠️ The existence of **four independently developed non-theistic groundings**, two of them Indian and ancient, refutes the strong dependence thesis empirically as well as conceptually. What theistic ethics distinctively supplies is not the *content* of morality but a claimed unification of **obligation, motivation and cosmic significance** in a single source — and the price of that unification is the Euthyphro dilemma.
+- **The comparative verdict.** ⚠️ Non-theistic accounts show that moral reasons and practice can be intelligible without invoking a personal creator; this does not, by itself, refute a theist's separate claim about morality's ultimate metaphysical ground. Theistic ethics may claim to unify obligation, motivation and cosmic significance; Euthyphro and the question of interpreting commands remain live costs.
+
+### 9.11A Why a norm can *feel* obligatory without referring to God (2025 Q8(b))
+
+| Question | Theistic route | God-independent route | What follows |
+|---|---|---|---|
+| **What makes it right?** | Divine nature or command | Rational consistency, welfare, virtue, non-injury | A grounding claim needs an argument; felt urgency cannot prove it |
+| **Why do I feel bound?** | Love, answerability, religious upbringing, judgement | Kantian respect for law, cultivated compassion, conscience, identification with others | A psychological claim is not identical to grounding |
+| **Why do I obey?** | Commitment, hope, fear or communal support | Character, conviction, sympathy or solidarity | Either believer or nonbeliever may fail to comply |
+
+- **Necessity test.** ⚠️ One case of a sincerely felt moral duty without a God-reference defeats the assertion that such reference is **necessary to produce the feeling**. A Kantian who regards humanity as an end, a Buddhist who cultivates compassion, and a Jain bound by a non-creator vow supply different candidate mechanisms. They do not by themselves decide the metaphysical truth of the norms.
+- **Sufficiency test.** ⚠️ Someone can believe that God commands a norm yet feel no urge to follow it or interpret it differently. A God-reference is therefore not **sufficient** for a felt duty either; formation and internalisation matter.
+- **Strongest theistic reply.** ⚠️ An agent's God-independent *feeling* need not show that the *objective ground* of obligation is God-independent: a theist might hold that conscience responds to a divinely ordered moral reality without explicitly naming God. That is a metaphysical proposal needing defence, not a rebuttal to the printed psychological counterexample.
+- **Objection → reply.** ⚠️ Fear of punishment can produce a strong feeling of constraint without moral worth. Reply: love and gratitude can generate a deeper sense of responsibility, but a critic may still ask whether action rests on respect for persons or on deference to authority. The appropriate verdict is **not necessary for felt obligation**, while recognising contingent religious reinforcement.
+
+### 9.11B Autonomy in conflict with religion as *source* of morality (2026 Q6(b))
+
+1. **Define the clash.** ✅ For Kant, autonomy means a rational will gives itself a universally valid law; heteronomy makes the determining ground an external will, a hoped-for reward or an inclination. If "religion is the source" means *commands make an act right* or *fear of God makes it worth doing*, the moral agent's judgement appears subordinate to a source outside rational self-legislation. It is **not** a conflict merely because a believer happens to agree with a religious rule.
+2. **Sharpen with Euthyphro.** ✅ If a command makes cruelty right, the account risks arbitrariness; if goodness is independently intelligible, reason must assess the purported command. Neither horn alone settles whether the metaphysical ground can be God's essentially good nature (§9.11).
+3. **Give the religious view its strongest reply.** ✅ Adams distinguishes commands of an essentially loving God (obligation) from resemblance to God's loving nature (goodness); natural law proposes that divine ordering is grasped by human practical reason (§9.3). ⚠️ These preserve room for rational discernment but leave live questions about the meaning of "loving," contested revelation and whether an agent obeys for duty or simply for authority. No unqualified declaration that every theological account is heteronomous follows.
+4. **Separate *sources*.** ⚠️ God as **metaphysical ground**, scripture as **evidence**, community as **formation**, God as **motivation**, and practical reason as the agent's **test** need not occupy one slot. A believer may autonomously endorse a religiously taught principle by reasons she can give to others. Critics can still challenge whether this is independent endorsement when a contrary command would trump those reasons.
+5. **Indian comparison with limits.** ✅ Mīmāṃsā locates *dharma* in authorless Vedic injunction, avoiding a personal commander but not the question whether scriptural authority is heteronomous. Buddhism/Jainism offer reasoned non-creator ethics; the *Gītā* holds role-duty and disciplined reflection in tension. Godless authority is **not automatically Kantian autonomy**.
+
+**15-mark spine:** ⚠️ Define autonomy/heteronomy → state what "source" might mean → explain the command/obedience conflict and both Euthyphro horns → present Adams and natural law at their strongest → test the residue ("loving," epistemic access, motive) → offer an Indian counterpoint → conclude that autonomy conflicts with **uncritical external moral legislation**, not with every possible religious grounding or religiously formed moral commitment.
 
 
 
@@ -559,7 +600,7 @@ Verdict: the inversion universalises the religious quest by making moral truthfu
 10. ⚠️ Do not treat *dār al-islām*/*dār al-ḥarb* as Qur'ānic. They are juristic-historical constructs whose contemporary application is contested within the tradition.
 11. ⚠️ Do not read the *Gītā* as a general theory of war. Kṛṣṇa's argument is *svadharma* within a narrative situation; Gandhi's allegorical reading is one influential interpretation, not the plain sense.
 12. ⚠️ In the 2018 "religiosity and immorality" stem, keep the printed word and use the **intrinsic/extrinsic/quest** apparatus. The verdict is *conditional ambivalence*, not a correlation.
-13. ⚠️ In "why be moral", separate **justification** from **motivation** — the printed claim is weak on the first and strong on the second, and saying so is the answer.
+13. ⚠️ In "why be moral", separate **justification**, **motivation** and **actual conduct** — the hard case challenges both religious and secular accounts; do not assume one guarantees action.
 14. ⚠️ Do not present modified DCT as defeating Euthyphro outright. It blocks arbitrariness but concedes that "loving/good" is a concept we grasp independently.
 15. ⚠️ Do not treat Nietzsche's genealogy as a refutation. Origin does not settle validity; his target is the *value* of the valuation, and Scheler's *Ressentiment* is the named counter-authority.
 16. ⚠️ Do not read Gandhi's "Truth is God" as atheism or secularism. It relocates the **subject** of the sentence; Absolute Truth remains God.
@@ -572,7 +613,7 @@ Verdict: the inversion universalises the religious quest by making moral truthfu
 
 **Keywords:** ✅ divine command · modified command theory (Adams) · divine motivation theory (Zagzebski) · Alston's standard reply · Euthyphro · arbitrariness · autonomy · heteronomy · categorical imperative · universal law · humanity as end · natural law · moral realism · justification vs motivation · Ring of Gyges · Hobbes' Foole · sensible knave · Bradley's "why should I be moral?" · constrained maximisation · eudaimonism · moral licensing · scrupulosity · intrinsic/extrinsic/quest religiosity · prophetic critique · teleological suspension of the ethical · *jus ad bellum*/*jus in bello*/*jus post bellum* · discrimination · proportionality · legitimate authority · *qitāl* · *jihād al-nafs* ❓ · *dharma-yuddha* · *kūṭa-yuddha* · *sāma-dāna-bheda-daṇḍa* · *compelle intrare* · Locke on the incoercibility of belief · dharma · *ṛta* · karma · *ahiṃsā* · *aṇuvrata*/*mahāvrata* · *anekāntavāda* as intellectual non-violence · *cetanā* · *brahmavihāra* · ownerless suffering (Śāntideva) · *niṣkāma-karma* · *codanā* · slave morality · *ressentiment* · ascetic ideal · bad conscience · revaluation · Übermensch · *amor fati* · eternal recurrence · nihilism.
 
-**Safe formulations:** ⚠️ "God-reference may strengthen motivation without constituting obligation." · "Religion and morality are conceptually distinguishable, historically interactive and normatively mutually critical." · "Religion's distinctive contribution to the ethics of force is restraint, not licence." · "Religiosity is an amplifier: it magnifies the moral content it is attached to." · "Secular ethics answers the justificatory question; the printed doubt bites only on motivation in the undetected case." · "Gandhi inverts the dependence: religion is tested by morality and reason, not morality by religion." · "Fallibility about relative truth is what forbids coercion — for Gandhi violence is an epistemic error before it is a moral one."
+**Safe formulations:** ⚠️ "God-reference may strengthen motivation without being necessary for a felt duty." · "Religion and morality are conceptually distinguishable, historically interactive and normatively mutually critical." · "Religious ethics must publicly defend constraints on force; sacred purpose by itself confers no licence." · "Different forms of religiosity can shape conduct in different directions." · "The undetected hard case challenges secular and religious accounts of motivation without proving either guarantees compliance." · "Gandhi inverts the dependence: religion is tested by morality and reason, not morality by religion." · "Fallibility about relative truth counts against coercion on Gandhi's view."
 
 <!-- expanded-pyq-depth:start -->
 ### CORPUS-DRIVEN DEPTH DELTA (expanded PYQ audit)
@@ -600,7 +641,7 @@ Verdict: the inversion universalises the religious quest by making moral truthfu
 | 2024 | Q5(a) | 10 marks | Can there be a religion without morality? Discuss. |
 | 2025 | Q5(c) | 10 marks | Present an account of Nietzsche’s criticism of religion and morality. |
 | 2025 | Q8(b) | 15 marks | Is it necessary for the normative principles to bear reference to God in order to produce a feeling of obligation in a moral agent? Critically discuss. |
-| **2026** | **Q6(b)** | **15 marks** | How does the issue of moral autonomy conflict with conception of religion as a source of morality? Critically discuss. → **§2 + §9.2 + §9.11** |
+| **2026** | **Q6(b)** | **15 marks** | How does the issue of moral autonomy conflict with conception of religion as a source of morality? Critically discuss. → **§9.11B** |
 | **2026** | **Q8(a)** | **20 marks** | Critically evaluate the shift in Gandhi's view from 'God is Truth' to 'Truth is God', in the context of interrelation between religion and morality. → **§9.12** |
 
 See the [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md) and the [2026 Paper II Section B PYQ Supplement](../_PYQ-PhilosophyOfReligion-2026-Supplement.md).
@@ -639,6 +680,8 @@ Euthyphro plus immoral-religion objections → replies → graded relational the
 | **Does A influence B? Explain the interactive relation** | Two deliverables — influence **and** the interaction model | Causal influence ≠ logical dependence | 2023 Q5(c) |
 | **Present an account of X's criticism of A and B** | Both objects, and their connection in X's system | Nietzsche's two halves are one argument — show the link | 2025 Q5(c) |
 | **Is it necessary for X to bear reference to Y…? Critically discuss** | A **necessity** claim tested | Distinguish grounding, epistemic access and motivation | 2025 Q8(b) |
+| **How does autonomy conflict with religion as source? Critically discuss** | Identify which meaning of "source" threatens self-legislation | Contrast external command with reason-endorsed religious duty and assess residual authority problem | 2026 Q6(b) |
+| **Critically evaluate the shift ... in the context of interrelation** | Explain Gandhi's *reason for the inversion* and its moral implications | Give the dated argument, moral test of religion, inclusive consequences and a serious objection | 2026 Q8(a) |
 
 > 🔑 **Rule:** in this clause almost every stem is a claim of **necessity, dependence or incompatibility**. Your first move is always to ask *which* relation is asserted — conceptual dependence, epistemic dependence, motivational dependence, or sociological correlation — because they have four different answers.
 
@@ -655,7 +698,7 @@ Euthyphro plus immoral-religion objections → replies → graded relational the
 **Graded-verdict templates:**
 - ⚠️ *Dependence stem:* "Morality is not **conceptually** dependent on religion — the Euthyphro shows that, and four independent non-theistic groundings confirm it. It may be **motivationally** and **historically** dependent for many agents, and those are different claims that a good answer keeps apart."
 - ⚠️ *Asymmetry stem:* "The asymmetry holds, but for a reason the slogan hides: morality is *constitutive* of what we are willing to call a religion, whereas religion is at most *supportive* of morality. Constitutive and supportive relations are not two degrees of one relation."
-- ⚠️ *Violence stem:* "No sound argument survives. Each candidate is valid in form and fails at a premise — the identification of the divine will, the vulnerability of the sacred, the efficacy of coercion, or the total evil of the adversary."
+- ⚠️ *Violence stem:* "A religious claim by itself licenses no harm: command-identification, sacred defence and coercive salvation each require separately defensible moral premises. Defence of persons remains subject to necessity, discrimination and proportionality."
 
 ## 18. FACTUAL AND QUOTATION DISCIPLINE
 
@@ -697,7 +740,7 @@ Euthyphro plus immoral-religion objections → replies → graded relational the
 - [Religious Pluralism](./Religious-Pluralism.md) — tolerance, religious freedom and the conflict-history question
 - [Problem of Evil](./Problem-of-Evil.md) — desert, victim-blaming and the ethics of theodicy
 - [Notions of God](./Notions-of-God.md) — divine goodness, simplicity and the Euthyphro's target
-- [Soul, Immortality, Rebirth and Liberation](./Soul-Immortality-Rebirth.md) — karma as the exhaustive moral order; *niṣkāma-karma*
+- [Soul, Immortality, Rebirth and Liberation](./Soul-Immortality-Rebirth.md) — traditions' karmic-accountability claims; *niṣkāma-karma*
 - [Paper I: Kant](../../paper-1/western/Kant.md) — autonomy, heteronomy, the categorical imperative
 - [Paper I: Mīmāṃsā](../../paper-1/indian/Mimamsa.md) — duty from injunction without a commander
 - [Paper I: Buddhism](../../paper-1/indian/Buddhism.md) — *cetanā*, *brahmavihāras*, Śāntideva

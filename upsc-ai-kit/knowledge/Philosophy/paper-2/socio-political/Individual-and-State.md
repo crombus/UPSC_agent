@@ -200,6 +200,8 @@ Gandhian and pluralist taxonomy.
 - **Objection:** “duties are obligation, rights are entitlement” therefore there is no necessary connection. ❓
 - **Reply:** ⚠️ The concepts are analytically distinguishable, but not socially separable. Entitlements without correlative obligations remain empty; obligations without any corresponding claims risk authoritarianism.
 
+**2025 Q4(c), test the inference in the printed statement ⚠️:** “Duty = obligation; right = entitlement” describes two positions but **does not prove** there is “no necessary connection.” Hohfeld gives the exact logical answer (§1.5): a **claim-right** held by A against B **correlates with** B's duty to A; a **liberty** correlates instead with B's no-right to demand abstention, while power and immunity correlate with liability and disability. Duties also exist independently of an individual's claim, such as a general duty of civic honesty; one must not infer that **every duty** has one specific right-holder. **Objection:** rights can be moral claims with no legally named or enforceable duty-bearer. **Reply:** legal remedy and moral correlativity are distinct: an unenforced moral **claim-right** can still specify who ought to act, while a mere aspiration without any assignable obligation needs further argument to be a claim-right. ⚠️ Verdict: reject the **blanket denial** of connection, while rejecting the blanket one-right/one-duty formula for every sense of “right”; reciprocity matters for functioning institutions but cannot be substituted for exact correlativity.
+
 ### 1.9 Rights in Indian tradition and Gandhi
 **Statement:** ⚠️ Indian traditions often frame the moral order through **dharma**, role-based obligation, reciprocity and self-restraint rather than beginning with atomistic rights-talk.
 
@@ -214,6 +216,8 @@ Gandhian and pluralist taxonomy.
 **Objection → Reply:**
 - **Objection:** if tradition emphasises duty, individual rights become weak. ❓
 - **Reply:** ⚠️ A balanced answer notes the danger of submerging the individual in community, yet also credits duty-language with restraining self-assertive egoism.
+
+**2020 Q2(c), use human rights as the criterion ⚠️:** A dharma- or Gandhi-inspired focus on obligation can secure the person **indirectly** when others fulfill duties of non-harm, care and reciprocity, so “Indian tradition is antagonistic to rights” is too sweeping. But role-based obligation has also been used to legitimate graded caste and gender hierarchy; a vulnerable person's dignity cannot depend solely on the good will of those assigned to protect her. Universal human rights (§1.7) require an **equal claim** available even when the local role-order refuses it. Modern Indian constitutional rights supply an institutional idiom for that claim; the moral justification lies in dignity/equal standing, **not** simply in a clause being enacted. ⚠️ An opponent may say universal rights import an alien individualism; reply that universal minimum protection need not demand uniform cultural language, but it must leave room for internal dissent and enforceable individual claims. Neither “India had modern human rights all along” nor “all duty-thinking is oppressive” answers the comparative question; the live test is whether the particular duty practice protects **every person**, including critics of inherited roles. The caste/gender histories themselves remain with their printed owners.
 
 ## 2. DUTIES
 
@@ -385,6 +389,8 @@ remain possible.
 - **Objection:** if citizens emphasise rights, they weaken state authority. ❓
 - **Reply:** ⚠️ rights-based citizenship disciplines authority rather than destroying it; legitimate authority is strengthened when rights are respected.
 
+**2019 Q2(a), Indian institutional illustration without invented current events ⚠️:** Article 19 protects speech and peaceful assembly subject to constitutionally authorised reasonable restrictions, so a citizen can **question** the state while still bearing legal duties concerning others' equal rights and the terms of lawful protest (§4A.7). Article 51A states Fundamental Duties, but these are not generally directly enforceable court commands: do not convert them into an unrestricted power to demand obedience. A person who asserts an enforceable right can be asked to explain her conduct under applicable law, while an official who restricts the right must give publicly reviewable reasons (§§3.1–3.4). **Objection:** “rights make citizens accountable” reverses the direction of accountability and turns rights into conditional favours. **Reply:** the obligation to respect others or lawful restrictions is **not earned by receiving a right**; it arises independently within a reciprocal constitutional order. The stronger conclusion is that rights **hold the state accountable**, and protect the civic standing in which citizens also answer for their lawful duties. No present-day incident is needed to supply an unverifiable “scenario.”
+
 ## 4. THEORIES OF THE INDIVIDUAL–STATE RELATIONSHIP
 
 ### 4.0 Organic and mechanistic views
@@ -503,6 +509,8 @@ institutions, habits and solidarities that cannot be generated by rights alone.
 **Objection → Reply:**
 - **Objection:** no actual historical contract occurred. ❓
 - **Reply:** ✅ the theory's enduring value is normative, not historical: it asks what terms of rule free and equal persons could reasonably accept.
+
+**2024 Q1(b), origin versus development ⚠️:** The distinction between political rule by **nature/divine title** and rule by **human agreement or convention** has ancient precursors; the systematically worked-out social-contract theories of modern political authority emerge when hereditary or theological entitlement must be justified to individuals. **Hobbes** makes security against conflict the ground for authorising a strong sovereign; **Locke** treats the government as a limited trust to secure prior rights, with resistance justified upon breach; **Rousseau** reconstructs association as collective self-legislation rather than surrender to another person's will. The line is a **development in the answer to legitimacy**, not one historical contract or a claim that each thinker copied the previous. The objection that nobody actually signed is answered by treating a contract as a justificatory model; the further objection that hypothetical agreement ignores excluded persons remains (§4.4). At 10 marks explain all three distinct outcomes, not just the word “consent.”
 
 ### 4.4 Does social contract theory adequately address human rights?
 **Statement:** ❓ Social contract theory helps justify rights against arbitrary rule, but does not by itself fully exhaust the moral basis of human rights.
@@ -756,6 +764,8 @@ for his critique of democracy. Do not re-teach either here.
 **Objection → Reply:**
 - **Objection:** once limits are admitted, the state may steadily erode rights. ❓
 - **Reply:** ⚠️ hence the need for accountability and judicially structured justification of restrictions.
+
+**2022 Q4(b), “necessarily” is the hinge ⚠️:** Distinguish (i) an **unconditional moral status**—persons cannot lose basic standing by state whim—from (ii) an **unlimited permission** to act regardless of others. The first can demand strong institutional protection and is not anarchic; the second creates conflicting claims (my unchecked speech/property use versus your equal security) with no joint rule of decision. A state may coordinate mutually exercisable rights through public, proportionate, reviewable limits without treating rights as permissions revocable at will. **Anarchist reply:** voluntary cooperation can settle many conflicts without a coercive state (§4.5); the critic asks how persistent disputes and excluded minorities then receive impartial remedy. **Statist objection:** any unconditional right obstructs emergencies; the rights-holder replies that rights can have principled scope/justified limits and still forbid arbitrary override. Thus unlimited **exercise** creates a risk of disorder, but unconditional **dignity or protection against arbitrary power** does not **logically entail** anarchy. Reject the inference of necessity, not the need to coordinate competing claims.
 
 ---
 

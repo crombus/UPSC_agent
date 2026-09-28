@@ -2,7 +2,7 @@
 
 > **Syllabus (verbatim):** Religious Experience : Nature and Object (Indian and Western).
 > **Evidence key:** ✅ canonical doctrine/fact · ⚠️ analytical synthesis for exam use · ❓ contested/uncertain · 📰 dated current anchor only
-> **Placement:** The clause requires phenomenology, epistemic status, object, and Indian–Western comparison. PYQ routing below covers the fully audited 2018–2025 Paper II bank.
+> **Placement:** The clause requires phenomenology, epistemic status, object, and Indian–Western comparison. PYQ routing below covers the verified 2018–2025 bank and the 2026 supplement.
 
 ## Exact printed ownership and cross-topic firewall
 
@@ -38,14 +38,14 @@ without by itself proving either veridicality or illusion.
    Otto: the NUMINOUS —             INDIAN: Brahman/ātman (Advaita — non-dual,
      mysterium tremendum et                  identity experience; anubhava)
      fascinans                      Radhakrishnan: intuitive, self-certifying
-   Stace: extrovertive / introvertive        realisation of the Spirit
-   Zaehner: nature / monistic / theistic     ("The Hindu View of Life")
+   Stace: extrovertive / introvertive        yet fallible and rationally tested
+   Zaehner: nature / monistic / theistic     (*The Hindu View of Life*, Lecture I)
    Alston: perceptual model (M-perception)
         │
    is it VERIDICAL (of a real object) or merely psychological?
-   generic OBJECT-category: the SACRED / HOLY (Durkheim, Otto, Eliade) — §9.6
+   generic OBJECT-category: the SACRED / HOLY (Durkheim, Otto, Eliade) — §9.10
 ```
-> 🔑 **Mnemonic — James's marks are two-plus-two, not four.** ***I-N*** = **I**neffable + **N**oetic are the **defining** marks ("entitle any state to be called mystical"); ***T-P*** = **T**ransient + **P**assive are the **usual** accompaniments, "less sharply marked". Writing all four as equal is the standard error. Otto's object = the **numinous** (tremendum + fascinans). Indian object = **Brahman** (non-dual).
+> 🔑 **Mnemonic — James's marks are two-plus-two, not four.** ***I-N*** = **I**neffable + **N**oetic are the **defining** marks ("entitle any state to be called mystical"); ***T-P*** = **T**ransient + **P**assive are the **usual** accompaniments, "less sharply marked". Writing all four as equal is the standard error. Otto's object = the **numinous** (tremendum + fascinans). Advaita's claimed ultimate = **Brahman** (non-dual); other Indian traditions name different objects.
 
 ## 0A. FOUR ANALYTICAL LAYERS AND EXPERIENCE VARIETIES ⚠️
 
@@ -89,10 +89,10 @@ tradition-conformable without its claimed object being publicly established.
 ## 2. NATURE — Indian accounts ✅
 - **Anubhava (direct realisation):** in Indian thought the highest religious experience is **immediate, intuitive realisation (anubhava/aparokṣānubhūti)**, not mere belief — the goal of the whole spiritual path. ✅
 - **Advaita (2024 PYQ) — features:** ✅
-  - **Non-dual (nirvikalpa) experience** — the collapse of subject–object duality; the realiser *is* Brahman (*"aham brahmāsmi"*).
+  - **Non-dual recognition** — the presumed separation of self and Brahman is sublated (*"aham brahmāsmi"*). *Nirvikalpa samādhi* may be discussed as a meditative state, but do **not** assert that a transient trance alone constitutes liberating *brahma-jñāna*; §9.3 distinguishes the two.
   - **Self-certifying (*svataḥ-siddha*)**, beyond objectifying speech (*avācya*; *yato vāco nivartante*), bliss (*ānanda*), beyond the categories of ordinary cognition. ⚠️ **Terminological discipline:** do **not** call this experience *anirvacanīya*. In Advaita's technical vocabulary *anirvacanīya* is the status of **māyā and the world-appearance** (*sad-asad-vilakṣaṇa*), not of Brahman or of the realisation of Brahman — see [Religious Language §9.5](./Religious-Language.md) and [Notions of God §2](./Notions-of-God.md). Spell it ***anirvacanīya*** throughout.
   - Not a *relation* to an object but **identity** — distinguishing it from theistic (dualistic) mysticism.
-- **Radhakrishnan (2025 PYQ — *The Hindu View of Life*):** religion is grounded in **direct, intuitive spiritual experience** of the Real (*anubhava*), which is **self-certifying** and universal across traditions; dogma/ritual are secondary interpretations of this core experience. Religious experience is **integral intuition** — a knowing that unites, higher than sense & reason. ✅
+- **Radhakrishnan (2025 PYQ — *The Hindu View of Life*, Lecture I):** religion is lived *darśana/anubhava*, the integrated person's response to the central reality, rather than acceptance of a fixed creed. He calls experience *svataḥsiddha*, **then immediately says it is liable to error and must undergo reason's testing**; its psychologically mediated descriptions vary. The shared Real behind those descriptions is **his argued interpretation**, not an observation demonstrated by universality. See §9.4A for the work-specific 20-mark argument. ✅
 
 ### 2.1 Indian experience-types — bounded comparative bridge
 
@@ -139,8 +139,8 @@ The strongest conclusion separates **occurrence**, **interpretation** and
 | Stace | extrovertive (unity *through* the senses) / introvertive (contentless unitary consciousness) | the One | common-core thesis |
 | Zaehner | nature / monistic / theistic mysticism | Nature, the isolated soul, or a personal God | *pan-en-henic*; typology with a ranking |
 | Alston | perception-like, with an appearing object | God as directly presented | M-perception; doxastic practice |
-| Advaita | non-dual, self-certifying bliss | Brahman (=ātman) | nirvikalpa; *aham brahmāsmi* |
-| Radhakrishnan | integral intuition (anubhava) | the Spirit/Real | self-certifying experience |
+| Advaita | stable non-dual knowledge, self-luminous consciousness | Brahman (=ātman) | *aham brahmāsmi*; a *nirvikalpa* episode is not the whole account |
+| Radhakrishnan | integrated *darśana/anubhava* | the Spirit/Real (claimed) | self-certifying **and fallible**; §9.4A |
 | Durkheim/Eliade | socially and spatially structured | the **sacred** (vs the profane) | hierophany; *axis mundi* |
 
 ---
@@ -157,14 +157,15 @@ The strongest conclusion separates **occurrence**, **interpretation** and
 ## 6. APPLIED-QUESTION DRILLS ⚠️
 1. **[James]** "Nature & variety of religious experience per William James." (2022) → §1.
 2. **[Advaita]** "Main features of religious experience in Advaita Vedānta." (2024) → §2.
-3. **[Radhakrishnan]** "Nature & object of religious experience per Radhakrishnan." (2025) → §2.
-4. **[Mystical-revelation]** "Relation between mystical experience & revelation." (2023) → §3.
+3. **[Radhakrishnan]** "Nature & object of religious experience per Radhakrishnan in the named work." (2025) → §9.4A.
+4. **[Mystical-revelation]** "Relation between mystical experience & revelation; their significance in religious life." (2023) → §9.5A.
 5. **[Veridicality]** "Is religious experience a reliable ground for belief in God?" → §3 + §9.9.
 6. **[Sacred/Holy]** "'Sacred' and 'Holy' as generic names for the object of religion — can God be the object?" (2018, 20m) → §9.10.
 7. **[Public discourse]** "How far can religious experience be made a topic of public discourse?" (2019, 15m) → §9.8.
 8. **[Prayer/worship]** "Distinguish prayer and worship and determine their place in religion." (2020, 15m) → §9.7 — two deliverables, both required.
-9. **[Vedāntic]** "Religious experience in the light of the Vedāntic tradition." (2021, 15m) → §2 + §9.3.
+9. **[Vedāntic]** "Religious experience in the light of the Vedāntic tradition." (2021, 15m) → §9.3A (do not reduce Vedānta to Advaita).
 10. **[Typology]** "Is mystical experience one thing or many?" → §9.6 — Stace vs Zaehner vs Katz.
+11. **[James's grounds]** "On what grounds are mystical states a genuine expression of religious experience?" (2026, 10m) → §9.1A, not only the four marks.
 
 ---
 
@@ -186,7 +187,7 @@ The strongest conclusion separates **occurrence**, **interpretation** and
 ### 7.1 — "Nature and variety of religious experience as presented by William James." (2022, 15m)
 ```
 Intro : James — empirical, pragmatic study of personal religion (Varieties).
-Body  : 4 marks — ineffable, noetic, transient, passive; the "MORE"; test by fruits;
+Body  : defining ineffable + noetic; usually transient + passive; the "MORE"; test by fruits;
         varieties (healthy-minded vs sick-souled; conversion; mysticism).
 Assess: strength — takes experience seriously, empirical; limit — subjectivism, veridicality unproven.
 Concl : religious experience is the living root of religion, though its object needs further warrant.
@@ -195,7 +196,8 @@ Concl : religious experience is the living root of religion, though its object n
 ### 7.2 — "Main features of religious experience according to Advaita Vedānta." (2024, 15m)
 ```
 Intro : Advaita — highest experience is aparokṣānubhūti (direct realisation of Brahman).
-Body  : non-dual (nirvikalpa), subject-object collapse, identity (aham brahmāsmi),
+Body  : stable non-dual knowledge (not necessarily a transient nirvikalpa episode),
+        subject-object duality sublated, identity (aham brahmāsmi),
         self-certifying (svataḥ-siddha), beyond objectifying speech (avācya; yato vāco nivartante),
         bliss (ānanda). [Do NOT write anirvacanīya here — that term belongs to māyā.]
 Contrast: vs theistic/dualistic mysticism (relation to a personal God) & James's "MORE".
@@ -207,7 +209,7 @@ Concl : the object is not encountered but realised as one's own Self.
 Intro : two deliverables — the distinction, then the placement. Do both.
 Distinction: prayer = ADDRESS (communication); worship = ASCRIPTION OF SUPREME WORTH (homage).
         Axes: essential act | direction | form (spontaneous vs ritual) | locus (private vs corporate)
-        | presupposition (a responsive God vs a supremely valuable reality).
+        | presupposition (petition expects a response; worship need not).
         Kinds of prayer: adoration, confession, thanksgiving, supplication (ACTS);
         contemplative/wordless prayer as the limit case where address becomes silence.
 Problems: petitionary prayer — if God is omniscient, good and immutable, petition is idle.
@@ -220,8 +222,8 @@ Indian: prārthanā, stuti, japa, dhyāna, upāsanā, pūjā/arcana, vandana, ā
         Advaita's upāsanā → efficacious at vyāvahārika, transcended at pāramārthika;
         Buddhist pūjā as commemorative/dispositional.
 Placement: prayer is religion's RELATIONAL organ; worship its EVALUATIVE and COMMUNAL organ.
-Concl : a religion can survive the loss of petition; none survives the loss of worship —
-        because nothing would then mark the ultimate as ultimate.
+Concl : a religion can survive the loss of petition; worship is widespread because
+        it enacts ultimate worth, though not every path requires a deity or a ritual act.
 ```
 
 ### 7.4 — "How far can religious experience be made a topic of public discourse?" (2019, 15m)
@@ -238,7 +240,8 @@ For   : six intersubjective criteria — (1) phenomenological description (James
 Bridge: Habermas — full expression in the informal public sphere, with a translation proviso
         before formal state decision-making.
 Crit  : these criteria test AUTHENTICITY, not TRUTH — concede this explicitly.
-Concl : publicly discussable as data, description and practice; privately probative as evidence.
+Concl : publicly discussable as data, description and practice; testimony may offer
+        outsiders defeasible reasons, though first-person access cannot be transferred.
 ```
 
 ### 7.5 — "'Sacred' and 'Holy' as generic names for the object of religion. Can one have God as the object?" (2018, 20m)
@@ -261,6 +264,47 @@ Crit  : over-breadth (flags, nations); reply — add the soteriological requirem
 Concl : 'sacred' is the genus; God is theism's paradigm species of it.
 ```
 
+### 7.6 — "Religious experience in the light of the Vedāntic tradition." (2021, 15m)
+```text
+Define: śruti and practice prepare realisation (anubhava); its exact nature is disputed.
+Compare: Advaita — self/Brahman identity; Viśiṣṭādvaita — real dependent selves and
+         personal communion; Dvaita — eternal distinction and grace-enabled devotion.
+Assess: a common soteriological purpose does not prove identical experienced objects;
+        criteria within each school do not settle the outsider's dispute.
+Route: §9.3A, with §9.3 for Advaita's self-luminosity and objection.
+```
+
+### 7.7 — "Mystical experience and revelation; significance in religious life." (2023, 15m)
+```text
+Define: mode of awareness versus claimed divine disclosure/authority.
+Relate: experience may occasion interpreted revelation; scripture can guide experience;
+        not every mystical state is revelation, nor every claimed revelation mystical.
+Signify: personally enlivening practice; community's transmitted teaching and criticism.
+Assess: James's noetic seeming versus outsider authority; Katz, conflicting revelations;
+        coherence and fruits filter claims without proving divine origin. Route §9.5A.
+```
+
+### 7.8 — "Radhakrishnan's nature and object in The Hindu View of Life." (2025, 20m)
+```text
+Anchor: Lecture I, print pp. 15–31; expound integrated darśana/anubhava and its
+        self-certifying yet fallible character before evaluating.
+Object: central spiritual reality; psychologically mediated descriptions of God;
+        personal Bhagavān / supra-personal Brahman as his proposed reconciliation.
+Test  : reason, ongoing inquiry and lived consequences; challenges from opposed
+        reports and naturalistic attribution; do not infer a common Real by definition.
+Verdict: lived religion plausibly precedes dogma, but public proof of one spiritual
+         object does not follow from inward conviction. Route §9.4A.
+```
+
+### 7.9 — "On what grounds does James call mystical states genuine?" (2026, 10m)
+```text
+Grounds: two defining and two usual marks; noetic seeming and durable fruits;
+         medical materialism cannot discredit an episode by origin alone.
+Authority: for subject; not binding on outsider; yet ordinary consciousness cannot
+           veto every alternative mode of awareness. Route §9.1A.
+Verdict: genuine expression of personal religious life, not guaranteed divine contact.
+```
+
 ---
 
 ## 9. ADVANCED DOCTRINE DOSSIERS
@@ -272,6 +316,19 @@ Concl : 'sacred' is the genus; God is theism's paradigm species of it.
 - **Distinction.** ✅ Noetic quality means experienced insight, not independently demonstrated knowledge.
 - **Canonical example.** ✅ Conversion reorganises a divided self and is assessed through enduring moral integration.
 - **Objection → reply.** ⚠️ Private certainty cannot establish a public object. James restricts coercive authority: the experience may rationally authorise the experiencer without binding outsiders.
+
+### 9.1A Why James calls mystical states a genuine expression of religion (2026 Q5(a), 10 marks)
+
+**Two questions, not one:** ✅ In *Varieties*, Lectures XVI–XVII, James calls mysticism central to his inquiry into **personal** religion. His **ineffability and noetic quality** are the two marks that *entitle a state to be called mystical*: a subject cannot exhaust it in words yet takes it to disclose insight, rather than merely to excite feeling. **Transiency and passivity** are *usual*, not defining: brief episodes often feel received rather than willed. These mark a kind of experience; they do **not** by themselves prove that its alleged divine object exists or that every mystical state is a religious one. James also considers a spectrum from ordinary heightened meaning to explicitly religious mystical reports rather than calling every unusual episode sacred.
+
+| Ground in James's inquiry | Why it matters for **genuine expression** | Necessary limit |
+|---|---|---|
+| Recurring, describable marks in first-person testimony | Identifies a recognizable experiential type rather than dismissing it as empty doctrinal language | A stable type is not yet a supernatural cause |
+| Noetic *seeming* and the sense of a larger "MORE" | Explains why subjects understand the state as disclosure of something significant for religious life, not only sensation | Felt insight does not entail knowledge of a determinate God |
+| Lasting reorientation and **fruits** | States can unify a divided self and change conduct beyond an episode; James's pragmatic assessment asks what they do in life | Good fruits also occur without the subject's favoured metaphysics |
+| Refusal of **medical materialism** | A psychological/neural origin alone cannot establish that the experience is false or worthless; everyday perception also has causes | Causal neutrality is not positive proof of revelation |
+
+**James's three conclusions about authority** (end of Lectures XVI–XVII): (1) well-developed mystical states are normally entitled to authority **for their own subject**; (2) they carry **no obligation of assent for a person who has not had the experience**; (3) their existence **undermines the claim that ordinary rational/sensory consciousness has an exclusive veto** over possible forms of consciousness. The third does **not** force outsiders to accept a specific mystic's theology. ⚠️ A constructivist critic asks whether doctrine shapes the supposedly noetic content (Katz); a defender replies that mediation need not imply fabrication, but cannot bypass conflicts between reports. **2026 verdict:** genuine as a psychologically real, potentially transformative *form of lived religion* on James's grounds; the claim that it reveals a particular metaphysical object remains defeasible. Do not convert this into the full proof-from-experience argument owned by `Proofs-for-God.md`.
 
 ### 9.2 Otto's numinous
 - **Doctrine statement.** ✅ The numinous is a non-rational awareness of the holy as *mysterium tremendum et fascinans*: mysterious, overwhelming and attracting.
@@ -289,13 +346,39 @@ Concl : 'sacred' is the genus; God is theism's paradigm species of it.
 - **Canonical example.** ✅ The tenth-man story: instruction does not create the missing person but removes ignorance of an already present fact.
 - **Objection → reply.** ⚠️ A contentless experience cannot identify Brahman. Advaita replies that Brahman is self, not inferred object; conceptual instruction prepares a non-objective recognition.
 
+### 9.3A Vedāntic religious experience is not one school (2021 Q7(c), 15 marks)
+
+✅ Shared starting point: the Upaniṣads and *Brahma-sūtra* supply **contested interpretations** of Brahman and self; *śruti* discloses what unaided sense perception does not. Hearing, reflection, contemplation, ethical discipline and/or devotion prepare a seeker, **but schools differ** on what realisation is and whether it erases relational difference. *Anubhava* here means claimed experiential fulfilment or confirmation, not an independently uniform empirical observation overriding scripture.
+
+| School and method | Nature of liberating experience | Claimed object / self-relation | Specific difficulty |
+|---|---|---|---|
+| **Śaṅkara's Advaita:** *śravaṇa–manana–nididhyāsana* and removal of *avidyā* | Stable *brahma-jñāna*, not a transient state alone; self-luminous recognition may be described with non-dual contemplative language | The self is **not other than** Brahman; Brahman is not an external object. *Aham brahmāsmi* voices identity | If a state has no differentiated content, why call it specifically knowledge of Brahman? *Śruti* and reasoning supply the identity criterion; outsiders can still question it |
+| **Rāmānuja's Viśiṣṭādvaita:** scriptural understanding, *bhakti* and divine grace | Enduring loving contemplation and personal communion; devotion remains meaningful at the goal | The self and world are real, dependent **modes** of personal Brahman; difference is not erased | The identity-reading of *mahāvākyas* is rejected, not simply experienced differently without argument |
+| **Madhva's Dvaita:** devotion with grace and scripture | A real subject's God-directed knowledge and loving service; liberation does not turn the finite self into God | Soul and Viṣṇu are **eternally distinct**; the divine is encountered rather than recognised as one's identical self | Competing Vedāntic interpretations cannot all describe the same self–God relation literally |
+
+⚠️ **2021 answer:** define immediate spiritual realisation, give the three differentiated accounts and their means, then evaluate the mediation worry. A shared **soteriological aim** does not make identity, qualified dependence and dualistic relation logically identical. A reply is that disciplined practice and tradition-sensitive tests make reports intelligible; these do not compel outsiders or adjudicate the rival metaphysics. For **2024's explicitly Advaita** question, prioritise §9.3 and §7.2 instead of replacing its unique features with this survey.
+
 ### 9.4 Radhakrishnan's integral intuition
-- **Doctrine statement.** ✅ Religion originates in direct integral apprehension of spiritual reality; creeds and institutions are secondary conceptual expressions.
+- **Doctrine statement.** ✅ Religion originates in a whole-person apprehension of spiritual reality; creeds and institutions are secondary expressions. In *The Hindu View of Life* this *svataḥsiddha* claim is **qualified** by fallibility and rational testing (§9.4A).
 - **Argument.** ✅ Discursive reason divides subject and object; religious intuition integrates cognition, feeling and will; cross-traditional spiritual transformation indicates a common experiential depth.
-- **Presupposition.** ⚠️ Intuition can disclose reality rather than merely report subjective intensity.
+- **Presupposition.** ⚠️ Intuition can disclose reality rather than merely report subjective intensity; its initial felt certainty is not infallibility.
 - **Distinction.** ✅ Radhakrishnan's "intuition" is not a hunch; it is claimed as disciplined, integral and transformative awareness.
 - **Canonical example.** ✅ Diverse doctrinal formulations can be treated as interpretations of a common realised depth.
 - **Objection → reply.** ⚠️ The account may privilege Advaitic unity and assimilate theistic difference. Reply: universality concerns experiential depth, not identical doctrinal description; the adequacy of that reply remains contested.
+
+### 9.4A *The Hindu View of Life*: nature **and** object under evaluation (2025 Q8(a), 20 marks)
+
+**Named-text anchor:** ✅ Lecture I, "Religious Experience: Its Nature and Content", print pp. **15–31** (OCR may corrupt page labels). Radhakrishnan contrasts fixed beliefs and ceremonies with **lived *darśana* and *anubhava***. Religious experience is not a momentary thrill or mere fancy but the **integrated person's response** to central reality (p. 15). Its claimed self-certification (*svataḥsiddha*) does **not** remove error: he explicitly requires *logical thought* to test spiritual perception and an intellectual account before personal certitude can count as logical certainty (pp. 15–17). Past Vedic testimony records seers' experience and may guide new seekers, but must be subjected to fresh inquiry and lived testing (pp. 17–19). Do not present him as simply rejecting reason or scripture.
+
+**Nature → object, in the work's own order:**
+
+1. **An integrated apprehension, not bare sensation.** Intellectual, affective and volitional aspects of the person respond together; reason subsequently articulates, critiques and returns to a lived spiritual practice. ⚠️ "Integral intuition" is an analytical label for this structure, not a substitute for tracing his argument in Lecture I.
+2. **What is experienced?** Radhakrishnan asks this question explicitly (p. 23). The **central spiritual reality / supreme spirit** is what he believes is intended in the differing reports. It is not one finite thing seen by the senses: the description of God as personal is an intelligible *human representation* of reality in relation to us, not an exhaustive statement of reality as it is in itself (pp. 24–31).
+3. **Mediation rather than simple identity of reports.** Mystics give conflicting descriptions; background, temperament and historical situation shape how reality is presented. He argues that **mediation does not entail invention**, comparing mediated religious apprehension to interpreted perception. The same ultimate reality may be described personally or supra-personally; that is **his proposed inference**, not a datum common to every tradition (pp. 24–31).
+4. **Personal Bhagavān and absolute Brahman.** The work recognises personal devotion as genuinely valuable; it also claims that reality transcends any single finite person-concept. In his synthesis, Brahman describes reality considered in itself, Bhagavān in relation to devotees (pp. 29–31). ⚠️ Do not silently credit this synthesis to Rāmānuja or claim that Buddhist non-self literally affirms Brahman.
+5. **Testing its claim to knowledge.** The work's **trust tempered by criticism** and interplay of tradition, logic and life make an episode significant for religion: spiritual formation, ongoing interpretation and assessable conduct connect private certainty to an accountable life. Repeated trained practice is proposed as a test; lack of neutral access and competing outcomes remain objections, not settled experiments.
+
+**Evaluation with replies and residual costs:** ⚠️ (a) Self-certification may describe *conviction*, not warrant for one external object; his own appeal to fallibility and rational criticism prevents a quick appeal to infallibility. (b) If personal union and non-dual identity, or Buddhist non-self and Vedāntic Self, have incompatible content, a common Real may require substantial **reinterpretation** of the participants' claims; shared ethical transformation does not establish metaphysical identity. A charitable reply invokes analogical or partial descriptions, **but the unity claim remains disputable**. (c) The same mediation used to defuse diversity risks leaving no independent test that selects the Real over a naturalistic explanation; this objection does not make the lived experience unreal. **20-mark verdict:** powerful account of experience as integrated and correctable rather than dogma alone; compelling evidence for lived spiritual significance **does not by itself prove** a single supra-personal object. Keep the book's analysis distinct from a blanket claim that every Hindu school agrees with it. Detailed rival pluralist theories belong to `Religious-Pluralism.md`.
 
 ### 9.5 Veridicality, testimony and plural experience
 - **Doctrine statement.** ⚠️ Religious experience supplies prima facie but defeasible warrant when phenomenology, subject reliability, coherence and fruits survive defeaters.
@@ -304,6 +387,18 @@ Concl : 'sacred' is the genus; God is theism's paradigm species of it.
 - **Distinction.** ✅ Explaining neural correlation does not by itself explain away the putative object; causal explanation and epistemic defeat are separate.
 - **Canonical example.** ✅ Conflicting reports of personal God, non-dual Brahman and emptiness generate a cross-tradition defeater problem.
 - **Objection → reply.** ⚠️ Diversity suggests construction rather than common reality. Hick proposes culturally mediated responses to the Real; critics argue the unknowable Real cannot ground determinate claims.
+
+### 9.5A Mystical experience **and** revelation in religious life (2023 Q8(c), 15 marks)
+
+**Define the relata:** mystical experience is a putative immediate awareness, unity or encounter with the ultimate; revelation is the **claim that divine reality or truth has been disclosed**. One concerns a way of undergoing something, the other its attributed source/content and authority. They can overlap **without** being coextensive: a Christian may take an encountered presence as revelation, a Buddhist meditator may report liberating insight without a revealer, and a revelation claimed through prophetic speech or a text need not be a mystical union.
+
+| Direction of relation | Mechanism and example | Limit |
+|---|---|---|
+| **Experience → interpretation as revelation** | James's noetic seeming motivates disclosure-language; a Hick-style account takes a divine presence or event as disclosed and **then interpreted** in propositions | Phenomenological force cannot by itself establish who disclosed what; rival mystics disagree |
+| **Alleged revelation → disciplined experience** | Upaniṣadic *śruti* instructs Advaitic self-inquiry; theistic scripture and practice shape prayer and communion | A tradition may shape the experience itself (Katz); invoking the scripture to certify its own authority is circular |
+| **Reception and communal transmission** | A mystic's testimony may renew prayer, conversion or devotion; a community interprets and tests moral fruits before treating it as normatively revelatory | James grants no automatic obligation to outsiders; sincerity and transformation do not guarantee divine origin |
+
+**Why the relation matters:** ⚠️ Mystical experience can vivify otherwise merely inherited teaching, transform the divided self and enrich prayer or devotion. Alleged revelation can give content, continuity and norms for interpreting the experience; independent ethical and rational checks resist self-authorising or harmful claims. **Objection → bounded reply:** conceptual conditioning and contradictory revelations raise a serious challenge, not automatic proof of fabrication; a disciplined comparison of testimony, coherence and fruits permits discussion but may leave the ultimate source unresolved. **2023 verdict:** neither make all mysticism infallible revelation nor make every revealed proposition depend on a prior mystical state. Present *both* the relation and their separate significance in religious life; authentication in full belongs to `Reason-Revelation-Faith.md`.
 
 ### 9.6 Typologies of mysticism: Stace and Zaehner
 - **Why typology matters.** ⚠️ "Is religious experience one thing described differently, or several different things?" is the question on which pluralism, veridicality and the common-core debate all turn. Two classifications dominate, and they give **opposite** answers.
@@ -330,8 +425,8 @@ Concl : 'sacred' is the genus; God is theism's paradigm species of it.
 | Direction | Person-to-person (I–Thou) | Creature-before-the-holy |
 | Form | Verbal or silent; may be spontaneous | Ritual, embodied, rule-governed |
 | Locus | Often private | Characteristically corporate |
-| Presupposes | A God who can hear and respond | A reality of supreme value; **response is not required** |
-| Non-theistic availability | ⚠️ Strained | ✅ Available (see below) |
+| Presupposes | An addressee or the imagined presence of one; **petition** expects a possible response | A reality of supreme value; **response is not required** |
+| Non-theistic availability | ⚠️ Petition is strained, though praise/aspiration can take prayer-form | ✅ Available (see below) |
 
 - ✅ **The classical Western scheme of prayer** is often summarised as **A-C-T-S**: **A**doration, **C**onfession, **T**hanksgiving, **S**upplication — a convenient enumeration for the "kinds of prayer" part of the stem.
 - **The philosophical problem of petitionary prayer.** ✅ (1) If God is omniscient, he already knows the need. (2) If God is perfectly good, he will already do whatever is best. (3) If God is immutable, prayer cannot change him. (4) Therefore petition is either pointless or an attempt to manipulate perfection.
@@ -341,12 +436,12 @@ Concl : 'sacred' is the genus; God is theism's paradigm species of it.
 - **The philosophical problem of worship.** ✅ **James Rachels**, "God and Human Autonomy" (1971), argues that (1) worship entails unqualified, unconditional obedience; (2) moral agency requires that one never abdicate final judgement to another's will; (3) so no being could be *worthy of worship*, and therefore God (defined as a fitting object of worship) does not exist.
   - **Replies:** worship is the recognition of **worth**, not a contract of blind obedience; a perfectly good being's commands never require abdicating moral judgement, since they coincide with it; and the argument assumes an atomistic conception of autonomy that even secular ethics rejects for relationships of legitimate authority and trust.
 - **Indian material (this is where the answer gains parity).** ✅ *Prārthanā* (petition), *stuti/stotra* (praise), *japa* (repetition of a name or mantra), *dhyāna* (meditation), *upāsanā* (structured contemplative worship), *pūjā/arcana* (ritual service), *vandana* (salutation), *ātma-nivedana* (self-offering) — the last five appear in the *navadhā bhakti* list. ⚠️ **Three sharp Indian cases that decide the question:**
-  1. **Jainism:** the Tīrthaṅkara is *vītarāga* and cannot respond; *caitya-vandana* is therefore **worship without any possibility of petition being answered** — worship survives, prayer-as-request does not.
+  1. **Jainism:** the liberated Tīrthaṅkara is *vītarāga* and does not grant requests; *caitya-vandana* is therefore **worship without an answered petition** — aspirational praise or reverential address need not disappear.
   2. **Mīmāṃsā:** ritual efficacy lies in *apūrva*, generated by correct performance; the deity is a **grammatical dative** in the injunction rather than an agent who grants. Ritual worship without a responsive God.
   3. **Advaita:** *upāsanā* of a saguṇa form is genuinely efficacious at the *vyāvahārika* level and is **transcended**, not repudiated, at the *pāramārthika* level.
   - ✅ **Buddhism:** *pūjā* before an image is standardly explained as **commemorative and dispositional** — cultivating one's own mind — rather than petitionary, although devotional Pure Land traditions complicate this.
-- **Their place in religion.** ⚠️ Prayer is the **relational** organ of religion: it constitutes the personal I–Thou dimension and is the practical form of faith. Worship is the **evaluative and communal** organ: it enacts the sacred/profane boundary, forms the community, transmits tradition and disciplines desire. A religion can survive the loss of petition (Jainism, Mīmāṃsā, classical Buddhism); no religion survives the loss of worship-in-the-broad-sense, because nothing would then mark the ultimate as ultimate.
-- **Verdict formula.** ⚠️ "Prayer presupposes a **responsive** ultimate; worship presupposes only a **supremely valuable** one. That is why worship, not prayer, is the more nearly universal religious act — and why the non-theistic religions are decisive test-cases rather than curiosities."
+- **Their place in religion.** ⚠️ Prayer is often the **relational** organ of religion: it gives voice to dependence, aspiration, gratitude or petition. Worship is often its **evaluative and communal** organ: it marks what is supremely valued, forms a community, transmits tradition and disciplines desire. A religion can survive without **answered petition** (Jainism, Mīmāṃsā, classical Buddhism). Calling any ultimate orientation "worship" to make worship universally necessary is only a stipulation; some meditative paths need no ritual homage.
+- **Verdict formula.** ⚠️ "Petitionary prayer expects a **responsive** ultimate; worship may honour a **supremely valuable** one without expecting intervention. Their overlap is adoration, but their distinct functions and non-theistic cases show why they cannot simply be equated."
 
 ### 9.8 Religious experience in public discourse: the intersubjectivity problem (2019 Q7(c) owner-module)
 - **The exact question.** ✅ Not "is religious experience real?" but "**how far can it be made a topic of public discourse?**" — i.e., can a first-personal, ineffable, self-authenticating state enter a shared space of reasons at all?
@@ -359,8 +454,8 @@ Concl : 'sacred' is the genus; God is theism's paradigm species of it.
   5. **Replicability through disciplined practice.** ✅ This is the strongest Indian contribution: *yoga*, *dhyāna* and *nididhyāsana* are presented as **repeatable procedures with stated preconditions and predicted outcomes**. Vivekananda and Radhakrishnan press this as a claim that religious experience is **experimental** rather than merely private. ⚠️ Report it as their claim and note its limit: the "experiment" cannot be run by an uncommitted observer, so it is closer to the training-dependence of expert perception than to a public laboratory test.
   6. **Alston's doxastic-practice framework** (§9.9): if a practice is **socially established**, internally self-supporting and free of massive internal inconsistency, participation in it is rational even though it cannot be validated non-circularly — and that makes it a legitimate topic of *public argument about practices*, if not of public verification of episodes.
 - **The bridge to the public sphere.** ✅ **Jürgen Habermas'** post-secular position is worth one line: religious citizens may express themselves in religious language in the informal public sphere, subject to an **institutional translation proviso** — that reasons be rendered into generally accessible terms before entering formal state decision-making. This gives the "how far" of the printed question a determinate answer: **fully in the informal sphere, conditionally in the formal one.**
-- **Objection → reply.** ⚠️ **Objection:** discussing an experience publicly is not the same as *warranting* it publicly; the criteria above test authenticity, not truth. **Reply:** correct, and the honest answer says so — public discourse can establish that a report is coherent, sincere, tradition-conformable and fruitful, but not that its object exists. That is a real but limited entry into public reason.
-- **Verdict formula.** ⚠️ "Religious experience can enter public discourse as **data, description and disciplined practice**, and can be publicly assessed for coherence, authenticity, tradition-conformity and fruits. What cannot be made public is the **evidential force** the experience has for its subject. The right conclusion is therefore graded: religious experience is publicly *discussable* and privately *probative*."
+- **Objection → reply.** ⚠️ **Objection:** discussing an experience publicly is not the same as *warranting* it publicly; the criteria above test authenticity better than truth. **Reply:** agreed. Public discourse can assess whether a report is coherent, sincere, tradition-conformable and fruitful; other people can also give it **limited testimonial weight** without attaining the subject's first-person access. None of these considerations by itself establishes the object's existence.
+- **Verdict formula.** ⚠️ "Religious experience can enter public discourse as **data, description, testimony and disciplined practice**. Its first-person force is not transferable as such, but accounts and consequences can be weighed by outsiders; public discussion is neither impossible nor tantamount to public proof."
 
 ### 9.9 Alston's perceptual model of religious experience
 - **Doctrine statement.** ✅ **William Alston** (*Perceiving God: The Epistemology of Religious Experience*, 1991) argues that some religious experience is genuinely **perceptual** in structure — a direct awareness of God *appearing* to the subject — and that beliefs formed on its basis ("**M-beliefs**", from mystical perception) enjoy *prima facie* justification.
@@ -416,15 +511,15 @@ Concl : 'sacred' is the genus; God is theism's paradigm species of it.
 7. ⚠️ Do not merge **Stace** and **Zaehner**. Stace: two types + a common core. Zaehner: three types + no common core + a contested ranking. They are rival, not complementary.
 8. ⚠️ Do not equate **Otto's holy** with **Durkheim's sacred**. Otto's is a phenomenological quality of an object; Durkheim's is a social classification defined against the profane.
 9. ⚠️ Do not report Alston as claiming religious experience is *proved* reliable. He claims **practical rationality of engagement** in a doxastic practice that, like sense perception, cannot be non-circularly validated — and he concedes diversity as the strongest objection.
-10. ⚠️ Do not answer "prayer vs worship" with synonyms. Prayer = **address**, presupposing a responsive God; worship = **ascription of supreme worth**, which non-theistic traditions retain (Jain *vītarāga*, Mīmāṃsā's *apūrva*).
-11. ⚠️ Do not treat "public discourse" as "public proof". Coherence, tradition-conformity, fruits and disciplined replicability are publicly assessable; evidential force for the subject is not.
+10. ⚠️ Do not answer "prayer vs worship" with synonyms. Prayer = **address** (petition expects a responsive addressee); worship = **ascription of supreme worth**, which non-theistic traditions can retain (Jain *vītarāga*, Mīmāṃsā's ritual *apūrva*).
+11. ⚠️ Do not treat "public discourse" as "public proof". Coherence, tradition-conformity and fruits can be publicly assessed; testimony offers limited outsider reasons without transferring the subject's first-person access. Claims of replicability are method-dependent.
 12. ⚠️ Use 📰 only for a dated contemporary anchor; neuroscience without a dated source remains a general analytical point, not news.
 
 ## 13. KEYWORD & STATEMENT BANK
 
 **Keywords:** ✅ ineffable (defining) · noetic (defining) · transient (usual) · passive (usual) · medical materialism · fruits · conversion · healthy-minded/sick-souled · "More" · numinous · *mysterium tremendum et fascinans* · creature-feeling · schematisation · absolute dependence · extrovertive/introvertive · common core · perennialism · constructivism · Pure Consciousness Event · *pan-en-henic* · nature/monistic/theistic mysticism · M-perception · theory of appearing · doxastic practice · socially established practice · *prima facie*/*ultima facie* justification · principle of credulity · testimony · defeater · sacred/profane · hierophany · *axis mundi* · *tīrtha* · *pavitra* · *maṅgala* · prayer · *prārthanā* · *japa* · *stuti* · *upāsanā* · *pūjā*/*arcana* · *vītarāga* · *apūrva* · ACTS · petitionary prayer · moral autonomy argument · anubhava · *aparokṣānubhūti* · non-duality · self-luminosity · integral intuition · public reason · translation proviso · veridicality.
 
-**Safe formulations:** ⚠️ "Phenomenological certainty and public proof are different epistemic achievements." · "Religious diversity challenges inference from experience more than it challenges the occurrence of experience." · "Prayer presupposes a responsive ultimate; worship presupposes only a supremely valuable one." · "Religious experience is publicly discussable and privately probative." · "'Sacred' is the genus; God is theism's species of it."
+**Safe formulations:** ⚠️ "Phenomenological certainty and public proof are different epistemic achievements." · "Religious diversity challenges inference from experience more than it challenges the occurrence of experience." · "Petition expects an answer; non-petitionary prayer need not." · "Religious reports can be publicly discussed and weighed without publicly proving their objects." · "Sacred/holy is a comparative generic term; God is a possible theistic object, not a universal definition."
 
 <!-- expanded-pyq-depth:start -->
 ### CORPUS-DRIVEN DEPTH DELTA (expanded PYQ audit)
@@ -435,9 +530,9 @@ Concl : 'sacred' is the genus; God is theism's paradigm species of it.
 
 <!-- expanded-pyq-depth:end -->
 
-## 14. PYQ ROUTING (2018–2025)
+## 14. PYQ ROUTING (2018–2026)
 
-> ⚠️ **Corpus signal:** 8 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.
+> ⚠️ **Corpus signal:** 8 primary-owned question-parts out of 112 in 2018–2025, plus one in 2026 (9 of 126). Cross-links do not create duplicate ownership.
 
 | Year | Question | Marks | Exact demand |
 |---|---|---:|---|
@@ -449,8 +544,9 @@ Concl : 'sacred' is the genus; God is theism's paradigm species of it.
 | 2023 | Q8(c) | 15 marks | Examine the relation between mystical experience and revelation and expound their significance in the religious life. |
 | 2024 | Q8(c) | 15 marks | Discuss the main features of religious experience according to Advaita Vedānta. |
 | 2025 | Q8(a) | 20 marks | Evaluate the nature and object of Religious Experience as explained by Radhakrishnan in ‘The Hindu View of Life’. |
+| **2026** | **Q5(a)** | **10 marks** | On what grounds does William James characterize mystical states as a genuine expression of religious experience? Elaborate. → **§9.1A** |
 
-See the [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md).
+See the [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md) and [2026 supplement](../_PYQ-PhilosophyOfReligion-2026-Supplement.md).
 
 ## 15. ANSWER ARCHITECTURE (10 / 15 / 20 MARKS)
 
@@ -480,13 +576,14 @@ graded verdict separating personal justification from public proof.
 | **Do you agree that…? Discuss** | An explicit, graded position on the *printed* proposition | Grant what is true in it, then mark the limit | 2018 Q7(a) God as object of religion |
 | **How far can X…? Analyse** | A **degree**, not a yes/no | Case against → case for → the exact line you draw | 2019 Q7(c) public discourse |
 | **Distinguish A and B and determine their place** | Two deliverables — obey both | Half on the differentia, half on the function | 2020 Q7(b) prayer and worship |
-| **Explain X in the light of [tradition]** | Tradition-internal categories, not generic ones | Use *anubhava*, *aparokṣānubhūti*, *nirvikalpa* — not "mystical feeling" | 2021 Q7(c) Vedāntic |
+| **Explain X in the light of [tradition]** | Tradition-internal categories and plurality, not generic feeling | Use *anubhava* and compare Advaita's identity with Viśiṣṭādvaita/Dvaita relation; do not insist every school requires *nirvikalpa* | 2021 Q7(c) Vedāntic |
 | **Discuss the nature and variety of X as presented by [thinker]** | Both nouns: the *marks* **and** the *typology* | Marks (graded!) + varieties (healthy-minded/sick soul, conversion, mysticism) | 2022 Q7(c) James |
 | **Examine the relation between A and B and expound their significance** | A relation **plus** a significance claim | Relation first; then what religious life gains from it | 2023 Q8(c) mystical experience and revelation |
 | **Discuss the main features of X** | An enumerated feature-list with discriminators | Each feature must contrast with a rival account | 2024 Q8(c) Advaita |
 | **Evaluate the nature and object of X as explained by [thinker] in [named work]** | Fidelity to the named work, then assessment | Name the work's own theses before criticising | 2025 Q8(a) Radhakrishnan, *The Hindu View of Life* |
+| **On what grounds does X characterise mystical states as genuine? Elaborate** | Grounds **and** their epistemic limits, not a flat list | Graded marks, pragmatic fruit, three authority conclusions, distinction between genuine expression and verified object | 2026 Q5(a) James |
 
-> 🔑 **Rule:** every question in this clause has a **nature** half and an **object** half. Answer both explicitly, and say whether the object is *encountered* (relation) or *realised* (identity) — that single sentence separates a good script from an average one.
+> 🔑 **Rule:** distinguish the nature of an experience from its alleged object whenever relevant. The 2019 public-discourse and 2020 prayer/worship questions instead have their **own dual demands**; answer those directly rather than forcing every PYQ into one template.
 
 ## 17. GRADED VERDICT LADDER
 
@@ -538,6 +635,7 @@ graded verdict separating personal justification from public proof.
 - [Paper I: Yoga](../../paper-1/indian/Yoga.md) — *samādhi*, *kleśas*, the disciplined-practice claim
 - [Paper I: Vedānta](../../paper-1/indian/Vedanta.md)
 - [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md)
+- [2026 Paper II Section B PYQ Supplement](../_PYQ-PhilosophyOfReligion-2026-Supplement.md)
 
 ## SOURCES
 
@@ -549,6 +647,12 @@ graded verdict separating personal justification from public proof.
 - Eleonore Stump, "Petitionary Prayer"; James Rachels, "God and Human Autonomy".
 - Émile Durkheim, *The Elementary Forms of Religious Life*; Mircea Eliade, *The Sacred and the Profane*.
 - S. Radhakrishnan, *The Hindu View of Life* and *Indian Philosophy*, Vol. II.
+- OCR-searchable scan of Radhakrishnan, *The Hindu View of Life*, Lecture I,
+  print pp. 15–31, for §9.4A (verify OCR against page images if quoting):
+  <https://archive.org/download/in.ernet.dli.2015.170903/2015.170903.The-Hindu-View-Of-Life_djvu.txt>.
+- William James, *The Varieties of Religious Experience*, Lectures XVI–XVII,
+  for the graded marks and three authority conclusions in §9.1A:
+  <https://en.wikisource.org/wiki/The_Varieties_of_Religious_Experience/Lectures_XVI_and_XVII>.
 - John Hick, *Philosophy of Religion*; William J. Wainwright (ed.), *The Oxford Handbook of Philosophy of Religion*.
 - Local searchable *Oxford Handbook of Philosophy of Religion*, especially
   “Mysticism and Religious Experience,” print pp. 138–167

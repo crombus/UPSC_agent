@@ -313,7 +313,7 @@ gender essence.
 **Objection → Reply ⚠️:**
 
 - **Objection:** if title does not convert into control, the campaign for legal rights is misdirected effort.
-  **Reply:** ⚠️ title is a **necessary but insufficient** condition — it is the legal precondition on which access, credit and enforcement can later be built, and without it the other levels have no anchor. The residual problem is that the intervening conditions are slower, more diffuse and harder to legislate than title itself.
+  **Reply:** ⚠️ a secure enforceable claim is normally necessary to protect **independent** access against arbitrary withdrawal; individual legal title is an important but insufficient route to that claim, not the only possible form of ownership or control. Collective or joint holdings can also secure women's claims if women exercise actual, enforceable decision power within them. The residual problem is that the intervening conditions are slower, more diffuse and harder to legislate than title itself.
 - **Objection:** the analysis is economistic and neglects cultural meaning attached to land.
   **Reply:** ⚠️ the exit/security level directly incorporates the non-economic function of land as protection and standing, which is the point at which the economic and the recognitive dimensions meet.
 
@@ -343,6 +343,8 @@ gender essence.
 
 **Property-is-capitalist objection:** liberation should not depend on private ownership.
 **Reply:** ⚠️ even under social ownership, women require enforceable control, housing security, livelihood access and equal voice; the form may vary, the anti-dependence principle remains.
+
+**2026 Q2(b), run both conditions separately ⚠️:** If “land and property rights” means a secure **non-discriminatory claim to hold and control assets**, then in a society where livelihood, inheritance and exit depend on assets, denial of that claim obstructs substantive gender equality: it is a necessary institutional component **in this context**. If it means an **individual title deed** specifically, it is not logically necessary in every conceivable system: independently enforceable joint or collective control may serve the same anti-dependence function. Neither version is **sufficient**. Title can fail at the steps of access, control, return and exit (§3.3), and even effective asset control leaves unequal care, bodily coercion, exclusion from office and cultural devaluation (§§1.4B, 4.8A). **Objection:** property alone ought to transform bargaining and recognition. **Reply:** those are important gains (§3.2), not a proof that every sphere of social equality follows. **Verdict:** secure equal asset rights are normally **necessary but not sufficient** for material independence under present property institutions; do not falsely present individual private title as a universal logical prerequisite or legal enactment as evidence of achieved equality.
 
 ---
 
@@ -440,11 +442,17 @@ functionings actually realised
 - agency without structural equality can become exceptional individual success;
 - empowerment links rights to actual control and collective transformation.
 
+**2024 Q4(a), distinguish a precondition from the completed goal ⚠️:** Equal civic and bodily standing is a **normative and institutional prerequisite** for empowerment: without protection against discriminatory exclusion, resources and choices can be taken away at will. But *fully realised* gender equality cannot be required **before** anyone becomes empowered; that would make change impossible, since greater agency helps dismantle unequal norms in turn. Formal rights → resources and safe alternatives → agency over strategic choices → achievements and collective reform (§4.3) is a reciprocal process, not a one-way chronology. **Objection:** targeted support might enable individual agency even amid unequal law. **Reply:** possible exceptional gains are not a stable equality of power; legal and institutional protection remain necessary for general, durable empowerment. Do not answer the paper's first 10 marks with an unqualified “equality has already been achieved.”
+
+**2018 Q4(c), feminism: equality *or* empowerment? ⚠️** Equality supplies the standard: persons should not bear inferior status, rights or life chances by gender (§1.5). Empowerment supplies both the process and part of the end: people acquire resources and the agency to contest and remake unequal rules (§4.3). **Objection:** formal liberal equality can leave household authority, care burdens and property control untouched; **reply:** substantive and relational equality require effective power, not just a formally identical rule. **Reverse objection:** empowerment measured as exceptional individual success may leave the gender hierarchy intact; **reply:** collective and institutional transformation must change who sets the terms of choice. Verdict: feminism is an ideology of **equality through empowerment and empowerment for equal standing**; neither term alone captures its legal, structural and agency-based aims.
+
 ### 4.6 Can empowerment eliminate gender discrimination?
 
 ⚠️ Empowerment can weaken dependence, challenge stereotypes and increase accountability, but discrimination is reproduced institutionally. Individual achievement alone cannot eliminate unequal care burdens, violence or cultural valuation.
 
 **Verdict:** empowerment is necessary and transformative, but must be joined to institutional reform and men's participation in changing gendered power.
+
+**2020 Q4(a), test “eliminate” rather than “reduce” ⚠️:** An independently resourced person can refuse some unequal bargains, and collective organisation can challenge public rules (§§4.2–4.3). But a woman who gains income may still lack control over it or carry all unpaid care; exceptional success leaves group stereotypes and institutional exclusion intact (§§1.4B, 4.8A). **Objection:** if enough women become agents of change, discriminatory norms eventually disappear. **Reply:** agency is indispensable, yet the prediction is not automatic: opportunities, care responsibilities, legal remedies and men's institutional power must change as well. **Qualified verdict:** empowerment is a driver and part of gender equality, not a stand-alone sufficient cause of the disappearance of discrimination.
 
 ### 4.7 Empowerment and female foeticide
 
@@ -503,6 +511,8 @@ without voice can become paternalistic provision.
 ⚠️ **The "dual systems" formulation** is the analytical heart of socialist feminism: capitalism explains *class* relations, patriarchy explains *gender* relations, and the two are historically entangled without either being reducible to the other. ✅ The strongest evidence advanced for autonomy is that male dominance is observable across societies with radically different modes of production, and persisted where private property in the means of production was abolished.
 
 ✅ **Radical feminism's distinct position:** patriarchy is neither derivative nor merely interacting but **primary** — the original and most fundamental form of domination, operating through control of sexuality, reproduction and the body, and through violence. ⚠️ Its standard weakness is the universalisation of a particular experience, which is precisely what intersectional analysis (§5.6, §1.4) corrects.
+
+**2019 Q1(e), can socialism secure equality? ⚠️** Socialising productive property can reduce some forms of economic dependence and widen access to work, care provision and resources, which supplies a real equality argument. The inference to *gender* equality fails if men retain authority over household labour, bodily decisions, political leadership or the interpretation of communal property. Marxist feminism traces subordination to class/property; socialist feminism treats patriarchy and social reproduction as partly independent mechanisms (table above). **Objection:** socialism removes the economic base of patriarchy, so separate feminist reform is unnecessary. **Reply:** even with collective ownership, equality needs enforceable individual claims, a fair division of care and voice inside workplaces, families and public bodies. Thus gender equality **can** be realised within a socialist regime, but socialism as an ownership label neither entails nor measures it.
 
 ### 5.3A Pateman and Okin: the contract and the family
 

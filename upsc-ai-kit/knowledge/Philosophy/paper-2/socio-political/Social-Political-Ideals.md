@@ -321,6 +321,8 @@ Equality is strongest when treated as **equal status, fair opportunity, and prot
 
 **UPSC hook:** This section directly answers **2019: 4(b)**, **2022: 1(d)**, **2024: 2(b)**, and helps with **2018: 2(a)**.
 
+**2022 Q1(d), test the whole quoted claim ⚠️:** Unlimited contractual or property liberty can let the powerful dominate others and thus undermine their equal freedom. An order enforcing equal basic liberties necessarily limits some *particular options* (for example, the option to threaten another); it need not cause a net loss of liberty **as a secure status**. On a negative-interference measure, some restrictions subtract from an agent's unregulated range, but may enlarge everyone else's protected range; on the republican measure (§2.8), publicly contestable, non-arbitrary rules can constitute freedom by removing private domination. The objection is that “order” can itself cloak surveillance and paternalism; answer by requiring equal standing, proportional restraints, due process and effective contestability rather than assuming that any restrictive law liberates. Thus accept the inequality risk of unbounded liberty, but reject the quoted **necessary** loss of freedom without specifying whose freedom and which measure.
+
 ### 2.7 Liberty in modern technological society
 
 **Statement ⚠️:** Liberty is realisable in technological society, but only under vigilance against surveillance, manipulation, and concentration of informational power.
@@ -332,6 +334,8 @@ Equality is strongest when treated as **equal status, fair opportunity, and prot
 - **Objection → Reply ⚠️:**
   - **Objection:** modern complexity requires pervasive management.
   - **Reply:** even where coordination is needed, liberty demands transparency, accountability, and zones of non-domination.
+
+**2020 Q1(a), executable “is it realizable?” answer ⚠️:** Digital communication and accessible information enlarge expression, association and practical choice; the same infrastructure can enable state surveillance, corporate profiling, opaque algorithmic steering and exclusion of those without access. Under **negative liberty** (§2.2), legal or technical restrictions can obstruct action, but subtle manipulation may leave every formal option open; **positive liberty** (§2.5) asks whether people have the skills and resources to choose effectively; **non-domination** (§2.8) detects unaccountable power over platforms, data or employment even when no particular prohibition is issued. Privacy safeguards, accessible digital literacy, contestable automated decisions and limits on arbitrary public/private power make freedom **possible**, not automatic. ⚠️ Do not infer from a person's merely using a platform that her choices are autonomous, or from all technological coordination that freedom is impossible.
 
 **UPSC hook:** Useful for **2020: 1(a) 10m**.
 
@@ -374,6 +378,18 @@ Equality is strongest when treated as **equal status, fair opportunity, and prot
 **Indian application (legal-status caution) ⚠️:** the vocabulary is an analytical lens, not an empirical verdict about any Indian government, party or period. ✅ The Bonded Labour System (Abolition) Act, **1976** legally attacks a relation of personal dependence; ✅ the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, **2013** replaces unchecked workplace discretion with rule-governed duties and complaint machinery; and ✅ Gazette notification **S.O. 5322(E), 21 November 2025** brought the relevant provisions of the Code on Wages, **2019**, including its repeal-and-savings framework, into force. ⚠️ Enactment or commencement is not implementation, and none of these establishes that domination has ended; use them only as dated illustrations of the *form* of a non-domination remedy.
 
 **UPSC hook:** the strongest depth marker available on any liberty question; also usable as a supplement in **2018: 2(a) 20m** (liberty and equality as democratic features).
+
+### 2.9 Are liberty and equality distinctive of democracy? (2018 Q2(a))
+
+**Scope:** This owner tests the **ideals** and answers “how far”; detailed institutional forms and the separate “pure democracy” Marxist critique belong to [Forms of Government](Forms-of-Government.md) and [Political Ideologies](Political-Ideologies.md).
+
+| Democratic claim | Why it is a distinguishing aspiration | Why it is not sufficient alone |
+|---|---|---|
+| **Political equality** | Equal citizen standing, vote, eligibility and a voice in public justification rule out rule by hereditary rank | Universal franchise alone coexists with wealth-driven influence, caste exclusion and inaccessible public forums |
+| **Basic liberty** | Speech, association, conscience and opposition allow dissent, accountability and revision of decisions | Private or economic liberties can also exist under non-democratic governments; unbounded majority power can silence minorities |
+| **Both together** | Equal political standing makes liberty everyone's right, not a privilege; liberties give equal votes informed and contestable meaning | Competitive elections can still fail under domination, exclusion or absence of fair public procedures |
+
+**Argument ⚠️:** (1) Calling citizens formally equal without protected dissent makes them interchangeable subjects, not self-governing agents; (2) granting speech and property to some without equal civic status can yield oligarchy rather than democracy; (3) equal basic liberties, social standing and effective opportunity therefore make democracy meaningful **when supported by accountable institutions**. **Objection:** democracy is essentially a voting procedure, so equality/liberty are additional liberal ideals, not distinctive of democracy. **Reply:** thin electoral democracy can be defined procedurally, but equal membership and freedom to challenge rulers are necessary for its substantive justification; neither ideal is exclusive to democracies nor sufficient to identify one by itself. **Verdict:** distinctive **joint normative commitments**, not empirically guaranteed or the sole defining institutional criteria. Ambedkar's social-democracy warning (§3.8) makes the Indian limit to formal equal voting explicit.
 
 ## 3. JUSTICE
 
@@ -800,6 +816,8 @@ See §2.4. The debate turns on whether order, rights, or collective autonomy is 
 | Link to UPSC | 2019 asks if Rawls continues Plato | Helps compare proportionality | Shows modern contractarian transformation |
 
 **Analytical verdict ⚠️:** Rawls continues Plato only in a very broad sense that justice structures a well-ordered society; he departs radically in method, egalitarian citizenship, and rejection of fixed functional hierarchy.
+
+**2019 Q1(a), “how far” in answer form ⚠️:** Plato's functional harmony makes justice the organising excellence of soul and city (§3.2); Rawls too treats justice as a **first virtue of the basic structure** and asks how a stable, well-ordered society holds together (§3.5). But Plato identifies each part's proper work within differentiated classes and reason's rule, whereas Rawls derives publicly defensible **equal basic liberties, fair opportunity and justified inequalities** from a hypothetical agreement among **free and equal** persons behind a veil (§§3.5.1–3.5.3). A Plato-like social ordering thus supplies at most a **problem** Rawls readdresses, not Rawls's contract method or egalitarian answer. **Objection:** the parallel is too broad—virtually every justice theorist addresses social order. **Reply:** it is still informative if restricted to justice's architectonic role, and the sharp discontinuity on equal citizenship and freedom is named. Do not attribute Rawls's two principles or modern individual rights to Plato; likewise do not call Rawls indifferent to social unity.
 
 ### 4.7 Procedural and substantive justice
 

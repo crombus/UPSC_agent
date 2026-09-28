@@ -101,6 +101,22 @@ classical personal creator. Advaita ultimately denies creator–creature duality
 retains it; qualified non-dualism makes selves/world real dependent qualifications of personal
 Brahman.
 
+### 2.1 Personal and impersonal God in the context of devotion (2026 Q7(b))
+
+**Define the contrast before evaluating it.** ✅ A *personal* God is a knowing and willing subject capable of reciprocal relation, grace and address; "personal" need not mean a human body. An *impersonal* ultimate is not a separate "Thou" who chooses to respond to petition. **Nirguṇa** (without limiting attributes) does not simply mean "no worship". Ask whether the *ultimate as ultimate*, rather than a religiously accessible manifestation, is the addressee of devotion.
+
+| Position | Status of the addressee | What devotion does | Philosophical pressure |
+|---|---|---|---|
+| **Advaita (Śaṃkara)** | *Nirguṇa Brahman* is ultimate; *saguṇa Īśvara* is valid in empirical religious life (*vyavahāra*), not a second independent absolute | Worship and *upāsanā* purify and concentrate the mind for liberating *jñāna*; they are **not** simply dismissed as useless | If ultimate realization dissolves subject–object duality, interpersonal devotion is not the final relation to the ultimate. Distinguish empirical religious validity from ultimate metaphysical status |
+| **Viśiṣṭādvaita (Rāmānuja)** | Brahman/Nārāyaṇa is ultimately personal, with auspicious qualities; selves and world are real dependent modes of God | Loving *bhakti* or surrender (*prapatti*) retains a real divine addressee; grace makes the relation significant | Divine transcendence and personhood must coexist without reducing God to a finite human agent |
+| **Dvaita (Madhva)** | God/Viṣṇu and finite selves remain ultimately distinct | Knowledge-grounded devotion (*bhakti*) and grace (*prasāda*) retain an enduring worshipper–worshipped relation | Distinction protects address but invites questions about hierarchy and dependence |
+| **Spinoza — bounded contrast** | God/Nature is infinite substance, not a deciding interlocutor separate from nature | Intellectual love is understanding necessity, not petition for freely chosen intervention | Calling this "devotion" changes its interpersonal sense; it cannot model answered prayer without reinterpretation |
+| **Tillich — bounded contrast** | God as "ground of being" is not one finite being among others | Ultimate concern can direct religious commitment without a human-like object | Symbolic or non-anthropomorphic address does not automatically supply a literally reciprocal "Thou" |
+
+**Argument → objection → reply → remainder.** ⚠️ Addressing, trusting and surrendering to *someone* seem to require a responsive personal addressee; Rāmānuja supplies one. An impersonal absolute seems unable to know individual devotees, extend grace or respond to prayer. **Advaita's reply:** worship of *saguṇa Īśvara* is coherent at the empirical level and prepares the aspirant for nondual knowledge; ultimate impersonality does not erase worship from the path. **Residual pressure:** this does not preserve reciprocal devotion as the *final* relation in the theistic bhakta's sense. Conversely, personal theism must explain how an infinite God can relate without human limitation. Distinguish *devotion as possible practice* from *the ultimate status of its interpersonal object*; neither side is captured by "personal = religion, impersonal = no religion".
+
+**2026 Q7(b), 15 marks — answer route.** Define personal and impersonal through devotional address, compare Advaita and Rāmānuja as the central contrast, briefly test the contrast with Madhva and one Western view, then supply objection, qualified reply and a verdict about ultimate versus provisional reciprocity. Do not replace this with a generic attributes table or a full discussion of means to liberation; detailed *jñāna–karma–bhakti* soteriology belongs in `Soul-Immortality-Rebirth.md` §6.
+
 ---
 
 ## 3. RELATION OF GOD TO WORLD & MAN ⚠️
@@ -213,6 +229,8 @@ response can be effects of that act; yet if no alternative divine act is possibl
 threatened. The doctrine preserves transcendence at the cost of a difficult account of free,
 responsive agency.
 
+⚠️ **Indexical/temporal knowledge is not merely foreknowledge.** The *de se* problem asks whether God can know a creature's "I" thought **as that creature does**, rather than know every truth *about* that thought. The tensed-truth problem asks whether knowing that something happens **now** requires changing beliefs when "now" changes, contrary to timelessness or immutability. Reconstruct both criticisms and their distinct qualified replies at §8.7A.
+
 ⚠️ **Immutability/personality verdict:** constancy of character need not mean emotional inertness,
 but a notion that removes every real relation or response risks preserving metaphysical perfection
 by weakening religious personality.
@@ -306,6 +324,19 @@ religious practice.
   - ✅ **Open theism:** future free acts are not yet truths; omniscience is knowledge of all *truths*, so no failure follows. *Objection:* this revises the classical attribute the question presupposes.
 - **Indian parity.** ✅ **Nyāya:** Īśvara is omniscient and *karmādhyakṣa*, but allots fruits *in accordance with* each self's adṛṣṭa; he is the administering, not the choosing, cause — so human effort (*puruṣakāra*) is preserved against fate (*daiva*). ✅ **Bhagavad Gītā 18.61** places the Lord "in the heart-region of all beings, causing them to revolve as though mounted on a machine (*yantra*)", and yet **18.63** ends the entire teaching with *yathecchasi tathā kuru* — "act as you wish": the text deliberately holds sovereignty and genuine deliberative address together, and is best used as the canonical Indian **crux**, not as a solved proof. ⚠️ **Advaita** dissolves rather than answers the problem: agency belongs to the jīva under *upādhis*; freedom is not an exception inside the causal order but the ending of the ignorance that produced the sense of bondage. ✅ **Rāmānuja** uses divine *anumati* (permission/consent): God sustains the capacity to act and consents to its exercise, so the moral authorship remains the jīva's.
 - **Verdict formula.** ⚠️ "The attributes survive the paradoxes only if each is *specified* — omnipotence as power over the absolutely possible, omniscience as knowledge of all truths, freedom as either libertarian or compatibilist. The costs are unequally distributed: eternity and Ockhamism preserve the classical package at the price of contested metaphysics; Molinism preserves it at the price of the grounding objection; open theism preserves freedom by amending omniscience."
+
+### 8.7A Omniscience under criticism: first-person and tensed truths (2026 Q8(c))
+
+**Separate these from foreknowledge and freedom.** ✅ Propositional omniscience is commonly defined as knowledge of every true proposition. Two additional criticisms ask what counts as knowing **another person's first-person truth**, and whether knowing **present-tense truths** forces a timeless or immutable knower to change beliefs.
+
+| Criticism | Inferential steps | Qualified response | What remains open |
+|---|---|---|---|
+| **First-person / *de se* (Kretzmann)** | (1) Someone may know "I am in danger" without recognising the named person described in a report as herself. (2) If omniscience requires *every way of knowing*, God must have this person's own self-locating knowledge **as she has it**. (3) God is not that person and cannot truthfully have her "I" belief at her perspective. Omniscience so defined appears impossible for a distinct God | Distinguish a subject's unique *de se* stance from truths about the subject. God could know completely **that** this person has the "I" belief, including its subject/time index, without *being* her. On a perspective-indexed account God knows all truths at every perspective without occupying each creature's perspective | If perfect knowledge must include the subjective *mode of grasp* itself, indexed knowledge might narrow omniscience instead of defeating the criticism. "God knows everything" assumes the disputed definition |
+| **Present-time / temporal indexicals (Brentano, Kretzmann)** | (1) "It is raining **now**" can be true now and false later. (2) To know every truth God seems to know it when true and cease believing it when false. (3) That appears to require changing knowledge, contrary to strict immutability or timelessness | A tenseless reply knows "it rains at time *t*" and knows the value of "now" at each time-index without acquiring a new eternal truth. Alternatively accept a temporal God whose beliefs correctly track change, revising strict timelessness | The critic asks whether tenseless knowledge omits irreducibly tensed awareness of what time it is **now**; a temporal reply keeps omniscience but changes the classical immutable/timeless package |
+
+**When a question pairs omniscience with omnipotence, test each separately.** ⚠️ The stone paradox asks whether God can make an object God cannot lift: the standard reply defines omnipotence over **logically possible** actions, not contradictions. But is logical consistency an external constraint on God? A further challenge asks why an omnipotent, perfectly good God does not prevent horrendous evil; a free-will defence only targets some moral evil, not natural evil or disproportionate suffering. These objections are **not** responses to *de se* or tensed knowledge, nor does the stone reply amount to a theodicy. See §8.7 above for the higher-order-power paradox and `Problem-of-Evil.md` for detailed theodicies.
+
+**2026 Q8(c), 15 marks — criticism-led answer spine.** Briefly define both omni-attributes; reconstruct the stone/higher-order-power paradox with its possible-act reply; set out *de se* premises and the perspective-indexed response; set out the tensed-truth/immutability argument and tenseless or temporal response. If space permits, note the foreknowledge/free-will and evil pressures. Conclude by naming **which tension survives** each account and whether a revised definition protects the religious meaning of the attributes. The printed demand is an *account of criticisms*, not a general essay on attributes.
 
 ### 8.8 Śaiva, Śākta and Mādhva God-concepts — the Indian parity bench
 > Required whenever the question says "**any one of the religions in India**" (2019 Q8(c)) or asks for the Hindu God-concept beyond Advaita/Viśiṣṭādvaita. Pick **one** and complete it; do not sample all four.
@@ -436,9 +467,9 @@ state the notion coherently.
 
 <!-- expanded-pyq-depth:end -->
 
-## 13. PYQ ROUTING (2018–2025)
+## 13. PYQ ROUTING (2018–2026)
 
-> ⚠️ **Corpus signal:** 13 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.
+> ⚠️ **Corpus signal:** 13 primary-owned question-parts out of 112 in the continuous 2018–2025 Paper II corpus, plus two primary-owned 2026 parts in the separate supplement. Cross-links do not create duplicate ownership.
 
 | Year | Question | Marks | Exact demand |
 |---|---|---:|---|
@@ -455,8 +486,11 @@ state the notion coherently.
 | 2023 | Q6(b) | 15 marks | In what sense is God both immanent and transcendent in theism? Discuss. |
 | 2024 | Q6(b) | 15 marks | How does the notion of God in Spinoza’s philosophy embedded in his metaphysics of substance and attributes? Critically discuss. |
 | 2024 | Q8(b) | 15 marks | “In order to be conceived as the ultimate cause of the world, God must necessarily have some form of physical manifestation.” Do you agree with this view? Give reasons and justifications for your answer. |
+| 2026 | Q7(b) | 15 marks | Discuss the difference between personalistic and impersonalistic notions of God in the context of devotion. → §2.1 |
+| 2026 | Q8(c) | 15 marks | Present an account of criticisms against omniscience and omnipotence as attributes of God. → §8.1A, §8.7, §8.7A |
 
 See the [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md).
+See also the [2026 supplement](../_PYQ-PhilosophyOfReligion-2026-Supplement.md) for controlling wording.
 
 ## 14. ANSWER ARCHITECTURE (10 / 15 / 20 MARKS)
 
@@ -549,6 +583,7 @@ assess what notion of ultimacy survives.
   especially pp. 262–264 and 465–467.
 - Benedict de Spinoza, *Ethics*, Part I.
 - Thomas Aquinas, *Summa Theologiae*, First Part, qq.2–26 (simplicity, omnipotence, knowledge).
+- Edward Wierenga, "Omniscience," *Stanford Encyclopedia of Philosophy*, §§4.1–4.2 (first-person and temporal-indexical objections and replies): <https://plato.stanford.edu/entries/omniscience/>.
 - Alvin Plantinga, *Does God Have a Nature?* (divine simplicity).
 - Luis de Molina, *On Divine Foreknowledge* (Part IV of the *Concordia*); Linda Zagzebski, *The Dilemma of Freedom and Foreknowledge*.
 - F. Max Müller on henotheism/kathenotheism in the Ṛgveda.

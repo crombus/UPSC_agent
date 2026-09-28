@@ -116,6 +116,30 @@ This triple operation is what distinguishes Hegelian dialectic from mere contrad
 
 This is not a temporal creation sequence and Nothing is not “a kind of Being.” The claim is that completely indeterminate pure Being and pure Nothing cannot be held apart; Becoming names their movement of vanishing into one another. Critics may still deny that indistinguishability establishes transition, so the example illustrates Hegel's method without proving every later transition. ✅
 
+#### 1.4A The Absolute as being and as becoming (2026 Q1(c))
+
+**The question's two senses of “Absolute” must be separated.** Pure Being
+is the *opening*, maximally indeterminate category of the *Logic*, not
+Hegel's completed Absolute or a permanent substance underneath change.
+Taken alone, it specifies nothing that distinguishes it from pure Nothing.
+Their truth is **Becoming**: coming-to-be and ceasing-to-be as inseparable
+moments. That first transition models, but does not complete, the later
+development of Being → Essence → Concept and the Absolute Idea (§§1.6,
+2.4). The *whole* is Absolute only as a result **including the
+development**; as Subject as well as Substance, it differentiates itself
+and returns to itself (§2.2). Thus “Absolute as being is becoming” is a
+claim about self-mediated intelligibility, not that an existent cosmic
+person begins to change in time.
+
+⚠️ **Critical step:** lack of determinate content in pure Being may show
+its indistinguishability from pure Nothing, but does not by itself prove
+that their transition or the entire later system follows necessarily.
+Hegel's reply is that Becoming articulates the unstable attempt to think
+either abstraction in isolation; the burden of demonstrating each
+further transition remains. For a 10-mark answer: distinguish beginning
+from result → show Being/Nothing/Becoming → connect sublation to the
+self-developing whole → give this limited objection.
+
 ### 1.5 The Concrete Universal ✅
 
 For Hegel the traditional "abstract universal" (a genus got by stripping away differences) is a shadow. The **concrete universal** retains and organises its own differentiations within itself. Truth is the *Whole* — the system fully articulated — not a bare abstraction hovering above particulars:
@@ -297,7 +321,7 @@ In the posthumously edited lectures, Hegel interprets world history as Spirit's 
 
 > ⚠️ **Exam 2023 Q1(b):** explain norm → internal restriction → more adequate institution; add consciousness of freedom and cunning of reason, then qualify teleology and Eurocentrism. Do not offer the civilisation list as proof.
 
-### 2.7 Absolute Idealism vs Subjective Idealism (Berkeley) ⚠️ (PYQ 2024 Q2(a))
+### 2.7 Absolute Idealism vs Subjective Idealism (Berkeley) ⚠️ (cross-link: 2024 Q2(a), Empiricism primary)
 
 | Axis | Berkeley (Subjective) | Hegel (Absolute) |
 |---|---|---|
@@ -420,7 +444,7 @@ An unexpected but genuinely defensible bridge, and one that lifts a 2025 Q1(e)-t
 - ✅ Controlled Being–Nothing–Becoming example; concrete universal; identity-in-difference; Concept moments.
 - ✅ Absolute Idealism: substance-as-subject, finite/true infinite, thought/being and actuality/reason.
 - ✅ Hegel's qualified challenge to Kant and the mediated reality of the phenomenal world.
-- ✅ All six routed PYQs, including the bounded history/freedom architecture needed in 2023.
+- ✅ All six routed 2018–2025 PYQs, the bounded history/freedom architecture needed in 2023, and the 2026 Being/Becoming question (§1.4A).
 
 ### Bounded orientation
 
@@ -499,6 +523,16 @@ An unexpected but genuinely defensible bridge, and one that lifts a 2025 Q1(e)-t
 | 2025 | Q1(e) | 10 marks | How does Hegel challenge Kant’s distinction between Phenomena and Noumena? Discuss. | Kant's negative noumenon → Hegel on relational limit/empty abstraction → mediation → Kant reply → graded verdict |
 
 See the [Western Philosophy PYQ Bank, 2018–2025](../_PYQ-Western-Philosophy-2018-2025.md).
+
+### 2026 addition and comparison cross-links
+
+| Year | Question | Marks | Exact demand | Ownership and answer route |
+|---|---|---:|---|---|
+| 2026 | Q1(c) | 10 marks | Explain Hegel's idea that the concept of the Absolute as being is the concept of the Absolute as becoming as a process of self-development. | **primary** — §§1.4–1.4A, 1.6, 2.1–2.4 |
+| 2026 | Q4(b) | 15 marks | Analyze and discuss the different ways in which Kant and Hegel conceived the relationship between reality and our thinking about reality. | **cross-link only** — §§2.1–2.3, 3; primary owner `Kant.md` §7.2A |
+| 2024 | Q2(a) | 20 marks | Is rejection of Locke’s notion of primary qualities instrumental in Berkeley’s leaning towards idealism? In this context, also discuss how subjective idealism is different from the absolute idealism proposed by Hegel. | **cross-link only** — §2.7; primary owner `Empiricism.md` |
+
+See the [Western Philosophy PYQ Bank, 2026](../_PYQ-Western-Philosophy-2026.md).
 
 ## 8. ANSWER ARCHITECTURE (10 / 15 / 20 marks) ⚠️
 

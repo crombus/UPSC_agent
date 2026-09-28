@@ -65,6 +65,15 @@ structure without fraternity remains socially fragile
 6. ✅ **social and economic power** enforce norms through dependence and violence;
 7. ⚠️ **political mobilisation** can both democratise subordinated groups and harden competitive identities.
 
+**How the factors reinforce one another (2024 Q1(c)):** ⚠️ Endogamy transmits group
+membership; hereditary status and purity rules assign it rank; occupational
+closure and unequal assets make exit costly; social boycott or violence can
+punish dissent; religious sanction presents the arrangement as duty. Formal
+prohibition removes a legal permission, not these mutually reinforcing
+incentives and sanctions. A factor answer must distinguish the **mechanism**
+that reproduces a boundary from the **justification** that legitimises it and
+the **power** that enforces it; regional forms and agency vary (§1.1).
+
 ### 1.3 Why caste is not merely division of labour
 
 ✅ Ambedkar's decisive distinction is between **division of labour** and **division of labourers**. A functional division can permit choice and mobility; caste ranks workers themselves, fixes occupation by birth and prevents free association.
@@ -146,6 +155,22 @@ duty arguments.
 
 **Religious-reform objection:** scriptural reinterpretation preserves authority that sustains caste.
 **Reply:** Gandhi distinguishes living ethical religion from unjust accretions. Ambedkar replies that the authority structure itself must be broken.
+
+### 2.8 Gandhi and caste's survival across alternative identities (2018 Q1(c))
+
+⚠️ National, religious, occupational or civic identities can coexist with
+endogamy, inherited status and exclusion rather than displacing them. Gandhi
+would challenge caste Hindus to enact equal fellowship in worship, work and
+shared public life: an alternate label does not transform conscience or
+everyday treatment. His anti-untouchability campaign, constructive work and
+later support for inter-caste marriage test conduct, not merely a profession
+of national unity (§§2.2–2.4). **Objection:** appeals to unity can demand that
+oppressed people give up their separate political voice before the powerful
+give up caste privilege. **Reply and limit:** Gandhian self-purification puts
+the burden of change on the privileged, but it is defensible only alongside
+independent rights and representation; see Ambedkar's Poona Pact objection
+(§4.2). ⚠️ Neither the continuing presence nor the disappearance of any
+specific caste practice is established by the philosophical claim alone.
 
 ---
 
@@ -423,6 +448,32 @@ social/constitutional distinction in democracy.
 4. constitutional morality restrains inherited social authority;
 5. democracy must become a mode of associated living, not only periodic voting.
 
+### 3.6A Social change in independent India: Ambedkar's contributions (2020 Q3(a))
+
+✅ Ambedkar's pre-independence diagnosis of graded inequality, endogamy and
+the need for autonomous political safeguards (§§3.2–3.3, 4.2) informed his
+work in independent India; do not date all these arguments to the later
+period. As chair of the Constitution's Drafting Committee and independent
+India's first Law Minister, he advanced an institutional basis for equal
+citizenship, enforceable rights, political representation and limits on
+social-majority power. ✅ Constitutional abolition of untouchability (Article
+17, §5.2) is an institutional change, not proof that the practice ended.
+His efforts to reform family law through the Hindu Code Bill concerned
+women's legal standing; the contested legislative fate of those proposals
+must not be described as if he single-handedly enacted them. His programme
+of education, agitation, organisation and constitutional morality
+(§§3.6–3.7) sought power and public voice, not passive welfare. His
+conversion to Buddhism in 1956 (§3.8) was a collective challenge to the
+authority of caste-sanctioning religion.
+
+⚠️ **Examine, not list:** rights can protect dissent and representation can
+contest exclusion, but neither by itself defeats endogamy, stigma or
+economic dependence. His greatest contribution is to show why political
+democracy needs social democracy (§3.5); the persistence of caste tests
+implementation rather than refuting the necessity of that programme.
+Distinguish his **ideas**, his **institutional roles**, enacted provisions
+and **observed social outcomes**; none entails the next automatically.
+
 ### 3.7 Education, organisation and self-respect
 
 ✅ Education enlarges critical agency; organisation converts scattered suffering into political voice; agitation challenges unjust power through collective action.
@@ -510,6 +561,29 @@ rights and material independence.
 ✅ Gandhi grounds secular fellowship in equal regard for religions, non-violence and conscience. ✅ Ambedkar grounds democracy in constitutional morality, equal citizenship and freedom from religiously sanctioned hierarchy.
 
 ⚠️ Gandhi supplies an ethic of coexistence; Ambedkar supplies an institutional test: no religious community may convert internal doctrine into civic inferiority.
+
+### 4.5A Philosophical foundations of secular democracy (2019 Q4(a))
+
+| Axis | Gandhi | Ambedkar | Decisive question |
+|---|---|---|---|
+| Source of public ethics | Truth, non-violence and equal respect across faiths; religion can motivate self-restraint | Equal liberty of conscience and citizenship must not depend on religious authority | Who decides when a practice denies equal standing? |
+| Religion and reform | Reinterpret a tradition's ethical core and change believers' conduct | Reject the authority that sanctifies caste; conversion is a possible exit | Can a caste-sanctioning text remain authoritative? |
+| Democracy | Fellowship, moral responsibility and self-rule from below | Constitutional safeguards plus fraternity and social democracy | Are equal votes meaningful without social equality? |
+| Minority within a community | Appeal to the privileged majority's conscience | Secure the subordinated group's independent rights and voice | Who can represent a person against her own community's hierarchy? |
+
+⚠️ **Similarity:** neither requires the absence of all religious motivation
+from citizens; both oppose untouchability and need transformed social
+relations. **Difference:** Gandhian equal regard can coexist with reform
+*inside* inherited religious traditions; Ambedkar insists that freedom of
+conscience and equal civic status protect the right to reject a tradition's
+caste-sanctioning authority. Gandhi need not be caricatured as opposing
+constitutional protection, and Ambedkar need not be caricatured as opposing
+religion; his conversion is a counterexample. The hard case is a group claim
+to preserve hereditary status: respect for religious difference does not
+license enforceable civic inequality. **Verdict:** moral pluralism can support
+secular democracy, but equal rights and autonomous representation must set
+its non-negotiable institutional floor. Cross-owner: secularism's general
+models belong to `Humanism-Secularism-Multiculturalism.md`.
 
 ### 4.6 Final evaluative position
 

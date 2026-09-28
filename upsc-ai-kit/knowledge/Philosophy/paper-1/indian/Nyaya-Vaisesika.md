@@ -106,7 +106,7 @@ Nyāya's second category contains twelve liberation-relevant knowables:
 
 ## 1B. CANONICAL OWNERSHIP AND ANSWER-WORTHINESS
 
-- **Marks-essential owner content:** both category systems; four Nyāya means of valid knowledge; perception and inference taxonomies; comparison and testimony; theory of appearance; self and release; later Nyāya-Vaiśeṣika God and proofs; causation; atomism; all 22 routed PYQs.
+- **Marks-essential owner content:** both category systems; four Nyāya means of valid knowledge; perception and inference taxonomies; comparison and testimony; theory of appearance; self and release; later Nyāya-Vaiśeṣika God and proofs; causation; atomism; all 22 primary-owned 2018–2025 and four primary-owned 2026 PYQs.
 - **Core supporting depth:** universal-concomitance acquisition, fallacies, debate categories, validity theory, absence-cognition, universals, inherence and named opponent replies.
 - **Optional enrichment:** full Navya-Nyāya formal language, exhaustive subtypes of quibble or defeat-ground, controlled Western comparisons and proof variants beyond the question's demand.
 
@@ -283,6 +283,7 @@ Nyāya's second category contains twelve liberation-relevant knowables:
 | ✅ **saṃyoga** | ✅ A guṇa (quality) | ✅ Separable relata | ✅ Produced and destructible | ✅ Book on table; two pots in contact |
 
 - ✅ **Ayutasiddhatva issue.** Inseparability is necessary for samavāya, but ⚠️ not by itself sufficient unless the specific ontological dependence relation is shown; mere closeness is not inherence.
+- ⚠️ **2021 Q5(c) necessity versus sufficiency:** colour cannot be established as a free-standing guṇa apart from its dravya; a whole depends on its constituent parts, and a universal is present in its instances through the category-specific tie. These support the **necessary** inseparability condition for inherence. But a book firmly glued to a table can still be conceived as two independently existing substances: prolonged physical non-separation does **not** make their conjunction inherence. Nor can one infer an **additional** samavāya connecting samavāya to its own relata merely because the relation cannot be detached: that starts the relation-regress below. To establish inherence, specify the relata's ontological types and asymmetric dependence (whole–parts, quality–substance, universal–instance, etc.), **not** an empirical inability to pull them apart. A critic can still ask how the sui generis tie is known if it cannot be perceived; Nyāya infers it from otherwise unexplained dependent predications. Thus “inseparable” is an indispensable diagnostic but not a sufficient *lakṣaṇa* without the proper ontological dependence.
 
 #### Objection: relation-regress
 
@@ -323,7 +324,7 @@ Nyāya's second category contains twelve liberation-relevant knowables:
 ##### (c) Atyantābhāva
 
 - ✅ Absolute non-existence: a thing is absent in a locus for all times.
-- ✅ Standard example: a hare's horn.
+- ✅ For example, pot-ness is absent in sound at all times; “absolute” qualifies the **temporal range in that locus**, not every locus and every possible counterpositive.
 
 ##### (d) Anyonyābhāva
 
@@ -332,7 +333,7 @@ Nyāya's second category contains twelve liberation-relevant knowables:
 
 #### 2024 distinction: air does not have heat vs air is not fire
 
-- ✅ "Air does not have heat" is best treated as **atyantābhāva** with respect to heat in air.
+- ✅ "Air does not have heat" is best treated as **atyantābhāva** with respect to heat **as an intrinsic quality inhering in air**; this does not claim that air in contact with fire cannot become hot or occasion heat-sensation.
 - ✅ "Air is not fire" is **anyonyābhāva**, because it expresses difference between two entities.
 - ⚠️ Therefore they are not the same kind of absence.
 
@@ -340,6 +341,7 @@ Nyāya's second category contains twelve liberation-relevant knowables:
 
 - ✅ Every absence is the absence **of** something; that absent positive term is the **pratiyogin** or counterpositive.
 - ⚠️ This shows abhāva is not sheer blankness; it has structured intentional content.
+- ⚠️ **2023 Q5(d) printed “absolute negation is an impossibility”:** do not deny *atyantābhāva*, one of Vaiśeṣika's **four** admitted types. A **free-floating, wholly unqualified negation** with no specifiable counterpositive and no relevant locus is impossible as a determinate absence-cognition. Even *atyantābhāva* says *this* counterpositive is absent **in this locus** at past, present and future times; it does not negate every entity without restriction. The critic asks whether a fictional counterpositive (e.g. hare's horn) must already be a real positive object; the realist can distinguish grasping the **meaning of the proposed term** from admitting a corresponding instantiated thing. This avoids using an empty term as proof of a real horn. The claim concerns **structured negation**, not the impossibility of all negative truths.
 
 ### 2.11 How absence is known: Nyāya, Buddhism and non-cognition
 
@@ -348,6 +350,7 @@ Nyāya's second category contains twelve liberation-relevant knowables:
 - ✅ Adequate absence-cognition presupposes that the object would have been perceptible if present, the locus is available, the senses are competent and no obstruction prevents observation.
 - ✅ If the missing item is itself inferential rather than perceptible, its absence may also be inferentially established.
 - ✅ The Buddhist comparison in the 2018 PYQ denies the need for a separately existing negative entity and explains the judgement through perception of the positive locus plus non-apprehension, conceptual exclusion or inference.
+- ⚠️ **2018 Q5(d), two *different* explanations:** both sides see the table under suitable conditions and fail to find a jar. Nyāya says one **perceives jar-absence as a real qualifier of that table**, conditional on an available locus, functioning eyes and no obstruction; the absence has table as locus and jar as counterpositive. A Buddhist nominalist/pramāṇa-style reconstruction rejects the **additional negative entity**: the perceptible table and non-apprehension of a jar where one would appear warrant the *judgement* “no jar here,” by exclusion or negative inference, without perceiving an ontological *abhāva*. A critic asks whether mere non-apprehension proves absence if the jar is hidden or senses fail; both require appropriate visibility conditions. Nyāya asks how a genuinely true negative cognition can have no real negative object; the Buddhist replies that truth of a warranted absence-judgement does not force an extra negative *padārtha*. Do not attribute Bhāṭṭa's **independent** *anupalabdhi-pramāṇa* to either disputant without qualification.
 - ⚠️ **Cross-owner boundary:** Bhāṭṭa Mīmāṃsā owns non-cognition (**anupalabdhi**) as an independent means of valid knowledge; Nyāya reduces the work to perception or inference.
 
 ## 3. THEORY OF MEANS OF VALID KNOWLEDGE (PRAMĀṆA)
@@ -406,6 +409,17 @@ Nyāya's second category contains twelve liberation-relevant knowables:
   5. **samaveta-samavāya** — inherence in what inheres
   6. **viśeṣaṇa-viśeṣya-bhāva** — qualifier-qualified relation
 - ⚠️ These are technical tools for explaining how the senses can apprehend not just substances, but also qualities, universals and absences.
+
+| Contact relation | What is perceived through which relation | Why the intermediate step matters |
+|---|---|---|
+| **Saṃyoga** | Eye and pot are conjoined: pot is perceived | Contact with the substance itself |
+| **Saṃyukta-samavāya** | Eye contacts pot; its **colour** inheres in that pot | No direct eye–colour conjunction is needed |
+| **Saṃyukta-samaveta-samavāya** | Eye contacts pot; its colour inheres there; **colour-universal** inheres in that quality | A universal of a quality needs a second inherence step |
+| **Samavāya** | Ear as auditory organ apprehends **sound** inhering in its ether-substratum | Auditory contact is not a pot-like spatial conjunction |
+| **Samaveta-samavāya** | Ear apprehends **sound-universal** inhering in sound | Sound's universal needs the extra inherence step |
+| **Viśeṣaṇa-viśeṣya-bhāva** | Perceived table is qualified by **jar-absence** | Negation is apprehended as qualification of a locus, not as a free-floating object |
+
+- ⚠️ **2025 Q6(a) internal tension:** *avyapadeśyam* rules out cognition **caused merely by words/testimony**, not every perception later expressed in words. Otherwise *vyavasāyātmakam* (determinate, expressible cognition) would appear contradictory. Later Nyāya distinguishes a prior *nirvikalpaka* pre-predicative phase from *savikalpaka* judgement; explain that the sūtra's determinacy clause excludes **doubt**, while the status of indeterminate cognition as valid perception is a genuine interpretive question. The six contact modes extend ordinary object-contact to qualities, universals and absence, while the three *alaukika* forms below require **special explanation** rather than pretending ordinary eye–object conjunction alone presents a past silver object or a yogic future fact. A critic may question whether universal-mediated or cognition-mediated perception stretches “contact” too far; the Nyāya reply is that the earlier cognitive contact or universal supplies a distinctive perceptual relation, not independent testimony.
 
 #### Extraordinary perception (alaukika) (2023, 2019)
 
@@ -516,7 +530,8 @@ Using the hill-fire example:
 | ✅ **asiddha / sādhyasama** (unproved) | ✅ The hetu itself is not established. | ✅ **āśrayāsiddha**: the pakṣa-locus is unreal; **svarūpāsiddha**: the hetu is absent in the pakṣa; **vyāpyatvāsiddha**: pervasion is unproved, often due to upādhi. |
 | ✅ **bādhita / kālātīta** (stultified) | ✅ The conclusion is contradicted by a stronger pramāṇa. | ✅ Fire cannot be inferred as cold because perception defeats the sādhya. |
 
-- ⚠️ **Linking rule.** Savyabhicāra violates vipakṣa-asattva, asiddha violates pakṣadharmatā, bādhita violates abādhita, satpratipakṣa violates asatpratipakṣa, and viruddha reverses the direction of vyāpti itself.
+- ⚠️ **Linking rule.** The standard summary associates irregularity with failure of the positive/negative pervasion tests, an unproved reason with establishment of the subject/sign/pervasion, bādhita with abādhita, satpratipakṣa with asatpratipakṣa, and viruddha with a reason pervaded by the opposite conclusion. The subtypes below prevent a misleading one-to-one mapping.
+- ⚠️ **2023 Q7(a) five-mark mapping must be subtype-aware:** *sādhāraṇa savyabhicāra* appears in negative cases and violates **vipakṣa-asattva**; *asādhāraṇa* appears in no positive comparator and cannot establish **sapakṣa-sattva**; *anupasaṃhārin* leaves no negative comparator to test the restriction. *Svarūpāsiddha* fails **pakṣadharmatā**, but *āśrayāsiddha* lacks an established subject and *vyāpyatvāsiddha* lacks established pervasion (often an *upādhi*), so do **not** say all three simply have a missing sign in a real subject. *Bādhita* conflicts with stronger knowledge (**abādhita** fails); *satpratipakṣa* faces a balancing counter-reason (**asatpratipakṣa** fails); *viruddha* supports the **opposite sādhya**, thus perversion of positive/negative concomitance. The first three characteristics concerning subject, positive and negative cases presuppose **usable** comparator classes; in a negative-only inference *sapakṣa-sattva* cannot mean an actually observed positive instance, so qualify the standard five-mark test by the type of inference (§3.3). **Verdict:** the five marks are a positive diagnostic ideal, while the five fallacy-families diagnose different failures; the correspondence is not a rigid one-to-one bijection.
 
 #### Objection: Cārvāka and the Humean parallel
 
@@ -813,6 +828,10 @@ Mimamsakas? Discuss."):
 - ✅ The means and result are therefore different: the operative instrument or causal complex is the pramāṇa, while true cognition is its fruit.
 - ✅ **Buddhist epistemologists** such as Dignāga are commonly read as tightening the relation so that cognition itself is both revelatory act and result in a self-luminous framework.
 - ⚠️ The contrast turns on broader metaphysics: Nyāya is instrumentally realist; Buddhist epistemology is more cognition-centred.
+
+**Two-stage debate for 2025 Q5(b).** ⚠️ (1) For Nyāya, a *pramāṇa* is the operative **means** (e.g. an appropriate sense-object contact; in inference, knowledge of a pervaded sign and *parāmarśa*, §3.4), while *pramāṇaphala* is the **new true cognition** it produces (“this is a pot”; “the hill has fire”). Neither the pot nor the cognition is identical with the eye or causal instrument; an enduring *pramātṛ* knows an independently real *prameya*. (2) For Dignāga-style Buddhist epistemology, the cognitive event appears with an **object-aspect** (*grāhyākāra*) and a **subject-aspect** (*grāhakākāra*); its presenting the object functions as *pramāṇa*, and its resultant awareness or determination as *phala*, without positing two separately persisting entities or a substantial knower. Across Buddhist accounts the precise analysis of self-awareness (*svasaṃvedana*) and of the object differs; do not call every Buddhist an external-world denier or confuse this Nyāya debate with a claim that Buddhism rejects inference (see [`Buddhism.md`](Buddhism.md) §9A.6).
+
+**Objections and replies.** ⚠️ Nyāya asks how the *same* event can be both producer and produced, and whether an aspect-only account can certify knowledge of an independent object. The Buddhist replies that “instrument” and “result” distinguish **functions/aspects** of one momentary cognition, not a temporal act of self-production; momentary cognition can still be causally conditioned and truth-directed. Conversely, Buddhism asks what makes a separate enduring knower and a relation between eye and pot necessary for the *content* of an immediately given cognition. Nyāya replies that real object-contact and distinct causes distinguish veridical cognition from error (§§3.2, 4.1–4.2). ⚠️ A residual dispute remains over whether functional non-difference can explain genuine epistemic **success** without relying on the realist object's independent role.
 
 ## 4. THEORY OF APPEARANCE (KHYĀTIVĀDA)
 
@@ -1112,6 +1131,7 @@ Mimamsakas? Discuss."):
 - ✅ Before the effect arises, it has **prāgabhāva** — prior non-existence.
 - ✅ This prior absence shows the effect is genuinely absent before production.
 - ⚠️ Therefore prāgabhāva becomes a sharp weapon against satkāryavāda.
+- ⚠️ **Do not turn the 2023 Q8(b) into a one-line proof by definition.** Nyāya holds that the **numerically distinct whole/effect** (tree, pot, cloth) is absent in its material cause before production; after the causal complex operates, that prior absence terminates and a new whole inheres in its parts. The seed's presence does not imply an already existing tree (§9.4). Sāṃkhya answers that absence of the **manifest form** is compatible with the real effect existing *latently* in its specific cause; what Nyāya calls prior absence may simply describe non-manifestation. Nyāya replies that effects have new identity, structure and causal capacities, so merely renaming that novelty “manifestation” under-explains production; Sāṃkhya presses the reverse worry that production ex nihilo cannot explain why this effect comes from **this** material cause. The Nyāya rejoinder is **not** ex nihilo creation: material, non-inherent and efficient causes (§9.3) are indispensable even though the effect does not pre-exist **as that effect**. Which reading wins depends on the defended cause–effect identity criterion, not on citing *prāgabhāva* alone.
 
 ## 10. ATOMISTIC THEORY OF CREATION
 
@@ -1395,13 +1415,13 @@ See the [Indian Philosophy PYQ Bank, 2018–2025](../_PYQ-Indian-Philosophy-2018
 
 ### 2026 additions ✅
 
-| Year | Question | Marks | Exact demand | Owner status |
+| Year | Question | Marks | Printed demand (English wording normalized for diacritics; exact in bank) | Owner status |
 |---|---|---:|---|---|
-| 2026 | Q5(a) | 10 | What are the characteristics of hetu? Discuss. | **primary** — §3.3 ("Five characteristics of a valid hetu": pakṣadharmatā, sapakṣa-sattva, vipakṣa-asattva, abādhita-viṣayatva, asatpratipakṣa) |
-| 2026 | Q5(d) | 10 | Discuss the concept of samavāya. | **primary** — §2.9 (inherence as an eternal, single, non-perceptible relation) |
-| 2026 | Q6(c) | 15 | How is the Naiyayikas' view on Sabdabodha different from that of the Prabhakara Mimamsakas? Discuss. | **primary** — §3.6A; Prābhākara side cross-owned by [`Mimamsa.md`](Mimamsa.md) §8 |
+| 2026 | Q5(a) | 10 | According to Nyaya view of inference (Anumana), what are the characteristics that ascertain the validity of inferential sign (Hetu)? Discuss. | **primary** — §3.3 (five characteristics of valid *hetu*) |
+| 2026 | Q5(d) | 10 | Critically explain the nature of Samavaya (inherence) as propounded in Vaisesika philosophy. | **primary** — §2.9 (inherence as an eternal, single, inferred relation, objections and replies) |
+| 2026 | Q6(c) | 15 | Bring out the main points of contestation between Naiyayikas and Prabhakara Mimamsakas with reference to knowledge through words (Sabdabodha). | **primary** — §3.6A; Prābhākara side cross-linked from [`Mimamsa.md`](Mimamsa.md) §8 |
 | 2026 | Q7(a) | 20 | Critically explain the arguments presented by the Akhyativadins for erroneous cognition; evaluate the Anyathakhyativadins' arguments against them. | **cross-owned** — Nyāya's *anyathākhyāti* is stated here (§4.1–4.4); the paired comparison is owned by [`Mimamsa.md`](Mimamsa.md) §6 |
-| 2026 | Q8(a) | 20 | Present an account of Upamāna as an instrument of knowledge. How is the Nyāya view different from the Mīmāṃsā view? | **primary** — §3.5A; Mīmāṃsā side cross-owned by [`Mimamsa.md`](Mimamsa.md) §3.7 |
+| 2026 | Q8(a) | 20 | Present an account of Upamana as an instrument of knowledge (Pramana). How is Nyaya view of Upamana different from Mimamsa view? Discuss. | **primary** — §3.5A; Mīmāṃsā side cross-linked from [`Mimamsa.md`](Mimamsa.md) §3.7 |
 
 See the [Indian Philosophy PYQ Bank, 2026](../_PYQ-Indian-Philosophy-2026.md).
 

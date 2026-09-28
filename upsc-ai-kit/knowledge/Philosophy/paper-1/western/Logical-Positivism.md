@@ -287,6 +287,39 @@ Theoretical terms need not correspond one-to-one with a single observation. They
 
 > ⚠️ **Paired-owner cross-link — the metalanguage hierarchy (2026 Q4(a) and Q4(c)).** The Circle's "unified language of science" and Carnap's logical-syntax programme presuppose the **object-language/metalanguage** distinction that Russell first floated, in his 1922 Introduction to the *Tractatus*, as a way round Wittgenstein's claim that a language cannot state its own structure. The full treatment — the picture-theoretic reason for the limit, Russell's L₁/L₂/L₃ proposal and his own reservations, Tarski's later formalisation, and the argued verdict that the hierarchy meets the formal but not the transcendental difficulty — is owned by [`Moore-Russell-EarlyWittgenstein.md`](Moore-Russell-EarlyWittgenstein.md) §6.7. ❌ Do not equate Wittgenstein's *unsayable-but-shown* with the positivists' *cognitively meaningless*; §1.6 already records what the Circle took from the *Tractatus* and what it added.
 
+### 3.6A Philosophy as handmaid to science: programme and failure (2026 Q4(c))
+
+**Positive programme:** Logical analysis was meant to clarify the
+language of science rather than add a competing metaphysical description
+of reality. The analytic/empirical division (§§1.1, 3.2–3.3) distinguishes
+formal inference from testable claims; verification and Carnap's diagnosis
+of misleading grammar (§2.2) exclude pseudo-problems. To make
+interdisciplinary claims publicly comparable, some Circle projects sought
+to reconstruct science from observation reports, while Neurath and
+Carnap's physicalist programmes aimed at a shared intersubjective
+language or coordinated encyclopedia (§3.6). **No single complete
+reduction of all sciences to private sensations was a common achieved
+result.** The protocol debate (§P) explains why the shared evidential
+base itself was disputed; tolerance (§C) permits explicitly constructed
+frameworks rather than a uniquely privileged language.
+
+**Why the stronger project failed:** (1) strict verification excludes
+universal laws; weakened/indirect confirmation loses a sharp line between
+science and metaphysics (§§1.2–1.3, 3.5); (2) theoretical terms are tested
+through laws and auxiliary assumptions rather than translated one by
+one into observation reports (§3.6); (3) Schlick's momentary affirmations
+and Neurath's revisable public protocols do not supply a single agreed
+foundation (§P); (4) the criterion fails its own test if asserted as a
+factual universal, though a proposed-rule reply is possible (§4.1);
+(5) Quine pressures both the analytic boundary and
+sentence-by-sentence reduction (§4.5). ⚠️ **Verdict:** logical
+clarification, formal semantics and cooperative science survived; the
+claim that *one* verification rule and *one* reductive language could
+settle meaning, demarcation and all scientific discourse did not. Do
+not turn failure of the ambitious programme into failure of every
+logical or empiricist insight, or attribute Popper's demarcation test
+to the Circle (§4.4).
+
 ---
 
 ## P. THE PROTOCOL-SENTENCE DEBATE ✅ (Schlick vs Neurath, 1932–35) — positivism's internal crisis
@@ -450,7 +483,7 @@ Ryle/Austin-style and later-Wittgensteinian criticism asks whether a sentence's 
 - ✅ Verification as a criterion of cognitive/factual meaning, with Ayer's strong/weak distinction and in-principle testing.
 - ✅ Rejection of metaphysics as pseudo-statement, not false theory.
 - ✅ Linguistic/conventional account of necessary propositions and denial of synthetic a priori knowledge.
-- ✅ Scientific laws/general statements, self-application and all seven routed PYQs.
+- ✅ Scientific laws/general statements, self-application and all eight routed 2018–2026 PYQs, including the unified-science appraisal (§3.6A).
 
 ### Bounded prerequisites
 
@@ -556,7 +589,7 @@ See the [Western Philosophy PYQ Bank, 2018–2025](../_PYQ-Western-Philosophy-20
 
 | Year | Question | Marks | Exact demand | Owner status |
 |---|---|---:|---|---|
-| 2026 | Q4(c) | 15 marks | How did the logical positivists try to make philosophy a handmaid to science and establish a unified language of science? Why did their project fail? Discuss. | **primary** — §1.5, §2.2, §3.6, §P, §C for the programme; §4.1–4.5 for the failure |
+| 2026 | Q4(c) | 15 marks | How did the logical positivists try to make philosophy a handmaid to science and establish a unified language of science? Why did their project fail? Discuss. | **primary** — §3.6A (integrated route); §§1.5, 2.2, 3.6, P, C and 4.1–4.5 for supporting arguments |
 
 See the [Western Philosophy PYQ Bank, 2026](../_PYQ-Western-Philosophy-2026.md).
 

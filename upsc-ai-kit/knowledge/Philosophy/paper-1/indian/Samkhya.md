@@ -145,7 +145,7 @@ EXAM HOTSPOTS
 
 ### 0B.2 Marks-essential versus optional depth
 
-- **Marks-essential owner content:** primordial material nature, conscious witness, qualities, all proofs, twenty-five principles, pre-existence of the effect, real transformation, subtle body and transmigration, threefold suffering, discriminative liberation, non-theism, contact problem and all ten routed PYQs.
+- **Marks-essential owner content:** primordial material nature, conscious witness, qualities, all proofs, twenty-five principles, pre-existence of the effect, real transformation, subtle body and transmigration, threefold suffering, discriminative liberation, non-theism, contact problem and all twelve routed PYQs (ten from 2018–2025 and two from 2026).
 - **Core supporting depth:** three means of valid knowledge, internal instrument, reflection/apparent agency, rival causation, Śaṃkara's criticism and named replies.
 - **Optional enrichment:** detailed later commentarial theism, exhaustive disposition cosmology, specialist textual chronology and full Yoga practice taxonomies.
 
@@ -198,15 +198,16 @@ EXAM HOTSPOTS
 - ✅ The world is astonishingly diverse, yet this diversity forms one interconnected cosmos.
 - ✅ A diversified whole points back to an undivided source in which later differentiations are not yet separated.
 - ✅ Therefore there must be an original unmanifest, undivided root of the whole world-process.
-- ✅ **This is the proof that shows Prakṛti must be ONE.**
-- ✅ UPSC 2019 directly tests this point: if the diversity of the world issues from an **undivided** source, that source cannot itself be many disconnected material ultimates; it must be singular.
-- ⚠️ This is the strongest anti-pluralist argument at the level of material causation in Sāṃkhya.
+- ⚠️ This is the proof used to argue that Prakṛti is **one**: the undivided common ground of cosmic diversity, with the unity premise qualified in §1.4.
+- ✅ UPSC 2019 directly tests whether this argument warrants a single Prakṛti.
+- ⚠️ This is the strongest anti-pluralist argument at the level of material causation in Sāṃkhya; its conclusion depends on the claim that cosmic diversity forms one material order.
 
 ### 1.4 Which proof establishes that there can be only one Prakṛti?
 
-- ✅ The proof is **avibhāgāt vaiśvarūpyasya**.
-- ✅ Reason: if the entire articulated universe emerges from an undivided source, that source must itself be singular, not many independent primal materials.
+- ✅ The proof invoked is **avibhāgāt vaiśvarūpyasya**.
+- ⚠️ Sāṃkhya's reason: the world's articulated diversity and shared guṇa-nature suggest one undivided material source rather than many independent primal materials.
 - ⚠️ In a 10-marker, do not merely name the proof. Add the logical bridge: plurality at the root would undermine the inference to an undivided source of total cosmic diversity.
+- ⚠️ **2019 Q8(c) critical qualifier:** the inference from an undifferentiated source to **exactly one** source requires the added Sāṃkhya premise that the manifest world's three-guṇa constitution and material continuity form **one** explanatory order. Merely saying “source undivided” does not deductively exclude several independent, internally undivided sources acting together. Sāṃkhya prefers one *mūla-prakṛti* because positing many ultimate material matrices would leave their common guṇa-structure and coordinated effects unexplained. A pluralist critic can contest this economy premise; the school offers a strong unity-of-material-ground argument, not an observed headcount of imperceptible roots. Do not confuse this **one Prakṛti** with the distinct claim that there are **many Puruṣas** (§2.4).
 
 ### 1.5 The three guṇas (gunas)
 
@@ -629,6 +630,17 @@ Puruṣa = 25th tattva, but not an evolute of Prakṛti
 - ✅ Sāṃkhya explains becoming through transformation of enduring Prakṛti.
 - ⚠️ A crisp contrast line is often enough unless the question explicitly asks for Buddhist comparison.
 
+### 4.7 Worked mango-seed answer: 2020 Q7(a) and 2026 Q6(a) ⚠️
+
+**Causal claim.** ✅ One selects a **mango seed** rather than an arbitrary seed or sand for a mango tree because its material constitution and capacities are specifically suited to that result (§4.2, arguments 2–4). The tree's effect-form is **latent** in the seed's material continuum, not a tiny tree spatially present there. Suitable soil, water, warmth and time allow the guṇic material basis to undergo **real transformation** (*pariṇāma*) until the tree becomes manifest. The gross seed can be destroyed in the process without breaking material causal continuity.
+
+| Rival | Strongest objection in this example | Sāṃkhya reply and remaining burden |
+|---|---|---|
+| **Nyāya–Vaiśeṣika *asatkāryavāda*** | The *tree as a new whole* was **absent before production** (*prāgabhāva*); its novel structure and capacities cannot be reduced to a tree already existing in seed | Non-appearance does not show absolute non-being: the specific potency and continuity explain why mango seed yields mango tree. ⚠️ Nyāya retorts that **cause-specific powers** can explain selectivity even when the new effect did not pre-exist; Sāṃkhya must justify identifying determinate power with latent effect. |
+| **Advaita *vivartavāda*** | A changing unconscious material root is neither the conscious Upaniṣadic Brahman nor a satisfactory ultimate ground; world-production can be treated as **apparent** in relation to non-dual Brahman | Empirical causal order, seed/tree specificity and a transformed material substrate appear to require **real** evolution; a purely apparent change may leave the practical difference between seed and tree unexplained. ⚠️ Advaita replies that ordinary causal transformations are valid **empirically**, while only Brahman is ultimate; Sāṃkhya has not independently proved its root to be ultimately real. |
+
+**20-mark execution:** explain all five pre-existence reasons in §4.2 as needed → work through the mango case → reconstruct **both** rivals accurately → give Sāṃkhya's reply to each and the remaining pressure → conclude that specific production supports latent material continuity, but does not automatically settle the rival's cause/effect identity criterion. The 2026 printed question reuses the 2020 example and expressly asks to reject **rival perspectives**, not to add two extra PYQ owners to a different school.
+
 ## 5. LIBERATION (KAIVALYA)
 
 ### 5.0 Three kinds of suffering
@@ -718,6 +730,7 @@ Sāṃkhya inquiry begins from the impact of threefold suffering (**duḥkha-tra
 - ✅ The crystal analogy may explain appearance, but not the initiation of world-process.
 - ✅ Therefore Sāṃkhya dualism appears unstable: either it collapses toward monism or it requires a third mediating principle.
 - ✅ UPSC 2023 directly tests this critique of Sāṃkhya dualism.
+- ⚠️ **2023 Q5(b) sharpened relation dilemma:** if a merely present Puruṣa is already everywhere and always inactive, what starts Prakṛti's transition from equilibrium **now** rather than always? If it selects a moment, that looks like action or change; if it does nothing, “proximity” may only rename, not explain, the disturbance. Distinct body–buddhi associations are proposed to explain why one witness gains discriminative insight while others remain bound, but associating an attributeless witness with **this** rather than **that** buddhi is the very relation at issue. Sāṃkhya replies that proximity and reflection are **non-physical**, guṇas themselves transform and bondage belongs to buddhi rather than Puruṣa (§§0A.6, 2.4, 5.1). ⚠️ The crystal illustrates **apparent attribution**, whereas the magnet is an imperfect illustration of **activation**; neither by itself proves how a purely inactive witness triggers real evolution. This is Śaṃkara's objection, not proof Sāṃkhya has a secretly active creator.
 
 ## 7. WHY ŚAṂKARA TREATS SĀṂKHYA AS PRADHĀNA MALLA
 
@@ -746,6 +759,10 @@ Sāṃkhya inquiry begins from the impact of threefold suffering (**duḥkha-tra
 - ✅ **Teleology cannot be explained without consciousness:** if Prakṛti evolves "for the sake of" Puruṣa, purposiveness seems to require intelligence.
 - ✅ **Texts describing the cause as knowing (tajjñaḥ-type descriptions) exclude jaḍa-prakṛti.**
 - ✅ UPSC 2025 makes this a 20-marker shared with Vedanta.md.
+
+**2018 Q7(b): Advaita's response to *prakṛti-pariṇāma*, and Sāṃkhya's defence.** ⚠️ Advaita first denies that an **independent unconscious** *pradhāna* is the cause taught by passages describing an ultimate source that knows or wills; Brahman is conscious. It then argues that if reality itself transforms into changing products, the ultimate becomes mutable and the connection between the **inactive** witness and **unconscious** evolving matter stays unexplained (§6.4). Advaita instead distinguishes the empirical validity of seed-to-tree material transformation from its **ultimate** analysis as *vivarta* or appearance of name/form dependent on Brahman. The Sāṃkhya replies that it posits a **different**, unconscious *material* cause, not a mutable conscious Puruṣa: observed material continuity and effect-specific power (§4.2) warrant **real guṇa-pariṇāma**, while distinguishing *prakṛti* from pure awareness preserves the witness's changelessness. Merely redescribing empirical seed/tree change as ultimately apparent does not, by itself, supply a better account of its ordered causal specificity. ⚠️ Advaita counters that ordinary empirical efficacy need not confer independent ultimate reality, and that the appeal to non-physical proximity still needs an intelligible relation. Do not answer the question solely with a two-column “real/apparent” label.
+
+**2025 Q7(a): why “chief opponent” is more than a compliment.** ⚠️ Sāṃkhya agrees with Advaita that a general causal-metaphysical explanation must ground the whole world, rather than attributing it to random occurrences, and it has a sophisticated rival **scriptural and inferential** case for an unmanifest material cause. Śaṃkara therefore targets its **pradhāna** specifically: (1) conscious-source *śruti* resists an independent *jaḍa* cause; (2) apparent end-directed unfolding for each Puruṣa cannot be read straight off unconscious guṇas without specifying why they evolve and stop; (3) eternal presence of changeless Puruṣa leaves activation and individually timed liberation underexplained (§6.4); (4) if a completely independent material root is ultimate, non-dual Brahman no longer explains the universe. Sāṃkhya replies with the manifest world's guṇa-based material continuity, unconscious natural teleology, presence/reflection and numerical plurality (§§1.3, 2.4.4, 4.2, 6.2). ⚠️ Śaṃkara's critique is strongest against an unexplained link and the **Vedāntic** requirement of a conscious ultimate; the latter is not a premise Sāṃkhya simply grants. A full answer weighs each reply, rather than listing four criticisms as already decisive.
 
 ### 7.5 Exam conclusion
 
@@ -787,7 +804,7 @@ Sāṃkhya inquiry begins from the impact of threefold suffering (**duḥkha-tra
 
 - ✅ Mahat and buddhi are the SAME tattva — mahat is the cosmic name, buddhi is the individual/psychological name. They are NOT two separate stages.
 - ✅ Kaivalya ≠ mokṣa (Advaita) ≠ apavarga (Nyāya): kaivalya = isolation/aloneness of Puruṣa; mokṣa in Advaita = identity with Brahman; apavarga in Nyāya = cessation of suffering.
-- ✅ Classical Sāṃkhya is nirīśvara (atheistic) — no God. Don't confuse with theistic Yoga.
+- ✅ Classical Sāṃkhya is *nirīśvara*: it does not need or establish a creator God. This is not a demonstration that no divine being could exist; don't confuse it with theistic Yoga (§5.6).
 - ✅ Jīva is NOT a separate tattva — it is Puruṣa as empirically conditioned.
 - ✅ Satkāryavāda is NOT unique to Sāṃkhya (Advaita also holds it) — what's unique is that Sāṃkhya's version is pariṇāmavāda (real transformation) while Advaita's is vivartavāda (apparent transformation).
 - ✅ Rājasa ahaṃkāra does NOT produce a separate set of tattvas — it supplies ENERGY to both sāttvika and tāmasa lines.
@@ -939,9 +956,9 @@ Sāṃkhya inquiry begins from the impact of threefold suffering (**duḥkha-tra
 - **20 marks.** ⚠️ Sāṃkhya is a philosophically serious non-theistic system whose causal realism and psychology of reflection are impressive, but whose unconscious teleology and plurality of attributeless Puruṣas remain unresolved pressure points.
 
 
-## 12. PYQ ROUTING (2018–2025)
+## 12. PYQ ROUTING (2018–2026)
 
-> ⚠️ **Corpus signal:** 10 primary-owned question-parts out of 112. The local Paper I corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.
+> ⚠️ **Corpus signal:** 10 primary-owned question-parts out of 112 in the continuous 2018–2025 Paper I corpus, plus two parts in the separate 2026 supplement. Cross-links do not create duplicate ownership.
 
 | Year | Question | Marks | Exact demand |
 |---|---|---:|---|
@@ -955,8 +972,10 @@ Sāṃkhya inquiry begins from the impact of threefold suffering (**duḥkha-tra
 | 2023 | Q5(b) | 10 marks | “If Puruṣa and Prakṛti are two completely independent realities, then no relation between the two is possible.” In the light of this statement make a brief presentation of Śaṅkara’s criticism of Sāṃkhya dualism. |
 | 2024 | Q7(a) | 20 marks (10+10) | Present an account of evolution of Prakṛti as propounded in Sāṃkhyakārikā. In this context, also explain the difference between buddhi, mahat and ahaṃkāra. |
 | 2025 | Q7(a) | 20 marks | Why does Śaṅkara consider Sāṃkhya Philosophy as his chief opponent (pradhāna malla)? Examine his arguments against Sāṃkhya Philosophy. |
+| 2026 | Q5(c) | 10 marks | Is Purusa one or many? Explain and examine the Sankhya position in this context. |
+| 2026 | Q6(a) | 20 marks | "A mango tree is grown out of a mango seed." How do the Sankhya philosophers explain this process through their theory of causation by rejecting their rival perspectives? |
 
-See the [Indian Philosophy PYQ Bank, 2018–2025](../_PYQ-Indian-Philosophy-2018-2025.md).
+See the [Indian Philosophy PYQ Bank, 2018–2025](../_PYQ-Indian-Philosophy-2018-2025.md) and the [2026 supplement](../_PYQ-Indian-Philosophy-2026.md). The 2026 plurality question adds an explicit **examine** directive: present the three Kārikā arguments, then test whether differences in embodied streams prove numerically distinct witnesses (§2.4). The 2026 mango question retains the rival-rejection demand; answer both Nyāya and Advaita rather than simply repeating a seed/tree analogy (§4.7).
 
 ## 13. ANSWER ARCHITECTURE
 
@@ -1015,6 +1034,7 @@ Conclude why Sāṃkhya is the chief but rejected rival.
 - [Pramāṇa across schools](../_themes/Pramana-across-schools.md)
 - [Notions of God](../../paper-2/philosophy-of-religion/Notions-of-God.md)
 - [PYQ Bank](../_PYQ-Indian-Philosophy-2018-2025.md)
+- [2026 Indian PYQ supplement](../_PYQ-Indian-Philosophy-2026.md)
 - [Master Framework](../../00_Master-Framework.md)
 
 ## SOURCES

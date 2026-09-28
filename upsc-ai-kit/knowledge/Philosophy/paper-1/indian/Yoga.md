@@ -13,7 +13,7 @@ Metaphysical base: 25 tattvas shared with Sāṃkhya
         │
 Practical field: citta (mind-complex) becomes coloured by objects and reflects puruṣa
         │
-Problem: cittavṛttis + kleśas → karma → vipāka → āśaya → punarjanma
+Problem: cittavṛttis + kleśas → karma → karmāśaya → vipāka (birth, lifespan, experience)
         │
 Method: abhyāsa + vairāgya; kriyā-yoga; aṣṭāṅga-yoga; Īśvara-praṇidhāna
         │
@@ -51,7 +51,7 @@ End: kaivalya = isolation/aloneness of puruṣa from prakṛti
 
 ### 0A.1 Canonical ownership and answer-worthiness
 
-- **Marks-essential Yoga owner content:** mind-field, five modifications, afflicted/non-afflicted status, practice and dispassion, five afflictions, karma, eight limbs, absorption taxonomies, combined discipline, Īśvara, discriminative knowledge, cloud-of-dharma absorption, isolation and all seven routed PYQs.
+- **Marks-essential Yoga owner content:** mind-field, five modifications, afflicted/non-afflicted status, practice and dispassion, five afflictions, karma, eight limbs, absorption taxonomies, combined discipline, Īśvara, discriminative knowledge, cloud-of-dharma absorption, isolation and all eight routed PYQs (seven from 2018–2025 and one from 2026).
 - **Bridge material owned by Sāṃkhya:** primordial nature, conscious witness, qualities, twenty-five principles and real transformation. Yoga restates only enough metaphysics to explain its psychology and path.
 - **Optional enrichment:** exhaustive power catalogues, specialist commentarial disputes, uncertain textual chronology and modern wellness claims.
 
@@ -169,10 +169,10 @@ End: kaivalya = isolation/aloneness of puruṣa from prakṛti
 ### 1.9 PYQ application: scientist, devotee, self-realized yogi
 
 - ✅ UPSC in 2019 used the citta-bhūmi classification in applied form.
-- ✅ A **scientist** intensely focused on an empirical problem yet still directed outward and attached to worldly ends is best classified as **vikṣipta**.
-- ✅ A **God-realized devotee** whose mind is one-pointedly centred upon Īśvara is **ekāgra**.
-- ✅ A **self-realized yogi** in whom all modifications are fully stilled is **niruddha**.
-- ⚠️ The subtlety is important: high intellectual focus does not itself amount to yogic restraint.
+- ⚠️ A **scientist** who can concentrate intensely on an empirical problem but remains intermittently distracted or attached to worldly ends exemplifies **vikṣipta**; technical expertise alone does **not** prove that all scientists occupy that level. Sustained research focus can look like **ekāgratā** in an ordinary task, but this is not thereby liberation-oriented yogic *ekāgra-bhūmi*.
+- ⚠️ A **God-realized devotee** with steady, object-supported one-pointed contemplation of Īśvara exemplifies **ekāgra**. “God-realized” is not a technical proof of a particular bhūmi: if all vṛttis are actually restrained, **niruddha**, rather than ekāgra, is the apt classification.
+- ⚠️ A **self-realized yogi** whose citta-vṛttis are fully restrained exemplifies **niruddha**; self-realization is not inferred merely from a person's title. This does not mean Puruṣa itself changes mental levels.
+- ⚠️ **2019 Q7(b) justification:** identify the operative *citta-state* (intermittent, one-pointed with support, or restrained), give the corresponding bhūmi and dominant guṇa pattern (§1.6), then qualify the type-label. The question's three person-descriptions are prompts to reason from a state, not a licence to equate scientific work, devotion and liberation automatically with three immutable ranks.
 
 ### 1.10 Citta in inter-school perspective
 
@@ -431,14 +431,16 @@ End: kaivalya = isolation/aloneness of puruṣa from prakṛti
 - ✅ The afflictive mechanism may be summarised as:
 
 ```text
-Kleśas → Karma → Vipāka → Āśaya → Punarjanma
+Kleśas → afflicted action (karma) → karmic deposit (karmāśaya)
+        → ripening (vipāka: birth, lifespan and experience)
+        → further afflicted reaction unless the kleśa-root is removed
 ```
 
 - ✅ **Kleśas** motivate action.
 - ✅ Action deposits karmic force.
-- ✅ Karma ripens as **vipāka** (fruition).
-- ✅ The residual store becomes **āśaya** or karmic deposit.
-- ✅ This fuels further birth and suffering.
+- ✅ Action leaves a **karmāśaya** (karmic deposit) rooted in the kleśas.
+- ✅ That deposit ripens as **vipāka**, manifesting in birth, lifespan and experiences of pleasure or pain.
+- ✅ Without removal of the root, new reactions can renew the cycle of bondage.
 - ⚠️ The chain shows why Yoga is not satisfied with external behaviour-management; it aims at the root-affliction itself.
 
 
@@ -470,6 +472,7 @@ Kleśas → Karma → Vipāka → Āśaya → Punarjanma
 4. ✅ As citta is purified and discrimination matures, samādhi becomes stable.
 5. ✅ This culminates in kaivalya.
 - ⚠️ The 2021 20-marker demanded precisely this transition from **diagnosis of affliction** to **logic of liberation**.
+- ⚠️ **2021 Q6(a) execution:** define and individually distinguish all five afflictions (§§3.2–3.7), identify *avidyā* as their field and dormant/thin/interrupted/active modes (§3.8), then show **kleśa → karmāśaya → vipāka** (§§3.12–3.13). *Kriyā-yoga* attenuates gross affliction, meditation/discrimination checks subtle seeds and *viveka-khyāti* severs the false seer–seen identification (§§3.10–3.11, 6.4). The end is the guṇas' cessation of service to **this** Puruṣa, not destruction of consciousness or automatic release from momentary calm (§§6.7–6.9). ⚠️ Objection: a merely suppressed kleśa can revive; answer by distinguishing *vicchinna/prasupta* from genuinely exhausted causal seeds, and qualify any claim that the pure Puruṣa was literally bound.
 
 ### 3.15 Kleśa and error across schools
 
@@ -789,6 +792,8 @@ Dharmamegha-samādhi
         ↓
 Kaivalya
 ```
+
+**2024 Q7(b) appraisal of the quoted reflection claim.** ⚠️ The changing *citta* is a prakṛtic object; its sattva-predominant transparency reflects the light of an unchanging Puruṣa (§§1.3–1.4A). In *avidyā/asmitā*, the empirical “I” attributes thinking, pleasure and suffering to the witness, so *vṛttis* and *kleśas* generate action and karmic deposits (§§2.3, 3.3–3.13). Practice and dispassion restrain afflicted modifications; *samādhi* refines non-afflicted knowledge until *viveka-khyāti* distinguishes seer from mind (§§2.10–2.12A, 5, 6.4). **Appraisal:** this unifies psychological therapy with a theory of liberation, but reflection/proximity alone may not explain how ontologically independent Puruṣa and citta are associated; moreover useful *akliṣṭa* cognition must first arise before its own cessation (§§1.4A, 9.2–9.3). Yoga replies that all change is on the citta side, with Puruṣa never literally bound. Conclude with *kaivalya* as cessation of the mistaken attribution, not a new property manufactured in consciousness.
 
 ### 6.4 Viveka-khyāti
 
@@ -1224,9 +1229,9 @@ Kaivalya
 - ⚠️ **15 marks:** "Its strength lies in linking mental discipline, moral causation and liberation; its vulnerability lies in the unexplained proximity of inactive puruṣa and active prakṛti."
 - ⚠️ **20 marks:** "Yoga is philosophically richer than a praxis manual: it offers a realist metaphysics, a subtle moral psychology and a graded meditative epistemology, though its dualism and limited Īśvara leave live objections for Advaita, Nyāya and Buddhist critics."
 
-## 12. PYQ ROUTING (2018–2025)
+## 12. PYQ ROUTING (2018–2026)
 
-> ⚠️ **Corpus signal:** 7 primary-owned question-parts out of 112. The local Paper I corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.
+> ⚠️ **Corpus signal:** seven primary-owned question-parts out of 112 in the continuous 2018–2025 Paper I corpus, plus one in the separate 2026 supplement. The 2018 Nyāya-versus-Yoga God-proof question remains Nyāya-owned, not an eighth historical Yoga part. Cross-links do not create duplicate ownership.
 
 | Year | Question | Marks | Exact demand |
 |---|---|---:|---|
@@ -1237,8 +1242,9 @@ Kaivalya
 | 2023 | Q7(c) | 15 marks | Explain Citta and its modifications in the philosophy of Yoga. Why does Yoga philosophy prescribe cessation of modifications of Citta? Give reasons in support of your answer. |
 | 2024 | Q7(b) | 15 marks | “So long as there are changes and modifications in citta, the self is reflected therein, and, in the absence of discriminative knowledge, identifies itself with them.” Present an appraisal of Yoga Soteriology in the light of the above statement. |
 | 2025 | Q7(b) | 15 marks | Explain the nature of God and its role in Kaivalya in yoga philosophy. |
+| 2026 | Q5(e) | 10 marks | Explain, as per Yoga philosophy, the nature of Samadhi with special reference to the difference between Samprajnata Samadhi and Asamprajnata Samadhi. |
 
-See the [Indian Philosophy PYQ Bank, 2018–2025](../_PYQ-Indian-Philosophy-2018-2025.md).
+See the [Indian Philosophy PYQ Bank, 2018–2025](../_PYQ-Indian-Philosophy-2018-2025.md) and the [2026 supplement](../_PYQ-Indian-Philosophy-2026.md). For 2026, open with the nature of absorption (§5.1) and contrast **object-supported, cognitively determinate samprajñāta** (§§5.2–5.8) with **cessation of active vṛttis while impressions may remain in asamprajñāta** (§§5.9–5.10). Give YS 1.17's actual four factors separately from YS 1.42–1.44's *samāpatti* variants, and distinguish YS 1.18's *saṃskāra-śeṣa* from the final *nirbīja* restraint in YS 1.51 (§§5.3–5.9A). Neither form alone is automatically kaivalya (§6).
 
 ## 13. ANSWER ARCHITECTURE
 
@@ -1297,6 +1303,7 @@ Conclusion: kaivalya as the school's final soteriological meaning.
 - Cross-paper mystical cognition / samādhi parallels: [Religious-Experience.md](../../paper-2/philosophy-of-religion/Religious-Experience.md)
 - Paper I house constitution: [../../00_Master-Framework.md](../../00_Master-Framework.md)
 - PYQ bank: [../_PYQ-Indian-Philosophy-2018-2025.md](../_PYQ-Indian-Philosophy-2018-2025.md)
+- 2026 PYQ supplement: [../_PYQ-Indian-Philosophy-2026.md](../_PYQ-Indian-Philosophy-2026.md)
 
 ## SOURCES
 

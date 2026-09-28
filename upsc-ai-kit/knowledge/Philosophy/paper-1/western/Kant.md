@@ -111,7 +111,7 @@ KANT'S CENTRAL QUESTION: How are SYNTHETIC A PRIORI judgments possible?
 
 (Similar arguments apply, *mutatis mutandis*, to Time.)
 
-### 2.3 Transcendental Exposition of Space and Time (PYQ 2022 Q1e — direct demand) ✅
+### 2.3 Transcendental Exposition of Space and Time (2019 Q4(a); bridge to 2022 Q1(e)) ✅
 
 - A **transcendental exposition** explains how a given a priori representation makes synthetic a priori knowledge possible. ✅
 - **Space:** the a priori intuition of space explains how **geometry** (synthetic a priori) is possible. Geometrical truths (e.g. "the angles of a triangle sum to 180°") are necessarily true of all objects of experience because we *construct* spatial figures in pure intuition. ✅
@@ -159,7 +159,7 @@ Kant derives the twelve categories from the twelve logical forms of judgment:
 - The **"I think"** (*Ich denke*) must be able to accompany all my representations — otherwise something would be represented in me that could not be thought, which is impossible (or at least, would not be *my* representation). ✅
 - This is not an empirical, introspectable self (not Hume's bundle); it is a **logical/formal condition** — the unity that makes *any* experience mine. It is *transcendental* (a condition of possibility), not *transcendent* (a knowable substance). ✅
 - **Against Hume:** Hume found no impression of a self because he looked for an *empirical* self; Kant's "I think" is not an impression but the *form of all thinking* — it cannot appear IN experience because it is the condition OF experience. ⚠️
-- **Against rational psychology:** we cannot infer that this "I think" is a *substance* or *soul* (that would be the Paralogism — §4.2). The transcendental ego is a *function*, not a thing.
+- **Against rational psychology:** we cannot infer that this "I think" is a *substance* or *soul* (that would be the Paralogism — §4.3). The transcendental ego is a *function*, not a thing.
 
 ### 3.3A Relation of apperception to space and time
 
@@ -494,6 +494,40 @@ An antinomy is a **pair of contradictory propositions (thesis and antithesis), e
 - ⚠️ Hegel is therefore a culmination in the sense of extending constitutive idealism, but an attempted overcoming in the sense of rejecting Kant's limits and dualisms.
 - ❓ The Hegelian gain is systematic unity; the cost is the stronger claim that dialectical reason can know the Absolute.
 
+### 7.2A Reality and thought: the two approaches (2026 Q4(b))
+
+The 2026 stem asks **how Kant and Hegel each conceive the relation between
+reality and thinking about it**, not simply whether Hegel “fixes” Kant. Use
+the 2018 culmination question (§7.2) as a bridge, not as a substitute for
+two positive accounts.
+
+| Axis | Kant | Hegel |
+|---|---|---|
+| Objectivity | Experience is objectively valid because sensible intuitions are synthesised under a priori categories (§§1.3, 3.2, 3.6). | Reality is intelligible through a developing Concept, not a static given facing an external knower (cross-owner `Hegel.md` §§1.1, 2.1–2.2). |
+| What thought contributes | Space/time condition givenness; categories constitute the law-governed *form* of objects of possible experience; they do not create sensible matter or particular natural laws (§§2.1, 7.1). | Determinate thought articulates its own limits and overcomes them through negation and sublation; the development concerns reality and thought together, not a private mind inventing the world (`Hegel.md` §§1.2A, 2.1). |
+| Limit | Things considered independently of our sensible conditions remain outside theoretical knowledge; negative noumenon marks a boundary (§3.8). | An unknowable in-itself is an empty, fixed opposition: to state its limit is already to think a relation to it (`Hegel.md` §2.3). |
+| Method | Transcendental: ask what conditions make possible experience of objects necessary and valid. | Immanent/dialectical: test each finite determination by its own claims and develop a more concrete, mediated determination. |
+
+✅ **Shared insight:** knowing is not a passive copy of preformed objects.
+⚠️ **Difference:** Kant restricts the constitutive validity of categories
+to phenomena; Hegel contests the permanent thought/reality divide and
+understands the Absolute as a self-developing intelligible whole.
+Do not infer that Hegel equates the Absolute with a person's ideas, or
+that Kant doubts the empirical reality of nature.
+
+**Objection and reply:** Hegel's challenge is strongest against a
+*positive* description of a hidden noumenal object: if we can say what it
+is like, the boundary is unstable. Kant can reply that the *negative*
+noumenon is a limiting concept, not positive knowledge of another
+object (§3.8). Hegel can press that even a fixed unknowable limit
+presupposes an unexamined separation; Kant can object that dialectical
+unity has not thereby shown knowledge of reality independently of our
+conditions. ⚠️ Verdict: Hegel extends the demand for intelligibility and
+rejects a fixed limit; Kant insists that an account of objectivity also
+explain why its claims are valid **for objects of experience** without
+claiming access to things in themselves. Neither simply asserts
+“reality is mind.”
+
 ---
 
 ## 8. CRITICISMS AND REPLIES
@@ -515,7 +549,9 @@ An antinomy is a **pair of contradictory propositions (thesis and antithesis), e
 
 - ✅ Synthetic a priori judgment, space/time, categories, Ideas of Reason, antinomies and speculative God-proofs.
 - ✅ Copernican standpoint, apperception, deduction, schematism, Analogies, phenomena/noumena and Hume/Hegel comparisons required to make printed limbs executable.
-- ✅ All ten routed PYQs.
+- ✅ All ten routed 2018–2025 PYQs and the 2026 Kant-primary comparison.
+- ✅ The 2026 Kant–Hegel comparison has its primary route in §7.2A; the
+  2026 Hume–Kant comparison is cross-owned from `Empiricism.md` §1.3A.
 
 ### Optional enrichment
 
@@ -603,6 +639,15 @@ An antinomy is a **pair of contradictory propositions (thesis and antithesis), e
 | 2024 | Q2(c) | 15 marks | Critically examine Kant’s objections against the ontological argument for the existence of God. |
 
 See the [Western Philosophy PYQ Bank, 2018–2025](../_PYQ-Western-Philosophy-2018-2025.md).
+
+### 2026 additions ✅
+
+| Year | Question | Marks | Exact demand | Owner status |
+|---|---|---:|---|---|
+| 2026 | Q4(b) | 15 marks | Analyze and discuss the different ways in which Kant and Hegel conceived the relationship between reality and our thinking about reality. | **primary** — §7.2A, with §§1.3, 2.1, 3.2, 3.8 and 7.1–7.2; Hegel half cross-linked to `Hegel.md` §§1, 2 |
+| 2026 | Q2(b) | 15 marks | How does Hume account for ideas of reason? How does Kant respond to Hume's views in this regard? Critically discuss. | **cross-owned** — Kant's reply at §§1.1–1.3, 3.4, 3.6.2; primary owner `Empiricism.md` §1.3A |
+
+See the [Western Philosophy PYQ Bank, 2026](../_PYQ-Western-Philosophy-2026.md).
 
 ## 12. ANSWER ARCHITECTURE (10 / 15 / 20 marks) ⚠️
 

@@ -2,7 +2,7 @@
 
 > **Syllabus (verbatim):** Problem of Evil.
 > **Evidence key:** ✅ canonical doctrine/fact · ⚠️ analytical synthesis for exam use · ❓ contested/uncertain · 📰 dated current anchor only
-> **Placement:** The issue tests whether evil is logically or evidentially compatible with the God-concept being defended. PYQ routing below covers the fully audited 2018–2025 Paper II bank.
+> **Placement:** The issue tests whether evil is logically or evidentially compatible with the God-concept being defended. PYQ routing below covers the 2018–2025 Paper II bank and the separately verified 2026 supplement.
 
 ## Exact printed ownership and cross-topic firewall
 
@@ -38,10 +38,10 @@ sufferer's experience to them.
     Plantinga)     Hick)           Griffin —      of good; sin/    (evil = fruit
    evil from       evil needed     God NOT        Fall)            of one's own
    misused         for growth/     omnipotent,                     past deeds →
-   free will       soul-building   persuasive)                     no God to blame)
+   free will       soul-building   persuasive)                     creator optional)
    ─── moral evil vs natural evil ───   ─── logical vs evidential problem ───
 ```
-> 🔑 **Mnemonic — "F-S-P-A-K":** **F**ree-will, **S**oul-making, **P**rocess, **A**ugustinian, **K**arma. Five ways to answer why a good God allows evil (Indian route: no such God needed).
+> 🔑 **Mnemonic — "F-S-P-A-K":** **F**ree-will, **S**oul-making, **P**rocess, **A**ugustinian, **K**arma. Distinct responses to suffering; non-theistic karma removes the creator, whereas theistic karma retains a divine dispenser and a responsibility question.
 
 ---
 
@@ -49,7 +49,7 @@ sufferer's experience to them.
 - **Logical problem (Mackie):** the propositions *God is omnipotent*, *God is perfectly good*, and *evil exists* are **not formally contradictory by themselves**. The contradiction requires added principles: a perfectly good being opposes evil as far as it can, and an omnipotent being has no relevant limit on preventing it. ✅
 - **Evidential problem (Rowe):** even if not a strict contradiction, the **amount and distribution** of pointless suffering makes God's existence **improbable**. ✅
 - **Kinds of evil:** **moral evil** (from human wrongdoing — cruelty, injustice) vs **natural evil** (earthquakes, disease, suffering not caused by will). ✅
-- **"Problem is an offshoot of how God is conceptualised" (2024 PYQ):** the problem bites *only* on a God who is **simultaneously omnipotent + wholly good + creator**. Weaken any attribute (finite God, impersonal Absolute, no God) and the problem dissolves — hence it is **concept-dependent**. ⚠️
+- **"Problem is an offshoot of how God is conceptualised" (2024 PYQ):** the **classical inconsistency charge** is strongest against a God who is simultaneously omnipotent, perfectly good, knowing and creator. A finite process God removes *that precise* inconsistency by denying unilateral power, but still faces whether divine persuasion does enough; an impersonal absolute or no creator removes the defendant but not the reality of suffering. The *form and target* of the problem are concept-dependent; suffering itself does not dissolve. ⚠️
 
 ### 1.1 Divine profile, additional premises and three burdens
 
@@ -85,10 +85,10 @@ the actual quantity of suffering or make the divine reason probable.
 ---
 
 ## 3. THE INDIAN RESPONSE — Karma ✅
-- **Karma-saṃsāra:** suffering is the **fruit of one's own past deeds** across lives; the moral law is **self-operating**. So evil raises **no problem for a creator's goodness** — it is **cosmic justice**, not divine cruelty. ✅
-- **Advantage:** explains the *distribution* of suffering (why the apparently innocent suffer — past-life karma) that stumps Western theodicy.
-- **In theistic Indian systems (Nyāya, Rāmānuja):** God dispenses karmic fruit *justly* (karmādhyakṣa) — God is a judge, not an arbitrary cause of evil. ✅
-- **Critique:** risks blaming victims; infinite regress of karma; a-morality of an impersonal law.
+- **Karma-saṃsāra:** some traditions explain suffering by the ripening of deeds across lives, but **no particular sufferer's past deed can be inferred by an ordinary observer**. Non-theistic accounts do not need a creator; in theistic accounts karmic order and divine administration coexist. ✅
+- **Explanatory advantage and limit:** karma proposes an account of distribution across lives that the standard free-will defence lacks, but the specific past deed, justice of the arrangement and suffering of animals or bystanders remain open to challenge. ⚠️
+- **In theistic Indian systems (Nyāya, Rāmānuja):** God dispenses karmic fruit in accordance with agents' deeds, rather than arbitrarily. **The question remains** why a good and powerful God sustains this order and permits extreme suffering; a just dispenser is not automatically absolved as creator. ✅
+- **Critique and bounded reply:** victim-blaming and unverifiability are serious costs; many traditions treat the series as **beginningless** rather than posit a first sin, but beginninglessness alone does not demonstrate justice. Do not infer that an individual sufferer "deserved" harm; compassion and prevention remain duties. See §9.5.
 
 ---
 
@@ -96,12 +96,12 @@ the actual quantity of suffering or make the divine reason probable.
 | Theodicy | Evil explained | Attribute preserved | Weakness |
 |---|---|---|---|
 | Free-will | moral | omnipotence + goodness | natural evil left over |
-| Augustinian privation | moral (via Fall) | all attributes | metaphysics of "privation" strained |
+| Augustinian privation | moral fault; natural suffering via Fall/punishment (contested) | classical creator goodness | first fall and innocent/animal suffering |
 | Soul-making (Hick) | moral + natural | goodness (purpose) | scale/animal suffering; universalism |
-| Process | all | goodness (not omnipotence) | sacrifices classical omnipotence |
-| Karma | all (incl. distribution) | cosmic justice (no creator-blame) | victim-blaming; regress |
+| Process | finite agencies and natural processes | goodness (revises omnipotence) | cannot guarantee prevention or ultimate victory |
+| Karma | proposed distribution across lives | creator optional; divine justice disputed if retained | unverified past causes; victim-blaming |
 
-> 🔑 The winning answer **names the inconsistent triad, deploys 2–3 theodicies, adds the Indian karma bridge, and concludes on the concept-dependence** (weaken an attribute → dissolve the problem).
+> 🔑 The strong answer identifies **which problem the stem asks**: state its bridging premises, test a version-matched response and its residual cost, and add an Indian comparison only where relevant. Changing the God-concept can remove a specific contradiction without removing suffering.
 
 ---
 
@@ -117,13 +117,14 @@ the actual quantity of suffering or make the divine reason probable.
 1. **[Augustine]** "'All evil is either sin or punishment for sin.' Discuss." (2023, 20m) → §2(b).
 2. **[Process]** "Main tenets of Process Theodicy." (2025) → §2(d).
 3. **[Concept-dependence]** "'Problem of evil is an offshoot of how God is conceptualised.' Discuss." (2024) → §1.
-4. **[Responsibility]** "If God is absolute creator, evil can't belong to the human agent." (2022) → free-will defence §2(a).
+4. **[Responsibility]** "If God is absolute creator, evil can't belong to the human agent." (2022) → §9.2A: authorship versus permission and risk.
 5. **[Evil & profane]** "Role of the concepts of evil and profane in founding religion." (2019, 15m) → §9.6.
 6. **[Logical problem]** "What is the logical problem of evil?" (2020, 15m) → §9.1 — the marks are in the **bridging premises**.
-7. **[Omnipotence paradox]** "Paradox of omnipotence in the context of evil." (2021, 10m) → §9.1 + [Notions §8.7](./Notions-of-God.md).
+7. **[Omnipotence paradox]** "Paradox of omnipotence in the context of evil." (2021, 10m) → §9.1A; [Notions §8.7](./Notions-of-God.md) for attribute theory.
 8. **[Horrendous]** "Can any theodicy answer horrendous evils?" → §9.7 (defeat vs balancing off).
 9. **[Animal]** "Does animal suffering defeat theodicy?" → §9.8.
 10. **[Skeptical theism]** "Does our failure to see a reason show there is none?" → §9.9 (CORNEA).
+11. **[Augustine: two evil-types]** "In what sense does sin or its punishment coherently account for moral *and* natural evil?" (2026, 20m) → §9.3A, not an all-purpose theodicy list.
 
 ---
 
@@ -145,11 +146,15 @@ the actual quantity of suffering or make the divine reason probable.
 ### 7.1 — "'The problem of evil is an offshoot of how God is conceptualised.' Discuss." (2024, 15m)
 ```
 Intro : state the inconsistent triad (omnipotent + good + evil).
-Body  : the problem bites ONLY on classical theism; weaken an attribute → it dissolves —
-        finite God (Process), impersonal Absolute/Advaita (evil = vyāvahārika/māyā),
-        no God (karma/atheism).
-Assess: hence concept-dependent; theodicies (free-will, soul-making) try to keep all attributes.
-Concl : the problem is a stress-test of a *particular* God-concept, not of religion as such.
+Body  : give the extra bridge about prevention and morally sufficient reason.
+        Classical theism faces the sharpest inconsistency challenge; process theology
+        limits unilateral power; Advaita relocates suffering to empirical reality;
+        non-creator traditions remove divine permission, not suffering itself.
+Assess: a finite God can still be asked why it did not persuade more effectively;
+        theistic karma still faces divine responsibility for the system. Defences
+        (free will, soul-making) instead seek to retain the classical attributes.
+Concl : the problem changes with the God-concept; no change of definition alone
+        explains or alleviates the sufferer's actual pain.
 ```
 
 ### 7.2 — "'All evil is either sin or punishment for sin.' (Augustine) Critically discuss." (2023, 20m)
@@ -158,7 +163,7 @@ Intro : Augustine's free-will + privation theodicy.
 Body  : evil = privatio boni (not created by God); moral evil from misused free will;
         suffering as just punishment for sin (original + actual).
 Crit  : natural evil & innocent/animal suffering fit poorly; "privation" is strained;
-        contrast Hick's soul-making & Indian karma (better on distribution).
+        contrast Hick's developmental (not retributive) account.
 Concl : preserves God's goodness for moral evil, but incomplete for natural/innocent suffering.
 ```
 
@@ -211,6 +216,12 @@ Concl : it purchases God's innocence at the price of God's sovereignty — the t
 - **Canonical example.** ✅ Rowe's suffering fawn functions as an evidential case, not as a deductive contradiction.
 - **Objection → reply.** ⚠️ Sceptical theism denies that inability to see a reason warrants belief that none exists; critics reply that excessive scepticism also undermines ordinary moral reasoning.
 
+### 9.1A Omnipotence paradox in the presence of evil (2021 Q5(e), 10 marks)
+
+**State the dilemma, not just the triad.** ⚠️ (1) If unrestricted power includes the ability to create a power God **cannot** subsequently control, God loses unrestricted future power and evil may result. (2) If God cannot create that power, there is a seeming present limit on creative power. Mackie's first-order versus second-order power distinction sharpens the problem beyond "can God lift a stone?": can unrestricted power create a real limit on its own future exercise? **Genuine creaturely freedom alone does not prove that God lacks the power to intervene**; the free-will defender must separately argue why preventing particular choices would compromise the good at stake. If God *can* prevent actual evils yet does not, perfect goodness is challenged; this is an added *moral* premise, not a logical consequence of the power paradox alone.
+
+**Response and residual cost.** ✅ Aquinas' possible-act restriction treats a logically contradictory specification ("an all-powerful being creates a limit it cannot overcome while remaining unrestrictedly all-powerful") as no possible task, rather than an act beyond God's power. ⚠️ A free-will defender can further claim that forcing a free choice to be freely good is contradictory; **Plantinga's transworld-depravity defence** needs only the possibility that no feasible world with significantly free creatures is free of moral evil, not proof that ours is such a world. Neither response justifies the actual amount of suffering or directly handles natural evil. **10-mark route:** both horns → logical impossibility versus moral unwillingness → qualified reply → natural-evil remainder.
+
 ### 9.2 Free-will defence
 - **Doctrine statement.** ✅ Significant creaturely freedom is a great good whose possibility includes morally wrong choice; God can create free persons without causally determining only good choices.
 - **Argument.** ✅ (1) Determined goodness lacks significant freedom; (2) freedom includes alternatives; (3) some misuse is possible; (4) moral evil can therefore coexist with divine goodness. Plantinga's defence needs only logical possibility, not a full history of evil.
@@ -218,6 +229,18 @@ Concl : it purchases God's innocence at the price of God's sovereignty — the t
 - **Distinction.** ✅ Defence is strongest for moral evil; natural evil requires an additional account.
 - **Canonical example.** ✅ A world of programmed beneficence lacks the moral authorship of a world containing genuinely responsible agents.
 - **Objection → reply.** ⚠️ Why not free agents who always freely choose good? The reply invokes possible transworld depravity, though its actuality is not demonstrated.
+
+### 9.2A Absolute creator and human responsibility (2022 Q6(c), 15 marks)
+
+**Disambiguate "responsibility" before choosing a side.** ✅ A God who is *absolute creator* sustains the existence and causal capacity of creatures; a finite agent can still **perform and intend** a wrongful act. Distinguish (i) **causal dependence** (could this agent act at all without creation?), (ii) **moral authorship** (who formed the culpable intention?), (iii) **permission** (who knowingly allowed the risk?), and (iv) **system-design responsibility** (who chose to create this world rather than another?). "God causes the creature's existence" does not entail "God wills the evil intention"; conversely, "the agent intended it" does not settle the creator's responsibility for permitting predictable harm.
+
+| Position | Argument applied to the printed conditional | Best objection and bounded reply |
+|---|---|---|
+| **Determinist/strong author view** | If God determines **every choice**, attributing ultimate responsibility *only* to the creature looks incoherent; divine foreknowledge of the entire world intensifies the question | Some compatibilists make accountability depend on the agent's own desires rather than an uncaused alternative. But a perfectly good author who selects those desires still owes an explanation for creating this history |
+| **Libertarian free-will defence** | Creating capacities and a situation is not identical to producing a freely chosen evil intention; significant moral agency can account for culpability | Could God create free agents who always choose well? Plantinga's possible transworld depravity blocks the claim that God **must** be able to actualise such a world; it does not show that no such world exists or explain why these victims suffer |
+| **Indian theist comparison (Nyāya/Rāmānuja)** | God administers karmic results or permits the *jīva*'s action while retaining creaturely authorship; creation and moral agency need not be rivals | Divine maintenance of the order and unequal pain still raise permission and justice questions. Prior karma is not independent evidence that an actual victim deserves harm |
+
+**Verdict.** ⚠️ The quoted thesis overstates its conclusion if it means that *any* absolute creator logically cancels human culpability. It has force against exhaustive divine determination and against the claim that human fault completely removes divine permission/design responsibility. Even a satisfactory free-will defence answers principally **moral** evil; natural evil remains. Assess creator and agent separately rather than declaring either innocent by definition.
 
 ### 9.3 Augustinian privation
 - **Doctrine statement.** ✅ Evil is not a created substance but privation or disorder of a due good; culpable evil originates in defective will.
@@ -231,6 +254,19 @@ Concl : it purchases God's innocence at the price of God's sovereignty — the t
   second interpretation reduces the inherited-guilt objection but still owes
   an account of why a good creator permits the condition and its unequal effects.
 - **Objection → reply.** ⚠️ Innocent and animal suffering resist punishment-for-sin explanations. Augustinian accounts appeal to fallen order; critics find the historical and moral burden unresolved. Privation explains evil's metaphysical dependence on good, but does not by itself justify why this deprivation was permitted.
+
+### 9.3A Augustine's sin-or-punishment dichotomy: moral **and** natural evil (2026 Q6(a), 20 marks)
+
+**Textual basis and two explanatory stages.** ✅ In Augustine's *Enchiridion* ch. IV §§12–15 all created **natures** are good yet *mutable*: an evil is a *privation* of a due good in an existing nature, not a second substance created alongside the good. In ch. VIII §§23–27 the will of a mutable rational creature first defects (angels, then humans); *bodily death*, ignorance and misery follow the human Fall, and Augustine understands descendants as inheriting sin and its penalties. Thus the printed dichotomy divides **evil of fault** (culpable sin) from **evil of punishment** (harm consequent on fault). Privation says *what evil is metaphysically*; sin/punishment purports to say *why distinct evils occur*. Neither thesis alone proves that every natural calamity is a just penalty.
+
+| Evil-type | Augustine's proposed route | Why it has force | What remains hard |
+|---|---|---|---|
+| **Moral evil** (deliberate cruelty, betrayal) | A created but changeable good will freely turns toward a lesser good; the defect belongs to its willing, not to a rival evil substance God made | Preserves a real finite moral author while refusing to make evil an independently created thing | **Schleiermacher/Hick challenge:** why would an originally wholly good creature or angel turn away? A *mutable* good need not be impeccable, but naming mutability and choice does not explain the first defection or fully release the knowing creator from permission/design responsibility (§9.2A) |
+| **Natural evil** (bodily death, illness, disasters) | Read human vulnerability and disordered conditions as penalties/consequences of the Fall; angelic sin can be invoked for a wider cosmic disorder | Offers a unifying narrative in which God does not create evil as a positive substance; Augustine expressly includes bodily death among penalties | No independent demonstration connects a given earthquake, pre-human predation or child's illness with antecedent voluntary wrongdoing. Punishing descendants for an ancestor's deed and explaining non-human suffering by fallen angels each add a contested moral or historical premise; a lack of health is still real pain requiring explanation |
+
+**Objection → charitable reply → residual verdict.** ⚠️ Schleiermacher's challenge is **conditional**, not the claim that Augustine literally teaches "creatures were impeccably perfect": *if* original goodness rules out a fall, sin is inexplicable; *if* fallibility was built into creation, divine choice to create fallible agents and a vulnerable order reopens responsibility. The Augustinian can reply that a *finite, mutable* creature is good without being incapable of defect, and that foreknowledge does not cause the creature's act. This protects creaturely culpability but does not justify the scale of natural/innocent suffering. **Hick's Irenaean contrast** begins instead with immature persons and sees stable-law hardship as an environment for growth, not retribution; it avoids dependence on a historical Fall but faces disproportionate suffering and animal pain (§§9.4, 9.8).
+
+**20-mark answer spine (2026 Q6(a)).** State privation **and** sin/punishment as different claims; explain the originating will and inherited consequences with textual care; evaluate moral evil and natural evil **in separate paragraphs** against the perfect-origin and innocence/pre-human objections; present the finite-mutable reply and Hick's developmental alternative; conclude **qualified success for moral fault, contested extension to natural evil**. Do not say Augustine thinks a child or an animal personally committed the wrong that caused its present suffering.
 
 ### 9.4 Hick's Irenaean soul-making
 - **Doctrine statement.** ✅ Humans are created immature and develop into morally responsible likeness through freedom, epistemic distance and a stable world containing danger.
@@ -344,7 +380,7 @@ speculative explanation; a theodicy never licenses passivity toward preventable 
 | Hick | ✅ Growth through freedom | ✅ Environment of growth | Preserves purposive goodness | Proportionality and afterlife |
 | Process | ✅ Finite agency | ✅ Finite causal powers | Revises omnipotence | Non-classical God |
 | Karma | ✅ Moral causation | ⚠️ Extends explanation across lives | Creator optional | Verification and victim-blaming |
-| Advaita | ⚠️ Evil at empirical level | ⚠️ Sublatable under knowledge | Ultimate Brahman untouched | Risk of minimising suffering |
+| Advaita | ⚠️ Evil at empirical level | ⚠️ Sublatable under knowledge | Ultimate Brahman untouched | Empirical suffering persists; risk of minimising it |
 
 ## 11. CRITICISMS AND REPLIES
 
@@ -368,6 +404,8 @@ speculative explanation; a theodicy never licenses passivity toward preventable 
 11. ⚠️ Do not answer animal suffering with the free-will defence. It does not apply, and saying so is itself a mark-earning move.
 12. ⚠️ Do not present skeptical theism as a theodicy. It denies the atheist's *inference*; and its standing cost is that the same scepticism threatens ordinary moral judgement.
 13. ⚠️ Do not let "God's ways are mysterious" stand in for skeptical theism. State CORNEA or Bergmann's representativeness theses, or do not use the position.
+14. ⚠️ Do not say process theodicy **ends suffering** or that karma automatically exonerates a God still posited by Nyāya; each addresses a different target.
+15. ⚠️ For the 2026 Augustine stem, distinguish evil's privative *status* from the proposed *cause* of moral faults and the disputed penal explanation of natural evils.
 
 ## 13. KEYWORD & STATEMENT BANK
 
@@ -384,9 +422,9 @@ speculative explanation; a theodicy never licenses passivity toward preventable 
 
 <!-- expanded-pyq-depth:end -->
 
-## 14. PYQ ROUTING (2018–2025)
+## 14. PYQ ROUTING (2018–2026)
 
-> ⚠️ **Corpus signal:** 7 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.
+> ⚠️ **Corpus signal:** 7 primary-owned question-parts out of 112 in 2018–2025, plus one primary-owned part in the separately verified 2026 supplement. Cross-links do not create duplicate ownership.
 
 | Year | Question | Marks | Exact demand |
 |---|---|---:|---|
@@ -397,8 +435,10 @@ speculative explanation; a theodicy never licenses passivity toward preventable 
 | 2023 | Q8(a) | 20 marks | “All evil is either sin or punishment for sin.” — St. Augustine. Critically discuss. |
 | 2024 | Q6(c) | 15 marks | “The problem of evil is a direct offshoot of how God is conceptualised in a system.” Critically discuss. |
 | 2025 | Q6(b) | 15 marks | Explain the main tenets of the Process Theodicy as an explanation of the problem of evil. |
+| 2026 | Q6(a) | 20 marks | In what sense does St. Augustine's identification of all evil as either sin or as the punishment of sin succeed or fail in providing a coherent account of both moral and natural evil? Evaluate. → §9.3A |
 
 See the [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md).
+See also the [2026 supplement](../_PYQ-PhilosophyOfReligion-2026-Supplement.md) for controlling wording.
 
 ## 15. ANSWER ARCHITECTURE (10 / 15 / 20 MARKS)
 
@@ -428,9 +468,10 @@ two objections and replies → distinguish defence from theodicy → graded verd
 | **Discuss the paradox of…** | A paradox stated as a dilemma with both horns | Horn 1 → cost; Horn 2 → cost; then the restriction that dissolves it | 2021 Q5(e) omnipotence |
 | **Critically examine [a quoted thesis]** | Fidelity to the quotation's *scope* before evaluation | Ask first: does the claim cover moral evil only, or natural too? | 2022 Q6(c) absolute creator |
 | **"Quotation." — Critically discuss** | Reconstruct the author's own system, then test it | Give Augustine's privation metaphysics before objecting | 2023 Q8(a) "All evil is either sin or punishment for sin" |
-| **"Direct offshoot of how God is conceptualised." Critically discuss** | Show the *dependence* by varying the God-concept | Run the triad against 4 God-concepts and watch it dissolve | 2024 Q6(c) |
+| **"Direct offshoot of how God is conceptualised." Critically discuss** | Show the *dependence* by varying the God-concept | Run the triad against four God-concepts; track which charge changes and which suffering remains | 2024 Q6(c) |
 | **Explain the main tenets of X** | Enumerated doctrine, correctly attributed | Number the tenets; name Whitehead/Hartshorne/Griffin separately | 2025 Q6(b) process theodicy |
 | **What role do A and B play to provide a firm foundation to…** | A *functional* account, not a definition | Predicament → boundary → institution → soteriology | 2019 Q6(b) evil and profane → §9.6 |
+| **In what sense does X succeed or fail ... both A and B? Evaluate** | Test each named explanandum independently | Privation and origin of fault → moral evil → punitive account → natural evil → split verdict | 2026 Q6(a) Augustine → §9.3A |
 
 > 🔑 **Rule:** always state *which version* of the problem you are answering (logical / evidential / horrendous / animal / distribution) in the first two lines. Theodicies are version-specific, and a mismatched theodicy scores as an error.
 
@@ -447,7 +488,7 @@ two objections and replies → distinguish defence from theodicy → graded verd
 **Graded-verdict templates:**
 - ⚠️ *Logical problem:* "The set is inconsistent only with the bridging premises; deny either and the contradiction dissolves — but the theist then owes an account of what a good omnipotent being *would* tolerate, which is where the evidential problem restarts."
 - ⚠️ *Theodicy stem:* "The theodicy answers the version of the problem it was designed for and leaves ___ untouched; its cost is ___, and a theodicy is not refuted by its cost but is measured by it."
-- ⚠️ *Concept-dependence stem:* "The problem is a stress-test of one God-concept, not of religion. Weaken omnipotence (process), weaken personality (Advaita), or remove the creator (Buddhism/Jainism/Mīmāṃsā) and it dissolves — but each dissolution purchases relief with a religiously significant loss."
+- ⚠️ *Concept-dependence stem:* "The classical contradiction targets one God-concept, not religion in general. Limit unilateral power (process), distinguish empirical worship from ultimate nondual Brahman (Advaita), or remove the creator (Buddhism/Jainism/Mīmāṃsā), and the target changes — while suffering and the ethical demand to answer it remain."
 
 ## 18. FACTUAL AND QUOTATION DISCIPLINE
 
@@ -488,6 +529,7 @@ two objections and replies → distinguish defence from theodicy → graded verd
 - John Hick, *Evil and the God of Love*.
 - J. L. Mackie, "Evil and Omnipotence"; Alvin Plantinga, *God, Freedom, and Evil*.
 - Augustine, *Enchiridion* and *City of God*.
+- Augustine, *Enchiridion*, ch. IV §§12–15 (created goodness and privation), ch. VIII §§23–27 (angelic/human defection and inherited penalties): <https://ccel.org/ccel/augustine/enchiridion/enchiridion.chapter4.html>, <https://ccel.org/ccel/augustine/enchiridion.chapter8.html>.
 - A. N. Whitehead, *Process and Reality*; Charles Hartshorne, *Omnipotence and Other Theological Mistakes*; David Ray Griffin, *God, Power, and Evil: A Process Theodicy*.
 - Marilyn McCord Adams, *Horrendous Evils and the Goodness of God*; William Rowe, "The Problem of Evil and Some Varieties of Atheism".
 - Stephen Wykstra on CORNEA; Michael Bergmann and Daniel Howard-Snyder on skeptical theism; Michael Murray, *Nature Red in Tooth and Claw*.

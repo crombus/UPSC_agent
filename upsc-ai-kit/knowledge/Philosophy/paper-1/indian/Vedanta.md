@@ -38,7 +38,7 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
 └──────────────────────┴────────────────────────────────┴────────────────────────────┘
 ```
 
-> ⚠️ **Exam thumb-rule:** every term in this clause must be answered in a **three-school comparative mode**, even when the question explicitly names only one school.
+> ⚠️ **Exam thumb-rule:** identify the school the question actually names and answer its demand first; add comparison only where the directive, marks or criticism warrants it. The three-school framework is a guide, not a reason to replace a Nimbārka or four-school question with the big three.
 
 ---
 
@@ -110,6 +110,7 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
 - ✅ Therefore Brahman is both the intelligence behind the world and the material basis of its appearance.
 - ✅ The classic image is the **spider** that spins the web out of itself.
 - ⚠️ But Śaṃkara qualifies the material-cause claim through **vivarta**: Brahman does not really transform into the world; the world is an appearance dependent on Brahman.
+- ⚠️ **2025 Q6(b) causal precision:** at the empirical level Īśvara (*māyā*-conditioned Brahman) orders/projectively manifests names and forms, so he is the **intelligent efficient cause**; Brahman is the **non-separate substratum** without which no appearance could obtain, hence material cause in the qualified Advaitic sense. Later Advaita can call *māyā* the dependent, changing **seed/material** of the phenomenal variety; it is not a second independent ultimate material alongside Brahman. The spider/web analogy illustrates non-separateness and intelligence, **not** literal extraction of real thread from a changing Brahman. The rope/snake illustrates unmodified substratum and sublatable appearance, **not** an intelligent maker. Taken together the two images explain why both causal predicates are applied at *vyavahāra* while *pāramārthika* Brahman has no actual production. ⚠️ A realist can object that a substratum of appearance is not “material cause” in the ordinary real-transformation sense; do not conceal that dispute by citing only the spider.
 
 #### (b) Viśiṣṭādvaita
 
@@ -129,7 +130,7 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
 - ✅ This Vedāntic doctrine differs sharply from [Sāṃkhya](Samkhya.md) and [Nyāya-Vaiśeṣika](Nyaya-Vaisesika.md).
 - ✅ In Sāṃkhya, **prakṛti** is material cause and there is no efficient creator-God.
 - ✅ In Nyāya, God is primarily the **efficient** cause, while eternal atoms are the **material** cause.
-- ⚠️ A compact contrast line for answers: **Sāṃkhya splits material causality from intelligence, Nyāya splits efficient from material causality, Vedānta reunites both in Brahman.**
+- ⚠️ A compact contrast line for answers: **Sāṃkhya separates unconscious material nature from conscious witnesses, Nyāya separates efficient God from material atoms; Advaita and Viśiṣṭādvaita unite the two causal roles in Brahman in different senses, while Madhva retains dependent matter as material cause.**
 
 ### 1.7 Rāmānuja's critique of nirguṇa Brahman
 
@@ -862,6 +863,8 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
 - ✅ Non-conscious reality (**acit**) includes ordinary primordial matter (**prākṛta**), non-prakritic divine substance (**aprākṛta**) and time (**kāla**).
 - ✅ Creation is a real transformation of Brahman's dependent powers, and liberation arises through knowledge enabled by devotion and grace without destroying individuality.
 - ⚠️ This bounded orientation answers the 2020 matter question and locates Nimbārka without displacing the three primary comparative schools.
+- ⚠️ **2020 Q5(e), types and their explanatory role:** *prākṛta* names the mutable, guṇa-constituted physical/material domain; *aprākṛta* is non-ordinary, non-prakritic substance associated with the divine realm and not simply a second name for gross matter; *kāla* is time as a real non-conscious condition/order. The three are not three independent rivals to God, nor is *aprākṛta* Śaṃkara's indefinable *māyā*. They specify differentiated **acit** that exists and acts only in dependence on Brahman. ⚠️ Expositions vary in how they enumerate *kāla* and distinguish *aprākṛta*; declare the classification being used rather than claiming universal terminology.
+- ⚠️ **2026 Q7(c), an evaluative answer across all three terms:** Nimbārka's **God (Brahman/Kṛṣṇa)** is the independently real controller and ground; **souls (cit)** are conscious, finite, many, capable of knowledge/devotion and never simply identical in capacity to God; **matter (acit)** is real, non-conscious and transforms (including the threefold taxonomy above). Souls and matter are **different** from God in properties and capacities, yet **non-different** in their inability to exist independently of him. The familiar **sun–rays** analogy illustrates dependent unity with persistent distinction; it does not prove that conscious souls are literally physical parts of God. Liberation preserves dependent individuality through devotion and grace (§9A.5), unlike Advaita identity, while unlike Madhva the difference is paired with real non-difference. ⚠️ **Assessment:** the view secures world reality and devotion without a second independent ultimate; the critic asks how a single relation can be both difference and non-difference without contradiction. Nimbārka replies that the predicates are in **different respects** (distinct natures versus inseparable dependence), not “A and not-A” unqualified; Advaita or Dvaita can still dispute that dependence amounts to **real non-difference**. End with qualified agreement or disagreement **on this relation**, as the printed “Do you agree?” requires.
 
 ---
 
@@ -891,6 +894,7 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
   2. entirely controlled by Brahman,
   3. exist for Brahman's purposes.
 - ⚠️ This was asked directly in **2024**.
+- ⚠️ **2026 Q8(b), what the analogy explains and what it risks:** *cit* is conscious, many and able to act; *acit* is non-conscious and mutable; both are real **dependent modes**, not detachable substances lying outside God. As body to indwelling self, they are supported, controlled and exist for Brahman, so Brahman is one qualified whole and both efficient and material cause through their states (§§1.3, 1.5, 5.4). **Objection 1:** if a body changes, suffers and is impure, does the divine indweller undergo its changes and imperfections? **Rāmānuja's reply:** changes belong to dependent modes—especially *acit*—not to Brahman's essential auspicious nature; the ordinary organism is an analogy of dependence, not a claim that God has flesh or suffers. **Objection 2:** if souls are conscious moral agents, calling them God's “body” appears to erase freedom and responsibility. **Reply:** their capacities and actions are real though sustained and governed by God; dependence need not equal numerical identity or mechanical compulsion. ⚠️ **Remaining pressure:** exactly how genuine creaturely agency and modal change fit an unqualifiedly perfect, absolutely controlling Brahman remains debated. A 15-marker must critically test **both cit and acit**, not merely repeat “God is soul; world is body.”
 
 ### 10.4 Why apṛthaksiddhi matters
 
@@ -945,6 +949,7 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
 
 - ⚠️ Do not reduce pañcavidhabheda to only “difference between God and world.”
 - ⚠️ The examiner expects all five, especially **jīva-jīva** and **jaḍa-jaḍa**.
+- ⚠️ **2026 Q8(c), why difference has separate existence and marks nature:** Madhva's *bheda* is not merely the mind comparing two otherwise identical objects; real distinguishability belongs to the entities (*svarūpa-bheda*). If God–soul difference vanished, an embodied, dependent knower could be the independent Lord; if soul–soul difference vanished, karmic histories and spiritual gradation would lose individual subjects. Soul–matter difference safeguards consciousness from insentient *jaḍa*, God–matter difference safeguards divine sovereignty, and matter–matter difference safeguards determinate objects and their causal roles (§§3.4, 4.6, 5.5, 11.2–11.4). All non-divine entities are **dependent** on Viṣṇu, not equally independent substances: “separate” means irreducibly distinct **identities**, not autonomous creators. ⚠️ Advaita argues that difference is empirically presented but finally sublated; Madhva refuses to treat a real disclosed difference as ignorance, preserving persistent devotion and a plurality of real dependents. The remaining objection is whether eternal differences/graded souls compromise ultimate unity or moral equality; God's unique independence answers the first within Dvaita, but the ethical worry persists (§17.6).
 
 ---
 
@@ -1052,9 +1057,8 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
 ### 14.3 Refutation of Nyāya's anyathākhyāti
 
 - ✅ Nyāya says error involves apprehending something real elsewhere in the wrong locus.
-- ✅ Advaita objects: if the silver were a real elsewhere-object somehow presented here, sublation would not cancel its apparent objecthood so radically.
-- ✅ The illusion is dissolved not by travel to another place but by recognition of the substrate.
-- ⚠️ Therefore the silver cannot simply be real silver misplaced in cognition.
+- ⚠️ Advaita objects that a silver **elsewhere** cannot ordinarily be sensed **here**; Nyāya must justify its extraordinary memory-mediated contact (*jñānalakṣaṇa*) rather than merely assert a past association. The mistaken silver's **here-presence** is defeated when the shell is recognized; an appearance experienced here but sublated here supports Advaita's **dependent, neither ultimately real nor sheer nothing** silver.
+- ⚠️ **Nyāya's strongest reply:** its theory does **not** claim that correction destroys real silver elsewhere; it corrects the **false here-judgment** produced by a real silver-memory combined with present shell-perception. Neither the continued existence of silver elsewhere nor the genuineness of present shell proves that a third ontological grade exists. Advaita answers that the lived *here-silver* as presented needs an account irreducible to the two true components, while Nyāya asks why a mistaken relation cannot supply it. Critically decide whether sublation warrants an **indefinable appearance** or only correction of mislocation (§14.6); do not attack Nyāya as though it held that silver everywhere vanishes on correction.
 
 ### 14.4 Relation to avidyā
 
@@ -1313,7 +1317,7 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
 - ⚠️ Matter is therefore neither illusion nor an independent second absolute: it is real, transformable and dependent, related to Brahman as power/attribute to its possessor.
 - ❓ **Objection → reply:** real difference seems to threaten non-duality, while dependence seems to erase difference. Nimbārka treats both difference and non-difference as equally real aspects of one relation rather than reducing either side.
 - ✅ In Advaita, **jīva** is consciousness reflected/conditioned by the internal organ and avidyā; **sākṣī** is the unaffected witnessing consciousness that illumines mental states. Their apparent relation is due to limiting adjuncts, not a relation between two ultimately separate selves.
-- ❓ The 2018 paper's claim that Māyā is “needed” by Rāmānuja is philosophically unusual; answer by flagging Rāmānuja's rejection of Advaitic Māyā and interpreting the demand as a comparison of each system's explanatory treatment of plurality.
+- ❓ **2018 Q7(c), printed anomaly and bilateral answer:** the paper asks why Māyā is “needed” by **both** Rāmānuja and Śaṅkara. Do not correct the quotation or attribute Śaṅkara's *anirvacanīya* illusion to Rāmānuja. First present Rāmānuja's **seven objections** (§6.5), then Śaṅkara's replies (§§6.5–6.7). Śaṅkara requires dependent *māyā/avidyā* to explain experienced plurality, bondage and an unchanged Brahman without a second independent reality. Rāmānuja requires an account of the **real differentiated world**—*acit/prakṛti* as Brahman's dependent body, its transformations and the jīva's karmic ignorance (§§5.4, 6.6, 7.3, 10)—but **does not need Advaitic Māyā** as an indefinable illusion. If “Māyā” is read broadly as God's creative power, distinguish that usage from Śaṅkara's technical thesis; if read technically, reject the question's shared-premise suggestion. ⚠️ The remaining philosophical contrast is whether the real transformation of dependent modes preserves Brahman's changeless perfection any better than Advaita explains the locus of ignorance. State both costs rather than silently changing the printed question.
 <!-- restored-2018-2020-doctrine:end -->
 
 <!-- expanded-pyq-depth:start -->
@@ -1325,7 +1329,7 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
 
 <!-- expanded-pyq-depth:end -->
 
-## 20. PYQ ROUTING (2018–2025)
+## 20. PYQ ROUTING (2018–2026)
 
 > ⚠️ **Corpus signal:** 20 primary-owned question-parts out of 112. The local Paper I corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.
 
@@ -1353,6 +1357,14 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
 | 2025 | Q8(a) | 20 marks | Discuss the idea of Bimba-pratibimbavāda as presented in Vedānta philosophy along with its soteriological significance. |
 
 See the [Indian Philosophy PYQ Bank, 2018–2025](../_PYQ-Indian-Philosophy-2018-2025.md).
+
+| 2026 question | Distinct answer burden | Core route |
+|---|---|---|
+| Q7(c) · 15 marks | Evaluate Nimbārka's **God, souls and matter** with reasoned agreement or dissent, not matter alone | §9A.5; §20C.1 |
+| Q8(b) · 15 marks | Critically relate Rāmānuja's Brahman to **cit and acit**, test changes/imperfection and agency | §§1.3, 5.4, 10.1–10.6, 17.5 |
+| Q8(c) · 15 marks | Explain why **intrinsic real difference** constitutes things' distinctive natures via **all five** *bhedas* | §§3.4, 4.6, 11.1–11.5, 17.6 |
+
+Exact 2026 wording and single primary ownership: [2026 supplement](../_PYQ-Indian-Philosophy-2026.md). Sāṃkhya's 2026 Q6(a) cross-links Advaita causation (§§1.5, 5.1–5.3) but remains Sāṃkhya-owned.
 
 ## 20A. PRESUPPOSITION LEDGER
 
@@ -1387,7 +1399,7 @@ See the [Indian Philosophy PYQ Bank, 2018–2025](../_PYQ-Indian-Philosophy-2018
 | ✅ **Madhva: illusion requires real perceiver** | ✅ Illusion cannot occur unless a real self, object and difference already exist. | ✅ Advaita grants empirical reality to perceiver and object while denying ultimate independence. | ⚠️ The reply risks appearing to borrow realism at the empirical level. |
 | ✅ **Madhva: sākṣin** | ✅ The witness validates real difference rather than dissolving it. | ✅ Advaita identifies sākṣī with non-dual consciousness, not a finite witness-substance. | ⚠️ Same term hides opposed metaphysics. |
 | ✅ **Bhāskara: bhedābheda** | ✅ If world is a real transformation of Brahman, māyā is unnecessary. | ✅ Advaita says real transformation compromises Brahman's changelessness. | ⚠️ Bhāskara presses the cost of making the world merely mithyā. |
-| ✅ **Nyāya: anyathā-khyāti** | ✅ Error is misapprehension of a real object elsewhere; anirvacanīya is unintelligible. | ✅ Shell-silver is cancelled at the locus, so it is not simply real silver misplaced. | ⚠️ Nyāya demands a clearer ontology of the illusory object. |
+| ✅ **Nyāya: anyathā-khyāti** | ✅ Memory-mediated presentation attributes real silver elsewhere to the shell **here**; correction negates only that attribution, not real silver elsewhere. | ⚠️ Advaita asks how extraordinary presentation of elsewhere-silver is warranted and argues that experienced, sublated here-silver calls for an account of dependent appearance. | ⚠️ Nyāya can treat sublation as corrected mislocation without admitting a third grade of being; see §14.3. |
 | ✅ **Mīmāṃsā: Veda as injunction** | ✅ The Veda primarily enjoins dharma; mahāvākyas cannot produce non-actional liberation. | ✅ Advaita replies that Upaniṣads reveal siddha-vastu and knowledge removes ignorance directly. | ⚠️ This is the core Pūrva-/Uttara-Mīmāṃsā divide. |
 | ⚠️ **Buddhist: pracchanna-bauddha charge** | ⚠️ Advaita is accused of being crypto-Buddhism because it denies ultimate reality to the world. | ✅ Advaita replies that Brahman is positive self-luminous reality, unlike śūnyatā as absence of svabhāva, and that Advaita accepts śruti. | ⚠️ The similarity in world-negation remains a polemical pressure-point. |
 | ✅ **Sāṃkhya: prakṛti suffices** | ✅ Unconscious prakṛti explains the world through guṇa transformation without māyā. | ✅ Śaṃkara replies that the ultimate cause must be conscious and scripturally grounded as Brahman. | ⚠️ Sāṃkhya challenges Vedānta to justify the need for conscious absolute causality. |

@@ -538,7 +538,7 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 2. ✅ The candidate is never seen studying by day.
 3. ✅ Exam success is incompatible with no preparation at all.
 4. ✅ Therefore some unobserved preparation must be posited.
-5. ✅ The natural postulate is study at night or otherwise outside observed daytime.
+5. ⚠️ At most, on the stipulated premise that this exam success required preparation, posit **unobserved preparation**; night study is one possible case, not entailed by “never seen studying during the day.”
 
 #### Nyāya reduction attempt
 
@@ -548,6 +548,7 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
   - therefore this candidate had preparation.
 - ✅ But this misses the explanatory tension central to the original case.
 - ✅ It also slides in a vyāpti too quickly.
+- ⚠️ **2024 Q8(b) qualification:** “not seen studying during the day” is not “does not study during the day”: observation could have missed daytime study. Success alone does not establish a universal “all successful candidates prepared in a particular way” (prior knowledge, alternate preparation or chance may matter). State the background assumption about required preparation before postulating it; **neither** Bhāṭṭa postulation **nor** Nyāya inference licenses the definite claim that the candidate studied at night. A Naiyāyika can nonetheless formulate a conditional inference from reliably established success and a defensible success–preparation relation; the Bhāṭṭa disputes the independently known *vyāpti* and locates the epistemic step in reconciliation of the stipulated facts. Compare the **warrants**, not a fabricated nighttime schedule.
 
 ### 4.5 Why arthāpatti is irreducible to anumāna
 
@@ -740,6 +741,7 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 - ✅ **Bhāṭṭa:** abhāva is real and known by an independent pramāṇa, anupalabdhi.
 - ✅ **Prābhākara:** what is known is simply the locus as unqualified by the absent object; no separate pramāṇa is needed.
 - ✅ The 2025 PYQ turns on precisely this divergence.
+- ⚠️ **Ontology is a separate question from instrument:** Bhāṭṭa treats “pot-absence on the table” as determinate negative reality with a counterpositive, **not** as an observed positive pot or a mere word; it requires *yogyānupalabdhi*. Prābhākara denies that one must posit a **separate absence entity** over and above the positively given locus: the table is directly apprehended as pot-free. The opponent asks how the **specific** pot-negation follows from a bare table without covertly importing non-apprehension; the Prābhākara answers that the perceptual presentation of the qualified/bare locus already discriminates it from pot-occupation (§5.6). Nyāya, unlike Prābhākara, accepts absence as a distinct real category but, unlike Bhāṭṭa, says it can be perceived (§5.7); do not label all three positions “absence is unreal” or collapse reality of absence into pramāṇa count. For **2021 Q6(c)**, add the critic's overpopulation/absence-locus concern and the fit-conditions reply (§§5.3, 5.11); for **2025 Q6(c)**, present both internal Mīmāṃsā sides before mentioning Nyāya.
 
 ### 5.10 Presuppositions and examples
 
@@ -814,6 +816,7 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 - ✅ Error lies only in their conflation.
 - ✅ Therefore no individual cognition needs to be labelled false.
 - ✅ This is Prābhākara's distinctive way of protecting intrinsic validity.
+- ⚠️ “Valid memory” here means that the recollection accurately preserves its **past** silver-content; it is **not** a fresh *pramāṇa* for silver existing **here and now** (§3.10). Failure to register the remembered silver as past is the operative non-discrimination, not a third valid cognition of present silver.
 
 ### 6.4 Bhāṭṭa's Viparīta-khyāti
 
@@ -874,6 +877,7 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 - ✅ **Advaita:** the illusory object is neither fully real nor unreal.
 - ✅ Mīmāṃsā remains more epistemologically anchored and realist.
 - ✅ It neither disperses the object elsewhere like Nyāya nor renders it metaphysically indeterminate like Advaita.
+- ⚠️ **2026 Q7(a) — strongest Nyāya *anyathākhyāti* attack on *akhyāti*:** The person does not merely perceive “this” and recall “silver”; they **judge and say “this is silver”** and reach for it. If this is genuinely a unitary present-tense cognition, how can two individually valid episodes plus a missing discrimination cause an assertoric **false attribution** without admitting the very erroneous synthesis the theory denies? Nyāya holds that real silver known elsewhere is presented **here** through memory-mediated extraordinary perception (*jñānalakṣaṇa*); the mistaken here-relation produces action, and correction “this is shell, not silver” sublates the affirmative identification (§6.6; compare Nyaya-Vaisesika.md §4.2). A Prābhākara replies that “this” and the past silver-memory are each genuine and that **failure to mark memory as memory**, not a third false perceptual content, explains both assertion and behaviour (§§6.2–6.3). ⚠️ Residual issue: whether failure of discrimination alone can bear the positive force of “this is silver,” while Nyāya must defend its extraordinary contact with silver **elsewhere**. Distinguish Bhāṭṭa's *viparīta-khyāti* (positive misapprehension due to defect) from **Nyāya's** specifically displaced real silver; they are not interchangeable attacks.
 
 ### 6.8 Action in illusion
 
@@ -1047,7 +1051,8 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 | **Bhāṭṭa Mīmāṃsā** | No; cognition is inferred from acquired knownness (**jñātatā**) | Yes | Decisive counterexample to necessary entailment |
 | **Advaita Vedānta** | Yes, fundamentally of consciousness itself | At the empirical level cognition carries prima facie authority until sublated | Connects them within a wider non-dual theory |
 
-- ✅ Kumārila's combination—non-self-luminous cognition with intrinsic validity—shows most clearly that self-luminosity does not entail intrinsic validity and that intrinsic validity does not require self-luminosity.
+- ✅ Kumārila's combination—**non-self-luminous cognition with intrinsic validity**—proves directly that **intrinsic validity does not require self-luminosity** (the converse of the question). By itself it does **not** disprove the question's proposed direction, **self-luminosity → intrinsic validity**.
+- ⚠️ **2018 Q8(a), the direction actually asked:** self-manifestation reports that an awareness **occurs**, not whether its presented object **is as presented**; an erroneous presentation can be conscious without thereby being true. Thus the two doctrines have different truth-conditions even when Prābhākara affirms both. Nyāya denies self-luminosity and relies on *anuvyavasāya* plus external validation, while Advaita's self-luminous **consciousness** is not the same as infallibility of each empirical object's cognition (shell/silver may be sublated). Neither school by itself supplies an uncontroversial historical case affirming self-luminosity **and** denying intrinsic validity; argue the **logical non-entailment** through the manifestation/truth distinction, and use the Bhāṭṭa counterexample solely for the **reverse** entailment. Assess the Prābhākara's possible reply that the same self-revealing cognitive act is prima facie authoritative unless defeated, without mistaking a joint commitment for a logical proof.
 - ⚠️ Nyāya's position is not “self-luminous but extrinsically valid”; it denies self-luminosity and supplies a higher-order cognition.
 
 ## 8. WORD-MEANING AND SENTENCE-MEANING
@@ -2035,7 +2040,7 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 
 ### Svayaṃprakāśavāda versus svataḥprāmāṇyavāda
 - ✅ Self-luminosity concerns how cognition manifests itself and/or its object; intrinsic validity concerns cognition's prima facie truth and action-guiding authority before a defeater appears.
-- ✅ Prābhākara accepts self-luminous cognition and intrinsic validity, but Kumārila accepts intrinsic validity while denying that cognition is self-luminous; this intra-Mīmāṃsā contrast disproves necessary entailment.
+- ✅ Prābhākara accepts both; Kumārila accepts intrinsic validity while denying cognition's self-luminosity. The latter disproves **validity → luminosity**, not the question's converse **luminosity → validity**; for that direction, show why awareness of occurrence cannot alone certify truth (§7.11).
 - ✅ Nyāya accepts neither thesis: cognition is known by subsequent cognition and validity is extrinsically ascertained.
 - ⚠️ Advaita extends self-luminosity to consciousness as such, whereas Mīmāṃsā debates cognition episodes and validity within pramāṇa theory.
 - ❓ **Objection → reply:** intrinsic validity seems unable to explain error. The reply is that falsity is extrinsically discovered through sublation or causal defect; cognition presents itself as valid until defeated.
@@ -2175,9 +2180,9 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 - ✅ **15 marks:** Mīmāṃsā's originality lies in linking epistemology, hermeneutics and duty; its weakness lies in the contested assumptions of eternal language and apūrva.
 - ✅ **20 marks:** A balanced verdict is that Mīmāṃsā gives a coherent impersonal foundation for dharma and testimony within its realist presuppositions, but Nyāya, Buddhist and Vedāntic objections keep its language-eternity, authorlessness and ritual causality philosophically contested.
 
-## 15. PYQ ROUTING (2018–2025)
+## 15. PYQ ROUTING (2018–2026)
 
-> ⚠️ **Corpus signal:** 14 primary-owned question-parts out of 112. The local Paper I corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.
+> ⚠️ **Corpus signal:** 14 primary-owned question-parts out of 112 in the continuous 2018–2025 Paper I corpus, plus one in the separate 2026 supplement. The supplement's Nyāya–Prābhākara *śābdabodha* and Nyāya–Mīmāṃsā *upamāna* questions are **Nyāya-owned** cross-links, not additional Mīmāṃsā-primary parts.
 
 | Year | Question | Marks | Exact demand |
 |---|---|---:|---|
@@ -2203,7 +2208,7 @@ See the [Indian Philosophy PYQ Bank, 2018–2025](../_PYQ-Indian-Philosophy-2018
 | Year | Question | Marks | Exact demand | Owner status |
 |---|---|---:|---|---|
 | 2026 | Q6(c) | 15 | How is the Naiyayikas' view on Sabdabodha different from that of the Prabhakara Mimamsakas? Discuss. | **cross-owned** — Prābhākara half from §8.2 and §8.4; the comparison is owned by [`Nyaya-Vaisesika.md`](Nyaya-Vaisesika.md) §3.6A |
-| 2026 | Q7(a) | 20 | Critically explain the arguments presented by the Akhyativadins for explaining erroneous cognition. Evaluate the arguments against Akhyativadins by the Anyathakhyativadins. | **primary** — §6.2–§6.4 and §12.4 for *akhyāti*; Nyāya's *anyathākhyāti* from [`Nyaya-Vaisesika.md`](Nyaya-Vaisesika.md) §4.1–§4.4 |
+| 2026 | Q7(a) | 20 | Critically explain the arguments presented by the Akhyativadins for explaining erroneous cognition. Evaluate the arguments against Akhyativadins by the Anyathakhyativadins. | **primary** — §§6.2–6.3, 6.7 for *akhyāti*, Nyāya's strongest criticism, Prābhākara reply and residual question; Nyāya background in [`Nyaya-Vaisesika.md`](Nyaya-Vaisesika.md) §§4.1–4.4 |
 | 2026 | Q8(a) | 20 | Present an account of Upamāna as an instrument of knowledge. How is the Nyāya view different from the Mīmāṃsā view? | **cross-owned** — Mīmāṃsā half from §3.7; the comparison is owned by [`Nyaya-Vaisesika.md`](Nyaya-Vaisesika.md) §3.5A |
 
 See the [Indian Philosophy PYQ Bank, 2026](../_PYQ-Indian-Philosophy-2026.md).

@@ -2,7 +2,7 @@
 
 > **Syllabus (verbatim):** Religion without God.
 > **Evidence key:** ✅ canonical doctrine/fact · ⚠️ analytical synthesis for exam use · ❓ contested/uncertain · 📰 dated current anchor only
-> **Placement:** The issue is whether religion is essentially theistic or can be constituted by practice, liberation, and an impersonal ultimate. PYQ routing below covers the fully audited 2018–2025 Paper II bank.
+> **Placement:** The issue is whether religion is essentially theistic or can be constituted by practice, liberation, and an impersonal ultimate. PYQ routing below covers the verified 2018–2025 bank and 2026 supplement (no primary-owned 2026 part).
 
 ## Exact printed ownership and cross-topic firewall
 
@@ -27,23 +27,22 @@ entail denying every deity, sacred being, devotional act or transcendent value.
 ## 0. ONE-SCREEN MAP ⚠️
 
 ```
-   IS GOD ESSENTIAL TO RELIGION?  —— NO, say these:
-   ┌──────────────┬─────────────────┬──────────────────┬───────────────┐
-   BUDDHISM        JAINISM           MĪMĀṂSĀ /           NATURALISTIC/
-   (non-theistic;  (no creator God;  SĀṂKHYA (early)     HUMANISTIC RELIGION
-   nirvāṇa, no     jīvas + karma)    (no creator;        (Comte's Religion
-   creator)                          karma self-runs)    of Humanity; ethical
-        │                                                 humanism; naturalism)
-   religion = a way of life / ethics / liberation, NOT theism
-   WESTERN CRITIQUES OF (theistic) RELIGION: Nietzsche ("God is dead"),
-   Marx ("opium"), Freud (illusion), Feuerbach (projection)
+   IS A CREATOR GOD NECESSARY FOR RELIGION?
+     ├─ No: Buddhism — no creator; Dharma, Saṅgha, nirvāṇa
+     ├─ No: Jainism — no creator; jīva, karma, liberation
+     ├─ No: classical Mīmāṃsā — authorless Veda, apūrva
+     ├─ No: Sāṃkhya; Yoga's Īśvara is not a creator
+     └─ Contested boundaries: naturalism and fictionalism
+        (neither every ethical commitment nor every ritual counts)
+   Distinguish: critique of theistic religion (Nietzsche, Marx, Freud,
+   Feuerbach) ≠ a positive account of religion without a creator.
 ```
 > 🔑 **Mnemonic — "Religion = the 3 D's minus God: Discipline, Dharma, Deliverance."** A religion can offer a path, ethics and liberation without a creator deity; Buddhism is the strongest counterexample to a creator-necessity definition.
 
 ---
 
 ## 1. WHAT MAKES SOMETHING A RELIGION (if not God)? ✅
-- **Ninian Smart's dimensions:** religion has doctrinal, mythic, ethical, ritual, experiential, social & material dimensions — **belief in a creator God is not on the essential list.** ✅
+- **Ninian Smart's dimensions:** doctrinal, mythic, ethical, ritual, experiential, social and material dimensions provide a comparative **profile, not a seven-item necessary/sufficient checklist**; no one dimension requires creator belief. ✅
 - A **functional definition:** religion = a way of life orienting one toward **ultimate meaning, liberation, and the transcendent/absolute** — which need not be a personal God. ⚠️
 - Hence "religion without God" is coherent: **the sacred/ultimate ≠ necessarily a deity.**
 
@@ -104,9 +103,9 @@ every religious function.
 ---
 
 ## 4. AGNOSTICISM (2023 PYQ) ✅
-- **Agnosticism (Huxley):** the claim that the existence of God is **unknown or unknowable** — we should suspend judgement (distinct from atheism, which *denies* God). ✅
-- **Relation of religion & God for the agnostic:** an agnostic may still value religion's **ethical/experiential** dimensions while withholding assent on God — supporting a **non-theistic or minimal** religiosity. ⚠️
-- Kant's practical faith and Spencer's "Unknowable" are agnostic-adjacent positions.
+- **Agnosticism (Huxley):** do not claim knowledge without adequate grounds; applied to God, one may say existence is **not currently known**, or more strongly that it is **unknowable**. This is a stance about knowledge, not itself proof that God does not exist. ✅
+- **Relation of religion & God for the agnostic:** some suspend belief while practising/valuing a tradition; others maintain religious hope or faith while denying that they *know* God exists. An agnostic need not be anti-religious or assume every religion is godless; specify which proposition is suspended. ⚠️ See §9.5A.
+- Kant's practical faith is compatible with denying *theoretical* knowledge of God, but is **not** equivalent to suspending all belief; Spencer's "Unknowable" is a stronger limit thesis.
 
 ---
 
@@ -115,15 +114,15 @@ every religious function.
 2. ✅ Marx: religion is *"the opium of the people."*
 3. ✅ Feuerbach: God is the projected essence of man — *"theology is anthropology."*
 4. ✅ Buddhist: the world runs by **dependent origination** — no first cause/creator needed.
-5. ⚠️ Huxley (coined "agnostic"): God's existence is *unknown/unknowable.*
+5. ⚠️ Huxley (coined "agnostic"): do not profess knowledge of God without adequate warrant; *unknown now* and *unknowable in principle* are distinct theses.
 
 ---
 
 ## 6. APPLIED-QUESTION DRILLS ⚠️
-1. **[Buddhism]** "State & evaluate Buddhism as a religion without God." (2024, 20m) → §2 + §9.2.
+1. **[Buddhism]** "State & evaluate Buddhism as a religion without God." (2024, 20m) → §9.2A (creator claim ≠ undeclared questions).
 2. **[Nietzsche]** "Nietzsche's criticism of religion and morality." (2025, 10m) → ⚠️ **primary owner is [Religion and Morality §9.6](./Religion-and-Morality.md)**; use §3/§9.4 here only for the post-theistic bridge.
-3. **[Agnosticism]** "What is agnosticism? How do agnostics relate religion & God?" (2023) → §4 + §9.5.
-4. **[Concept]** "Is belief in God essential to religion?" (2018, 2020, 2021) → §1 + §2 + §9.1.
+3. **[Agnosticism]** "What is agnosticism? How do agnostics relate religion & God?" (2023) → §9.5A (definition **and** relation).
+4. **[Concept]** "Is belief in God essential to religion?" (2018, 2020, 2021) → §9.1A; distinguish prerequisite, practical possibility and sufficient justification.
 5. **[Cārvāka]** "Cārvāka's critique of belief in suprasensible entities." (2025, 10m) → §9.6 — the *vyāpti* argument is the answer, not the hedonism.
 6. **[Theist's denial]** "How would a religious person deny the possibility of religion without God?" (2019, 15m) → §9.1 + §11 — argue the **theist's** case properly before rebutting it.
 7. **[Mīmāṃsā]** "Can ritual religion function without a deity?" → §9.7 (*apauruṣeya* + *apūrva*).
@@ -140,7 +139,7 @@ every religious function.
 | **Mīmāṃsā** | Author of the Veda **and** dispenser of fruit | *Apauruṣeya* authority + *apūrva* efficacy | ✅ Strong case under ritual/functional definitions | 2020 Q6(c) |
 | **Sāṃkhya / Yoga** | Creator (Yoga keeps a non-creating Īśvara) | Prakṛti's evolution; *viveka-khyāti*; *kaivalya* | ✅ Yes | 2021 Q5(d) |
 | **Modern naturalism / fictionalism** | Supernatural ontology, or assertion itself | Nature as locus of ultimacy; practice without assertion | ⚠️ Only on a functional definition | 2018 Q5(c) |
-| **Cārvāka** | The whole supersensible order | Nothing — *svabhāva* and this-worldly ends | ❌ **No** — the limiting case | 2025 Q5(a) |
+| **Cārvāka** | The whole supersensible order | *Svabhāva* and this-worldly ends | ⚠️ Not an attested religious/soteriological tradition; this does **not** disprove religious naturalism | 2025 Q5(a) |
 
 ---
 
@@ -148,11 +147,18 @@ every religious function.
 
 ### 7.1 — "State and evaluate Buddhism as a religion without God." (2024, 20m)
 ```
-Intro : religion need not require a creator God (functional/Smart's dimensions).
-Body  : Buddhism — Buddha agnostic on creator (avyākata); pratītyasamutpāda + karma run the world;
-        yet 4 Noble Truths, Eightfold Path, ethics, Saṅgha, nirvāṇa = a full religion.
-Assess: Dharma & nirvāṇa replace God; later devotional Mahāyāna as a qualifier.
-Concl : Buddhism proves religion-without-God is coherent and complete.
+Intro : distinguish creator from devas, Buddhas and other religious objects;
+        use a defensible multidimensional criterion rather than defining by exclusion.
+Body  : dependent origination and karma need no first creator to frame suffering;
+        the Four Noble Truths, Eightfold Path, ethics, Saṅgha and nirvāṇa
+        provide doctrine, discipline, community and liberation.
+        The undeclared questions (avyākata) are NOT a creator-existence list;
+        DN 1 addresses the creator-Brahmā claim separately (§9.2A).
+Assess: theist's best case about personal prayer, grace and ultimate guarantor;
+        Buddhism meets some functions differently, without turning nirvāṇa
+        into a substitute person; Mahāyāna devotion complicates "atheistic".
+Concl : an actual non-creator religious path defeats creator-necessity;
+        it does not show every specifically theistic good survives unchanged.
 ```
 
 ### 7.2 — "Nietzsche's criticism of religion and morality." (2025, 10m) — ⚠️ ROUTED
@@ -180,8 +186,8 @@ Crit  : self-refutation (a universal claim about all inferences must itself be i
         tarka); parity — perception errs too.
 Reply : the prasaṅga (dialectical) reading; and the reported Purandara strand accepting laukika
         inference while denying it for the atīndriya — the defensible version of the thesis.
-Concl : Cārvāka is not a godless religion but the closure of the route to any supersensible
-        object; on its moderate reading it remains fatal to every anumāna-based natural theology.
+Concl : Cārvāka's reported system lacks a comparable religious path or goal;
+        moderate inference scepticism challenges, not settles, natural theology.
 ```
 
 ### 7.4 — "How would a religious person deny the possibility of a religion without God?" (2019, 15m)
@@ -198,7 +204,22 @@ Rebuttal: Smart's dimensions; Buddhism's complete soteriological structure; Mīm
 Assess: the theist's strongest surviving point is the WORSHIP/GRACE argument, not the definition —
         petition and grace genuinely require a responsive God, and non-theistic religions do
         without them at a real cost in devotional structure.
-Concl : religion without God is possible; religion without a SACRED ORDER is not.
+Concl : religion without a creator is possible; whether every religion needs a
+        literally supersensible order remains contested by religious naturalism
+        and fictionalism, whose classifications need independent argument.
+```
+
+### 7.5 — "What is agnosticism? How do agnostics relate God and religion?" (2023, 10m)
+```text
+Define : Huxley's epistemic restraint; weak "not known" vs strong "unknowable".
+Contrast: asserting "no God" is not the same as withholding knowledge, though
+          ordinary uses of "atheism" can differ; specify whether belief too is suspended.
+Relate : participation without creator-belief (e.g. Buddhist path); possible
+         hopeful theistic faith without professed knowledge; no universal agnostic creed.
+Object : theist may object that prayer/salvation requires real assent to God;
+         acknowledge this for some traditions, not religion by definition.
+Verdict: agnosticism neither requires atheism nor by itself establishes a religion.
+Route : §9.5A.
 ```
 
 ---
@@ -213,6 +234,18 @@ Concl : religion without God is possible; religion without a SACRED ORDER is not
 - **Canonical example.** ✅ Theravāda Buddhism permits cosmological devas yet denies their creatorhood and salvific ultimacy.
 - **Objection → reply.** ⚠️ Functional definitions may classify nationalism as religion. Reply: combine function with disciplined relation to an ultimate/sacred order and soteriological practice.
 
+### 9.1A Two necessity tests: God as prerequisite, and lived religion without belief (2018/2020/2021)
+
+**Say which "God" and which "religion".** A personal creator, a non-creating Lord, a perfected being, and an impersonal ultimate are **different** candidates. If "religion" is defined in advance as dependence on a personal creator, "religion without God" fails by **definition**, not by discovery. A defensible multidimensional test uses a stable pattern of ultimate orientation, inherited/communal forms, ethics or discipline and a transformative end (§1.1); no single item is necessary in *every* case, and any ordinary hobby need not qualify.
+
+| Printed demand | Direct argument | Strong objection and discriminating reply |
+|---|---|---|
+| **2018: justify without God** | Buddhism's diagnosis/path/goal and Jain vows/liberation are **actual** counterexamples to the *necessity of a creator*; classical Mīmāṃsā independently supplies scripture, ritual and delayed efficacy without a creator | The theist says this loses divine grace and relationship. Concede **these goods** are absent or differently construed; their absence does not erase the remaining religious pattern |
+| **2020: God a prerequisite?** | A necessity claim is refuted by **one genuine non-creator religion**, not by a list of atheists. Specify the cluster that makes Buddhism religious rather than merely a moral philosophy | A theist can insist on transcendence as a necessary relation: Buddhist liberation/karma and non-creator sacred exemplars supply soteriology, though whether every case needs a transcendent referent is still contested |
+| **2021: is religious *life* possible without belief?** | Contrast membership/practice with **doxastic assent**: a non-theist can observe the Eightfold Path; a Jain worshipper need not expect a granting God. An agnostic can participate while suspending creator belief | Mere occasional ritual attendance need not amount to a religious life; discipline, inward commitment, community and an orienting end distinguish robust practice from cultural habit |
+
+⚠️ **Residual boundary:** Dewey's "religious" quality of experience and Dworkin's religious atheism (§9.8) contest the assumption that **any** supersensible order is necessary. They are *more disputed as religions* than Buddhism/Jainism, but cannot be ruled out using a supersensible-order criterion while simultaneously counted as positive examples. A Cārvāka who rejects an unseen order has not thereby established **either** a religious way of life **or** its impossibility; Cārvāka's reported system lacks the distinctive orientation/practices of the positive cases (§9.6). Atheism alone is not sufficient for religion and creator-belief is not necessary.
+
 ### 9.2 Buddhism
 - **Doctrine statement.** ✅ Buddhism grounds diagnosis and liberation in Four Noble Truths, dependent origination, karma and the path, not in a creator God.
 - **Argument.** ✅ Suffering arises dependently from craving and ignorance; removing conditions removes suffering. A creator adds no explanatory or practical step to this causal-soteriological sequence.
@@ -220,6 +253,18 @@ Concl : religion without God is possible; religion without a SACRED ORDER is not
 - **Distinction.** ✅ Buddha's refusal to centre speculative questions is not a blanket claim that no divine beings exist.
 - **Canonical example.** ✅ The poisoned-arrow parable prioritises removal of suffering over metaphysical delay; use it as a practical illustration, not proof of atheism.
 - **Objection → reply.** ⚠️ Devotional Mahāyāna appears theistic. Reply: Buddhas and bodhisattvas may perform religious functions without becoming an omnipotent creator.
+
+### 9.2A Buddhism as an *evaluated* non-creator religion (2024 Q7(a), 20 marks)
+
+**State the actual view before evaluating.** ✅ Dependent origination traces the arising and cessation of *dukkha* to conditions; karma concerns intentional action and its results, not an infallible creator's judgement. The Four Noble Truths diagnose craving and cessation, the Eightfold Path trains ethics, meditation and wisdom, the Saṅgha preserves and tests the discipline, and nirvāṇa is a liberating goal. Devas and even Brahmā figures occur in Buddhist cosmology but are themselves conditioned, **not** ultimate creators. The *Brahmajāla Sutta* (DN 1) presents a purported creator-Brahmā's claim as arising from ignorance of prior conditions; the Buddha's *undeclared questions* (e.g. MN 63) concern such matters as the world's eternity and the Tathāgata after death, **not** an official suspension of judgement about creator-existence. The poisoned-arrow analogy supports a soteriological priority, not a proof that the creator is impossible.
+
+| Theist's pressure | Buddhist response | Remaining cost or debate |
+|---|---|---|
+| Who sets moral obligations, rewards virtue and guarantees justice? | Intentional action, consequences, non-harm, compassion, precepts and communal correction guide conduct without a commander | Whether karma's trans-life operation and distribution are credible remains independently contestable |
+| If there is no God, who is worshipped or prayed to? | Veneration of Buddha and Dharma, recollection, meditation and devotion need not address an omnipotent maker; Mahāyāna bodhisattva devotion is real, not to be suppressed | Some schools invoke salvific assistance; calling *all* Buddhism non-devotional or flatly atheistic is misleading |
+| If there is no enduring self or personal God, who is saved? | Dependent continuity rather than immortal identity makes suffering/cessation intelligible within the tradition | Critics press continuity and the meaning of a goal framed negatively; routes to `Soul-Immortality-Rebirth.md` for full analysis |
+
+⚠️ **20-mark verdict:** Buddhism is an historically substantial **religious** counterexample to a creator-necessity definition because its doctrine, community, ethical discipline and liberation are not just labels. It does not show that personal prayer, covenant and grace survive **unchanged**, and it does not establish by itself that the Buddhist account of karma or nirvāṇa is true. Distinguish **a non-creator path** from denial of all devas and from the claim that every tradition's idea of God is identical.
 
 ### 9.3 Jainism, Mīmāṃsā and Sāṃkhya
 - **Doctrine statement.** ✅ Jainism accepts perfected liberated beings but no creator; Mīmāṃsā explains dharma through authorless Veda and self-fructifying ritual efficacy; classical Sāṃkhya explains cosmos through prakṛti for puruṣas without a creator.
@@ -245,6 +290,18 @@ Concl : religion without God is possible; religion without a SACRED ORDER is not
 - **Canonical example.** ✅ A person may participate in Buddhist ethical-meditative practice while withholding creator claims.
 - **Objection → reply.** ⚠️ This reduces religion to ethics or aesthetics. Reply: community, ritual, transformation and orientation to ultimacy exceed ordinary morality.
 
+### 9.5A What agnostics say **about God and religion** (2023 Q5(e), 10 marks)
+
+**Definition before implications.** ✅ Agnosticism addresses the **epistemic question** "What, if anything, do we know of God's existence or nature?", not the direct truth assertion "There is no God". **Weak/open** agnosticism: current grounds do not establish either existence or nonexistence; evidence might in principle settle it. **Strong** agnosticism: humans cannot in principle know the answer, a thesis whose **own grounds must be defended**. Huxley's maxim is methodological—do not profess certainty beyond evidence—not a universal command to abstain from religious practice. In philosophical use *atheism* often means affirming that God does not exist; in a broader psychological use it can mean merely lacking belief, so state the intended sense rather than treating every agnostic as an atheist.
+
+| Position compatible with "agnostic" in a specified sense | God–religion relation | Qualification |
+|---|---|---|
+| **Suspended assent** | One can withhold judgement about God yet participate in a non-creator Buddhist path, or in inherited religious rites as inquiry/practice | Mere attendance alone does not show deep religious commitment |
+| **Agnostic religious faith** | A person may hope or commit to a theistic tradition while acknowledging no *knowledge* of God's existence | Huxley's stricter evidentialist method may disallow **confident assent** on weak evidence; do not claim he endorsed every agnostic believer |
+| **Strong unknowability / impersonal ultimate** | One may claim the ultimate exceeds possible human knowledge yet cultivate reverence and practice; whether a **personal God** remains the referent is left unresolved | An "Unknowable" (Spencer) is not evidence for a creator, and calling it "God" can obscure rather than settle disagreement |
+
+⚠️ **2023 answer verdict:** agnosticism can **decouple** a claim to knowledge from belief and participation; it does not itself demonstrate a godless religion or guarantee that an agnostic is religious. The more a tradition requires assent that God exists for prayer or salvation, the harder suspended assent fits; a less dogmatic ethic/meditative life fits more readily. Kant's denial of *theoretical* proof alongside practical postulates is a contrast, **not** straightforward Huxleyan suspension. Answer both halves of the printed question rather than equating agnosticism with atheism.
+
 ### 9.6 Cārvāka: perception, the rejection of supersensible entities, and the inference problem (2025 Q5(a) owner-module)
 > ⚠️ This is the only owner-module in the folder for Cārvāka. Deep background: [Paper I — Cārvāka](../../paper-1/indian/Carvaka.md).
 
@@ -254,22 +311,22 @@ Concl : religion without God is possible; religion without a SACRED ORDER is not
   1. **Not by perception:** perception grasps only particular co-presences, here and now. *Vyāpti* is a **universal** covering all cases, including unobserved past, future and remote ones — and no perception reaches those.
   2. **Not by inference:** to establish this *vyāpti* by another inference requires that inference's own *vyāpti*, generating an **infinite regress** or a **circularity**.
   3. **Not by testimony:** testimony's authority would itself have to be established, and (for the Cārvāka) it is not a *pramāṇa* at all.
-  4. **The *upādhi* problem:** even repeated observation cannot rule out an unnoticed **conditioning factor (*upādhi*)** that makes the concomitance hold only contingently — the standard example being that fire is accompanied by smoke only when the fuel is wet. Unless every possible *upādhi* is excluded, and that exclusion is itself unverifiable, the concomitance remains merely **probable (*vyabhicāra* remains possible)**.
-  5. **Conclusion:** inference cannot deliver certainty. Where it happens to work in daily life, it works by luck or habit; and it is precisely in the supersensible domain — God, soul, karma, afterlife — that no perceptual check is ever available, so there inference is worthless.
+  4. **The *upādhi* problem:** even repeated observation may miss a **conditioning factor (*upādhi*)** that makes an apparent universal hold only conditionally. Wet fuel helps explain why **fire produces smoke**, so it is a constraint on a hasty *fire → smoke* generalisation, **not** an observed counterexample to *smoke → fire*. The broader point is the difficulty of ruling out relevant hidden conditions; Nyāya argues such constraints can be discovered with observation and *tarka*.
+  5. **Conclusion:** inference need not yield infallible certainty. Many observed-case inferences can still guide action; the more difficult case is a claimed universal extended to God, karma or an afterlife without independently testable instances. A reported moderate strand explicitly permits ordinary inference (below).
 - **The application to religion.** ✅ (a) **God** is never perceived, so the inference from world-as-effect to an intelligent maker is doubly worthless. (b) **The soul** is not a separate substance: consciousness is an **emergent property of the body** (*dehātmavāda*) — the standard analogy is the intoxicating power (*madaśakti*) that arises when fermenting ingredients (*kiṇva* etc.) are combined, though present in none of them singly. Hence no survival, no transmigration, no liberation. (c) **Karma and *adṛṣṭa*** are imperceptible postulates invented to prop up ritual. (d) **The Veda's authority** is denied; the Cārvāka verses transmitted in Mādhava's *Sarvadarśanasaṃgraha* — attributed there to **Bṛhaspati** — mock the *agnihotra*, the three Vedas and ascetic practice as the livelihood of the witless. ❓ **Attribution discipline:** these verses survive only as quotations in the works of opponents; treat them as *reported Cārvāka positions*, not as verified primary text, and never present the popular hedonist couplet (*yāvaj jīvet sukhaṃ jīvet…*, "while you live, live happily; borrow and drink ghee") as anything more than a doxographic quotation. (e) **Order without design:** *svabhāva-vāda* — things behave according to their **own nature**, and the sharpness of a thorn or the colour of a peacock requires no maker.
 - **The standard replies — and the Cārvāka's rejoinder (both are required).** ⚠️
   1. **Self-refutation.** The claim "inference is never valid" is itself a **universal** proposition about all inferences, which cannot be perceived and must therefore be inferred. The Cārvāka's thesis defeats itself. — ⚠️ **Rejoinder:** the Cārvāka may present the denial *dialectically*, as a *prasaṅga* (reductio) internal to the opponent's own commitments, without asserting a positive universal.
   2. **The pragmatic argument.** No one, including the Cārvāka, can eat, speak, teach or argue without relying on inference; performative consistency demands its acceptance.
   3. **Nyāya's positive defence of *vyāpti*.** Concomitance is established by (i) repeated uncontradicted co-observation (*bhūyodarśana*), (ii) **non-observation of any counter-instance** (*vyabhicāra-adarśana*), and (iii) ***tarka*** — hypothetical reasoning that shows the denial of the concomitance leads to absurdity; Nyāya adds the technical device of *sāmānya-lakṣaṇa-pratyāsatti* to explain how a universal can be cognitively available.
   4. **The parity argument.** Perception itself faces error (illusion, dream, defective organs) and is corrected only by further cognition — so certainty is not perception's exclusive property either; and if only indubitable sources counted, perception would fail the test too.
-  5. ⚠️ **The most important nuance, and the one that separates a top script:** a strand of Cārvāka thought — associated with the fragmentary **Purandara** — is reported as accepting inference **for ordinary empirical matters (*laukika*)** while rejecting it as a route to the **supersensible (*alaukika*/*atīndriya*)**. On this reading the school is not committed to self-refuting global scepticism about inference; its thesis is the far more defensible one that **inference cannot be extended beyond the domain in which its concomitances can be perceptually checked** — which is precisely a classical Indian anticipation of the empiricist critique of metaphysics. ❓ The evidence is fragmentary and reported by opponents; present it as a reported strand, not as the school's settled position.
-- **Is Cārvāka a "religion without God"?** ⚠️ **No — and saying so precisely is the mark-earning move.** Cārvāka is not a religion at all: it has no soteriology, no sacred, no community of practice and no ultimate concern. Its place in this clause is as the **limiting case at the other end**: Buddhism, Jainism and Mīmāṃsā show that religion can survive the *loss of God*; Cārvāka shows what happens when the *epistemic route to any supersensible object* is closed — you get not a godless religion but no religion at all. The contrast establishes that what non-theistic religions retain is not merely a substitute deity but an **accepted supersensible order** (dharma, karma, nirvāṇa, *apūrva*) that Cārvāka alone rejects.
-- **Verdict formula.** ⚠️ "Cārvāka's critique succeeds exactly as far as its epistemology does. If the strong thesis is held — perception alone — it is self-refuting and pragmatically unliveable. If the moderate thesis is held — inference is admissible only where its concomitance can in principle be perceptually checked — the critique is powerful, unrefuted, and fatal to every *anumāna*-based natural theology, including Udayana's."
+  5. ⚠️ **The most important nuance:** a strand of Cārvāka thought — associated with the fragmentary **Purandara** — is reported as accepting inference **for ordinary empirical matters (*laukika*)** while rejecting it as a route to the **supersensible (*alaukika*/*atīndriya*)**. On this reading the school is not committed to a global scepticism about practical inference; its thesis questions whether an inference can reach beyond the domain in which its premises and concomitances can be checked. Nyāya can still argue that observable effects license inference to unseen causes, so **"unrefuted"** and **"fatal to every natural theology"** overstate the result. ❓ The evidence for Purandara is fragmentary and reported by opponents; do not present it as a settled position of all Cārvākas.
+- **Is Cārvāka a "religion without God"?** ⚠️ **Not a standard positive example:** the reported materialist school critiques unseen entities and lacks an articulated religious soteriology, sacred practice and devotional community comparable to Buddhism, Jainism or Mīmāṃsā. This historical contrast **does not prove** that a supersensible object is required for *every possible* religion: religious naturalists and fictionalists dispute that requirement (§9.8). Cārvāka's denial of karma/nirvāṇa explains its distance from **those Indian soteriological cases**, not a logical theorem that an empiricist could never be religious.
+- **Verdict formula.** ⚠️ "Cārvāka presses an important problem for inferences beyond perceptually anchored concomitances; an uncompromising perception-only rule faces self-refutation and practical-inference objections. A reported moderate strand permits everyday inference but challenges unseen theological inferences. Nyāya's reply needs engagement, so the challenge does not by itself refute every natural theology."
 
 ### 9.7 Mīmāṃsā: *apūrva* and religion without a deity
-- **Doctrine statement.** ✅ Classical Pūrva-Mīmāṃsā is a strong case of a **ritual and scriptural religious order in which no creator God performs the main explanatory work**. The Veda is *apauruṣeya* — **authorless**, hence eternal, hence not dependent on any speaker's reliability; its injunctions (*codanā*) are self-validating (*svataḥ-prāmāṇya*); and the efficacy of ritual is secured internally by **apūrva**.
+- **Doctrine statement.** ✅ Classical Pūrva-Mīmāṃsā is a strong case of a **ritual and scriptural religious order in which no creator God performs the main explanatory work**. The Veda is held to be *apauruṣeya* (authorless) and eternal, not dependent on a divine speaker's reliability; **cognitions** are prima facie valid on the school's *svataḥ-prāmāṇya* account, while Vedic injunctions (*codanā*) disclose dharma. The asserted efficacy of ritual is explained by **apūrva**, not observed directly.
 - **The core definition.** ✅ Jaimini's *Mīmāṃsā-sūtra* 1.1.2 defines dharma as *codanā-lakṣaṇo 'rtho dharmaḥ* — that which is **characterised by (Vedic) injunction** and is beneficial. Dharma is thus known **only** from injunction, not from perception, inference or any deity's command.
-- ***Apūrva* — the argument.** ✅ (1) A Vedic injunction promises a result (heaven from the *jyotiṣṭoma*) that does not follow immediately upon the act. (2) The act is momentary and perishes; the result comes much later, often after death. (3) A perished cause cannot produce a later effect. (4) Therefore the act must generate an **unseen potency** that persists until the result matures. (5) That potency is ***apūrva*** ("the not-before", i.e. something new not previously existing). ⚠️ It is a **postulate (*arthāpatti*)**, not a perceived entity — Mīmāṃsā's own epistemology licenses postulation to explain an otherwise inexplicable fact.
+- ***Apūrva* — the argument.** ✅ (1) A Vedic injunction promises a result (heaven from the *jyotiṣṭoma*) that does not follow immediately upon the act. (2) The act is momentary and perishes; the result comes much later, often after death. (3) On the school's causal account, the perished act cannot by itself produce that later fruit. (4) An **unseen potency** linking act and fruit is accordingly posited. (5) That potency is ***apūrva*** ("not previously arisen"). ⚠️ Reconstructing this as an *arthāpatti*-like explanatory postulate is useful, but do not present its existence as perceived or independently verified by the promised post-mortem result.
 - **The two schools' versions.** ⚠️ **Kumārila Bhaṭṭa** treats *apūrva* as a **potency (*śakti*)** residing in the act or the agent, linking act to fruit. **Prabhākara Miśra** reframes the whole matter around ***niyoga*/*kārya*** — the sheer "ought-to-be-done" disclosed by the injunction, which motivates action without needing a promised fruit as its primary content. The difference matters: Prabhākara's ethics is closer to a **deontology of the injunction**, Kumārila's to a **consequential mechanism of desert**.
 - **Why this removes God.** ✅ (1) No author is needed for the Veda (*apauruṣeya*), so Udayana's *vākyāt*/*pratyayataḥ*/*śruteḥ* arguments have no purchase. (2) No dispenser of karmic fruit is needed, since *apūrva* does that work — so the Nyāya *karmādhyakṣa* argument is answered. (3) Deities named in the mantras function as **elements within the ritual structure** — the dative to which the oblation is offered — not as agents who hear, choose and grant. ⚠️ Kumārila's *Ślokavārttika* contains sustained arguments against a creator God, including the motive problem and the impossibility of a bodiless agent acting on matter — the same family as the Jain arguments at [Proofs §8.6](./Proofs-for-God.md).
 - **Objection → reply.** ⚠️ **Objection (Nyāya):** an unconscious potency cannot *select* the appropriate fruit for the appropriate agent at the appropriate time; only an intelligent superintendent can. **Reply:** the relation is law-like, not deliberative — the objection assumes that only agents can produce determinate outcomes, which begs the question against natural law. ⚠️ **Second objection:** how can a beginningless, authorless text have determinate meaning? **Reply:** meaning is carried by the eternal relation of word and referent (*śabdārtha-sambandha nityatva*), which Nyāya denies as conventional. ⚠️ **Third objection:** is this religion or bureaucracy? **Reply:** it has a sacred order, a soteriological promise, a disciplined practice and a community — which is exactly what a functional definition requires. ⚠️ Note honestly that **later Mīmāṃsā authors drift toward theism** ❓, so the atheistic reading is of the *classical* system.
@@ -307,7 +364,7 @@ the Indian cases.
 | Sāṃkhya | ✅ Unnecessary | Kaivalya | Prakṛti–puruṣa process | Discriminative liberation |
 | Nietzsche | ✅ Cultural belief overcome | Self-overcoming | Genealogical value creation | ❓ Critique/post-religious spirituality |
 | Humanism | ✅ Absent | Human flourishing | Autonomous ethics | ⚠️ Religious only under broad function |
-| Cārvāka | ✅ Rejected — and so is every supersensible entity | *Kāma* and *artha* in this life | ❌ None; *svabhāva* replaces it | ❌ **Not a religion** — the limiting case that shows what non-theistic religions retain |
+| Cārvāka | ✅ Rejected — and so are supersensible entities | *Kāma* and *artha* in this life | No post-mortem karmic order in its reported doctrine; *svabhāva* explains worldly regularity | ⚠️ Not an attested religious/soteriological path; naturalist religion remains a separate live possibility |
 | Religious naturalism | ✅ Absent | Ideal ends within nature (Dewey); sublime value (Dworkin) | Immanent value-realism | ⚠️ Reverence, community, ultimacy — but nothing supernatural |
 | Religious fictionalism | ✅ Not asserted | Whatever the practice delivers | Practice-internal | ⚠️ Participation without assertion |
 
@@ -326,12 +383,12 @@ the Indian cases.
 4. ⚠️ Do not present Nietzsche's "God is dead" as an empirical event or a bare atheist slogan.
 5. ⚠️ Distinguish agnosticism from atheism and indifference.
 6. ⚠️ A multidimensional definition should not become so broad that every ideology counts as religion.
-7. ⚠️ **Do not call Cārvāka a "religion without God".** It has no soteriology, no sacred and no practice; it is the limiting case that shows what non-theistic *religions* retain — an accepted supersensible order (dharma, karma, nirvāṇa, *apūrva*).
+7. ⚠️ **Do not call Cārvāka a demonstrated godless religion.** Its surviving reported doctrine has no comparable soteriology, sacred practice or religious community. This explains the contrast with Buddhism/Jainism/Mīmāṃsā, **not** a universal rule that religion must posit unseen entities (§9.8).
 8. ⚠️ Do not state the Cārvāka position on inference without the ***vyāpti*** problem. The argument is: concomitance cannot be established by perception (it is universal), by inference (regress/circularity) or by testimony, and *upādhi* can never be excluded.
 9. ⚠️ Do not leave the self-refutation objection unanswered. Give the two replies: the *prasaṅga* (dialectical) reading, and the reported **Purandara** strand accepting *laukika* inference while denying it for the *atīndriya*.
 10. ❓ Do not quote the "Bṛhaspati" verses or the hedonist couplet as primary Cārvāka text. They survive only in opponents' doxographies (notably Mādhava's *Sarvadarśanasaṃgraha*).
 11. ⚠️ Do not describe Mīmāṃsā's Veda as "revelation". It is ***apauruṣeya*** — authorless, therefore not the speech of any God.
-12. ⚠️ Do not treat *apūrva* as an observed entity. It is a **postulate (*arthāpatti*)** introduced to explain a delayed fruit; and distinguish Kumārila's *śakti* version from Prabhākara's *niyoga/kārya* version.
+12. ⚠️ Do not treat *apūrva* as an observed entity or its post-mortem fruit as verified fact. It is a **postulated explanatory link**; comparing its rationale with *arthāpatti* is analytical, and Kumārila's *śakti* emphasis differs from Prabhākara's *niyoga/kārya*.
 13. ⚠️ Do not merge **religious naturalism** (nature is the locus of ultimacy; claims are asserted) with **religious fictionalism** (claims are not asserted; the practice is accepted fictively) or with **error theory** (claims are false and should be abandoned).
 14. ⚠️ Do not present Advaita's *vyāvahārika* level as fictionalism. **Sublation is not falsification** — the two-level device preserves the practitioner's sincerity in a way fictionalism does not.
 
@@ -339,7 +396,7 @@ the Indian cases.
 
 **Keywords:** ✅ substantive/functional definition · family resemblance · Smart's dimensions · non-theism · atheism · agnosticism (weak/strong) · creator God · Dharma · nirvāṇa · Saṅgha · dependent origination · *avyākata* · jīva · karmic matter · *pratyakṣa* · *anumāna* · *vyāpti* · *hetu*/*sādhya* · *upādhi* · *vyabhicāra* · *bhūyodarśana* · *tarka* · *svabhāva-vāda* · *dehātmavāda* · *bhūtacatuṣṭaya* · *madaśakti* analogy · *laukika*/*atīndriya* · *prasaṅga* · *apauruṣeya* · *codanā* · *svataḥ-prāmāṇya* · *apūrva* · *arthāpatti* · *niyoga*/*kārya* · prakṛti/puruṣa · kaivalya · "God is dead" · nihilism · genealogy · *ressentiment* · revaluation · religious naturalism · "the religious" (Dewey) · religious atheism (Dworkin) · religious fictionalism · non-realism · error theory · two truths (*saṃvṛti*/*paramārtha*) · *vyāvahārika*/*pāramārthika* · sublation.
 
-**Safe formulations:** ⚠️ "Creator-belief is sufficient for many religions but not necessary for religion as a cross-cultural category." · "Non-theistic religion replaces divine command with a path, causal diagnosis and soteriological goal." · "Mīmāṃsā shows that the functions God performs — authority, efficacy and desert — are separable and can each be secured otherwise." · "Cārvāka is not a godless religion but the closure of the epistemic route to any supersensible object — which is why it ends in no religion at all."
+**Safe formulations:** ⚠️ "Creator-belief is not necessary for religion as a cross-cultural category; it is central to many actual religions." · "Non-theistic Indian paths can ground authority, practice and liberation differently, while naturalistic proposals test whether any unseen order is necessary." · "Mīmāṃsā claims Vedic authority and ritual efficacy without a creator, but *apūrva* remains a postulate." · "Cārvāka's reported critique of unseen entities does not itself construct a religious path; its example cannot prove religious naturalism impossible."
 
 <!-- expanded-pyq-depth:start -->
 ### CORPUS-DRIVEN DEPTH DELTA (expanded PYQ audit)
@@ -350,9 +407,9 @@ the Indian cases.
 
 <!-- expanded-pyq-depth:end -->
 
-## 14. PYQ ROUTING (2018–2025)
+## 14. PYQ ROUTING (2018–2026)
 
-> ⚠️ **Corpus signal:** 7 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.
+> ⚠️ **Corpus signal:** 7 primary-owned question-parts out of 112 in 2018–2025; **none** in the 2026 supplement (7 of 126). Cross-links do not create duplicate ownership. Zero in a year is not evidence that the clause has ceased to be examinable.
 
 | Year | Question | Marks | Exact demand |
 |---|---|---:|---|
@@ -364,7 +421,7 @@ the Indian cases.
 | 2024 | Q7(a) | 20 marks | State and evaluate Buddhism as a religion without God. |
 | 2025 | Q5(a) | 10 marks | Discuss Cārvāka’s critique of the belief in the existence of suprasensible entities. |
 
-See the [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md).
+See the [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md) and [2026 supplement](../_PYQ-PhilosophyOfReligion-2026-Supplement.md).
 
 ## 15. ANSWER ARCHITECTURE (10 / 15 / 20 MARKS)
 
@@ -382,9 +439,11 @@ canonical example → theistic objection and reply → comparison with another s
 
 ### 20 marks
 ```text
-Define criteria of religion → full Buddhist/Jain/Mīmāṃsā case →
-creator critique → devotional complication → Western post-theistic comparison →
-graded conclusion avoiding an over-broad definition.
+For the 2024 Buddhist-specific stem: define criteria → dependent origination,
+karma, path, Saṅgha and nirvāṇa → creator-Brahmā versus devas →
+one theist's challenge and Mahāyāna devotional qualification →
+graded verdict (§9.2A). Use Jain/Mīmāṃsā only briefly as contrasts;
+do not replace the requested evaluated Buddhism with a general survey.
 ```
 
 ## 16. DIRECTIVE DECODER
@@ -412,7 +471,7 @@ graded conclusion avoiding an over-broad definition.
 | **Top (≈70%+)** | All the above + a discriminating distinction (non-theistic ≠ atheistic; *apauruṣeya* ≠ revelation; sublation ≠ fictionalism; Cārvāka as limiting case) + the concession that petition and grace genuinely require a responsive God | — |
 
 **Graded-verdict templates:**
-- ⚠️ *Possibility stem:* "Religion without God is not merely conceivable but actual: Mīmāṃsā secures authority, efficacy and desert without a deity, and Buddhism supplies a complete diagnosis-and-path structure. What is *not* possible is religion without a **sacred order** — which is why Cārvāka ends in no religion at all."
+- ⚠️ *Possibility stem:* "Religion without a creator is actual: classical Mīmāṃsā claims authorless authority and ritual efficacy, and Buddhism supplies a complete diagnosis-and-path structure. Whether **every** religion must postulate an unseen sacred order is contested by naturalists; the Cārvāka case alone does not decide that wider issue."
 - ⚠️ *Prerequisite stem:* "God is a prerequisite for *some* religious goods — petition, grace, covenant — but not for religion as such. The theist's strongest argument is therefore devotional, not definitional, and it should be met on that ground rather than dismissed."
 - ⚠️ *Definition stem:* "A definition narrow enough to exclude Buddhism is question-begging; a definition broad enough to include nationalism is empty. The workable middle requires a disciplined relation to an **ultimate/sacred order** together with a **soteriological practice**."
 
@@ -455,6 +514,7 @@ graded conclusion avoiding an over-broad definition.
 - [Paper I: Jainism](../../paper-1/indian/Jainism.md)
 - [Paper II: Humanism, Secularism and Multiculturalism](../socio-political/Humanism-Secularism-Multiculturalism.md)
 - [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md)
+- [2026 Paper II Section B PYQ Supplement](../_PYQ-PhilosophyOfReligion-2026-Supplement.md)
 
 ## SOURCES
 
@@ -474,3 +534,9 @@ graded conclusion avoiding an over-broad definition.
   for the common religious problem and Jainism/Buddhism as religions without a
   creator; local C. D. Sharma controls the caution that creator-denial is not
   equivalent to absence of spiritual or ethical religion.
+- *Stanford Encyclopedia of Philosophy*, "Atheism and Agnosticism",
+  <https://plato.stanford.edu/entries/atheism-agnosticism/> — philosophical
+  denial versus broader psychological nonbelief in the 2023 answer (§9.5A).
+- Buddhist early-text anchors: *Brahmajāla Sutta* (DN 1) on the
+  creator-Brahmā claim, and *Cūḷamālukya Sutta* (MN 63) on the
+  undeclared questions; these are **different** question sets (§9.2A).

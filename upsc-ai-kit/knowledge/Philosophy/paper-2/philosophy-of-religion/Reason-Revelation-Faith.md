@@ -102,7 +102,7 @@ circular unless independent testimony, coherence or other defeasible support is 
 - **Definition:** faith = **trust in and commitment to** God/the transcendent, involving assent that goes **beyond** conclusive proof (but not necessarily against reason).
 - **Aquinas — faith as "intellectual assent" (2025 PYQ):** faith is an act of the **intellect assenting to revealed truth, commanded by the will** (moved by grace). It is a **mean** between *knowledge* (which has proof/sight) and *opinion* (which has fear of error): faith has the **firmness of knowledge without the vision**. This **reconciles reason & faith** — reason establishes the "preambles" (God exists), faith accepts the "mysteries" (Trinity) that exceed but don't contradict reason. ✅
 - **Kierkegaard — faith as committed appropriation:** faith is a **passionate, subjective commitment** under "objective uncertainty"; Abraham dramatises the paradox and the teleological suspension of the ethical. Kierkegaard attacks the claim that an objective philosophical system can replace existential decision; he should not be flattened into the view that contradiction, irresponsibility or every evidence-free belief is religiously licensed. ✅
-- **Faith indispensable for revelation? (2022 PYQ):** revelation must be **received** — it becomes revelation *for someone* only through the **faith** that recognises & accepts it; without faith, an event is just an event. So faith is a **precondition of revelation's efficacy** (Hick's "experiencing-as"). ⚠️
+- **Faith indispensable for revelation? (2022 PYQ):** revelation must be **received to be recognised as such** — for Hick an event becomes revelation *for someone* through faith's interpretation. A propositional account can say a truth was disclosed even when no recipient yet believes it; faith remains a precondition of its **appropriation**, not necessarily its occurrence. ⚠️
 
 ---
 
@@ -140,18 +140,19 @@ circular unless independent testimony, coherence or other defeasible support is 
 ---
 
 ## 6. APPLIED-QUESTION DRILLS ⚠️
-1. **[Aquinas]** "How does Aquinas' faith-as-'intellectual assent' reconcile reason & faith?" (2025) → §3.
+1. **[Aquinas]** "How does Aquinas' faith-as-'intellectual assent' reconcile reason & faith?" (2025) → §3 + §9.4.
 2. **[Reason]** "Role of reason in religion." (2024) → §1.
-3. **[Revelation]** "Distinguish natural & revealed theology (propositional view)." (2025) → §2.
-4. **[Justification]** "Epistemic justifications of revelation-claims." (2024) → §2.
+3. **[Revelation]** "Distinguish natural & revealed theology (propositional view)." (2025) → §9.2B.
+4. **[Justification]** "Epistemic justifications of revelation-claims." (2024) → §9.2A.
 5. **[Faith-revelation]** "Is faith indispensable for revelation?" (2022) → §3.
 6. **[Science]** "Significance of religion vis-à-vis present scientific and technological development." (2020, 10m) → §9.6 — Barbour's four models, not a Galileo narrative.
-7. **[Faith/belief]** "Basic tenets of faith; distinguish faith and belief." (2020, 15m) → §9.7 — enumerate the seven tenets, then the five axes.
-8. **[Justification]** "Can religious beliefs be justified?" (2023, 10m) → §9.9 — evidentialism vs Reformed epistemology; add the *svataḥ/parataḥ-prāmāṇya* mapping.
-9. **[Reason regulative]** "Can reason be a regulative force in forming religious beliefs?" (2021, 20m) → §1 + §9.1 + §9.9 — *regulative* ≠ *constitutive*; reason can veto and discipline without generating.
-10. **[Rational/irrational]** "Rational and irrational aspects of faith." (2023, 15m) → §9.5 — insist on *supra-rational* as a third category.
+7. **[Faith/belief]** "Basic tenets of faith; distinguish faith and belief." (2020, 15m) → §9.7 — offer the seven-part analytical scheme (not a universal creed), then distinguish the axes.
+8. **[Justification]** "Can religious beliefs be justified?" (2023, 10m) → §9.9 — evidentialism vs Reformed epistemology; use *svataḥ/parataḥ-prāmāṇya* as a qualified comparison, not an equation.
+9. **[Reason regulative]** "Can reason be a regulative force in forming religious beliefs?" (2021, 20m) → §9.1A — *regulative* ≠ *constitutive*; reason can veto and discipline without generating.
+10. **[Rational/irrational]** "Rational and irrational aspects of faith." (2023, 15m) → §9.5A — test rational, supra-rational and genuinely irrational separately.
 11. **[Miracles]** "Can testimony establish a miracle?" → §9.8.
 12. **[Tillich]** "How does faith as ultimate concern address faith, doubt and reason?" (2026, 10m) → §9.10 — the **three doubts** chart is the discriminator; do not import symbol theory.
+13. **[Reason alone / experience]** "Would religion lack an experiential account if it were reason alone?" (2026, 10m) → §9.1B, with only a bounded Religious-Experience cross-link.
 
 ---
 
@@ -160,7 +161,7 @@ circular unless independent testimony, coherence or other defeasible support is 
 | Issue | Western | Indian | Note |
 |---|---|---|---|
 | Is testimony an independent source of knowledge? | Locke and Hume: reducible to experience | Nyāya and Mīmāṃsā: *śabda* is an independent *pramāṇa*; Cārvāka denies it | The Indian debate is explicitly epistemological |
-| Is validity intrinsic or extrinsic? | Foundationalism vs Reformed proper basicality | Mīmāṃsā *svataḥ-prāmāṇya* vs Nyāya *parataḥ-prāmāṇya* | The closest exact parallel in the whole clause |
+| Is validity intrinsic or extrinsic? | Reformed proper basicality and evidentialist demands for further grounds | Mīmāṃsā *svataḥ-prāmāṇya* vs Nyāya *parataḥ-prāmāṇya* | Partial structural analogy; Indian validity theories are not theories of a specifically God-belief (§9.9) |
 | Whose speech is scripture? | God's word (propositional revelation) | Mīmāṃsā: *apauruṣeya* — **no** author, human or divine | India has a form of scriptural authority with no revealer |
 | Faith as trust | *Fides qua*; Tillich's ultimate concern | *Śraddhā* (Gītā 17.2–3); Buddhist *saddhā* | Indian trust is verification-directed (*Kālāma Sutta*) |
 | Reason's role | Preambles, coherence, apologetics | *Manana*; *tarka* as auxiliary, never independently probative in Vedānta | Both subordinate reason without eliminating it |
@@ -172,13 +173,16 @@ circular unless independent testimony, coherence or other defeasible support is 
 
 ### 7.0 — "What is instrumental to self-revelation: Faith or Reason?" (2019, 10m)
 ```text
-Define : self-revelation = divine self-disclosure received by a subject.
+Define : explicitly say which "self" is disclosed: God's self to a human recipient
+         (natural reading inside this syllabus clause), not merely introspection.
 Choose : faith is primary for recognition and appropriation; reason is regulative.
 Argue : non-propositional disclosure remains religiously ambiguous until received
         in trust and commitment; reason tests coherence, testimony and moral fruit.
 Object : propositional content can be objectively true before anyone accepts it.
 Reply  : concede objective content, but distinguish occurrence from revelation-for-a-person.
-Verdict: faith receives; reason disciplines. Faith is more instrumental, not self-validating.
+Verdict: faith receives; reason disciplines. If "self-revelation" instead means
+         human self-knowledge, reasoned self-examination has a stronger claim;
+         state this ambiguity rather than silently changing the question.
 ```
 
 ### 7.1 — "How does Aquinas' faith-as-intellectual-assent reconcile Reason and Faith?" (2025, 10m)
@@ -203,7 +207,8 @@ Concl : faith is the indispensable subjective condition of revelation's receptio
 ### 7.3 — "Basic tenets of faith. Distinguish between faith and belief." (2020, 15m)
 ```
 Intro : two obligations in the stem — the tenets, and the distinction. Do both, in that order.
-Tenets: (1) an ultimate object; (2) assent to some content; (3) trust beyond available evidence;
+Tenets: offer an analytical scheme, not seven tenets canonical to every religion:
+        (1) an ultimate object; (2) assent to some content; (3) trust beyond available evidence;
         (4) commitment of will, with risk; (5) hope; (6) community/tradition; (7) fruits.
 Distinction: object (proposition vs person/ultimate) | grammar (believe THAT vs believe IN) |
         mode (assent vs assent + entrusting) | voluntariness (belief largely involuntary; faith
@@ -245,10 +250,12 @@ Body  : Evidentialism — Locke; Clifford's ethics of belief (shipowner); Flew's
         can be PROPERLY BASIC — grounded, warranted by proper function, and defeasible.
         Great Pumpkin objection and reply. Alston: doxastic practices, including sense perception,
         cannot be non-circularly validated.
-Indian: Mīmāṃsā svataḥ-prāmāṇya ≈ proper basicality; Nyāya parataḥ-prāmāṇya ≈ evidentialism;
+Indian: compare Mīmāṃsā svataḥ-prāmāṇya and Nyāya parataḥ-prāmāṇya with
+        defeasible basicality and further-ground requirements; state non-equivalence;
         Cārvāka is the strict evidentialist limit.
-Concl : yes — but justification is internal to a doxastic practice, which relocates the real
-        problem from evidential insufficiency to religious diversity.
+Concl : religious beliefs may be justified by different defeasible standards.
+        Plantinga/Alston allow practice-relative warrant, but public evidence
+        is not excluded; diversity tests whether either account discriminates.
 ```
 
 ---
@@ -263,6 +270,33 @@ Concl : yes — but justification is internal to a doxastic practice, which relo
 - **Canonical examples.** ✅ Aquinas' preambles of faith; Nyāya inference to Īśvara.
 - **Objection → reply.** ⚠️ Kant restricts speculative reason beyond possible experience. Natural theologians reply that metaphysical inference concerns conditions of experience, not another observed object.
 
+### 9.1A How reason **regulates** religious belief (2021 Q7(a), 20 marks)
+
+**Not a synonym for "reason creates religion".** ✅ Reason may (1) assess logical coherence and compare theological claims, (2) appraise testimony and empirical defeaters without assuming every doctrine is a natural-theology theorem, (3) interpret ambiguous scriptures against linguistic and historical context, (4) test ethical consequences and expose coercive or self-sealing readings, and (5) revise confidence when rival claims carry comparable warrant. *Regulative* means these checks **discipline, limit and sometimes veto** a belief; *constitutive* would mean reason alone generates all its content. The latter is not required for the former.
+
+| In a 20-mark answer | Application and pressure |
+|---|---|
+| **Aquinas:** reason can argue for preambles and show that faith and demonstrated truths cannot conflict; mysteries depend on revelation | "Beyond demonstration" is not "immune to contradiction". Rational judgment cannot by itself verify that a particular text was divinely disclosed |
+| **Indian parity:** *manana* tests the meaning of what *śruti* teaches, while Nyāya's *tarka* detects defects in inferences and witness-claims | Mīmāṃsā treats the Veda as authorless; reason interprets its sentences but does not confer their supposed *apauruṣeya* authority. These are **different** models, not one Indian consensus |
+| **Evidence and limits:** reason rejects internally inconsistent literal readings, compares independent witnesses and asks whether compassion survives the proposed reading | A purely experiential claim can remain meaningful and motivational even when public inference cannot demonstrate its object; nevertheless, "revelation says reason is wrong" cannot be its own independent authentication |
+
+⚠️ **Objection and verdict:** an evidentialist says unproven belief is irresponsible (Clifford); a strict fideist says external rational tests distort faith. James's limited permission for a living, forced and momentous option, and Aquinas' distinct preambles/mysteries, mark intermediate positions. Rational scrutiny can **regulate** even belief it cannot **generate** or fully prove. It is fallible and culturally situated; it should not automatically declare all rival scriptures false on the authority of its own favoured scripture. For 2021 Q7(a), first discuss *both* reason and faith, then execute the *regulative* claim through an example and a serious objection rather than only reciting the four stances.
+
+### 9.1B Reason alone and the missing experiential account (2026 Q5(e), 10 marks)
+
+**Answer the conditional, not a generic science–religion essay.** ⚠️ Consider a religion reconstructed through public argument, ethical duties and an inferred first cause **alone**. It could retain a rational God-concept, coherence tests, moral critique and a natural-theology programme; "lacked an experiential account" need not mean "was no religion at all". But reasons *about* the divine do not by themselves explain the **felt relation** of prayer, surrender, moral transformation or encounter; a proof that some cause exists does not entail an individual's trust or perception of the holy.
+
+**Specify what "reason alone" could mean.** ⚠️ A Deist's rationally inferred creator may not be a personally encountered revealer; Kant's morally oriented religion within the bounds of reason is **not** simply a cosmological proof, nor is it automatically devoid of lived moral commitment. The criticism targets exclusive reliance on rational construction as an account of religion, not every practice or moral experience associated with rational religion.
+
+| Rational resource retained | Experiential dimension it cannot alone replace | Qualified counterpoint |
+|---|---|---|
+| Natural theology and critical consistency (§9.1) | Schleiermacher's feeling of **absolute dependence**: religion as lived orientation rather than an inferred theorem | Feeling alone does not certify a divine source and needs interpretation |
+| Ethical reason and publicly discussable norms | Otto's **numinous**: awe at an experienced holy, not merely a moral rule | An overwhelming feeling can be psychologically genuine without establishing its theological object |
+| Concepts and arguments about God | James's **noetic** dimension: first-person states are taken to disclose insight, and their **fruits** are assessed | Such claimed authority is for the experiencer, not automatically for every outsider; conflicting interpretations call for rational comparison |
+| Indian reasoning (*manana*) after scriptural hearing | *Śraddhā* and disciplined *anubhava* orient a seeker toward realisation rather than replacing it with deduction | Traditions disagree about what is realised; a subjective experience cannot resolve that disagreement by assertion alone |
+
+**2026 10-mark verdict.** **Qualified agreement:** reason alone cannot *supply* or *substitute for* a first-person account of religious life, yet experience alone cannot authenticate its claimed object or settle conflicting interpretations. Reason critically assesses *the claim that* an experience is revelatory, while lived experience explains what the reasoning is about. A rational/moral religion is conceptually possible; the stem is persuasive as a critique of a **reduction of religion to reason**, not as proof that reason is dispensable. The full nature/object/veridicality theories belong to `Religious-Experience.md`; use only the bounded contrasts above here.
+
 ### 9.2 Propositional revelation
 - **Doctrine statement.** ✅ Revelation communicates divinely authorised truths that unaided reason could not discover or securely know.
 - **Argument.** ✅ (1) God can disclose; (2) prophets/scripture mediate disclosure; (3) signs, testimony and coherence warrant reception; (4) doctrine articulates revealed content.
@@ -270,6 +304,31 @@ Concl : yes — but justification is internal to a doxastic practice, which relo
 - **Distinction.** ✅ Inspiration concerns divine–human authorship; revelation concerns disclosure; infallibility concerns freedom from error. They are not interchangeable.
 - **Canonical examples.** ✅ Aquinas distinguishes truths accessible to reason from mysteries known through revelation; Mīmāṃsā's *apauruṣeya* Veda is authoritative but not a creator God's speech.
 - **Objection → reply.** ⚠️ Rival revelations and circular authentication weaken certainty. Replies appeal to cumulative criteria—coherence, moral fruit, testimony and transformative power—without pretending neutrality.
+
+### 9.2A How a revelation-claim could be justified (2024 Q7(b), 15 marks)
+
+**Identify the target:** that an event or proposition was **disclosed by the divine**, not just that a prophet sincerely believes it or that its moral teaching happens to be true. ✅ The §2 authentication table supplies *tests*; none is by itself sufficient. Their role in an argument is:
+
+1. **Witness/testimony:** independent transmission, proximity to events, reliability of witnesses and checks against embellishment make a claimed occurrence more credible. A sincere witness may still misinterpret an event; shared sources are not independent corroboration.
+2. **Content/coherence:** a contradiction within a purportedly infallible set or clash with well-supported facts is a defeater for a literal reading; a coherent doctrine is still not proven divine. Interpretation can address some apparent conflicts but may become ad hoc.
+3. **Experience and signs:** a recipient's encounter and its sustained effects can warrant the recipient's trust (Swinburne/Alston's defeasible approach), while a putative miracle may support an occurrence without uniquely identifying its supernatural source. Hume's scrutiny of testimony (§9.8) is relevant, not a universal veto.
+4. **Moral and practical fruit:** compassion, truthfulness and transformed lives are reasons to take an interpretation seriously; useful practices can also be grounded in false metaphysics and unjust practices are a counterweight.
+5. **Rival revelations:** incompatible historical or doctrinal claims cannot all be literally true *in the same sense*. Comparing independently supported claims may lower confidence; calling all accounts one "revelation" without reconciling their content evades the difficulty.
+
+**Objection → reply → limits.** ⚠️ "Every criterion is already tradition-dependent, so the test is circular." A believer can use publicly contestable witnesses and consequences plus explicitly declared interpretive assumptions; this reduces but does not erase circularity. A critic may still favour the simpler non-divine explanation. **Your own comments (required by the 2024 directive):** prefer independent testimony and coherence as *negative filters*, experience and moral fruit as *defeasible positive considerations*, and treat unresolved contradictory revelations as a continuing limit on any claim of certainty. If a source asserts its authority simply *because that source says it is divine*, reject the vicious circle; neither a single transformation nor cumulative compatibility alone proves a unique divine author.
+
+### 9.2B Natural versus revealed theology **on the propositional view** (2025 Q6(c), 15 marks)
+
+**Keep three things apart:** *natural theology* reasons about God from claims available independently of a special disclosure; *revealed theology* reasons **from accepted revealed propositions**; *general revelation* is alleged divine disclosure in nature/conscience, not just another label for a successful *unaided proof*. The printed qualifier is the **propositional view**, where the disclosure has truth-apt content that can serve as premises, not merely an encounter interpreted after the fact.
+
+| Axis | Natural theology | Revealed theology on the propositional view |
+|---|---|---|
+| **Starting warrant** | Publicly discussable observation and argument, e.g. contingent beings or perceived order; no acceptance of a specific scripture is required for a premise | A proposition claimed to be divinely communicated through scripture/prophecy, e.g. a specifically articulated mystery; authority depends on authentication of that revelation |
+| **What the inquiry can seek** | A cause/necessary ground and some attributes within reason's reach; underdetermination of any one religious creed | Particular doctrines and obligations *not inferred from unaided observation*; they can be organised and interpreted rationally even when not demonstrated from public premises |
+| **Aquinas' relation** | Preambles of faith may be accessible by reason, though not to every person or with equal ease | Mysteries such as Trinity exceed demonstration; faith assents to divine testimony, while reason checks compatibility and clarifies consequences. "Beyond" is not "contradicts" |
+| **Distinct objection** | The inference to God may be invalid, underdetermining or challenged by Kant | Competing scriptures, interpretation and the circular test "the text is true because it says so" challenge attribution of divine authorship; rationally coherent content is not by itself revelation |
+
+**Judgment.** ⚠️ On this view theologies differ in **starting warrant and available content**, not in whether they *use* thought: both reason, but the second accepts propositions whose claimed source itself needs scrutiny (§9.2A). A Hick-style **non-propositional** view instead begins with an encountered divine event and interprets it in words (§9.3); substituting it for the printed model misses the demand. Indian parity: Nyāya inference is a bounded natural-theology comparison, while Mīmāṃsā's authorless *Veda* shows that authoritative propositions need not be a personal deity's speech. This is a comparison, not a claim that Mīmāṃsā is Aquinas' revealed theology.
 
 ### 9.3 Non-propositional revelation and Hick
 - **Doctrine statement.** ✅ Revelation is primarily divine self-disclosure in events and encounter; propositions are human interpretations of that disclosure.
@@ -294,6 +353,16 @@ Concl : yes — but justification is internal to a doxastic practice, which relo
 - **Distinction.** ✅ Supra-rational is not irrational: exceeding proof differs from contradicting reason.
 - **Canonical examples.** ✅ Abraham dramatises Kierkegaard's paradox; *śravaṇa–manana–nididhyāsana* moves from hearing through reasoning to assimilation.
 - **Objection → reply.** ⚠️ Unchecked commitment can sanctify fanaticism. Reply: authentic faith remains answerable to coherence, ethical fruit and self-critical interpretation.
+
+### 9.5A Rational, supra-rational and irrational faith (2023 Q6(c))
+
+| Aspect | What is being claimed | Defensible illustration | Objection → limited response |
+|---|---|---|---|
+| **Rational** | Faith is answerable to coherence, publicly discussable reasons where applicable, accountable testimony and the effects of an interpretation | Aquinas' rational preambles and scrutiny of revelation; Advaita's *manana* after scriptural hearing | Inconclusive evidence cannot compel assent; the case for faith must not pretend every mystery is a theorem |
+| **Supra-rational / non-demonstrative** | Trust, encounter and committed participation **exceed** what argument establishes without negating demonstrable truths | Aquinas' revealed mysteries and will-involving assent; *śraddhā* initiates inquiry; Kierkegaard insists an objective account does not replace existential appropriation | Different people can commit to incompatible claims. Defeaters, comparison and ethical criticism still apply; "beyond proof" is not a certificate of truth |
+| **Irrational (possible failure, not a virtue by definition)** | Assent persists **despite** a decisive contradiction, fabrication or seriously damaging counter-evidence, or demands immunity from any criticism | A revelation-claim authenticated only by itself while threatening questioners; a claimed miracle despite well-established fraudulent reporting | A defender may challenge whether evidence is actually decisive; simply calling objections "faithlessness" does not answer them |
+
+⚠️ **2023 15-mark answer route:** distinguish *faith's rational grounds* from the *extra-rational act of entrusting* and from *irrational insulation*. Clifford's challenge forces accountability; Kierkegaard shows why reasons alone do not live a religious relation; Aquinas and Indian reflective trust supply intermediate cases. A leap may be deeply committed and still open to criticism; do **not** label every leap irrational or canonise irrationality as religion's necessary essence. End with the criterion that transcending proof differs from contradicting well-established reasons.
 
 ### 9.6 Science and religion: the four models (2020 Q5(a) owner-module)
 - **Doctrine statement.** ✅ The standard philosophical map of the science–religion relation is **Ian Barbour's fourfold typology** (*Religion and Science: Historical and Contemporary Issues*, 1997; *When Science Meets Religion*, 2000): **Conflict, Independence, Dialogue, Integration**.
@@ -322,13 +391,13 @@ Concl : yes — but justification is internal to a doxastic practice, which relo
 | Degrees | Degrees of confidence | Degrees of fidelity and depth |
 
 - **The canonical supports.** ✅ **Aquinas'** scholastic pair: *fides quae creditur* (the faith **which** is believed — the content, the creed) and *fides qua creditur* (the faith **by which** one believes — the act and disposition). ✅ **Wilfred Cantwell Smith**, *Faith and Belief* (1979): "faith" names a universal, cross-cultural human orientation to transcendence, whereas "belief" in its modern propositional sense is a historically recent narrowing — the word once meant something closer to "hold dear" (*by-lieve*, cognate with *lief*). ✅ **Tillich**: faith is the state of being grasped by an **ultimate concern**, which is why idolatry (an ultimate concern in something non-ultimate) is faith's characteristic failure, not unbelief. ✅ **Buber**: the *I–Thou* relation cannot be reduced to *I–It* propositions.
-- **The "basic tenets of faith" (the printed stem asks for these — enumerate them).** ⚠️ (1) an **object** held to be ultimate; (2) **assent** to some content about it; (3) **trust** exceeding the available evidence; (4) **commitment** of the will, with consequent risk; (5) **hope** oriented to a future not yet secured; (6) a **community** and tradition that transmits and disciplines it; (7) **fruits** — a transformed pattern of life by which it is tested.
+- **The "basic tenets of faith" (the printed stem asks for these — offer a reasoned scheme, not a universal creed).** ⚠️ (1) an **object** held to be ultimate; (2) **assent** to some content about it; (3) **trust** exceeding the available evidence; (4) **commitment** of the will, with consequent risk; (5) **hope** oriented to a future not yet secured; (6) a **community** and tradition that may transmit and discipline it; (7) **fruits** — a transformed pattern of life by which it can be assessed. Their weight and even applicability vary between traditions and individual adherents.
 - **Indian parity.** ✅ ***Śraddhā*** is precisely the faith-side rather than the belief-side: the *Gītā* 17.2–3 grades *śraddhā* as *sāttvika*, *rājasa* or *tāmasa* and states that a person is constituted by their *śraddhā* — "as is one's *śraddhā*, so is one". ✅ In Advaita pedagogy *śraddhā* is one of the six inner accomplishments and functions as **the trust that makes inquiry possible**, to be *replaced* by realisation, not preserved as belief. ✅ Buddhism's *saddhā* is explicitly provisional and verification-directed — the *Kālāma Sutta* (AN 3.65) counsels not to accept a teaching merely on report, lineage, scripture, logic or the teacher's authority, but to test it in experience. ⚠️ This gives Indian material a genuine advantage on this question: *śraddhā*/*saddhā* is trust **that initiates verification**, whereas Western "faith" often has to defend itself as trust that *replaces* verification.
 - **Objection → reply.** ⚠️ **Objection:** the distinction is verbal; "believing in" reduces to "believing that a certain being exists and is trustworthy". **Reply:** the reduction loses the performative and relational element — one can believe *that* a person is reliable while refusing to entrust anything to them; faith is constituted by the entrusting. ⚠️ **Second objection:** if faith is volitional it is doxastically irresponsible. **Reply:** the will operates where evidence is genuinely non-coercive, which is the only case in dispute (Aquinas; James's "genuine option" in *The Will to Believe*).
 - **Verdict formula.** ⚠️ "Faith is not a weaker belief; it is a different act. Belief is the cognitive component *within* faith, and the two can come apart in both directions — orthodox belief without trust, and trust that outruns any belief its holder can articulate."
 
 ### 9.8 Miracles: Hume's argument and its critics
-- **Doctrine statement.** ✅ **Hume**, *An Enquiry Concerning Human Understanding*, **Section X, "Of Miracles"** (1748), defines a miracle as *"a violation of the laws of nature"* brought about by a particular volition of the Deity, and argues that testimony can never establish one.
+- **Doctrine statement.** ✅ **Hume**, *An Enquiry Concerning Human Understanding*, **Section X, "Of Miracles"** (1748), calls a miracle a *"violation of the laws of nature"* and argues that the opposing evidence from regular experience ordinarily outweighs miracle-testimony. His own maxim states the demanding **condition** under which testimony *could* establish a miracle; do not replace that conditional test with a claim of logical impossibility.
 - **Argument (Part I — the *a priori* balance).** ✅ (1) A wise man proportions his belief to the evidence. (2) The laws of nature are supported by uniform, exceptionless experience — the strongest empirical evidence there is. (3) Testimony is supported by experience of human reliability, which is strong but not uniform. (4) A miracle report therefore sets uniform experience against non-uniform experience, and the weaker must yield. (5) **Hume's maxim:** no testimony suffices to establish a miracle unless its falsehood would be *more miraculous* than the fact it endeavours to establish — and even then one subtracts the lesser marvel from the greater.
 - **Argument (Part II — the four *a posteriori* considerations).** ✅ (a) No miracle is attested by a sufficient number of witnesses of unquestioned good sense, education, integrity and public reputation with much to lose. (b) Human nature has a standing **passion for surprise and wonder**, which multiplies marvellous reports. (c) Miracle reports flourish chiefly among **ignorant and barbarous nations**, or descend from such origins. (d) **Contrary miracles cancel:** since the miracles of rival religions support incompatible systems, each set of testimonies destroys the credit of the others.
 - **Replies, with their force.** ⚠️
@@ -339,7 +408,7 @@ Concl : yes — but justification is internal to a doxastic practice, which relo
   - **The contrary-miracles reply:** the cancellation argument assumes rival traditions' miracles support *mutually exclusive* total systems; if traditions overlap in what their miracles are taken to attest, cancellation is not automatic.
   - ⚠️ **What survives:** Hume's Part II is a permanently useful checklist of *evidential caution*; his Part I is now widely regarded as too strong, since it would exclude testimony for any sufficiently improbable event, including well-attested scientific anomalies.
 - **Indian parity.** ✅ The tradition is markedly **unenthusiastic** about the evidential use of the marvellous. Patañjali's *Yoga-sūtra* Book III catalogues the *siddhis*/*vibhūtis* in detail and then (3.37) declares them **obstacles to samādhi** though "accomplishments" in the outward-turned state — the powers are real but soteriologically worthless. ✅ Buddhism records *iddhi* while the *Kevaddha Sutta* (DN 11) has the Buddha reject the display of psychic powers as a means of gaining converts, preferring the "miracle of instruction". ✅ Mīmāṃsā grounds Vedic authority in *apauruṣeya* eternality precisely so that it needs **no** miraculous authentication. ⚠️ Hence, where Western apologetics uses miracles to *authenticate* revelation, Indian systems mostly *decline* the strategy — a genuine comparative point rather than a parallel.
-- **Verdict formula.** ⚠️ "Hume shows that miracle-testimony faces an unusually heavy evidential burden; he does not show that the burden is in principle unmeetable. The stronger conclusion is that a miracle can at best be evidence **for those already inside** an interpretive framework that identifies which events would count as divine action — which returns the question to revelation and faith."
+- **Verdict formula.** ⚠️ "Hume shows that miracle-testimony faces an unusually heavy evidential burden; he does not show that the burden is in principle unmeetable. Independently corroborated testimony can matter even to an outsider, but identifying an unusual event **as divine revelation by a specific source** adds interpretive work beyond establishing that the event occurred."
 
 ### 9.9 Evidentialism and Reformed epistemology (2023 Q5(b) owner-module)
 - **The question.** ✅ "Can religious beliefs be justified?" is not the question whether God exists; it is the question of **what standard** a religious belief must meet to be rationally held.
@@ -350,9 +419,9 @@ Concl : yes — but justification is internal to a doxastic practice, which relo
   - **Warrant and proper function:** for Plantinga, warrant is what turns true belief into knowledge — a belief has warrant when produced by cognitive faculties **functioning properly**, in an appropriate environment, according to a design plan aimed at truth. If Calvin's *sensus divinitatis* exists and works properly, theistic belief has warrant without argument. Note the structure: this shows that **if** theism is true, theistic belief is very likely warranted — so there is no viable *de jure* objection independent of the *de facto* question.
   - **The Great Pumpkin objection:** if belief in God can be properly basic, so can belief in anything at all. **Reply:** basicality is not arbitrariness — properly basic beliefs are grounded in circumstances, are defeasible, and belong to a community's disciplined doxastic practice; there is no analogous faculty or ground for the Great Pumpkin. ⚠️ Critics respond that this makes the criterion community-relative, which readmits the Son-of-Great-Pumpkin problem for well-established rival traditions.
   - ✅ **William Alston**'s complementary route (*Perceiving God*, 1991): our engagement in **doxastic practices** — including sense perception — cannot be shown reliable without circularity; since we nonetheless rationally engage in them, socially established religious practice is in the same epistemic boat, and it is practically rational to engage in it absent sufficient reason to think it unreliable. Route to [Religious Experience §9.8](./Religious-Experience.md).
-- **Indian parity.** ✅ The whole dispute maps onto the **pramāṇa** debate. Cārvāka is the strict evidentialist — only *pratyakṣa*, so no supersensible belief is justified. Nyāya is the inferentialist — *anumāna* and *āpta-vākya* justify. **Mīmāṃsā's *svataḥ-prāmāṇya*** (intrinsic validity: a cognition is valid on its own until defeated) is the closest classical analogue of Reformed epistemology's proper basicality, and **Nyāya's *parataḥ-prāmāṇya*** (extrinsic validity: validity must be established by something further) is the closest analogue of evidentialism. ⚠️ This mapping is the single most valuable move available in this question, because it converts a Western epistemology debate into an Indian one without distortion.
+- **Indian parity.** ✅ The Indian **pramāṇa** debate is a *limited structural comparison*, not an exact counterpart to the Western dispute. Cārvāka accepts perception (*pratyakṣa*) as the surest route and challenges the warrant for supersensible religious claims; Nyāya also accepts inference and reliable testimony (*āpta-vākya*). Mīmāṃsā's ***svataḥ-prāmāṇya*** says that a cognition's validity is prima facie intrinsic until defeated; Nyāya's ***parataḥ-prāmāṇya*** asks for further grounding of a cognition's validity. ⚠️ These *partly resemble* defeasible basicality and further-evidence requirements, respectively, but Plantinga's **properly basic belief in God** additionally requires a specific account of warrant/proper function, not just intrinsic validity of cognition. Nyāya's extrinsic validity is **not** Clifford's moral rule that every belief must be independently evidenced. Use the analogy and state where it breaks.
 - **Objection → reply.** ⚠️ **Objection:** properly basic religious belief is immune to criticism. **Reply:** Plantinga insists it is **defeasible** — the problem of evil, projection theories and cognitive-science explanations are all potential defeaters that must be met. ⚠️ **Second objection:** religious diversity means incompatible beliefs are all "properly basic". **Reply:** diversity is a defeater to be answered, not an automatic refutation — but no one holds it is easily answered.
-- **Verdict formula.** ⚠️ "Religious beliefs can be justified, but not in the way natural theology once hoped. The evidentialist standard, taken strictly, disqualifies far more than religion; the Reformed alternative rescues rationality at the cost of making it internal to a doxastic practice — and then religious diversity, not evidential insufficiency, becomes the real problem."
+- **Verdict formula.** ⚠️ "Religious beliefs may have publicly assessable evidence, defeasible basic grounds or warrant within a practice; no one route guarantees their truth. Strict classical foundationalism is narrower than everyday rational belief, while properly basic religious belief still faces genuine defeaters. Rival religious claims and evidential insufficiency remain **two** live tests, not one problem replacing the other."
 
 
 
@@ -416,7 +485,7 @@ Concl : yes — but justification is internal to a doxastic practice, which relo
 | Faith as orientation of the whole person | ultimate concern; centred act | ***śraddhā*** (Gītā 17.2–3: "as is one's *śraddhā*, so is one") — a constitutive disposition, not a low-grade belief | ✅ **Close parallel**: both treat faith as what a person *is*, not what a person guesses |
 | Doubt inside commitment | existential doubt is structural | Buddhist ***saddhā*** is **verification-directed**: the *Kālāma Sutta* (AN 3.65) invites testing, and *vicikicchā* (doubt) is a fetter only as paralysis | ⚠️ **Near, not identical**: Indian traditions expect doubt to be *resolved* by realisation; Tillich says it is never removed for a finite believer |
 | Reason's role | precondition; faith is its ecstatic fulfilment | Advaita's ***manana*** (reasoning on what is heard) between *śravaṇa* and *nididhyāsana*; *tarka* is auxiliary, never independently probative | ✅ Both subordinate reason without eliminating it |
-| Finitude of every image of the ultimate | "God is the symbol for God" | ***Nirguṇa* Brahman**; *neti neti* (Bṛhadāraṇyaka 2.3.6); *anirvacanīyatā* | ✅ The strongest available comparison — but note Tillich reaches it from **existential analysis**, Advaita from **scriptural exegesis plus non-dual experience** |
+| Finitude of every image of the ultimate | "God is the symbol for God" | ***Nirguṇa* Brahman**; *neti neti* (Bṛhadāraṇyaka 2.3.6) | ⚠️ Limited comparison: Tillich reaches his point from **existential analysis**, Advaita from **scriptural exegesis and non-dual inquiry**; *anirvacanīya* characterises *māyā*, not *nirguṇa* Brahman |
 | Idolatry critique | finite bearer absolutised → existential disappointment | Cārvāka's attack on priestcraft; the Buddha's rejection of ritual efficacy; Kabīr and Nānak against ritualism | ⚠️ Indian critiques are mostly of **practice**; Tillich's is a **structural** critique of any absolutised finite |
 
 **Traps specific to this dossier** ⚠️
@@ -511,7 +580,7 @@ Full four-part architecture:
 10. ⚠️ Do not attribute to Hume the claim that miracles are impossible. His claim is about the **evidential force of testimony**; and his definition of a miracle as a violation of natural law is itself contested (Swinburne's non-repeatable counter-instance).
 11. ⚠️ Do not present Clifford's maxim without James's reply, or James's reply without its restriction to **living, forced and momentous** options where evidence is genuinely inconclusive.
 12. ⚠️ Do not say Plantinga claims God's existence is self-evident. He claims theistic belief can be **properly basic** — grounded, warranted and **defeasible** — and that classical foundationalism is self-referentially incoherent.
-13. ⚠️ When comparing, use the exact Indian analogues: Mīmāṃsā's *svataḥ-prāmāṇya* ≈ proper basicality; Nyāya's *parataḥ-prāmāṇya* ≈ evidentialism. Do not assert a looser parallel.
+13. ⚠️ Mīmāṃsā's *svataḥ-prāmāṇya* and Nyāya's *parataḥ-prāmāṇya* are validity doctrines. Compare them **structurally** with defeasible basicality and further-ground demands; do not equate either with Plantinga or Clifford (§9.9).
 14. ⚠️ Do not write "God is the ultimate concern" for Tillich. **Faith** is the state of ultimate concern; "God" is the fundamental **symbol** of its content — Tillich's own formula is that God is the symbol for God.
 15. ⚠️ Do not say Tillich makes all doubt intrinsic to faith. Only **existential** doubt is; methodological and sceptical doubt are separately defined and lie outside the act of faith.
 16. ⚠️ Do not present Tillich as a fideist. "A faith which destroys reason destroys itself and the humanity of man"; ecstasy is *fulfilled*, not denied, rationality.
@@ -551,7 +620,7 @@ Full four-part architecture:
 | 2025 | Q5(e) | 10 marks | How does Aquinas’ account of Faith as “an intellectual assent” reconcile the juxtaposition between Reason and Faith? Discuss. |
 | 2025 | Q6(c) | 15 marks | Distinguish between Natural Theology and Revealed Theology in the context of the Propositional view of Revelation. |
 | **2026** | **Q5(c)** | **10 marks** | How does Paul Tillich's idea of faith as ultimate concern address the relation between faith, doubt and reason? Evaluate. → **§9.10** |
-| **2026** | **Q5(e)** | **10 marks** | "If religion were a subject of reason alone, it would have lacked an experiential account." Do you agree with this statement? Give reasons in support of your answer. → **§1 + §9.1 + §9.6**, with a bounded cross-link to [Religious Experience](./Religious-Experience.md) |
+| **2026** | **Q5(e)** | **10 marks** | "If religion were a subject of reason alone, it would have lacked an experiential account." Do you agree with this statement? Give reasons in support of your answer. → **§9.1B**, with a bounded cross-link to [Religious Experience](./Religious-Experience.md) |
 
 See the [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md) and the [2026 Paper II Section B PYQ Supplement](../_PYQ-PhilosophyOfReligion-2026-Supplement.md).
 
@@ -590,6 +659,8 @@ Indian–Western comparison → defended synthesis.
 | **What kind of epistemic justifications are possible… with your own comments** | A typology **plus** a first-person assessment | List criteria (coherence, testimony, fruits, transformation), then rank them yourself | 2024 Q7(b) |
 | **How does X reconcile A and B?** | The mechanism of reconciliation, stated as a structure | Name the two storeys and the hinge between them | 2025 Q5(e) Aquinas |
 | **Distinguish A and B in the context of C** | A three-term answer; C is not decorative | Natural vs revealed theology **as seen from** the propositional model | 2025 Q6(c) |
+| **How does ultimate concern address A, B and C? Evaluate** | An internal mechanism **and** an assessed limit | Explain centred concern, existential doubt and reason-in-ecstasy; then test a critic, not the symbol theory alone | 2026 Q5(c) |
+| **If reason alone, would X lack experience? Agree with reasons** | A qualified judgment on a conditional, not a survey of science and religion | Say what reason retains, what first-person accounts add, and why experience itself still needs criticism | 2026 Q5(e) |
 
 > 🔑 **Rule:** this clause punishes binaries. Reason/faith, rational/irrational, science/religion and evidence/basicality are all **three-term** distinctions once you add the middle category (supra-rational, dialogue, defeasible basicality).
 

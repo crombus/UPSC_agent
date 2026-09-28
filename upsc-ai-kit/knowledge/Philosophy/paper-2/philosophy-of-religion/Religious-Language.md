@@ -2,7 +2,7 @@
 
 > **Syllabus (verbatim):** Nature of Religious Language : Analogical and Symbolic; Cognitivist and Non-cognitive.
 > **Evidence key:** ✅ canonical doctrine/fact · ⚠️ analytical synthesis for exam use · ❓ contested/uncertain · 📰 dated current anchor only
-> **Placement:** The clause has two axes: how transcendent predicates signify, and whether religious utterances are truth-apt. PYQ routing below covers the fully audited 2018–2025 Paper II bank.
+> **Placement:** The clause has two axes: how transcendent predicates signify, and whether religious utterances are truth-apt. PYQ routing below covers the 2018–2026 Paper II bank.
 
 ## Exact printed ownership and cross-topic firewall
 
@@ -37,8 +37,8 @@ the further question is whether it also asserts a truth about reality.
      proportionally (God is "good"        true or false      intentions, NOT facts
      analogically, not univocally/        (realism)          │
      equivocally)                             │           Braithwaite (moral intent),
-   • SYMBOL (Tillich) — symbols            (Aquinas,       Wittgenstein (form of life),
-     participate in the reality they       Hick)           Hare (bliks), Ayer (meaningless)
+   • SYMBOL (Tillich) — symbols            (Aquinas,       later Wittgensteinian use (contested),
+     participate in the reality they       Hick)           Hare (bliks); Ayer rejects factual meaning
      point to; "God" is not a being       │
      but Being-Itself                  INDIAN: Brahman is beyond objectifying
    • NEGATION (via negativa / neti neti)   speech (avācya, neti neti); *anirvacanīya*
@@ -65,8 +65,8 @@ Classifying its primary force does not automatically cancel every other force.
 ---
 
 ## 1. THE PROBLEM ✅
-- **Univocal** language (same sense as for creatures) makes God **finite/anthropomorphic**; **equivocal** language (wholly different sense) makes God-talk **meaningless/unknowable**. Need a **middle way**. ✅
-- The **Logical Positivist attack (Ayer):** "God exists" is unverifiable → **literally meaningless** (see Paper-I Logical Positivism). This forced the whole 20th-c debate. ✅
+- **Univocal** predication (one concept shared between God and creatures) risks anthropomorphism if it imports creaturely limitation; Scotus argues the shared concept can still differ infinitely in intrinsic mode. **Wholly equivocal** predication risks leaving no inferential or intelligible connection. Analogy, negation and symbol are distinct possible responses, not the only ones. ⚠️
+- **The Logical Positivist attack (Ayer):** under his verification criterion, "God exists" lacks **literal cognitive/empirical significance** if no possible experience bears on it; this is not the assertion that prayers are psychologically or practically meaningless (see Paper I Logical Positivism). ✅
 
 ### 1.1 Verification, falsification and empirical factuality
 
@@ -118,11 +118,11 @@ of reference.
 ## 3. WHETHER IT STATES FACTS — Cognitive vs Non-cognitive ✅
 - **Cognitivist (realist):** religious statements are **genuine truth-claims** — "God exists" is **true or false**, asserting a fact about reality (Aquinas, Hick, Swinburne). ✅
 - **Non-cognitivist:** religious statements do **not** state facts; they express something else: ✅
-  - **R.B. Braithwaite (2024 PYQ):** religious assertions are **declarations of a moral intention / commitment to a way of life** (+ associated stories), not factual claims. "God is love" = an intention to live agapeistically. ✅
+  - **R. B. Braithwaite (2018, 2021, 2024 and 2026 PYQs):** religious assertions are interpreted as **declarations of an intention to follow an agapeistic moral policy**, associated with stories that support the commitment without requiring assent to their historical truth. This is his proposed *analysis*, not a claim that believers never intend literal factual assertions. §9.11 gives the argument and its costs. ✅
   - **Wittgenstein and later Wittgensteinian approaches (2023 PYQ):** Wittgenstein's *Lectures on Religious Belief* contrast belief in the Last Judgement with ordinary empirical prediction and show how it orients a life. Later Wittgensteinian approaches formulate this through **language-game**, **grammar** and **form of life**. Whether Wittgenstein thereby becomes a straightforward non-cognitivist is disputed; **D. Z. Phillips** resisted both reductionist and simple non-cognitivist readings. ✅ ❓
-  - **R.M. Hare — "bliks":** religious beliefs are unfalsifiable **"bliks"** — basic, un-provable ways of seeing the world that still matter.
-  - **Ayer (Logical Positivism):** non-cognitive because **meaningless** (unverifiable) — the hostile version.
-- **"Does the cognitivist account lead to contradiction?" (2024 — Braithwaite):** ⚠️ Braithwaite argues the cognitivist (factual) reading runs into the **verification problem** (unverifiable → meaningless), so he **reduces** religious language to moral-conative use to save it. *Reply:* the reduction **loses** the believer's own realist intent (they mean God *really* exists) — an "atheist's account of religion". ⚠️
+  - **R. M. Hare — *bliks* (2026 Q7(a)):** basic frameworks for interpreting experience, not candidate factual hypotheses. His paranoid-student example shows why an unfalsifiable *blik* can matter without being evidence-confirmed. Whether that is an adequate account of believers' actual assertions is the question, not a foregone conclusion (§9.12).
+  - **Ayer (Logical Positivism):** denies *literal cognitive significance* under his verification criterion; distinguish this challenge from Braithwaite's and Hare's constructive accounts of practical significance.
+- **"Does the cognitivist account lead to contradiction?" (2024 — Braithwaite):** ⚠️ Name the alleged contradiction rather than asserting one: a factual "God is loving" may appear at odds with apparently pointless suffering, or with a theory demanding empirical verification of all factual meaning. The **first** is an evidential/theodicy problem unless both statements have specified incompatible meanings; the **second** depends on Ayer's contested criterion and is not a formal contradiction within realism. Braithwaite preserves moral use but risks losing a believer's realist claim; see §9.11.
 
 ---
 
@@ -136,7 +136,7 @@ of reference.
 | Language-game/use | contested | religious grammar and life-orienting use | Wittgenstein; later Wittgensteinians | fideism if insulated; simple non-cognitivist classification is disputed |
 | Verificationism | non-cog (hostile) | meaningless | Ayer | self-refuting principle |
 
-> 🔑 The strong answer: religious language is **neither literal nor meaningless** — analogy/symbol give it **cognitive meaning** (realist), while non-cognitivists (Braithwaite/Wittgenstein) capture its **practical/moral force** but at the cost of its **truth-claim**; the believer's own intent is **cognitivist**.
+> 🔑 The strong answer: religious language need not be **univocally literal** or without meaning. Analogy can sustain truth-apt assertion; Tillich's symbol can carry a realist intention without supplying a straightforward empirical proposition; Braithwaite's moral intention and Hare's *blik* explain distinct practical roles at the cost of much asserted factual content. Do not classify Wittgenstein or every religious believer by fiat.
 
 ---
 
@@ -161,16 +161,18 @@ of reference.
 ## 6. APPLIED-QUESTION DRILLS ⚠️
 1. **[Symbolic]** "Is religious language symbolic? / Tillich on symbol." (2025, 2023) → §2(b).
 2. **[Analogical]** "Analogical nature of religious language (Aquinas)." (2024) → §2(a).
-3. **[Cog/non-cog]** "Distinguish cognitivist & non-cognitivist accounts (Braithwaite / 'God exists')." (2024, 2022) → §3.
+3. **[Cog/non-cog]** "Distinguish cognitivist & non-cognitivist accounts (Braithwaite / 'God exists')." (2024, 2022) → §§3, 9.11 — for 2024 also answer the alleged contradiction.
 4. **[Wittgenstein]** "Wittgenstein on the non-cognitive nature of religious language." (2023) → §3.
 5. **[Advaita]** "*Anirvacanīyatā* & the nature of religious language." (2025) → §2(d) + §9.5.
 6. **[Secular vs religious]** "In what sense is the secular use of language different from the religious use?" (2018, 10m) → §9.6 — function, not vocabulary.
 7. **[Symbol→mysticism]** "Does religious symbolism lead to mysticism?" (2019, 20m) → §9.7 — answer *whether* and *how*, and include the negative case.
-8. **[Transcendent referent]** "Religious symbols as transcendent referent mediating into the cultural, spatial and temporal world." (2018, 15m) → §9.2 + §9.7 (Eliade's hierophany; Tillich's participation).
+8. **[Transcendent referent]** "Religious symbols as transcendent referent mediating into the cultural, spatial and temporal world." (2018, 15m) → §9.13 (vehicle, referent and cultural/spatial/temporal mediation).
 9. **[Cognitive content]** "Does religious language carry cognitive content?" (2020, 20m) → §9.9 — the spectrum, plus the falsification debate.
-10. **[Braithwaite]** "Non-cognitive theory of religious language, in the light of Braithwaite." (2021, 20m) → §9.4 + §9.9 position 7.
+10. **[Braithwaite]** "Non-cognitive theory of religious language, in the light of Braithwaite." (2021, 20m) → §§9.9, 9.11.
 11. **[Analogy]** "The analogical nature of religious language." (2024, 10m) → §9.1 + §9.8 — add Scotus for the contrast.
 12. **[Pluralism bridge]** "How does a theory of religious language bear on religious pluralism?" → §9.10.
+13. **[Braithwaite 2026]** "Critically discuss Braithwaite's views on the nature of religious language." → §9.11 (empiricist premise, moral intention, stories and three distinct objections).
+14. **[Hare 2026]** "Analyse Hare's *blik* and assess whether it defends meaningfulness." → §9.12 (Flew, student/dons, sane/insane, Mitchell and partial verdict).
 
 ---
 
@@ -194,16 +196,20 @@ Intro : the problem — can God-talk be literal/factual?
 B1    : cognitivist — "God exists" is a truth-claim (Aquinas, Hick); realism.
 B2    : non-cognitivist — expresses attitude/intention (Braithwaite: moral intention),
         use in a form of life (Wittgenstein), bliks (Hare), or meaningless (Ayer).
-Assess: cognitivism faces the verification problem → Braithwaite reduces to moral use;
-        BUT that loses the believer's realist intent (an "atheist's account").
-Concl : religious language is best read as analogical/symbolic-yet-cognitive — meaningful AND truth-apt.
+Assess: name the alleged "contradiction": (a) apparent conflict between a loving God
+        and suffering requires an added theological premise; (b) clash with Ayer's empirical
+        meaning rule depends on an independently contested rule, not an internal contradiction.
+        Braithwaite saves a moral use, at the cost of many believers' realist intent.
+Concl : an assertoric + practical account can preserve truth-aptness without claiming
+        that every religious utterance is a factual description.
 ```
 
 ### 7.2 — "Is religious language symbolic? (Tillich)" (2025, 10m)
 ```
 Intro : literal language fails for the transcendent; Tillich's symbolic theory.
-Body  : symbols (unlike signs) participate in what they point to; "God" = Being-Itself,
-        not a being; literalism = idolatry; only "God is Being-Itself" is non-symbolic.
+Body  : symbols (unlike mere signs) participate in what they point to; "God" signifies
+        Being-Itself, not a being; literalism risks idolatry; Tillich's claim that
+        "God is being-itself" alone is non-symbolic is later qualified and disputed.
 Crit  : referent becomes vague; compare Aquinas' analogy (more determinate).
 Concl : religious language is symbolic — pointing beyond itself to the Ground of Being.
 ```
@@ -212,11 +218,11 @@ Concl : religious language is symbolic — pointing beyond itself to the Ground 
 ```
 Line 1: the difference is NOT lexical — religion borrows ordinary words. It is functional.
 Axes  : function (describe/predict vs worship, invoke, confess, vow, bless);
-        reference (empirical particulars vs a referent not available for ostension);
-        verification (determinate procedures vs contested/eschatological/none);
-        logic (paradox a defect vs paradox, negation, symbol and myth tolerated);
-        self-involvement (detachable vs committing the speaker);
-        register (any competent speaker vs tradition-formed, often a sacral register).
+        reference (often empirical particulars vs sometimes a transcendent referent);
+        verification (method depends on kind of claim; theological tests contested);
+        logic (both use negation and metaphor; religious discourse may foreground symbols);
+        self-involvement (both can commit the speaker; worship and vows make this salient);
+        register (ordinary vocabulary repurposed within a tradition, sometimes liturgically).
 Tools : Austin — constative vs performative; "I baptise", "I take refuge", saṃkalpa, vow, blessing.
         Evans — self-involving language. Ramsey — model + qualifier producing a disclosure situation.
 Indian: Mīmāṃsā gives vidhi priority in disclosing dharma; this does not mean the
@@ -322,17 +328,17 @@ Concl : univocity buys inference at the risk of anthropomorphism; analogy buys t
 | Axis | Secular use | Religious use |
 |---|---|---|
 | **Primary function** | Describe, predict, instruct, inform | Worship, invoke, confess, bless, vow, consecrate, commit |
-| **Reference** | Empirical particulars and their relations | A transcendent referent not available for ostension |
-| **Verification** | Determinate procedures; corrigible by observation | ⚠️ Contested — eschatological, experiential, or none |
-| **Logic** | Paradox is a defect | Paradox, negation, symbol and myth are tolerated and sometimes required |
-| **Self-involvement** | Usually detachable from the speaker | Typically **self-involving**: the utterance commits the speaker |
-| **Community and register** | Any competent speaker | Tradition-formed; often a sacral register (mantra, liturgical Latin, Qur'ānic Arabic) with untranslatability claims |
+| **Reference** | Often empirical particulars, but also abstract entities | May invoke a transcendent referent; religious utterances can also describe ordinary events |
+| **Verification** | Varies with empirical, moral, mathematical or performative use | ⚠️ Evidence may be contested, experiential, eschatological or unavailable |
+| **Logic** | Negation, metaphor and paradox can occur | Negation, symbol and paradox can be especially important; contradiction still needs a defence |
+| **Self-involvement** | May commit the speaker (e.g. promising) | Frequently **self-involving** (e.g. vow), but some claims are detachable |
+| **Community and register** | Often shared everyday use, also specialist registers | Tradition-formed uses, sometimes a liturgical register; neither use is confined to one vocabulary |
 
 - **The speech-act analysis (the strongest single tool here).** ✅ **J. L. Austin's** distinction between **constative** and **performative**, and between **locutionary / illocutionary / perlocutionary** force, shows that many religious utterances are not *descriptions* that happen to be unverifiable but **performatives** whose success-conditions are different: "I baptise you", "I take refuge in the Buddha", "*saṃkalpa*" at the start of a rite, a vow, a blessing, a curse. ✅ **Donald Evans**, *The Logic of Self-Involvement* (1963), applies this systematically: religious language is characteristically **self-involving** — it expresses attitudes, commits the speaker to conduct, and *constitutes* relationships. ⚠️ This does **not** make religious language non-cognitive: "I baptise" presupposes a whole set of assertions, and a performative can carry assertoric commitments.
 - **Ian Ramsey's "models and qualifiers"** ✅ (*Religious Language*, 1957): religious language works by taking an ordinary **model** ("father", "cause", "good") and applying a **qualifier** ("heavenly", "first", "infinitely") that stretches the model until the "penny drops" — a **disclosure situation** evoking discernment and commitment. This explains how ordinary words are *used* religiously without becoming equivocal.
 - **Indian material.** ✅ **Mantra** is a paradigm of language whose primary function is not description: Mīmāṃsā treats mantras as **liturgical instruments** within an injunctive structure, and gives ***vidhi*** priority in disclosing otherwise unknowable *dharma*. This priority does **not** imply that the whole *śāstra* is grammatically imperative. Mīmāṃsā's ***śabda-nityatva*** concerns the eternity of word/sound and the word–meaning relation; classical ***sphoṭa*** belongs principally to the grammarian tradition, especially **Bhartṛhari**. ✅ Advaita's *lakṣaṇā* (indirect indication) and *neti neti* are technical devices for a use of language that ordinary predication cannot perform.
 - **The continuity thesis (do not overstate the difference).** ⚠️ Religious language is parasitic on ordinary language, is learned in ordinary contexts, and remains subject to ordinary logic. The best conclusion is that it is a **stretched and re-purposed** use of a common instrument, not a separate instrument.
-- **Verdict formula.** ⚠️ "Secular and religious uses of language differ in **function, referent, logic and self-involvement**, not in vocabulary. Religious language stretches ordinary words by model-and-qualifier, and its characteristic utterances are performative and self-involving as well as assertoric — which is why criteria designed for descriptive discourse alone will always misjudge it."
+- **Verdict formula.** ⚠️ "Compare *uses*, not disjoint vocabularies or mutually exclusive logics. A religious vow can be self-involving, and a religious claim can refer to a transcendent reality; secular promises and abstract claims show that neither feature exclusively belongs to religion. Identify the function and evidential demand of each utterance before judging it."
 
 ### 9.7 Does religious symbolism lead to mysticism? (2019 Q6(a) owner-module)
 - **The exact question.** ⚠️ Two obligations: *whether* it does, and *how* it does. Both must be answered, and the "how" is where the marks are.
@@ -382,12 +388,51 @@ Concl : univocity buys inference at the risk of anthropomorphism; analogy buys t
 
 - **The thesis.** ⚠️ Positions on religious pluralism are **downstream of** positions on religious language. The route runs: **semantics → epistemic access → the status of rival descriptions → exclusivism or pluralism.**
 - **The two branches.**
-  - **If God-talk is univocal and literal:** the descriptions of different traditions are **directly commensurable**, so where they conflict, at most one is true. "God is a personal creator" and "there is no personal creator" are then flat contradictories, and **exclusivism follows naturally**; the pluralist must either deny one claim or abandon the literalism.
-  - **If God-talk is analogical, symbolic or apophatic:** no finite formulation exhausts its referent; different traditions' descriptions may then be **partial, mode-relative and non-competing** modes of reference to one reality — and pluralism becomes intelligible without relativism.
-- **Hick's pluralism *is* a religious-language thesis.** ✅ This is the point that earns the marks. Hick's claim that the **Real *an sich* is transcategorial** — that none of our substantial concepts (personal/impersonal, one/many, good, purposive) applies to it literally — is a claim about **the limits of predication**, not primarily about religions. His *personae* and *impersonae* of the Real (Yahweh, Kṛṣṇa, Allah, Brahman, Śūnyatā) are the phenomenal terms under which the transcategorial Real is humanly experienced. Hence: **remove the semantic thesis and the pluralist hypothesis collapses**; and the standard objection to Hick — that an entity of which nothing substantial can be said is indistinguishable from nothing, and cannot ground worship or discriminate between traditions — is likewise a **semantic** objection, the same one Maimonides' negative theology faces.
-- **The Indian resources for the same bridge.** ✅ (1) **Advaita's two-level semantics**: nirguṇa Brahman is beyond exhaustive predication while saguṇa forms structure real devotional paths — a built-in apparatus for holding one ultimate together with many valid descriptions, and the metaphysical ground of Vivekananda's pluralism. (2) **Jain *anekāntavāda*/*syādvāda*** does the same work as a **logic** rather than a metaphysics: *saptabhaṅgī* prefixes each assertion with *syāt* ("in a certain respect"), marking standpoint-relativity **inside** the proposition, so that apparently contradictory religious claims can be located on different *nayas* without either being simply false. ⚠️ This is more disciplined than Hick, because it specifies the respect rather than retreating to unknowability. (3) **RV 1.164.46's** distinction between **one referent** and **many names** is precisely a semantic distinction — which is why the attribution discipline in the Pluralism file matters here too.
+  - **If God-talk is univocal and literal:** descriptions of different traditions are **directly commensurable**, so where they conflict in the same respect, at most one is true. This establishes a **logical incompatibility**, not by itself a single tradition's monopoly on truth or salvation; an exclusivist needs that additional premise.
+  - **If God-talk is analogical, symbolic or apophatic:** no finite formulation need exhaust its referent; some different traditions' descriptions **might** be partial or mode-relative. A claim of shared reference still needs metaphysical and evidential support, and a difference in semantic mode does not make all utterances compatible.
+- **Hick's pluralism also has a religious-language thesis.** ✅ Hick's claim that the **Real *an sich* is transcategorial** — that substantial concepts such as personal/impersonal do not straightforwardly apply to it — limits literal predication. His *personae* and *impersonae* are ways the Real is experienced, but the hypothesis also makes **metaphysical** (a Real is posited) and **soteriological** (transformation) claims. Without semantic mediation the proposed reconciliation of incompatible descriptions loses a central support; semantic limits alone do not prove a single Real. The vacuity objection asks how the Real can be identified, causally related or distinguished from nothing.
+- **The Indian resources for the same bridge.** ✅ (1) **Advaita's two-level semantics**: nirguṇa Brahman exceeds exhaustive predication while saguṇa forms structure devotional paths; extending this to independent traditions requires Vivekananda's further argument. (2) **Jain *anekāntavāda*/*syādvāda*** qualifies claims by a stated standpoint (*naya*), potentially resolving an **apparent** contradiction when respects differ; it cannot dissolve incompatible claims in the same respect. (3) **RV 1.164.46** concerns several names of Vedic deities for the one existent; its modern extension across religions must be defended, not silently presumed.
 - **The limit — state it, or the answer over-claims.** ⚠️ Non-literal semantics dissolves *some* apparent conflicts (personal vs impersonal description of the ultimate) and **cannot dissolve others**. Existence-claims are not mode-relative: either there is post-mortem individual survival or there is not; either there is a creator or there is not. A semantic pluralism that pretends to dissolve those is evasion, and the honest position **routes hard contradictions rather than harmonising them**.
-- **Verdict formula.** ⚠️ "How one speaks about God determines how many traditions one can regard as speaking about God. Univocal literalism makes rival descriptions contradictories and pushes toward exclusivism; analogical, symbolic and apophatic semantics makes them partial and mode-relative, and makes pluralism intelligible. Hick's Real is the clearest case that a pluralist hypothesis is really a **thesis about the limits of predication** — and it inherits, in full, the vacuity objection that every apophatic theology faces."
+- **Verdict formula.** ⚠️ "A semantic theory constrains *how* apparently rival descriptions can be read; it does not settle which traditions are true or salvific. Non-literal predication may soften some descriptive conflicts but cannot make same-respect contradictions jointly true. Hick's semantic distinction helps a pluralist hypothesis and inherits an objection about what can be said of the Real."
+
+### 9.11 Braithwaite on the **nature** of religious language (2026 Q5(d); 2018, 2021, 2024 variants)
+
+> **Ownership:** A critical account of Braithwaite himself is required in 2026, not just an account of non-cognitivism or of the Flew–Hare–Mitchell symposium. The 2024 Q8(a) separately asks about an alleged contradiction in cognitivism (**10+10 marks**).
+
+1. **The empiricist challenge.** ✅ Braithwaite, *An Empiricist's View of the Nature of Religious Belief* (1955), resists treating religious assertions as empirically testable factual hypotheses. ⚠️ The assumption that only an empirical proposition can have cognitive meaning is independently challengeable, so explain his constructive response rather than simply repeating Ayer's dismissal as if Braithwaite agreed that religious discourse has no use.
+2. **Positive analysis.** ✅ On his account, to assert a Christian religious claim such as "God is love" is centrally to **declare an intention to follow an agapeistic policy of life**. Associated religious stories support, illustrate and sustain the policy; the hearer can be moved by a story without believing every event it recounts literally occurred. ⚠️ Specify *intention* rather than the stronger claim that making the utterance guarantees moral behaviour. Braithwaite offers a theory of what religious assertions **mean/do**, not an observation that adherents never make realist claims.
+3. **Why stories still matter.** ⚠️ A moral rule alone does not capture the imaginative and communal formation provided by a narrative. A storyteller's meaning can survive uncertainty about historicity, but a realist believer may treat particular events (for example, an act of divine intervention) as constitutive, not optional adornment. Calling every narrative dispensable in its truth-value would therefore beg the question.
+4. **Contrast the neighbours.** ✅ Ayer judges unverified theological assertions devoid of *literal factual* meaning; Braithwaite supplies a **meaningful conative** interpretation. Hare's *blik* is a broad interpretive stance, **not** a declaration of a particular moral policy. Mitchell retains a **truth-apt** belief that recognises apparent counterevidence. Later Wittgensteinian grammar cannot simply be equated to any one of these positions.
+5. **Critical tests and replies.** ⚠️ (a) **Reduction:** believers may intend to say God *really* exists and loves; treating this as only moral intention changes the subject. Braithwaite can point to a genuine function of the utterance, but not show it is its whole content. (b) **Discrimination:** if mutually contradictory stories lead to the same agapeistic policy, what makes one specifically Christian rather than interchangeable? Their narrative identities might differ even when policy coincides; the theory needs to explain their importance. (c) **Amoral claims:** "God created the world" and "there is life after death" do not transparently express the same policy. (d) **Insincere or immoral adherents:** the account is an interpretation of sincere religious avowal, not proof that any apparent believer behaves well.
+6. **The 2024 contradiction qualifier.** ⚠️ A factual reading of "God is loving" confronted by suffering creates a serious **evidential** challenge, not an immediate formal contradiction without added premises about love, power and preventable evil. Ayer's verification criterion can exclude God-talk by its own test, but this tests an external theory of meaning rather than deriving inconsistency from cognitivism. Braithwaite's alternative avoids the empirical challenge **by reclassifying** the utterance; whether that preserves what was asserted is exactly the critical issue.
+
+**Exam routes:** ⚠️ **2018 Q7(b):** reconstruct moral intention, stories, then two objections. **2021 Q8(a):** define non-cognitivism generally, set Braithwaite apart from Ayer and Hare, then assess. **2024 Q8(a) (10+10):** use the first half for cognitive versus conative truth-aptness and the second to specify/assess the *alleged* contradiction with Braithwaite. **2026 Q5(d):** address the **whole nature** of his religious language: empiricist premise → policy → stories → non-cognitive force → loss of assertoric intent, arbitrary narrative and amoral-statement objections → qualified verdict.
+
+### 9.12 Hare's *blik* and whether it defends meaningfulness (2026 Q7(a))
+
+1. **What Flew demands.** ✅ In the 1950–51 "Theology and Falsification" discussion, Flew adapts the **invisible gardener** parable from John Wisdom: successive qualifications protect the gardener from every test, leaving unclear what the claim actually asserts. His "death by a thousand qualifications" challenges the believer to say **what would count against** a theological assertion; this is a *falsification* demand, not Ayer's demand for *verification*. An empirical scientist's theory may survive one failed test without becoming unfalsifiable, so the issue is indefinite immunity.
+2. **Hare's counterexample.** ✅ A student convinced that every university don wants to murder him may interpret friendly encounters and reassuring evidence through that conviction. Hare calls a pervasive, practically consequential framework for seeing events a ***blik***. Neither accumulating favourable encounters nor a simple decisive observation forces abandonment of a *blik*. ⚠️ This is Hare's **illustrative pathological** case, not the thesis that all religious believers are paranoid.
+3. **The argumentative move.** ⚠️ "Not falsifiable" does **not imply "unimportant or without any meaning"** if the *blik* structures interpretation and action. A religious stance can orient a person's life even where it does not function as an ordinary testable hypothesis. Hare distinguishes **sane and insane bliks**: someone whose framework permanently misreads ordinary relations may live disastrously. This indicates an evaluative difference, although he has not supplied a truth-condition or a complete criterion of rational revision.
+4. **Exactly what is rescued.** ⚠️ Hare rebuts the equation of **significance** with **falsifiability**, not the narrower charge that a purported factual claim fails to specify what would make it *false*. "God exists" as a life-governing *blik* may matter greatly; if the believer also asserts that God exists independently of anyone's stance, the *blik* analysis does not preserve that assertion's full cognitive content. Nor does saying a *blik* is sane show that a supernatural proposition is true.
+5. **Mitchell's alternative.** ✅ His partisan trusts a mysterious **Stranger** while admitting that the Stranger's apparently hostile conduct **counts against** his trust. Commitment and counterevidence coexist: the believer need not abandon faith at the first difficulty, but cannot dismiss every difficulty as irrelevant. ⚠️ This preserves an assertoric claim better than Hare does; it still owes a principled account of how much adverse evidence should prompt revision. Hick's **eschatological verification** is a distinct cognitivist move: possible eventual confirmation is not Hare's nonfactual stance.
+6. **Objection → reply → limit.** ⚠️ **Objection:** if even an "insane" *blik* resists evidence, the theory lacks a way to tell a revelatory outlook from delusion. **Reply:** compare its coherence, conduct and responsiveness to people and consequences; such practical tests can judge its effects without settling the truth of its alleged object. **Further limit:** Hare offered no general algorithm that converts practical health into religious truth. His answer works for the **importance of outlook**, not as a complete semantics for all creeds.
+
+| View | What gives it force? | What happens to truth? | Test against Flew |
+|---|---|---|---|
+| **Hare** | Interpretive *blik* shaping a life | Factual assertion is not secured | Unfalsifiability need not imply insignificance |
+| **Braithwaite** | Intention to live by a moral policy and its sustaining stories | Story need not be accepted as historically true | Explains conduct, not why a God-claim has evidential content |
+| **Mitchell** | Trust despite admitted contrary evidence | Truth claim retained | Concedes evidential vulnerability; no instant decisive test |
+| **Hick** | Journey toward a possible confirming end | Future truth condition | Possible verification, not current falsification |
+
+**20-mark spine:** ⚠️ Set up Flew's gardener and the demand for counterevidence → define *blik* and tell the student/dons story accurately → argue from unfalsifiability to practical significance, distinguishing a sane from an insane outlook → assess the price in truth-aptness → contrast Mitchell's partisan and Hick's future confirmation → answer **"whether successfully"**: yes against the claim of utter insignificance, only partly against the challenge to factual religious assertions.
+
+### 9.13 A symbol mediating transcendent reference **in** a finite world (2018 Q8(c))
+
+- **Separate relata.** ⚠️ (1) A posited ultimate or sacred reality; (2) a **finite vehicle**—word, image, ritual, place or time; (3) a community that interprets and participates. The symbol is **not identical** with the transcendent referent, nor is a sacred site itself an empirical proof that the ultimate exists.
+- **Mechanism, not slogan.** ✅ On Tillich's account a religious symbol **participates** in what it indicates and discloses levels of reality and self that ordinary signs do not (§9.2). ⚠️ A repeated ritual or sacred image can situate this participation in a particular community's culture; a sanctuary or place can spatially focus practice; a recurring festival or narrative can structure time. **Eliade's** hierophany names a disclosure of the sacred through an ordinary finite thing. These are modes in which a tradition **claims** to mediate ultimacy, not independently verified supernatural events.
+- **How the cultural/spatial/temporal qualifier changes the answer.** ⚠️ A mere assertion that "all language is symbolic" misses the PYQ's direction: explain **how an alleged transcendent referent is made addressable** in culturally transmitted forms and located practices without being exhausted by them. A symbolic story, for example, can make an ultimate concern intelligible in inherited language; it need not be a literal map of another realm.
+- **Objections and limits.** ⚠️ A conventional **sign** could organise a gathering too, so social effects alone do not establish Tillichian participation; a symbol can be mistaken for the reality it indicates (**idolatry**); communities may construe the same site or story differently; and a nonbeliever can understand its use while doubting the referent. An advocate must explain what makes a symbol an *adequate* mediation, not infer existence from devotional intensity.
+- **15-mark spine:** Define referent, finite vehicle and interpreter → Tillich's participation and disclosure versus mere sign → show **culture, space and time** separately → Eliade as comparative explanation → test idolatry and unverifiable-referent objections → qualified significance, not a proof of God.
 
 
 
@@ -431,7 +476,10 @@ Concl : univocity buys inference at the risk of anthropomorphism; analogy buys t
 12. ⚠️ Do not treat cognitivism/non-cognitivism as two boxes. Use the ten-point spectrum in §9.9 and place each thinker precisely.
 13. ❓ Do not label **D. Z. Phillips** a non-cognitivist without qualification. He explicitly rejected the label and the charge of reductionism; report the dispute.
 14. ⚠️ **Preserve the Tillich caution.** Tillich says the statement "God is being-itself" is the one non-symbolic statement, but he modified this position in later work, and the exception is internally disputed. Never present it as an untroubled doctrine.
-15. ⚠️ Do not claim that non-literal semantics dissolves all inter-religious conflict. Existence-claims are not mode-relative — route hard contradictions, do not harmonise them.
+15. ⚠️ Do not claim that non-literal semantics dissolves all inter-religious conflict or that literal disagreement alone proves one religion uniquely salvific. Route hard same-respect contradictions rather than harmonising them.
+16. ⚠️ Braithwaite's **intention** is not an assurance of good behaviour; stories are part of his account even where their historical truth is not required. In 2024 Q8(a), empirical-verification failure does not by itself establish a *logical contradiction* in cognitivism.
+17. ⚠️ Hare's student/dons story is an example of an **insane** *blik*, not an equation of believers with the student. Separate his defence of practical **significance** from a defence of the factual **truth-aptness** Flew asks about.
+18. ⚠️ A claim about religious symbols "mediating" the transcendent is not a proof the referent exists. For 2018 Q8(c), explain the cultural **and** spatial **and** temporal vehicle, not only Tillich's sign/symbol definition.
 
 ## 13. KEYWORD & STATEMENT BANK
 
@@ -442,15 +490,16 @@ Concl : univocity buys inference at the risk of anthropomorphism; analogy buys t
 <!-- expanded-pyq-depth:start -->
 ### CORPUS-DRIVEN DEPTH DELTA (expanded PYQ audit)
 
-- ⚠️ **Priority:** Primary ownership is 14 of 112 parts, second only to the soul–rebirth–liberation clause.
+- ⚠️ **Priority:** Primary ownership is 14 of 112 parts in 2018–2025; 2026 adds two thinker-specific parts (16 in 2018–2026).
 - ✅ **Required doctrinal depth:** Older papers add secular versus religious use, Braithwaite, symbolism leading to mysticism, transcendent-reference mediation, cognitive content and Tillich before the recent analogy/cognitivism cycle.
 - ❌ **Trap / answer consequence:** Do not merge symbol, analogy and non-cognitivism; distinguish semantic mode from truth-aptness, and a participatory symbol from a conventional sign.
+- ⚠️ **2026 depth:** Q5(d) requires the full moral-policy-plus-stories account and its criticisms (§9.11); Q7(a) requires Hare's *blik*, Flew's challenge and an assessment of what kind of meaningfulness is rescued (§9.12).
 
 <!-- expanded-pyq-depth:end -->
 
-## 14. PYQ ROUTING (2018–2025)
+## 14. PYQ ROUTING (2018–2026)
 
-> ⚠️ **Corpus signal:** 14 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.
+> ⚠️ **Corpus signal:** 14 primary-owned question-parts in 2018–2025 plus **two** in 2026, for **16** in the continuous 2018–2026 corpus. Cross-links do not create duplicate ownership.
 
 | Year | Question | Marks | Exact demand |
 |---|---|---:|---|
@@ -468,8 +517,10 @@ Concl : univocity buys inference at the risk of anthropomorphism; analogy buys t
 | 2024 | Q8(a) | 20 marks (10+10) | Distinguish between cognitivist and non-cognitivist account of religious language. Does the cognitivist account lead to any contradiction? Answer with reference to the philosophical views of R. B. Braithwaite. |
 | 2025 | Q5(b) | 10 marks | Is religious language symbolic? Give reasons and justification in support of your answer. |
 | 2025 | Q8(c) | 15 marks | Discuss the Advaitic notion of indescribability (anirvacanīyatā) in the context of nature of religious language. |
+| **2026** | **Q5(d)** | **10 marks** | Critically discuss the views of R. B. Braithwaite on the nature of religious language. |
+| **2026** | **Q7(a)** | **20 marks** | Analyse R. M. Hare's concept of 'blik' and assess whether it successfully defends the meaningfulness of religious language. |
 
-See the [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md).
+2026 Q5(d) → §9.11; Q7(a) → §9.12. 2018 Q8(c)'s transcendent-reference mediation → §9.13. See the [2018–2025 PYQ Bank](../_PYQ-PhilosophyOfReligion-2018-2025.md) and [2026 Supplement](../_PYQ-PhilosophyOfReligion-2026-Supplement.md).
 
 ## 15. ANSWER ARCHITECTURE (10 / 15 / 20 MARKS)
 
@@ -506,6 +557,8 @@ two objections and a mixed, defended conclusion.
 | **Distinguish A and B. Does A lead to any contradiction?** | Two parts, with the second answered directly | Name the alleged contradiction, then adjudicate it | 2024 Q8(a) (10+10 — obey the split) |
 | **Is X symbolic? Give reasons and justification** | A yes/no with **reasons ranked** | Position first; Tillich's criteria; then the caution | 2025 Q5(b) |
 | **Discuss X in the context of the nature of religious language** | The doctrine **as a semantic thesis** | *Anirvacanīyatā* must be presented as a claim about predication | 2025 Q8(c) |
+| **Critically discuss [thinker]'s views on nature** | Give the thinker's complete mechanism and test its fidelity | Braithwaite's empiricist premise, policy, stories and competing realist intent | 2026 Q5(d) |
+| **Analyse [concept] and assess whether it successfully defends meaningfulness** | State *what kind* of meaning the theory saves | Hare's *blik* → practical importance; test factual-assertion loss against Mitchell | 2026 Q7(a) |
 
 > 🔑 **Rule:** every question in this clause sits on one of two axes — **HOW** transcendent predicates signify (univocal / analogical / symbolic / negative / indicative) and **WHETHER** the utterance is truth-apt (the ten-point spectrum). Say in your opening which axis the question is on; several stems sit on both, and saying so is itself a mark.
 
@@ -568,6 +621,7 @@ two objections and a mixed, defended conclusion.
 - [Paper I: Mīmāṃsā](../../paper-1/indian/Mimamsa.md) — *vidhi*, *śabda-nityatva*, the injunctive mood
 - [Paper I: Nyāya-Vaiśeṣika](../../paper-1/indian/Nyaya-Vaisesika.md) — near-univocal predication of Īśvara
 - [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md)
+- [2026 Paper II Section B PYQ Supplement](../_PYQ-PhilosophyOfReligion-2026-Supplement.md)
 
 ## SOURCES
 

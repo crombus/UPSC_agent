@@ -15,9 +15,10 @@ EMPIRICISM = experiential origin of simple ideas + mental operations
    │ LOCKE              │ BERKELEY           │ HUME              │
    │ Representative     │ Subjective         │ Scepticism        │
    │ Realism            │ Idealism           │                   │
-   │ matter real but    │ esse est percipi   │ no substance, no  │
-   │ "know-not-what"    │ NO material subst. │ self, no necessary│
-   │ primary/secondary  │ collapses that     │ causation         │
+   │ matter posited;    │ esse est percipi   │ substrata unproven│
+   │ "know-not-what"    │ NO material subst. │ no simple self or │
+   │ primary/secondary  │ collapses that     │ objective causal  │
+   │                   │                    │ necessity known   │
    │ qualities          │ distinction        │ bundle of percep- │
    │ personal identity  │ God sustains ideas │ tions; mitigated  │
    │ = memory/consc.    │ spirit is real     │ scepticism        │
@@ -229,7 +230,43 @@ philosophy"):
 | Examples: "2+2=4"; "a bachelor is unmarried" | Examples: "the sun will rise tomorrow"; "fire causes heat" |
 | Do not depend on what exists in the world | Depend on how the world actually is |
 
-- **Consequence:** any proposition that is *neither* a relation of ideas *nor* a matter of fact is *meaningless* — "commit it then to the flames" (*Enquiry* XII). ✅ This is the basis of anti-metaphysical empiricism and the direct ancestor of Logical Positivism (see [`Logical-Positivism.md`](Logical-Positivism.md)).
+- **Consequence:** the final paragraph of *Enquiry* XII challenges a book that offers neither abstract reasoning about quantity/number nor experimental reasoning about matters of fact: “commit it then to the flames.” ⚠️ This is a polemic against speculative metaphysics, not the later positivists' technical verification criterion for every meaningful sentence (see [`Logical-Positivism.md`](Logical-Positivism.md)).
+
+### 1.3A “Ideas of reason”: Hume and Kant (2026 Q2(b))
+
+⚠️ **Printed-stem caution:** “ideas of reason” is not Hume's name for a
+single settled category. Do not silently rename his **relations of ideas**
+as Kant's technical **Ideas of pure reason** (soul, world, God). Start with
+Hume's copy principle: an idea's content traces to impressions, apart from
+the qualified missing-shade case (§1.3). Then distinguish his two grounds
+of judgment: *relations of ideas* can be established by thought alone and
+their contraries are contradictory (mathematics); *matters of fact* depend
+on experience, and their contraries remain conceivable (including the
+future course of nature). Reason alone cannot infer a necessary connection
+from repeated conjunction or demonstrate that unobserved cases resemble
+observed ones (§4.3). Thus Hume permits demonstrative reasoning while
+denying that it establishes substantive necessary causal truths about
+experience. He is not saying that all ideas are irrational or that reason
+never operates.
+
+✅ **Kant's response:** the Humean division leaves no place for an
+*informative yet necessary* judgment about objects of possible experience.
+Kant argues that mathematical judgments and the causal principle are
+**synthetic a priori**: space/time and the understanding's categories are
+conditions for experiencing objects and events, not copies of impressions.
+The **Second Analogy** claims that objective succession of events, unlike
+my merely subjective order of apprehension, requires a causal rule; the
+necessity is valid for *phenomena*, not asserted of things in themselves
+(§4.3; cross-owner `Kant.md` §§1, 3–4). ⚠️ Kant's *Ideas of pure reason*
+concern the unconditioned (soul, world, God) and do not by themselves
+yield knowledge of those objects; they must not be confused with either
+Humean relations of ideas or Kant's categories.
+
+**Critical verdict:** Kant diagnoses the missing third possibility in
+Hume's fork, but Hume can ask whether objective experience truly requires
+the specific causal rule Kant supplies rather than merely regular
+expectations. Answer both the Humean account **and** this Kantian reply;
+“Hume denies reason, Kant restores it” is not an argument.
 
 ---
 
@@ -354,8 +391,8 @@ Berkeley's master argument (*Principles* §§9–15; *Three Dialogues*): ✅
 ### 2.3 HUME — Substance and Qualities
 
 - Apply the Copy Principle: do we have an *impression* of substance? **No.** We have only impressions of particular qualities (redness, hardness, sweetness) — never of an underlying substrate. ✅
-- Therefore "substance" is a **fiction of the imagination** — the mind's habit of grouping constantly conjoined qualities and *inventing* a "support" for them. ✅
-- Hume dissolves *both* material and spiritual substance: neither has a corresponding impression.
+- Therefore the supposed *idea of an underlying support* is a **fiction of the imagination** — habit groups qualities and adds a bearer not separately given. ✅
+- Hume questions our warrant for both material and spiritual substrata: neither has a corresponding impression. This does not demonstrate that nothing mind-independent exists (§2.3A).
 - **Qualities without substance:** for Hume there are only *bundles of perceptions* — qualities that co-occur regularly. The "object" is nothing but a stable bundle; the "self" is nothing but a flowing bundle (§3.3).
 
 ### 2.3A Hume on continued and external existence
@@ -428,22 +465,22 @@ Berkeley's master argument (*Principles* §§9–15; *Three Dialogues*): ✅
 
 ### 3.6 HUME — God ✅
 
-- The **causal/cosmological argument** fails: we have no impression of a "first cause" or of causation as necessary connection (see §4.3). We cannot legitimately infer from experienced effects to an unexperienced transcendent cause. ✅
+- The **causal/cosmological inference** is challenged: we have no impression of a "first cause" or of causation as an objectively necessary connection (see §4.3); observed finite effects cannot by themselves establish the character of an unexperienced transcendent cause. ✅
 - The **design (teleological) argument** fails (*Dialogues Concerning Natural Religion*):
   - The analogy (universe : designer :: watch : watchmaker) is weak — the universe is not sufficiently similar to a manufactured artifact. ✅
   - Even if granted, it proves at most a *finite* architect working on given matter — not an omnipotent, omniscient, morally perfect creator.
   - The order in the universe might be explained by natural principles (e.g. matter's inherent organising tendencies) without invoking intelligence.
   - The problem of evil undermines any inference from the world to a perfectly good designer. ✅
-- **Miracles** (*Enquiry* X): a miracle violates the laws of nature; testimony in favour of a miracle is always *less probable* than the testimony being false → it is never rational to believe miracle-reports on testimony alone. ✅
+- **Miracles** (*Enquiry* X): weigh testimony against the uniform experience supporting a law of nature; only testimony whose falsehood would be *more* extraordinary than the alleged miracle could in principle prevail. Hume argues actual reports fail this demanding comparative test; he does not make the unrestricted probabilistic claim that testimony must **always** be weaker, regardless of its evidence. ✅
 - Cross-paper: PYQ 2025 P-II Q6(a) directly asks "Design argument for God's existence with David Hume's criticism" — the above IS the required content.
 
 ---
 
 ## 4. SCEPTICISM ✅
 
-### 4.1 LOCKE — No Scepticism (the moderate) ⚠️
+### 4.1 LOCKE — Moderate limits, not global scepticism ⚠️
 
-- Locke is **not** a sceptic; he is epistemically humble. We cannot know real essences or substance-in-itself, but sensitive knowledge of the external world is reliable enough for practical life. The "veil of perception" generates a *potential* sceptical problem but Locke does not follow through.
+- Locke is not a *global* sceptic; he is epistemically humble. We cannot know most real essences or substance-in-itself, but sensitive knowledge of the external world is reliable enough for practical life. The "veil of perception" generates a *potential* sceptical problem that his representative account must address.
 
 ### 4.2 BERKELEY — Anti-Sceptical Idealism ⚠️
 
@@ -460,12 +497,12 @@ Berkeley's master argument (*Principles* §§9–15; *Three Dialogues*): ✅
 | What we do NOT observe | a *necessary connection* between cause and effect |
 | Source of the "idea" of necessary connection | NOT from any impression of objects; it is an impression of **reflection** — a *feeling* in the mind (a "determination of the mind" to pass from the idea of A to the idea of B after repeated experience). ✅ |
 | Mechanism | **Custom/habit:** after repeated observation of A → B, the mind *expects* B upon seeing A; this expectation is a *psychological* compulsion, not a *rational* demonstration. ✅ |
-| Conclusion | Causal necessity is not *in* objects (not an objective relation); it is *projected onto* objects by the mind's habitual association. ✅ |
+| Conclusion | We have no impression of objective causal necessity; the *idea* of necessary connexion derives from felt mental determination, not from observing a tie between objects. ✅ |
 
 - PYQ 2023 Q2(a) 20m, 2021 Q1(e) 10m, 2019 Q4(b) 15m, 2025 Q2(c) 15m all demand this analysis.
 
 **Is there any element of necessity in causal relations according to Hume?** (PYQ 2019 Q4b):
-- In *objects themselves* — NO. There is no impression of objective necessity.
+- In *objects themselves* — no perceived or demonstrated necessity; this is not a proof that no unperceived objective power could exist.
 - In the *mind* — YES, in a psychological sense: the "impression of reflection" (the felt compulsion to expect B after A) is a kind of subjective necessity. But this is a fact about *us*, not about *nature*. ✅
 
 #### The Problem of Induction ✅
@@ -526,14 +563,14 @@ Berkeley's master argument (*Principles* §§9–15; *Three Dialogues*): ✅
 ## 5. THE INTERNAL LOGIC — WHY EMPIRICISM "SLIDES" ⚠️
 
 ```
-LOCKE  : All ideas from experience → matter is real but unknowable substrate ("know-not-what")
+LOCKE  : All ideas from experience → material things posited; underlying support unknown
            ↓  Berkeley asks: if all we know is ideas, what grounds belief in MATTER?
-BERKELEY: There is no impression of matter → drop material substance (esse est percipi)
+BERKELEY: Ideas are immediately perceived; material support is an empty abstraction
            ↓  Hume asks: apply the same razor to the SELF, SUBSTANCE, CAUSATION...
-HUME   : No impression of self, no impression of necessary connexion → bundle, habit, scepticism
+HUME   : No impression of self-substance or objective necessary tie → bundle, habit, scepticism
 ```
 
-Each step is the **previous thinker's premise taken more consistently**. This slide is the master narrative of the whole item — and what **provokes Kant** (item 4) to rescue knowledge by adding the a priori contribution of the mind. ⚠️
+⚠️ This is a comparison heuristic, **not a deduction**: Berkeley adds the premise that a sensible thing consists only of perceived ideas, yet retains active spirits and God; Hume's copy test challenges substantial self while natural belief in bodies persists. None of those additional premises follows from Locke's genetic account alone. Kant's response disputes the purported exhaustiveness of Hume's division by defending synthetic a priori conditions for possible experience (§1.3A).
 
 ---
 
@@ -543,10 +580,10 @@ Each step is the **previous thinker's premise taken more consistently**. This sl
 |---|---|---|---|
 | **Matter** | real but unknowable substrate | does not exist (fiction) | no impression → fiction |
 | **Qualities** | primary (objective) vs secondary (subjective) | ALL mind-dependent (distinction collapses) | all are impressions; no basis for objective/subjective split |
-| **Substance** | "something I know not what" | spirit only (no material substance) | no substance at all (material or spiritual) |
+| **Substance** | "something I know not what" | spirit only (no material substance) | no impression justifying belief in either underlying material or spiritual substance; not a demonstration that neither exists |
 | **Self** | continuity of consciousness (memory) | active spirit (real) | bundle of perceptions (no self) |
-| **Causation** | real power (though knowledge of mechanism is limited) | God's will producing ideas in us | constant conjunction + habit (no real power) |
-| **God** | demonstrated via cosmological-style argument | required to sustain unperceived ideas | all proofs fail; scepticism |
+| **Causation** | real power (though knowledge of mechanism is limited) | God's will producing ideas in us | constant conjunction + habit; no perceived objective necessary power, not proof that regularity is unreal |
+| **God** | demonstrated via cosmological-style argument | required to sustain unperceived ideas | challenges design and cosmological inferences; does not demonstrate God's non-existence |
 | **Scepticism** | rejected (moderate realism) | claims to refute scepticism | embraced (mitigated) |
 | **Overall position** | representative realism | subjective (theistic) idealism | phenomenalism + scepticism |
 
@@ -768,7 +805,7 @@ Close : "Critically analyse" = exposition + verdict; deliver one.
 | **Berkeley's idealism** | Berkeley is not denying the world, he is denying an *unperceivable substratum* — his target is the philosopher's matter, not the grocer's apple. | …He preserves ordinary object-talk at the price of an ad hoc asymmetry: ideas are known by ideas, spirits by "notions." | Berkeley's system is internally the most economical of the three but purchases its economy with God, who does exactly the work Locke's matter did — sustaining unperceived existence. Immaterialism therefore replaces an unknowable *substance* with an unperceivable *spirit*, which is a change of vocabulary before it is a gain in intelligibility. |
 | **Hume on causation** | Hume does not deny causation; he relocates necessity from the object to the observer. | …His two definitions of cause pull apart — the first is objective and regularity-based, the second psychological — and Hume never reconciles them; this tension is the origin of the modern regularity-vs-projectivist debate. | Hume's result follows from the atomism of impressions, not from experience itself: if perceptions are separable atoms, no relation can be perceived, and the conclusion is guaranteed by the premise. Kant's answer is therefore correctly aimed — he attacks the atomism, not the inference. |
 | **Induction** | The problem is genuine and unsolved; Hume's own answer is descriptive (custom), not justificatory. | …The argument is a dilemma, and every serious reply must break a horn — Kant by adding the synthetic a priori, Popper by denying science needs induction, Strawson by dissolving the demand. | The sceptical conclusion depends on the exhaustiveness of the demonstrative/probable dichotomy. Since that dichotomy is itself the Fork, Hume's scepticism about induction is not a discovery about the world but the shadow cast by his classification of propositions — which is exactly why it survives only as long as the Fork does. |
-| **Self** | Hume's bundle theory is the Copy Principle applied without exception to the perceiver. | …Hume's Appendix retracts it: he cannot explain what unites the bundle, having denied both a substance and any real connexion. That honest failure is his most philosophically valuable page. | The bundle theory is not a positive doctrine but the last casualty of empiricist atomism; the fact that Hume can find no principle of unity, and says so, shows the atomism, not the self, to be at fault — a diagnosis Kant makes explicit in the Transcendental Deduction. |
+| **Self** | Hume's bundle account applies the copy test to a supposed simple, identical perceiver. | …In the *Treatise* Appendix Hume acknowledges that he cannot explain what unites successive perceptions; he does not clearly retract every claim about lacking an impression of self. | The absence of an impression of soul-substance does not settle what unifies experience; Hume states this difficulty himself. Kant's formal unity of apperception supplies one reply without claiming an observed Cartesian ego, but whether it supplies personal identity over time remains contested. |
 | **Scepticism** | Hume's scepticism is *mitigated*, not Pyrrhonian: nature compels the beliefs reason cannot justify. | …This yields a stable position only if the "natural beliefs" are exempt from the demand for justification — which concedes that not all belief needs reason. | Empiricism's slide from Locke to Hume is not decadence but rigour: each thinker applies the founding principle more consistently. That the principle consistently applied ends in a scepticism nobody can live shows the principle to be incomplete — the conclusion Kant draws when he says Hume awoke him from dogmatic slumber. |
 
 ---

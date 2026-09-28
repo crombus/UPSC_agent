@@ -309,7 +309,7 @@ Aristotle accepts Plato's *demand* — stable, intelligible essences are needed 
 ### 3.1 Substance in the *Categories*
 
 - **Primary substance** = the concrete individual thing — "this man," "this horse" (*tode ti*, "a this"). It is the ultimate subject of predication: everything else is either said *of* it or *in* it. ✅
-- **Secondary substance** = species and genus ("man," "animal") — said *of* the primary substance but less real than it.
+- **Secondary substance** = species and genus ("man," "animal") — said *of* the primary substance and less primary in this classification; this is not a claim that a universal is a substance in *Metaphysics* Z.13 (§3.3).
 - **Reversal of Plato:** for Plato the universal is most real; for Aristotle the *individual* is most real. ✅
 
 ### 3.2 Substance in the *Metaphysics* (Books VII–IX)
@@ -396,8 +396,8 @@ Matter is *relative*: bronze is matter relative to the statue, but bronze itself
 | Location | in a separate realm | *in* the particular |
 | Relation to particular | paradigm → copy (mimēsis) | essence internal to the composite |
 | Explanatory role | "because it imitates the Form" | "because its matter is *organised thus*" |
-| Status of the universal | the truly real | a secondary substance (less real than *this* horse) |
-| Causation | paradigmatic cause only | formal + final cause (part of the four-cause analysis) |
+| Status of the universal | the separate Form is truly real | species/genus count as secondary substances in the *Categories*; *Metaphysics* Z.13 denies that a universal predicated of many is substance (§3.3) |
+| Causation | Forms as paradigms; the *Timaeus* also introduces the Demiurge and Receptacle (§1.7) | immanent formal and final causes within a four-cause analysis |
 
 > PYQ 2024 Q1(a): "Differentiate between Plato's and Aristotle's conceptions of form" — **this table IS the answer skeleton.**
 
@@ -610,7 +610,7 @@ Aristotle claims actuality is prior in three senses:
 | **Change** | sensible becoming contrasted with stable Forms; later cosmology adds ordered becoming | central explanatory task (potency → act) |
 | **Causation** | Forms as paradigms; Good as highest principle; *Timaeus* adds Demiurge/Receptacle | four causes; internal teleology in natural development |
 | **Highest principle / God** | Form of the Good in *Republic*; Demiurge in *Timaeus*—not simply identical | the Unmoved Mover (pure actuality, final cause) |
-| **The universal** | the *ousia* (truly real) | a secondary substance — less real than the individual |
+| **The universal** | the separate Form is truly real | species/genus are secondary substances in the *Categories*, but no universal as predicated of many is substance in *Metaphysics* Z.13 (§3.3) |
 | **Matter** | difficult Receptacle or “third kind” in *Timaeus* | correlative potential principle within sensible substances |
 
 **Key for cross-paper link:** Plato's critique of democracy (*Republic* VIII) feeds directly into Paper II Forms-of-Government; Aristotle's natural-teleological politics feeds into Paper II's state/individual section. See [`../../paper-2/socio-political/Forms-of-Government.md`](../../paper-2/socio-political/Forms-of-Government.md).
@@ -643,7 +643,7 @@ Aristotle claims actuality is prior in three senses:
 - ✅ Plato: Forms, their motivations, knowledge/opinion, participation, timelessness/spacelessness and Aristotle's critique.
 - ✅ Aristotle: context-sensitive substance, immanent form/matter, four causes, change, actuality/potentiality and their priority.
 - ✅ Comparative axis: separated paradigm versus immanent essence, and the consequences for knowledge, causation, identity and becoming.
-- ✅ All twelve routed PYQs.
+- ✅ All twelve 2018–2025 primary-owned PYQs and both 2026 additions.
 
 ### Optional enrichment
 

@@ -262,7 +262,7 @@ dignity, freedom from severe deprivation, equal civic standing and ecological re
 
 - ✅ No. Wealth can coexist with exclusion, authoritarianism, gender hierarchy and ecological destruction.
 
-**Verdict:** economic development is generally an important enabling condition but is neither conceptually identical with nor sufficient for social progress.
+**2024 Q3(c), state the logical choice explicitly ⚠️:** On the broad social-progress definition in §2.1, economic development is **neither strictly necessary nor sufficient**. It is **not sufficient** because more production or structural economic change can coexist with caste hierarchy, lost freedom or irreversible ecological harm (§§1.2, 2.3). It is **not strictly necessary** because a community can make a genuine gain in equal status, accountable decision-making or freedom from discrimination without first increasing its output or industrial capacity. **Objection:** can these improvements last amid severe deprivation? **Reply:** adequate *material capabilities* are normally indispensable to sustaining health and agency, but this does not establish that economic development in its broad growth/industrialisation sense must **precede every** advance in social relations. Thus distinguish a necessary *material floor* from the stronger, unsupported necessity claim about *economic development*. The answer's logical verdict is “neither” under the stated definitions; in practice economic resources remain an important, conversion-dependent enabling condition.
 
 ### 2.5 Distribution and recognition
 
@@ -482,6 +482,8 @@ for procedural/substantive democracy and its pathologies; [Crime and Punishment]
 
 ⚠️ **Verdict:** technical progress becomes social progress only when governed by ethical purposes, fair access, accountability and human control.
 
+**2019 Q2(c), explain rather than equate capability with character ⚠️:** A technical tool can help detect abuse, circulate testimony or reduce preventable suffering, which may give people **better means** to act ethically. It can also concentrate surveillance, automate exclusion or let agents avoid responsibility through distance. Neither possibility shows that the users' moral judgment, respect for persons or institutions' incentives have improved: **capacity to act** and **willingness to act well** are separate premises. **Objection:** greater knowledge of consequences should itself make society more ethical. **Reply:** knowledge may be necessary for responsible choice but is not sufficient where incentives, power and prejudice still favour harm. Therefore technological development can *enable* ethical progress through inclusive access, civic education, deliberation and accountability, but it does not *entail* it; judge by consequences for persons rather than by novelty or efficiency alone.
+
 ### 3.2 Skill education and development
 
 ✅ Skill education can expand capability by improving competence, work options, productivity and self-respect.
@@ -501,6 +503,8 @@ for procedural/substantive democracy and its pathologies; [Crime and Punishment]
 - rapidly changing technology can make training obsolete.
 
 ⚠️ Skill education is neither sufficient nor merely instrumental: it should combine livelihood, adaptability, dignity of labour and critical citizenship.
+
+**2023 Q2(c), evaluate the “will enhance” claim ⚠️:** Skills enhance development only when people can **access** good training, acquire portable rather than immediately obsolete abilities, and convert these into decent work, bargaining power and purposeful agency (§1.5). The same programme can increase certified enrolment without creating jobs, or track already disadvantaged people into narrow low-status work; counting certificates then confuses an educational input with a capability outcome. **Objection:** prioritising marketable skills sidelines liberal learning and citizenship. **Reply:** integrate vocational competence with critical inquiry, rights-awareness and opportunities to retrain, and evaluate outcomes for excluded groups rather than aggregate placement alone. Verdict: emphasis on skill education is a **conditional contribution** to human and economic development, not an autonomous engine of social progress or a substitute for fair labour demand and equal opportunity.
 
 ---
 

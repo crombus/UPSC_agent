@@ -2,7 +2,7 @@
 
 > **Syllabus (verbatim):** Quine and Strawson : Critique of Empiricism; Theory of Basic Particulars and Persons.
 > **Evidence key:** ✅ canonical doctrine · ⚠️ analytical synthesis (mine, for exam use) · ❓ contested/uncertain
-> **Placement:** Two mid-20th-century analytic philosophers with distinct printed burdens. This owner carries 9 parts in 2018–2025, with no primary-owned part in 2022. Quine supplies the printed critique of empiricism; Strawson supplies the printed theories of basic particulars and persons, including spatio-temporal identification.
+> **Placement:** Two mid-20th-century analytic philosophers with distinct printed burdens. This owner carries 10 primary-owned parts in 2018–2026 (nine in 2018–2025, one in 2026), with no primary-owned part in 2022. Quine supplies the printed critique of empiricism; Strawson supplies the printed theories of basic particulars and persons, including spatio-temporal identification.
 
 ---
 
@@ -26,7 +26,7 @@
     immune to revision                    PERSONS = primitive concept
                                             M-predicates + P-predicates
   Bound-variable commitment criterion      → undercuts dualism AND
-   a bound variable"                        no-ownership theory
+   (what must be quantified over)           no-ownership theory
 
   Indeterminacy of translation            "On Referring" — presupposition
   Ontological relativity                    vs Russell's assertion of existence
@@ -69,6 +69,12 @@ Quine attacks **two unquestioned dogmas** of logical empiricism (the Vienna Circ
 
 **The Circle of Synonymy:**
 
+Logical truths such as “No man who is not married is married” are true under
+their logical form; a purportedly analytic truth such as “No bachelor
+is married” requires replacing *bachelor* with a supposed synonym.
+The explanatory problem is what independently warrants that synonymy,
+not whether the two sentences ordinarily receive the same verdict.
+
 Quine examines every candidate explanation of "analytic" and shows each presupposes another term that itself presupposes analyticity:
 
 ```
@@ -96,6 +102,14 @@ Quine examines every candidate explanation of "analytic" and shows each presuppo
 The second dogma is the assumption that each individual statement has its own private stock of confirming or disconfirming experiences — that it can be "verified" (or refuted) in isolation.
 
 Quine rejects this: **no statement has its meaning (or its confirmation conditions) in isolation from the rest of the system.** This is "reductionism" because it attempts to *reduce* the meaning of each sentence to a set of observation sentences. ✅
+
+**Why the dogmas support one another:** if each synthetic statement had
+its own determinate experiential content, an analytic statement could
+be contrasted as one with no such content. Once confirmation belongs
+to the network, that contrast cannot by itself secure a sharp
+analytic/synthetic boundary. This interdependence does not make the
+two dogmas logically identical or show that *all* evidential testing
+has failed.
 
 ### 1.4 Positive Doctrine: Confirmation Holism — The Web of Belief ✅ (PYQ 2025 Q4(b))
 
@@ -261,7 +275,7 @@ Strawson's project: descriptive metaphysics — not building a new ontology but 
 
 ### 2.2 What Are Basic Particulars? ✅
 
-**The question:** Of all the *particular* things we can identify and refer to (tables, persons, events, sounds, sense-data, numbers), which are **ontologically basic** in our conceptual scheme — i.e., which are the items on which the *possibility of identification and reference in general* depends?
+**The question:** Of all the *particular* things we can identify and refer to (tables, persons, events, sounds, sense-data, numbers), which are **conceptually basic** in our scheme — i.e., which are the items on which the *possibility of identification and reference in general* depends?
 
 **Strawson's answer:** **Material bodies** (and persons — see §3) are basic particulars. ✅
 
@@ -331,6 +345,48 @@ Both M-predicates and P-predicates are ascribed to **the same thing** — the pe
 5. This **dual character**—other-ascribable on public criteria and self-ascribable without behavioural observation—belongs to predicates of persons. ✅
 6. Therefore, the concept of a person is **logically primitive** within the scheme: it is not analysed as an independently identifiable body plus an independently identifiable consciousness. This is conceptual priority, not the postulation of a third Cartesian substance.
 
+### 3.3A Why ascribe consciousness, and why to the same physical subjects? (2026 Q3(a), 20 marks)
+
+The question in *Individuals* has **two explanatory burdens**; saying only
+that persons bear M- and P-predicates answers neither in full.
+
+1. **Why ascribe states to anything at all?** Experiences are not
+   free-floating items that can be counted, distinguished and
+   re-identified without subjects. To say *whose* pain or memory it is
+   requires criteria for identifying a subject across occasions. The
+   no-ownership proposal cannot preserve the ordinary distinction
+   between my experience and yours merely by citing a causal connection
+   to a body: which body's experiences count as whose is just what it
+   must explain. Ascription to a person supplies this identifying role
+   (§§3.1–3.3). This is a claim about our concept of experience, not a
+   deduction that a mental substance exists.
+2. **Why ascribe them to the *same* things that bear physical
+   properties?** Psychological predicates must be usable both of
+   oneself, without observing one's behaviour, and of others,
+   identified in a public spatio-temporal setting on behavioural and
+   situational criteria. We could not learn or apply the latter use
+   if the bearer of a P-predicate were an independently unidentifiable
+   Cartesian ego. The embodied, publicly identifiable person is one
+   subject of both “is in pain” and “is at the door” (§§2.3, 3.2–3.3).
+   Other-ascription is **not** an inference from mere bodily movements
+   to a private second substance; self-ascription need not be based on
+   the same observational evidence as other-ascription.
+3. **Conclusion and limits:** Person is a primitive **concept**, not
+   a mind-plus-body construction or a third substance. This blocks
+   dualism's claim that separately identifiable mind and body must
+   first be combined, and the no-ownership attempt to dispense with
+   subjects (§3.4). It does **not** prove a physicalist identity theory
+   or explain the causal mechanism of consciousness. A dualist may
+   accept our ordinary ascriptions but insist on an underlying
+   metaphysics; Strawson's descriptive-metaphysical reply is that
+   such a theory cannot replace the personal scheme it presupposes
+   (§§2.1, 5.2).
+
+**20-mark route:** distinguish the two questions → ownership and
+identification → the dual criteria for P-predicates and public
+re-identification → single subject of M and P → dualism/no-ownership
+objections and bounded verdict.
+
 ### 3.4 How This Undercuts Dualist and No-Ownership Starting Points ✅
 
 | Position | Why it fails on Strawson's analysis |
@@ -361,7 +417,7 @@ The printed and PYQ-tested division assigns the direct critique of empiricism to
 
 | # | Empiricist doctrine attacked | Strawson's argument | Where |
 |---|---|---|---|
-| **1** | **Sense-data as the basic particulars** (Russell's logical constructions; Carnap's *Aufbau*; phenomenalism) | Identification and **re-identification** of particulars require a **single unified spatio-temporal framework** of persisting three-dimensional bodies. Sense-data cannot supply one: they are **private** (so cannot ground public identification), **momentary** (so cannot be re-identified), and lack the **spatial** relations needed to constitute a framework at all. ∴ Material bodies are **basic** — not as a metaphysical preference but as a condition of the possibility of reference. | *Individuals* (1959), Pt I |
+| **1** | **Sense-data as the basic particulars** (Russell's logical constructions; Carnap's *Aufbau*; phenomenalism) | Identification and **re-identification** of particulars require a **single unified spatio-temporal framework** of persisting three-dimensional bodies. Sense-data may have apparent spatial structure but, as private and transient items, do not independently supply the shared framework for public re-identification. ∴ Material bodies are **basic** in our scheme — not as a metaphysical preference but as a condition of the possibility of reference. | *Individuals* (1959), Pt I |
 | **2** | **The bundle theory of the self** (Hume; and the "**no-ownership**" view Strawson traces through Schlick and Wittgenstein-influenced writers) | If experiences were not *owned*, the no-ownership theorist could not even state his thesis: he must say "*all the experiences that are had by this body*," which reintroduces a possessive relation. And **P-predicates** must be ascribable to others on the strength of behaviour *and* to oneself not on that strength — so the concept of a **person** is **logically primitive**, prior to both mind and body. | *Individuals*, ch. 3 |
 | **3** | **Logical reconstruction detached from use** | Referring is performed by speakers on occasions; existence can function as a presupposition rather than asserted content. | "On Referring" (1950), cross-owned with Russell |
 | **4** | **Global scepticism about induction** | Strawson offers an ordinary-concept dissolution rather than a new inductive proof. | *Introduction to Logical Theory* (1952), optional |
@@ -483,9 +539,9 @@ The printed and PYQ-tested division assigns the direct critique of empiricism to
 
 <!-- expanded-pyq-depth:end -->
 
-## 8. PYQ ROUTING (2018–2025)
+## 8. PYQ ROUTING (2018–2026)
 
-> ⚠️ **Corpus signal:** 9 primary-owned question-parts out of 112. The local Paper I corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.
+> ⚠️ **Corpus signal:** Nine primary-owned question-parts in the 2018–2025 bank and one in 2026. Cross-links do not create duplicate ownership.
 
 | Year | Question | Marks | Exact demand | Answer route |
 |---|---|---:|---|---|
@@ -498,8 +554,9 @@ The printed and PYQ-tested division assigns the direct critique of empiricism to
 | 2023 | Q4(a) | 20 marks | Why does Strawson consider person to be a primitive concept? What implication does it have for the mind-body dualism? Discuss. | predicate duality → self-/other-ascription → conceptual priority → dualism/no-ownership foils → explanation-versus-dissolution verdict |
 | 2024 | Q4(c) | 15 marks | Explain the nature of the two dogmas that Quine refers to in his paper ‘Two Dogmas of Empiricism’. | define both dogmas → failed analyticity explications → reductionism → holism/pragmatism → bounded criticism |
 | 2025 | Q4(b) | 15 marks | “We can affirm the truth of any sentence in our total system, in the face of whatever experience, just so long as we are prepared to make adjustments elsewhere.” Discuss this statement in the light of Quine’s ‘Two Dogmas of Empiricism’. | preserve conditional clause → conjunction under test → compensating revisions → pragmatic/minimum-mutilation constraints → no relativism |
+| 2026 | Q3(a) | 20 marks | Why are states of consciousness ascribed to anything at all and why are they ascribed to the same things to which we also ascribe physical properties? How does Strawson answer these questions in his work *Individuals*? | §3.3A: first why (ownership and identification) → second why (public other-ascription plus non-observational self-ascription) → one person bearing M- and P-predicates → dualism/no-ownership objections |
 
-See the [Western Philosophy PYQ Bank, 2018–2025](../_PYQ-Western-Philosophy-2018-2025.md).
+See the [Western Philosophy PYQ Bank, 2018–2025](../_PYQ-Western-Philosophy-2018-2025.md) and [2026 bank](../_PYQ-Western-Philosophy-2026.md).
 
 ## 9. ANSWER ARCHITECTURE (10 / 15 / 20 marks) ⚠️
 

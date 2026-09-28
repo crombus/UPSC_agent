@@ -78,8 +78,8 @@ it does not infer “science has not explained X, therefore God.”
 - **Critique:** **Gaunilo** ("perfect island"); **Kant** — *"existence is not a real predicate"* — it adds nothing to a concept; you cannot define a thing into existence. ✅
 
 ### (b) Cosmological (a posteriori — Aquinas' Ways 1–3, Kalām)
-- Everything is contingent/caused/moved → to avoid infinite regress there must be a **First Cause / Unmoved Mover / Necessary Being** = God. ✅
-- **Critique:** **Hume** — why not an infinite series? why must the cause be God/personal? **Kant** — it secretly relies on the ontological argument (leaps from "necessary being" to "God"). ✅
+- Aquinas gives **three different** world-based arguments: change requires an actualiser (Way 1), an ordered series of efficient causes requires a first cause (Way 2), and the existence of contingent beings requires an underived necessary being (Way 3). "First" in Ways 1–2 means explanatory priority in a dependent series, not necessarily the first event in time. ✅
+- **Critique:** **Hume** asks why the series cannot be infinite or the universe a brute fact. **Kant** objects that specifying a necessary being as the fully determinate God of theology covertly relies on the contested ontological proof. A cause or ground does not by itself entail a personal, perfectly good deity. ✅
 
 #### Aquinas, Leibniz and temporal-beginning arguments must be separated
 
@@ -160,7 +160,7 @@ enters only as a condition for the highest good's possibility.
 9. **[Moral]** "Critical account of the moral argument." (2021, 15m) → §8.5.
 10. **[Anselm]** "Is Anselm's ontological proof logical?" (2020, 20m) → §8.1 — answer *validity* and *soundness* separately.
 11. **[Madhva]** "Explain and examine Madhvacharya's arguments for the existence of God." (2026, 15m) → §8.9 (**this file is the primary owner**) — grade the four strands; never transplant Nyāya's proofs.
-12. **[Contingency]** "Explain Aquinas' argument from the contingency of the world." (2026, 10m) → §1(b) + §8.2 — the Third Way specifically, not the Five Ways in general.
+12. **[Contingency]** "Discuss Aquinas' argument from the contingency of the world." (2026, 10m) → §1(b) + §8.2 — the Third Way specifically, not the Five Ways in general.
 
 ---
 
@@ -248,12 +248,23 @@ Concl : strongest as metaphysics, weakest as genealogy — explaining the belief
 - **Objection → reply.** ✅ Kant denies that existence is a real predicate. A modal reply distinguishes ordinary existence from necessary existence, but it must independently justify the possibility of a maximally great being.
 
 ### 8.2 Cosmological arguments and Aquinas' Ways
-- **Doctrine statement.** ✅ From motion, efficient causation, contingency, gradation and purposive order, Aquinas argues to a first or ultimate explanatory source.
-- **Argument.** ✅ Ways 1–3 move from actualisation, ordered causes and contingent beings to an unmoved mover, first efficient cause and necessary being. Way 4 moves from degrees to a maximum/source; Way 5 from regular goal-directed activity of non-rational things to intelligence.
-- **Presupposition.** ⚠️ Essentially ordered causal series require a here-and-now first member; the principle of sufficient reason has sufficient scope.
-- **Distinction.** ✅ Aquinas' "first" is explanatory priority, not simply the earliest event in time.
-- **Canonical example.** ✅ A stick moves a stone only while moved by a hand: the derivative causal power illustrates an essentially ordered series.
-- **Objection → reply.** ⚠️ Hume asks why the series cannot be brute or infinite. Thomists answer that even an infinite derivative series lacks non-derivative actualising power.
+- **Scope and method.** ✅ Aquinas, *Summa Theologiae* I, q.2, a.3, offers five distinct *a posteriori* Ways. They are not five names for a temporal first-cause argument: the first concerns **change**, the second **efficient causation**, the third **possibility and necessity**, the fourth **degrees of perfection**, and the fifth **finality in non-rational nature**. The text of each gives an initial description ("this we call God"); establishing divine unity, personality and goodness requires further argument. Ways 1–3 especially concern explanatory dependence rather than a proof that the universe began in time.
+
+| Way | Premises and inferential route | Immediate conclusion | Characteristic objection → controlled reply and remaining cost |
+|---|---|---|---|
+| **1 — change/motion** | Things change from potentiality to actuality; what is actual in a relevant respect actualises what is merely potential; nothing is both potential and actual **in the same respect** so as to actualise itself in that respect. In a presently dependent order of actualisers, derivative actualisers cannot operate without a non-derivative source | An unmoved actualiser, not merely the oldest moving object | A critic denies that every change must be explained by a simultaneously operating distinct actualiser, or challenges the rejection of infinite dependence. The Thomist replies that a self-changing thing can have distinct actual and potential respects and that an indefinitely long chain of *derivative* power still has no source of that power. Whether the chain really must terminate remains contested |
+| **2 — efficient causation** | Ordered efficient causes exist; nothing can be its own efficient cause in the same respect, since it would have to be prior to itself. Remove the first cause in an essentially ordered causal series and intermediate causes lack the causal power by which the final effect occurs | A first efficient cause, not necessarily a first event in a sequence of earlier events | Humean criticism permits an infinite or brute series and denies that every causal chain needs an external first member. The Thomist distinguishes an accidentally ordered historical sequence from an essentially ordered dependency (hand → stick → moving stone); the argument succeeds only if actual causes really have derivative power of that kind |
+| **3 — possibility/necessity** | Things are generated and perish: they can be and fail to be. Aquinas argues that if **everything** could fail to be, at some time nothing would have existed; nothing begins to exist from an absolute absence of existing causes; yet things exist now. So something necessary must exist. If a necessary being receives its necessity from another, the explanatory chain of *derived necessity* must terminate in one necessary **through itself** (*per se*), not necessary **through another** (*per aliud*) | An underived necessary being; its identification with the God of a religion remains a further question | The move from "each contingent thing can fail at some time" to "there was a time when **all** failed together" is not entailed: overlapping generations are a countermodel. Nor does a necessary *ground* automatically prove one personal God. A sympathetic reconstruction instead argues that contingent beings remain dependent even if something has always existed, but this reformulates, rather than establishes, Aquinas' printed intermediate step |
+| **4 — degrees/gradation** | Things are more or less good, true and noble; Aquinas relates such degrees to a maximum, then treats the maximum as the cause/source of the corresponding perfection in other things | A maximal source of being and perfections | Scales can contain degrees without a greatest instance; even a maximum need not *cause* the lesser instances. A defender must argue that the degrees are participated perfections dependent on a source, not mere numerical rankings. That metaphysical dependence is precisely the disputed premise |
+| **5 — governance/finality** | Non-rational natural things regularly act toward determinate outcomes despite not knowing those ends; Aquinas argues that end-directed action of the unintelligent depends on intelligence, as an arrow is directed by an archer | An intelligent director of nature | Stable natural laws, self-organisation and biological natural selection challenge the inference from regularity to an intelligent director. A Thomist distinguishes the deeper question of natural directedness from Paley's analogy between organisms and manufactured watches; the reply does not by itself establish a unique, omnipotent or perfectly good director |
+
+**Third Way: do not hide the contested step.** ⚠️ Aquinas' printed route is (1) generation and corruption → contingent beings; (2) "if everything can fail to be, at some time nothing was"; (3) from nothing existing, nothing could subsequently originate without an already existing cause; (4) existence now → not everything is merely contingent; (5) derived necessary beings require an underived necessary being. A standard formal criticism is the **quantifier shift**: "for every contingent being, there is some time at which it does not exist" does **not** entail "there is some time at which no being exists". Even granting the conclusion, why the terminus must be a single knowing, willing God is an additional burden. ⚠️ A counterargument may defend here-and-now dependence without presuming a first moment or a simultaneous empty world, but must acknowledge that this is a *reconstruction*, not Aquinas' exact step.
+
+**Ways 1–3 compared.** ⚠️ Changing things call for an actualiser (Way 1); ordered efficient causes call for a first cause (Way 2); possible-to-cease beings prompt a necessary being (Way 3). "Who caused God?" does not refute the argument by itself: its proposed terminus is precisely *underived*; the critic must instead challenge the termination rule or ask why the universe or some impersonal ground cannot be underived. Neither Leibniz's sufficient-reason argument nor the temporal-beginning (*kalām*) argument should be substituted for Aquinas' Third Way; see §1(b).
+
+**2022 Q6(a), 20 marks — execution.** State each Way's *different starting datum and conclusion*, critically test at least two weak premises (especially Ways 3 and 4), then select **one** Way using an explicit criterion, such as explanatory reach or vulnerability to counterexamples, and defend that selection. A list of five labels without premise-to-conclusion reasoning does not meet "critical exposition".
+
+**2026 Q5(b), 10 marks — execution.** The printed directive is **"Discuss"**: reconstruct Way 3's five stages above, identify the quantifier shift and the gap from necessary being to personal God, state a sympathetic dependency-based reply, and conclude with a graded verdict. Neither a general summary of all Five Ways nor a story about a first temporal event answers this question.
 
 ### 8.3 Design argument
 - **Doctrine statement.** ✅ Regularity, adaptation or fine order is presented as evidence for intelligent purposive causation.
@@ -557,7 +568,7 @@ Verdict: Madhva's case is epistemically modest and metaphysically strong — he 
 | 2024 | Q7(c) | 15 marks (10+5) | Present an exposition of ontological proof for the existence of God along with its criticism. |
 | 2025 | Q6(a) | 20 marks | Present an account of Design argument to prove the existence of God along with its criticism by David Hume. |
 | 2025 | Q7(b) | 15 marks | What proofs do Nyāya philosophers offer for the existence of God? Discuss. |
-| **2026** | **Q5(b)** | **10 marks** | Explain St. Thomas Aquinas' argument for the existence of God from the contingency of the world. → **§1(b) + §8.2** |
+| **2026** | **Q5(b)** | **10 marks** | Discuss Aquinas' argument from the contingency of the world to prove the existence of God. → **§1(b) + §8.2** |
 | **2026** | **Q8(b)** | **15 marks** | Explain and examine Madhvacharya's arguments for the existence of God. → **§8.9** |
 
 See the [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md) and the [2026 Paper II Section B PYQ Supplement](../_PYQ-PhilosophyOfReligion-2026-Supplement.md).
@@ -656,6 +667,7 @@ two objections and replies → underdetermination of divine attributes → grade
 ## SOURCES
 
 - Anselm, *Proslogion*; Thomas Aquinas, *Summa Theologiae*, First Part, q.2.
+- Aquinas, *Summa Theologiae* I, q.2, a.3 (the five distinct Ways and the original intermediate steps): <https://www.newadvent.org/summa/1002.htm#article3>.
 - William Paley, *Natural Theology*; David Hume, *Dialogues Concerning Natural Religion*.
 - Immanuel Kant, *Critique of Pure Reason* and *Critique of Practical Reason*.
 - Richard Swinburne, *The Existence of God*; Basil Mitchell, *The Justification of Religious Belief*; Antony Flew, *God and Philosophy*.

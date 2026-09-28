@@ -18,14 +18,14 @@ RATIONALISM = reason/innate structure grounds necessity and certainty
      The SUBSTANCE question drives the trio:
    ┌───────────────────┬───────────────────┬───────────────────┐
    │ DESCARTES          │ SPINOZA            │ LEIBNIZ            │
-   │ 3 substances       │ ONE substance      │ ∞ substances       │
+   │ 3 kinds            │ ONE substance      │ ∞ substances       │
    │ (God + mind + body)│ (God = Nature)     │ (monads)           │
    │ DUALISM            │ MONISM/PANTHEISM   │ PLURALISM          │
    │ interaction (pineal)│ parallelism        │ pre-est. harmony   │
    │ free will (will>int)│ determinism        │ compatibilism      │
    └───────────────────┴───────────────────┴───────────────────┘
 ```
-> 🔑 **Mnemonic — Substance count "3-1-∞":** Descartes **3**, Spinoza **1**, Leibniz **∞**.
+> 🔑 **Mnemonic — "3-1-∞":** Descartes **three kinds** (God, created minds, created bodies), Spinoza **one substance**, Leibniz **many monads**; these are not three comparable counts of individual beings.
 > 🔑 **Mind-body mnemonic — "I-P-H":** Interaction → Parallelism → Harmony.
 > ⚠️ **Substance caution:** “3” is an exam mnemonic. Descartes says only God is absolutely independent; mind and body are created substances in a dependent or analogical sense.
 
@@ -200,11 +200,11 @@ Rationalist "certain knowledge" does not stop at Descartes. Spinoza's tripartite
 
 ## 2. SUBSTANCE ✅ — The STAR Sub-topic
 
-**Shared definition all three inherit:** substance = *that which exists in itself, conceived through itself, needing nothing else in order to exist.* ✅
+**Inherited problem, different tests:** Descartes calls a thing substance if it needs no other *created* thing to exist, while admitting that only God needs nothing whatsoever. Spinoza strictly requires what is **in itself and conceived through itself**; Leibniz instead makes indivisible unity and internally grounded activity decisive for created monads. ⚠️ These are related rationalist questions about independent being, not one definition that all three accept without qualification.
 
 ---
 
-### 2.1 DESCARTES on Substance — THREE substances (Dualist)
+### 2.1 DESCARTES on Substance — THREE kinds (Dualist)
 
 - Strictly, only **God** (infinite substance) fully satisfies the definition — He alone is absolutely independent. ✅
 - But Descartes also admits two kinds of **created** (finite) substance:
@@ -229,7 +229,7 @@ Rationalist "certain knowledge" does not stop at Descartes. Spinoza's tripartite
 
 **Modes:** particular things (this mind, this body, this stone) are **modifications (modes)** of the one substance under its various attributes. My mind = a mode of God under Thought; my body = a mode of God under Extension. ✅
 
-**"Omnis determinatio est negatio" — "All determination is negation"** (PYQ 2025 Q2b): To determine (i.e. to say a thing is *this* and not *that*) is to *negate*. Every finite thing is defined by what it is *not*. Only God/Substance, being infinite and unlimited, involves no negation. Finite modes are "negations" within the infinite affirmation of Substance. ✅
+**“Determination is negation”** (PYQ 2025 Q2b): To delimit something as *this* rather than *that* excludes other determinations. The Spinozist source is Letter 50; “*omnis determinatio est negatio*” is Hegel's generalised formulation (§T). ⚠️ Finite modes are **positive expressions** of substance, though limited in their determinate nature; they are not mere non-beings or simply “what God is not.” The objection that monism dissolves their individuality remains serious.
 
 **"Whatever is, is in God" (*Eth.* I, P15)** (PYQ 2024 Q2b): Since there is only one substance and everything else is its mode, *nothing* exists outside God. God alone is absolutely real; finite things are real only as modifications *within* God. ✅
 
@@ -265,10 +265,10 @@ Rationalist "certain knowledge" does not stop at Descartes. Spinoza's tripartite
 
 | Feature | Descartes | Spinoza | Leibniz |
 |---|---|---|---|
-| Number of substances | 3 (God + mind + matter) | 1 (God = Nature) | ∞ (monads) |
-| Definition applied | loosely (created substances conceded) | rigorously (only God fits) | rigorously (simple, independent, indestructible) |
+| Number and kind | God plus created thinking and extended substances (three kinds, not three individual beings) | 1 (God = Nature) | indefinitely many created monads plus God |
+| Criterion of substance | created things depend on God but not on one another | only what is in and conceived through itself qualifies | created simple unities act internally but still depend on God |
 | Essence of the physical | extension | a mode of one attribute (Extension) of God | confused perception of monads (extension = phenomenon) |
-| Relation of mind to body | two distinct substances | two attributes of one substance | two monads pre-harmonised |
+| Relation of mind to body | two distinct kinds of created substance | one individual expressed under Thought and Extension | a dominant mind-monad and an organised bodily aggregate correspond by harmony |
 | The individual | a substance (mind) or a mode of extension (body) | a mode (of God) | a substance (each monad unique) |
 | Internal logic | starts from cogito + God → admits 3 | pushes Descartes' own definition → collapses to 1 | demands simplicity → explodes to ∞ |
 
@@ -382,8 +382,8 @@ Rationalist "certain knowledge" does not stop at Descartes. Spinoza's tripartite
 
 - **Spinoza's parallelism** entails strict determinism (see §5.2) — freedom is only understanding necessity; there is no libertarian free will. ✅
 - **Descartes' interactionism** allows libertarian free will (the mind's volitions are not determined by the body's mechanics). ✅
-- **Leibniz's pre-established harmony** allows a *compatibilist* freedom: the monad's acts unfold from its own nature (spontaneity) + are intelligent + the actual world is contingent (not logically necessary) — so freedom = spontaneity + intelligence + contingency. ✅
-- **Answer to the PYQ:** Leibniz's account is most *compatible* with human freedom because it preserves a meaningful (compatibilist) sense of free choice while also resolving the mind-body problem without requiring unintelligible cross-substance causation. Descartes allows *more* freedom (libertarian) but at the cost of an insoluble interaction problem. ⚠️
+- **Leibniz's pre-established harmony** allows a *compatibilist* freedom: the rational monad's acts unfold from its own nature (spontaneity and intelligence) while the actual world is not logically necessary. Critics ask whether a complete concept fixed from creation leaves genuine alternatives. ✅
+- **Answer to the PYQ:** under the criterion of *responsible agency compatible with a non-interactionist mind–body account*, Leibniz is a defensible choice. Under *alternative possibilities*, a Cartesian reading ranks higher; under *acting from adequate understanding*, Spinoza ranks higher. State the criterion and the chosen view's cost; do not treat the ranking as settled by the three metaphysical labels. ⚠️
 
 ---
 
@@ -425,10 +425,10 @@ Rationalist "certain knowledge" does not stop at Descartes. Spinoza's tripartite
 | Feature | Descartes | Spinoza | Leibniz |
 |---|---|---|---|
 | Position | libertarian free will | hard determinism (necessitarianism) | compatibilism (soft determinism) |
-| Will | infinite, undetermined | "free will" = illusion | inclined but not necessitated |
+| Will | unlimited in scope relative to finite intellect; not bodily determined | "free will" as uncaused choice = illusion | inclined by reasons, not logically necessitated |
 | Source of action | the mind, uncaused by body | God's necessary nature flowing through modes | the monad's complete concept |
 | What "freedom" means | ability to do otherwise | acting from one's own adequate knowledge | spontaneity + intelligence + contingency |
-| Moral responsibility | yes (contra-causal freedom) | problematic (but Spinoza reinterprets via adequate ideas) | yes (agent is the source, though determined) |
+| Moral responsibility | grounded in assent and withholding; metaphysical freedom disputed | reinterpreted through adequate ideas and active affects | grounded in intelligent internal agency, though acts are settled in the actual world |
 
 ---
 
@@ -530,7 +530,7 @@ Rationalist "certain knowledge" does not stop at Descartes. Spinoza's tripartite
 ## RESTORED 2018/2020 DOCTRINE DOSSIER
 
 ### One inherited definition, three classifications of substance
-- ✅ **Statement:** the rationalists inherit independence and self-conception as the test of substance but apply it differently: Descartes admits dependent created substances, Spinoza applies strict independence only to God/Nature, and Leibniz makes simplicity and an internal principle of action decisive for monads.
+- ✅ **Statement:** the rationalists inherit a question about fundamental being, but not one unqualified definition: Descartes admits God-dependent created substances, Spinoza demands what is in and conceived through itself, and Leibniz makes simplicity and internal activity decisive for created monads.
 - ✅ **Argument:** Descartes begins from real distinction of thought and extension; Spinoza argues substances sharing an attribute cannot be distinct; Leibniz rejects extended composites as ultimate substances and posits simple centres of perception.
 - ⚠️ **Presupposition:** a satisfactory metaphysics must identify what is ontologically basic rather than merely linguistically a subject.
 - ❓ **Objection → reply:** the common word “substance” may conceal three incompatible projects. The rationalist reply is that each revision exposes a tension in the predecessor's application of the inherited criterion.
@@ -604,7 +604,8 @@ Frame : In Spinoza's monist system, the one substance (God) is infinite and unli
 Body A: "Determination" = making something definite, finite, bounded. To say X is *this*
         is to say X is *not* everything else → hence negation.
 Body B: Consequence for finite things: they are *limitations* (negations) within the infinite
-        substance. They lack independent being; they are what God is not.
+        substance. They lack independent being, but remain positive finite expressions
+        of its power, not simply "what God is not."
         Consequence for God: God, being infinite, involves *no* negation — He is pure
         affirmation, unlimited, undetermined by anything external.
 Body C: Implication for knowledge: to know finite things adequately is to see them sub
@@ -625,7 +626,8 @@ Body B: Descartes' system step by step:
         (i) Method of doubt → cogito (reason alone; no reliance on sense).
         (ii) Innate idea of God → proofs of God (trademark, ontological).
         (iii) God guarantees CDI → rebuilds mathematics + external world.
-        (iv) Substance metaphysics (3 substances — res cogitans, res extensa, God).
+        (iv) Substance metaphysics (God and two kinds of created substance —
+             res cogitans and res extensa).
 Body C: How each step instantiates a tenet. Contrast with empiricist counter (Locke's
         attack on innate ideas; Hume's fork).
 Assess: Descartes' system is internally coherent but fragile — it depends on the cogito
@@ -659,8 +661,8 @@ Each verdict is a **defensible position**, not a summary. Use verbatim or compre
 |---|---|---|---|
 | **Cartesian method** | The method of doubt is not scepticism but scepticism's instrument: it is used to destroy itself, and it succeeds only because the cogito is performatively, not inferentially, certain. | …Its success is local. The cogito secures the *existence* of a thinker but not the *substantiality* of the thinker; Hume and Kant both exploit exactly this gap. | Descartes' method delivers a genuine indubitable, but the reconstruction built on it is only as strong as the divine guarantee — so the *Meditations* stand or fall on Meditation III, not Meditation II. The Cartesian Circle is therefore not a peripheral blemish but the system's load-bearing joint. |
 | **Wax argument** | The wax argument proves not that bodies exist but that, if known, they are known by intellect — self-knowledge is epistemically prior. | …It succeeds against naive empiricism because no sensory item registers *identity through change*; it fails to establish apriority, since the empiricist can call "extension" an abstraction. | Meditation II already installs extension as body's essence, so Meditation VI's dualism is partly presupposed rather than proved; the wax argument is thus the hinge on which Cartesian dualism silently turns. |
-| **Substance (all three)** | The three rationalists differ not because they disagree about the *definition* of substance but because they differ on how strictly to apply it. | …Descartes applies it loosely (admitting dependent "created substances"), Spinoza strictly (only the wholly independent qualifies — hence one), Leibniz adds *simplicity* (hence infinitely many). | The trio is a single argument unfolding: Spinoza's monism is the *consistent* Descartes, and Leibniz's pluralism is the *consistent* rejection of extension as an essence. The lesson is that "substance" is not a discovery but a criterion, and the metaphysics you get is the criterion you enforce. |
-| **God** | For Descartes God is a *guarantee*, for Spinoza God *is the system*, for Leibniz God is a *selector*. | …Only Spinoza's God does no explanatory work outside the system, which is why only his is immune to Kant's critique of the ontological argument; Descartes' and Leibniz's both require it. | Kant's demolition of the ontological proof ("existence is not a real predicate") kills Descartes' and Leibniz's God but leaves Spinoza's untouched, because Spinoza does not *infer* God's existence from a concept — he identifies God with the totality of what is. Spinoza therefore survives the Enlightenment critique that destroys his fellow rationalists. |
+| **Substance (all three)** | The rationalists start with a common question about what exists fundamentally, not an identical criterion of independence. | …Descartes admits God-dependent created substances, Spinoza reserves strict self-conception for the one substance, and Leibniz seeks simple internally active created unities. | The disagreement is explanatory, not merely numerical: tightening Spinoza's criterion rules out Cartesian finite substances, while Leibniz revises the test to rule out extended composites. But monads still depend on God, so they do not meet Spinoza's strict independence requirement; a common label cannot conceal this difference. |
+| **God** | Descartes invokes God to guarantee cognition; Spinoza identifies God with immanent substance; Leibniz invokes God as selector and harmoniser. | …Kant's criticism of existence as a predicate targets an ontological-proof premise, but the three arguments for God have different structures; divine causation and sufficient reason require their own assessment. | The ontological objection challenges Descartes' fifth-Meditation proof and relevant Leibnizian versions, without by itself disposing of Descartes' causal arguments, Leibniz's sufficient-reason argument or Spinoza's substance argument. Spinoza's inference from self-causation/necessary substance can still be challenged on its own premises; no system is simply “immune” because it uses the name Nature. |
 | **Mind–body** | The three solutions are not three answers to one question but three verdicts on whether the question is well-formed. | …Descartes accepts the question and cannot answer it; Spinoza dissolves it by denying the two-substance premise; Leibniz dissolves it by denying causation altogether. | Judged by explanatory economy Spinoza wins, judged by fidelity to experience Descartes wins, judged by systematic consistency Leibniz wins — and the fact that no single criterion selects one answer is itself the strongest evidence that Descartes bequeathed a *pseudo-problem* rather than a problem. |
 | **Freedom / determinism** | Spinoza does not abolish freedom, he relocates it — from the will's indifference to the intellect's adequacy. | …Whether that is freedom or determinism renamed depends on whether one thinks "could have done otherwise" is essential to freedom; Spinoza denies it, and consistently. | Ranking against a stated criterion: if freedom requires alternative possibilities, only Descartes qualifies, at the price of an unintelligible interaction; if freedom requires *self-determination*, Spinoza qualifies best; if it requires reconciling determination with responsibility, Leibniz's spontaneity + intelligence + contingency is the most workable. The examiner-safe ruling: **Leibniz**, because his is the only account that keeps both the determination the metaphysics requires and the responsibility ethics requires. |
 | **Three kinds of knowledge** | Spinoza's three kinds are three *ontological positions of the knower*, not three degrees of confidence. | …This makes epistemology and ethics one subject — his most original move; but because *scientia intuitiva* is self-certifying (*verum index sui*), it is also his most vulnerable. | The tripartite scheme is what converts Spinoza's necessitarianism from a fatalism into an ethics: because knowing adequately *is* acting from one's own nature, the discovery that all is necessary is itself the act by which one becomes free. Its price is that Spinoza cannot give an external criterion distinguishing the third kind from confident imagination. |
@@ -888,7 +890,7 @@ Necessary truths terminate through finite analysis in identities; contingent tru
 1. Rationalism seeks necessity and certainty through reason, not the abolition of experience.
 2. Descartes’ order is doubt → cogito → God → world.
 3. Wax proves intellectual judgement of body, not the existence of body.
-4. Substance count is 3 → 1 → ∞.
+4. “3 → 1 → ∞” compares three Cartesian kinds, one Spinozist substance and many Leibnizian monads, not like-for-like counts.
 5. Spinoza’s Thought and Extension are attributes, not substances.
 6. Monads are simple, perceptive, appetitive and windowless.
 7. God guarantees, is, and selects in Descartes, Spinoza and Leibniz respectively.

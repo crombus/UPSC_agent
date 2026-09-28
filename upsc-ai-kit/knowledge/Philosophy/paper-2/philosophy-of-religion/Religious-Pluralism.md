@@ -2,7 +2,7 @@
 
 > **Syllabus (verbatim):** Religious Pluralism and the Problem of Absolute Truth.
 > **Evidence key:** ✅ canonical doctrine/fact · ⚠️ analytical synthesis for exam use · ❓ contested/uncertain · 📰 dated current anchor only
-> **Placement:** The issue is whether rival truth-claims permit exclusivism, inclusivism, or principled pluralism without relativism. PYQ routing below covers the fully audited 2018–2025 Paper II bank.
+> **Placement:** The issue is whether rival truth-claims permit exclusivism, inclusivism, or principled pluralism without relativism. PYQ routing below covers the 2018–2026 Paper II bank.
 
 ## Exact printed ownership and cross-topic firewall
 
@@ -99,9 +99,9 @@ Conversely, tolerance is a civic ethic and can be defended by an exclusivist.
 ## 3. THE PROBLEM OF ABSOLUTE TRUTH (2022, 2024 PYQ) ⚠️
 - **The worry (2022):** *"unquestionable acceptance of only one Absolute Truth will inevitably result in religious exclusivism"* → and exclusivism breeds **conflict/intolerance**. ✅
 - **Analysis:**
-  - If "absolute truth" = **my** religion's propositions are the sole truth → yes, tends to exclusivism.
+  - If "absolute truth" is taken to mean **my** religion's interpretation is uniquely and incorrigibly correct, this *adds* an epistemic monopoly and favours exclusivism; the existence of objective truth alone does not.
   - **But** one can hold that there **is** an Absolute Truth (the Real/Brahman) while recognising all religions as **partial, perspectival** approaches to it → an absolute *referent* with pluralist *access*. This **breaks the link** between believing in absolute truth and being exclusivist. ⚠️
-  - The **Jain Anekāntavāda/Syādvāda** (many-sidedness) is a powerful Indian tool: reality is many-sided; every viewpoint is **partially true** (the blind-men-and-elephant) → epistemic humility dissolves dogmatic exclusivism. ✅
+  - **Jain *anekāntavāda/syādvāda*** (many-sidedness/conditional assertion) is a powerful Indian tool: some finite claims may capture a qualified aspect; **not every viewpoint is true**, and qualifying standpoints does not by itself resolve a same-respect contradiction. ⚠️ It encourages examination rather than guaranteeing an end to conflict.
 - **Does pluralism destroy the truth of religion? (2023):** ⚠️ Critics say pluralism relativises truth. Reply: pluralism need not deny truth — it **relocates** absoluteness in the transcendent Real and treats religions as culturally-conditioned but genuine responses; **coexistence** need not mean "anything goes."
 - **Hard-contradiction control:** a personal creator cannot both exist and not
   exist in the same respect; the self cannot both be permanent and denied in
@@ -113,11 +113,11 @@ Conversely, tolerance is a civic ethic and can be defended by an exclusivist.
 ## 4. COMPARISON GRID ⚠️
 | Position | Truth of other religions | Key thinker | Risk |
 |---|---|---|---|
-| Exclusivism | false | (dogmatic theologies) | intolerance, conflict |
+| Exclusivism | one decisive truth or path; other religions may contain partial truths | Plantinga; qualified theological models | privileged-warrant challenge; not logically intolerance |
 | Inclusivism | partial, fulfilled in mine | Rahner | condescension |
-| Pluralism (Western) | equally valid responses to the Real | Hick | relativism, unknowable Real |
-| Vedantic pluralism | all true paths to one Reality | Vivekananda, Radhakrishnan | dilution of specifics |
-| Anekāntavāda | each partially true | Jainism | — |
+| Hick's pluralism | potentially authentic transformative responses to the Real, not equally true propositions | Hick | unknowable Real; revision of doctrinal claims |
+| Vedāntic convergence | paths potentially converge on an ultimate, on a defended Vedāntic reading | Vivekananda, Radhakrishnan | reduction of distinct ends and doctrines |
+| Anekāntavāda | qualified claims from limited standpoints, not every claim automatically true | Jainism | same-respect contradictions; own absolute claims |
 
 > 🔑 The high-scoring line: **belief in an Absolute (Real/Brahman) is compatible with pluralism** if truth-claims are held as *partial & perspectival* (Anekāntavāda/Hick) — this defuses the "absolute truth → exclusivism → conflict" chain.
 
@@ -132,16 +132,18 @@ Conversely, tolerance is a civic ethic and can be defended by an exclusivist.
 ---
 
 ## 6. APPLIED-QUESTION DRILLS ⚠️
-1. **[Vedantic]** "Vedantic religious pluralism & Vivekananda's Universal Religion vs conflicting truth-claims." (2025, 20m) → §2.
-2. **[Absolute truth]** "'One Absolute Truth → religious exclusivism.' Discuss." (2022) → §3.
-3. **[Pluralism-conflict]** "Does pluralism invite inter-religious conflict & destroy religion's truth?" (2023) → §3.
-4. **[Notion]** "Notion of absolute truth in religion." (2024) → §3.
+1. **[Vedantic]** "Vedantic religious pluralism & Vivekananda's Universal Religion vs conflicting truth-claims." (2025, 20m) → §§2, 9.3, 9.13.
+2. **[Absolute truth]** "'Unquestionable acceptance of only one Absolute Truth → religious exclusivism.' Discuss." (2022) → §§3, 9.14.
+3. **[Pluralism-conflict]** "Does pluralism invite inter-religious conflict & destroy religion's truth?" (2023) → §§3, 9.8, 9.13 — test both charges.
+4. **[Notion]** "Notion of absolute truth in religion." (2024) → §9.14 — not the same as the 2022 inference.
 5. **[Tolerance]** "Importance of religious tolerance in a multicultural pluralistic society." (2020, 10m) → §9.6 — Forst's ladder; Aśoka RE XII; Vivekananda's acceptance-not-tolerance.
 6. **[Freedom]** "Is religious freedom possible in a multireligious society?" (2021, 10m) → §9.7 — principled distance + internal minorities.
 7. **[Conflict]** "Is the History of Religions the History of Conflicts?" (2020, 10m) → §9.8 — cause/marker/mobiliser/legitimiser.
 8. **[Unifier]** "Is religion a uniting force for humanity in the globalizing world?" (2019, 10m) → §9.9 — three conditions.
 9. **[E vs P]** "Central problem between religious pluralists and exclusivists." (2019, 20m) → §9.1 + §9.11 + §9.10 (deep disagreement).
-10. **[Truth is one]** "'Truth is one, yet people perceive differently' — evaluate in the Indian context." (2018, 15m) → §2 + RV 1.164.46 discipline + *anekāntavāda*.
+10. **[Truth is one]** "'Truth is one, yet people perceive differently' — evaluate in the present Indian context." (2018, 15m) → §§2, 9.15 + RV 1.164.46 discipline + *anekāntavāda*.
+11. **[Moral relativism]** "Does religious pluralism necessarily entail moral relativism?" (2026, 15m) → §9.12 — religious standing vs independent ethical criterion.
+12. **[Truth reconciliation]** "Can conflicting truth claims be reconciled within pluralism?" (2026, 15m) → §9.13 — distinguish what is reconciled and what remains false in the same respect.
 
 ---
 
@@ -164,10 +166,12 @@ Conversely, tolerance is a civic ethic and can be defended by an exclusivist.
 ```
 Intro : the problem — many religions, rival truth-claims.
 B1    : E-I-P triad; locate Vedānta as pluralist.
-B2    : "Ekaṃ sat..."; Vivekananda — all true paths to one Reality, suited to temperaments;
-        grounded in non-dual Brahman → metaphysical, not merely pragmatic, pluralism.
-Assess: vs Hick's "Real"; charge of diluting specifics; Anekāntavāda adds epistemic humility.
-Concl : conflicting claims are partial angles on one Truth — harmony, not exclusion.
+B2    : RV 1.164.46's Vedic context and argued modern extension; Vivekananda —
+        valid paths suited to temperaments, Vedāntic ground and acceptance not tolerance.
+Assess: vs Hick's transcategorial Real; objections to assimilating distinct ends and
+        literal contradictions into Brahman; Anekāntavāda handles only qualified standpoints.
+Concl : a convergence proposal can support dialogue but does not make incompatible
+        same-respect propositions jointly true or command another's assent.
 ```
 
 ### 7.2 — "'Acceptance of one Absolute Truth → religious exclusivism.' Discuss." (2022, 20m)
@@ -175,8 +179,11 @@ Concl : conflicting claims are partial angles on one Truth — harmony, not excl
 Intro : does believing in absolute truth force exclusivism (and conflict)?
 Body  : if "absolute truth" = my propositions only → yes; BUT an absolute REFERENT (Real/Brahman)
         with partial/perspectival ACCESS (Anekāntavāda, Hick) breaks the link.
-Assess: distinguish ontological absolutism from epistemic exclusivism; humility dissolves conflict.
-Concl : one can affirm absolute Truth AND religious pluralism — exclusivism is not inevitable.
+Assess: the printed "unquestionable acceptance of only one" adds incorrigibility: test
+        whether it attaches to Reality or a unique, exhaustive human formulation.
+        Even an exclusivist can respect others' freedom; humility alone cannot settle disagreement.
+Concl : one can affirm an objective ultimate and plural access; a claimed infallible
+        monopoly favours exclusivism but neither absolute truth nor exclusivism entails conflict.
 ```
 
 ### 7.3 — "What is the importance of religious tolerance in a multicultural pluralistic society?" (2020, 10m)
@@ -228,6 +235,22 @@ Concl : a high-amplitude force, not an intrinsically unifying one — the same t
         the Parliament of Religions and communal violence.
 ```
 
+### 7.6 — 2026 Q6(c) and Q7(c): do not write the same answer twice
+```text
+Q6(c) — NECESSARY ENTAILMENT TO MORAL RELATIVISM:
+Define religious plurality vs moral rightness-by-local-endorsement →
+give Hick's shared transformative criterion and Gandhi/Jain non-injury →
+test the harmful-practice objection and the criterion's contested status →
+verdict: no necessary entailment; a given theory still owes moral reasons (§9.12).
+
+Q7(c) — RECONCILIATION OF CONFLICTING TRUTH CLAIMS:
+State a same-respect creator/no-creator contradiction →
+explain Hick's Real and culturally mediated manifestations →
+test whether redescription preserves first-order meaning →
+compare Vedāntic convergence, Jain conditional standpoints and Heim's distinct ends →
+verdict: partial reconciliation only; literal incompatibilities can remain (§9.13).
+```
+
 ---
 
 ## 9. ADVANCED DOCTRINE DOSSIERS
@@ -277,7 +300,7 @@ Concl : a high-amplitude force, not an intrinsically unifying one — the same t
 - ⚠️ **The paradox of toleration** follows directly: to tolerate is to allow what one holds to be wrong — which looks either weak-willed (if the objection is serious) or insincere (if it is not). The resolution is to locate the reasons for acceptance at a **different level** from the objection: I may believe your doctrine false (first-order) while holding that coercing belief is wrong, ineffective, or destructive of the very good at stake (second-order).
 - **Rainer Forst's four conceptions** (*Toleration in Conflict*) — the most useful analytical ladder available: ✅ **(1) Permission** — the powerful permit a minority to exist on sufferance; **(2) Coexistence** — mutual, pragmatic, a modus vivendi to avoid conflict; **(3) Respect** — reciprocal recognition of others as equal moral-political persons despite deep ethical disagreement; **(4) Esteem** — positively valuing the other's beliefs as containing something worthwhile. ⚠️ Only (3) and (4) are compatible with equal citizenship; (1) is what most historical "tolerance" actually was.
 - **The Western argument-stock.** ✅ **Locke** (*A Letter Concerning Toleration*, 1689): three arguments — the magistrate has no commission over souls; **force cannot produce belief**, only profession; and even if it could, coerced conformity would not save. ✅ **Mill** (*On Liberty*, 1859): the **harm principle**; and the epistemic argument that suppressing an opinion robs us of either the truth or "the clearer perception of truth produced by its collision with error". ✅ **Popper's paradox of tolerance** (*The Open Society and Its Enemies*, note to ch. 7): unlimited tolerance leads to the disappearance of tolerance, so a tolerant society must retain the right to refuse to tolerate the intolerant — though Popper's own formulation reserves this for those who refuse rational argument and answer with violence. ✅ **Rawls**: an **overlapping consensus** on political principles allows citizens with incompatible comprehensive doctrines to share a stable polity.
-- **The Indian argument-stock (this is where the answer gains real distinction).** ✅ **Aśoka's Rock Edict XII** is the strongest verifiable ancient anchor in the entire clause: it enjoins *not* honouring one's own sect while disparaging others, holds that whoever does so out of devotion to his own sect **injures his own sect more gravely**, and commends *concord* (*samavāya*) and listening to one another's dharma. ✅ **Akbar's *ṣulḥ-i kull*** ("universal peace/reconciliation") and the *Ibādat Khāna* debates. ✅ **Gandhi's *sarva-dharma-samabhāva*** — equal respect for all religions, combined with a fallibilist insistence that one's own grasp of truth is partial. ✅ **Vivekananda** at the 1893 Parliament of the World's Religions explicitly demands **acceptance, not merely toleration** — arguing that "toleration" still condescends. ✅ **Jain *anekāntavāda*** supplies the epistemic ground: if every judgement is standpoint-relative, dogmatic suppression of another standpoint is an *epistemic* as well as a moral error. ⚠️ Constitutional expression: Articles 25–28 and the "freedom of conscience" formula.
+- **The Indian argument-stock (this is where the answer gains real distinction).** ✅ **Aśoka's Rock Edict XII** enjoins *not* honouring one's own sect while disparaging others, holds that whoever does so out of devotion to his own sect **injures his own sect more gravely**, and commends *concord* (*samavāya*) and listening to one another's dharma. ✅ **Akbar's *ṣulḥ-i kull*** ("universal peace/reconciliation") and the *Ibādat Khāna* debates. ✅ **Gandhi's *sarva-dharma-samabhāva*** — equal respect for all religions, combined with a fallibilist insistence that one's own grasp of truth is partial. ✅ **Vivekananda** at the 1893 Parliament of the World's Religions explicitly demands **acceptance, not merely toleration** — arguing that "toleration" still condescends. ⚠️ **Jain *anekāntavāda*** is an epistemic resource: since finite claims can require standpoint-qualification, suppression of disagreement risks treating one perspective as exhaustive; the doctrine alone is not a proof of political toleration. Constitutional expression: Articles 25–28 and the "freedom of conscience" formula.
 - **Objection → reply.** ⚠️ **Objection:** toleration is a second-best — respect and esteem are what a pluralist society actually needs, and toleration keeps the tolerator in the position of judge. **Reply:** correct as a critique of Forst's level (1); but the objection component is what makes toleration a **moral achievement** rather than mere indifference, and a society of genuine disagreement cannot be built on esteem alone. ⚠️ **Second objection:** unlimited toleration is self-destructive (Popper). **Reply:** limits must be drawn by **harm and reciprocity**, not by doctrinal content — otherwise the limit-drawing becomes the intolerance it was meant to prevent.
 - **Verdict formula.** ⚠️ "Toleration is indispensable but insufficient. Its indispensability lies in the objection component — it is precisely tolerance *of what one thinks wrong* that a plural society requires. Its insufficiency lies in the power component: a tolerance granted by the strong to the weak is permission, not equality, and only respect-based toleration is compatible with equal citizenship."
 
@@ -285,7 +308,7 @@ Concl : a high-amplitude force, not an intrinsically unifying one — the same t
 - **Doctrine statement.** ✅ Religious freedom bundles several distinct rights that must be separated: **freedom of conscience** (the inner forum — inviolable), **freedom to profess** (declare), **to practise** (act), **to propagate** (persuade), **to change or leave** a religion, **freedom from** compelled religious observance, and the **associational** right of communities to order their internal affairs.
 - **Why it is philosophically defensible.** ✅ (1) **Locke's incoercibility argument**: belief is not directly voluntary, so coercion produces hypocrisy, not faith. (2) **Autonomy**: matters of ultimate concern are the paradigm case in which a person must judge for herself. (3) **Epistemic**: given deep disagreement and fallibility, no institution is entitled to the certainty that suppression presupposes. (4) **Social**: in a plural society, enforced uniformity is a cause of conflict rather than its cure.
 - **The hard problems (these are where the marks are).** ⚠️
-  1. **The practice/belief asymmetry.** Belief is absolutely protected; *practice* is not, because it can harm. Every constitutional order therefore limits practice by **public order, morality and health** — and the philosophical difficulty is that these limits are stated in terms whose content is contested.
+  1. **The practice/belief asymmetry.** Freedom of conscience in the inner forum merits the strongest protection; outward profession can also face justified limits (for instance, threats or incitement), and *practice* can harm. In India, Article 25 expressly subjects its freedoms to **public order, morality and health** and other constitutional provisions; do not turn this jurisdiction-specific formula into a description of every constitutional order.
   2. **Propagation and conversion.** If profession is free, propagation follows; but conversion is experienced by communities as loss, and "inducement" is hard to distinguish from "persuasion". The principled line is **coercion and fraud**, not persuasion as such.
   3. **Internal minorities — the "paradox of multicultural vulnerability" (Ayelet Shachar).** Group rights granted to protect a community from the majority can entrench the power of that community's dominant members over its own weaker members, typically women. Accommodating a group may thus reduce the freedom of persons inside it. ⚠️ This is the single most examinable tension in the clause.
   4. **State neutrality.** Two models: the **wall-of-separation** model (the state abstains entirely) and **Rajeev Bhargava's "principled distance"** ✅ — the Indian model, in which the state may engage with or abstain from religions **differentially**, guided by the values of freedom and equality rather than by a uniform rule of non-engagement. Principled distance permits reform (temple-entry, abolition of untouchability) that strict separation would forbid.
@@ -297,12 +320,12 @@ Concl : a high-amplitude force, not an intrinsically unifying one — the same t
 - **The claim, stated fairly.** ⚠️ The thesis has three versions of increasing strength: (a) religions have often been *involved* in conflict; (b) religion is a *significant cause* of conflict; (c) religion is *the* defining engine of human conflict. (a) is trivially true, (c) is false, and the argument is about (b).
 - **The case for.** ✅ Absolute truth-claims plus exclusivist soteriology plus strong group identity plus sacralised authority is, in principle, a conflict-generating combination: what is at stake is held to be infinite, dissent is heresy, and compromise looks like betrayal. **Charles Kimball's** widely cited markers of religion "becoming evil" — absolute truth-claims, blind obedience, establishing the "ideal" time, the end justifying any means, and declaring holy war — give a usable checklist ⚠️ (a typology, not a law).
 - **The case against.** ✅ **William Cavanaugh**, *The Myth of Religious Violence* (2009), argues that the very distinction between "religious" and "secular" violence is a **modern Western construction**: there is no trans-historical essence "religion" that can be isolated as a variable, and the myth functions to license the secular state's own violence as rational. ✅ **Karen Armstrong**, *Fields of Blood* (2014), argues that pre-modern religion was not a separable sphere at all, so labelling agrarian-state warfare "religious" is anachronistic. ✅ **Amartya Sen**, *Identity and Violence* (2006), supplies the decisive general point: violence is produced by the **singular-affiliation fallacy** — reducing persons to one identity — and religion becomes lethal when it is made a person's *only* identity, which is a political operation, not a theological one.
-- **The analytic move that earns marks.** ⚠️ Distinguish religion as (i) **cause**, (ii) **marker** of an antagonism generated by land, power or economics, (iii) **mobiliser** of pre-existing grievance, and (iv) **legitimiser** of a decision taken on other grounds. Most historical cases are (ii)–(iv). A claim of type (i) has to be argued case by case.
+- **The analytic move that earns marks.** ⚠️ Distinguish religion as (i) **cause**, (ii) **marker** of an antagonism generated by land, power or economics, (iii) **mobiliser** of pre-existing grievance, and (iv) **legitimiser** of a decision taken on other grounds. The prevalence of each role is an empirical question, not established by this typology; even a case involving several roles may not allow a clean separation of religion from politics.
 - **The counter-evidence.** ✅ Religions have also produced Aśoka's *dhamma* policy after Kaliṅga, monastic preservation of learning, hospitals and famine relief, abolitionism, the American civil-rights movement, Gandhi's *satyāgraha*, the Bhakti and Sufi traditions' social universalism, and the modern interfaith movement. A history that counts only the wars is a selected history.
 - **Verdict formula.** ⚠️ "The claim is **historically selective and conceptually confused**. It is selective because it counts conflict and not the reconciliation, charity and reform the same traditions produced; it is confused because 'religion' is not a stable independent variable that can be separated from politics, land and identity. What is true is narrower and worth conceding: **exclusivist certainty joined to singular identity is dangerous**, and religions supply both more readily than most other institutions."
 
 ### 9.9 Is religion a uniting force in a globalising world? (2019 Q5(b) owner-module)
-- **The case for unification.** ✅ **Durkheim**: religion's primary social function is integrative — shared rites generate "collective effervescence" and constitute a **moral community**; on his definition, a *church* just is the community united by relation to sacred things. ✅ Universalist ethics: every major tradition contains a version of the golden rule and a doctrine of universal moral standing (*vasudhaiva kuṭumbakam*; the Buddhist *brahmavihāras*; *ummah*; the image of God). ✅ Institutional evidence: the **1893 Parliament of the World's Religions** and its 1993 centenary, which adopted the ***Declaration Toward a Global Ethic*** drafted principally by **Hans Küng**, whose formula — "**no peace among the nations without peace among the religions; no peace among the religions without dialogue between the religions**" — is the standard citation for religion as a resource for global order. ✅ Transnational religious networks supply relief, migration support and diaspora solidarity at a scale states often cannot.
+- **The case for unification.** ✅ **Durkheim**: religion has an integrative social function — shared rites can generate "collective effervescence" and constitute a **moral community**; on his definition, a *church* is the community united by relation to sacred things. ⚠️ Several traditions contain resources for extending concern beyond one's own group (*vasudhaiva kuṭumbakam*; Buddhist *brahmavihāras*; the image of God), but none of these alone demonstrates equal standing in every interpretation. ✅ The **1893 Parliament of the World's Religions** and its 1993 centenary, which adopted the ***Declaration Toward a Global Ethic*** associated with **Hans Küng**, provide institutional examples of dialogue; religious networks can also provide relief and diaspora support. ⚠️ These cases establish possibility, not that all religious globalisation unites.
 - **The case against.** ⚠️ (1) Durkheim's integration is **in-group** integration — the same mechanism that unites also demarcates. (2) **Huntington's** "clash of civilizations" thesis predicts that in a globalised world the fault-lines become **cultural-religious**; ⚠️ it is heavily criticised (by Sen and others) for treating civilisations as internally homogeneous and externally sealed, and should be cited as a *thesis under criticism*, not as a finding. (3) Globalisation **deterritorialises** religion, detaching it from local culture and producing both cosmopolitan and reactive-fundamentalist forms — Olivier Roy's analysis of deculturated, globalised religiosity ⚠️. (4) Religious identity is easily instrumentalised by electoral and geopolitical actors.
 - **The synthesis.** ⚠️ Religion is a **conditional** unifier. It unites when three conditions hold: its ethics are **universalist** rather than communal in scope; its epistemology is **fallibilist** enough to permit dialogue; and its identity-function is **not** politically monopolised. It divides when any of the three fails. That is a determinate, defensible answer to the printed question, and it is more useful than either optimism or cynicism.
 - **Verdict formula.** ⚠️ "Religion is neither intrinsically unifying nor intrinsically divisive. It is a **high-amplitude** social force whose direction is set by the scope of its ethics, the humility of its epistemology and the politics of its identity — which is why the same traditions produce both the Parliament of Religions and communal violence."
@@ -310,11 +333,11 @@ Concl : a high-amplitude force, not an intrinsically unifying one — the same t
 ### 9.10 Deep disagreement, peer disagreement and the limits of rational convergence
 - **Why this module is needed.** ⚠️ The pluralism debate assumes that rival truth-claims *could* in principle be settled by argument. The epistemology of disagreement asks whether that assumption is true — and its answer reshapes the whole clause.
 - **Peer disagreement.** ✅ An **epistemic peer** is one roughly equal in evidence and reasoning ability. Two rival positions: **conciliationism / equal weight** (Richard Feldman, David Christensen) — on discovering peer disagreement one should reduce confidence, often toward suspension; and **steadfastness** (Thomas Kelly; Peter van Inwagen's well-known "it is not irrational to retain one's belief even when one cannot show the other is wrong") — one may retain one's belief, since one's own reasoning is part of one's evidence. The **independence principle** (assess the disagreement without relying on the reasoning under dispute) is what conciliationism needs and steadfastness denies.
-- **Deep disagreement (the technical sense).** ✅ **Robert Fogelin**, "The Logic of Deep Disagreement" (1985): some disagreements are not resolvable by argument **in principle**, because the parties do not share the **framework propositions** — Wittgenstein's "hinge" commitments from *On Certainty* — against which evidence would count. When background frameworks diverge, the same evidence is not *evidence for the same thing*, and argument has no shared fulcrum. ⚠️ Michael Lynch extends this to disagreement about **epistemic principles** themselves (which sources are reliable), where any defence is circular.
+- **Deep disagreement (the technical sense).** ✅ **Robert Fogelin**, "The Logic of Deep Disagreement" (1985): when parties do not share relevant **framework propositions** — compare Wittgenstein's "hinge" commitments from *On Certainty* — familiar argumentative resolution can lack a shared fulcrum. This is a diagnosis of why some argument fails, not a theorem that future learning, new common premises or practical cooperation are impossible. ⚠️ Michael Lynch extends attention to disagreement about **epistemic principles** themselves (which sources are reliable), where justification can become circular.
 - **Application to religion (this is what converts the module into marks).** ⚠️ Inter-religious disagreement is a paradigm case of deep disagreement: the parties differ over the **sources of evidence** (which scripture, which experience, which inference), the **criteria of adequacy** (salvation? liberation? cessation?), and the **framework** within which any datum would count. Consequences: (1) the failure of rational convergence across traditions is **predicted**, not scandalous, and so is weak evidence for relativism; (2) exclusivism cannot be convicted of irrationality merely for persisting; (3) pluralism cannot be established merely by pointing at persistence; (4) what *can* be rationally required are **procedural virtues** — fallibilism, intellectual humility, epistemic charity, and willingness to make one's framework explicit.
 - **The Indian resource.** ✅ **Anekāntavāda/nayavāda/syādvāda** is, in effect, a formal apparatus for exactly this: it makes the **standpoint (*naya*)** explicit and prefixes every assertion with *syāt* ("in a certain respect"), so that framework-relativity is marked **inside** the proposition rather than left implicit. That is a genuine Indian contribution to a live Western problem, and stating it that way is worth more than describing the elephant parable.
 - **Objection → reply.** ⚠️ **Objection:** if deep disagreement is unresolvable, pluralism collapses into relativism. **Reply:** unresolvability is **epistemic**, not **alethic** — one party may still be right; what fails is our ability to demonstrate which. ⚠️ **Second objection:** this licenses complacency. **Reply:** it licenses only the *retention* of belief, not the refusal of dialogue; and it makes the procedural virtues obligatory rather than optional.
-- **Verdict formula.** ⚠️ "Religious disagreement is deep in Fogelin's technical sense: it lacks a shared framework against which evidence could adjudicate. That explains the persistence of exclusivism without vindicating it, and supports pluralism as an **ethic of engagement** rather than as a demonstrated metaphysics."
+- **Verdict formula.** ⚠️ "Some religious disagreements may be deep because interlocutors dispute even the evidential standards. That can explain persistent disagreement without vindicating any side; it recommends procedural humility without proving a pluralist metaphysics or making dialogue futile."
 
 ### 9.11 Exclusivism defended, and the varieties of pluralism
 - ⚠️ **Why this is required:** an answer that presents exclusivism only as intolerance and pluralism only as generosity will not reach the top band. Both positions have serious defenders.
@@ -326,6 +349,52 @@ Concl : a high-amplitude force, not an intrinsically unifying one — the same t
   - **Raimon Panikkar** and **John Cobb's** "mutual transformation": dialogue changes both parties rather than subsuming them under a neutral hypothesis.
   - **David Ray Griffin's "deep religious pluralism"**: a process-based version that allows plural ultimates (creativity, God, the cosmos).
 - **Verdict formula.** ⚠️ "The E-I-P triad is a map, not a verdict. Exclusivism is rationally permissible but epistemically uncomfortable; inclusivism is generous but judges others in terms they do not accept; and 'pluralism' names at least four positions, of which Hick's is the most exposed to D'Costa's charge and Heim's the most respectful of the traditions' own self-descriptions."
+
+### 9.12 Pluralism and **moral relativism**: an entailment test (2026 Q6(c))
+
+> The printed word **"necessarily"** is decisive. A religious-pluralist thesis concerns the standing, truth or liberating capacity of **religions**; moral relativism says the rightness of moral judgements depends on a culture, framework or assessor, without a framework-independent standard. The former does not by definition entail the latter. Moral diversity within a religion, and shared ethics across religions, also prevent a simple one-religion/one-morality equation.
+
+| Dimension | Claim | Distinct question |
+|---|---|---|
+| **Religious pluralism** | Several traditions may offer genuine paths, truths or encounters; Hick and Heim disagree about whether the end is one | Which religious claims or paths are valid, and in what respect? |
+| **Epistemic fallibilism** | No one holds an error-proof account of ultimate reality | Who can know, and with what confidence? |
+| **Moral relativism** | Moral truth/rightness is constituted by the community's or framework's endorsement | Is there a standard by which to criticise a harmful practice across traditions? |
+| **Moral pluralism** | Multiple objective goods or duties may conflict without a single algorithm | Can genuine disagreement occur while some actions remain wrong? |
+
+- **Countermodel to necessity — Hick.** ✅ His proposed cross-tradition soteriological test is transformation from **self-centredness to Reality-centredness** (§§1.1, 9.2). ⚠️ If one can criticise egocentrism in **any** tradition by that standard, plurality of religious manifestations is compatible with a common moral yardstick. The test's adequacy is contested: traditions may disagree on its meaning, and the transformation of an individual does not automatically vindicate a tradition's every institution or teaching.
+- **Countermodel — Gandhi and Jain many-sidedness.** ✅ Gandhi's equal respect is joined to Truth and *ahiṃsā* and to the claim that religions contain error; Jain *syādvāda* qualifies judgements by standpoint without licensing "anything is right if locally approved." ⚠️ This is not the thesis that every tradition accepts Gandhi's or Jainism's particular standard; it shows the **logical possibility** of plural religious respect plus a moral constraint.
+- **Strong objection.** ⚠️ If a pluralist calls incompatible harmful and non-harmful prescriptions equally valid, the pluralism threatens to lose the resources for moral criticism; Heim's several ends also do not themselves yield a shared ethical rule. **Reply:** equal civic standing for persons, possible efficacy of distinct paths and equality of *all* commands are different propositions. A pluralist must specify a moral minimum and defend it against a rival who rejects it; Hick's transformation criterion is a candidate, not a proof of one universal moral code.
+- **Residual tension and verdict.** ⚠️ Pluralism may encourage humility, but humility alone does not tell us which practice to oppose. Nor does a common ethical benchmark remove hard doctrinal conflict or settle disputed rights. **No entailment** to moral relativism follows; whether a *particular* pluralist theory can criticise an oppressive practice is a further substantive test. The grounds of moral obligation in full belong to [Religion and Morality](./Religion-and-Morality.md).
+- **15-mark spine:** Define the two different "pluralisms" and moral relativism → formal necessity test → Hick's shared criterion → Gandhi/Jain countermodel → strongest objection about harmful practices → separate religious status, equal citizenship and moral correctness → qualified no-entailment conclusion.
+
+### 9.13 Can pluralism **reconcile conflicting truth claims**? (2026 Q7(c))
+
+- **Sort the contradictions before harmonising.** ⚠️ "God is a personal creator" / "there is no creator"; "the self permanently subsists" / "there is no permanent self" are contradictory **if** terms, referent, level and respect are held fixed. Different practices, images or ends are not automatically contradictions. One must ask whether rival claims are **literal factual assertions, analogies/symbols, standpoint-qualified predications, or different soteriological goals**. The mere existence of many traditions neither proves nor dissolves a contradiction.
+- **Hick's reconciliation, in steps.** ✅ (1) Religious experience is conceptually shaped. (2) Traditions give personal and non-personal phenomenological accounts. (3) Posit the **Real in itself**, beyond such predicates, as a shared source. (4) Recognise several authentic culturally mediated paths, tested by transformation. ⚠️ This reconciles some *claims about contact with ultimacy*; it does **not** make "a personal creator exists" and "no personal creator exists" both literally true in the same respect. Instead, a first-order claim is reinterpreted as concerning a manifestation. **Objection:** the noumenal Real and the asserted common source are themselves contestable claims; D'Costa's covert-exclusivism charge and the Real's causal unknowability remain (§§1.1, 9.11).
+- **Indian alternatives, with boundaries.** ✅ *Ṛgveda* 1.164.46 names several **Vedic deities** for the one existent; extending it to today's rival religions needs an argument (§2). ⚠️ Vivekananda can unite different disciplines and temperaments under a Vedāntic end, but a non-Vedāntin need not accept that her unique creator or distinct liberation goal is merely a path to Brahman. Jain *anekāntavāda* and *syādvāda* resolve **apparent** contradictions if the asserted standpoints really differ; conditionally saying "in respect A, p" and "in respect B, not-p" leaves a genuine same-respect contradiction unresolved.
+- **Other pluralist option — Heim.** ✅ Distinct salvific ends can be authentic *without* pretending that communion and nirvāṇa describe one destination. ⚠️ This avoids forced equivalence at the cost of surrendering a unified answer to whether contradictory **world-descriptions** can both be correct. Dialogue/mutual transformation can sustain cooperation even when reconciliation of propositions is unavailable (§9.11).
+- **Objection → reply → remainder.** ⚠️ **Objection:** a reconciliation that revises each religion's self-description is accommodation by stipulation. **Reply:** any cross-tradition philosophical model may revise literal formulations, but it owes an explanation of why believers should accept that revision, and must admit cases it does not solve. Some claims can be **qualified**, some can be **reinterpreted at a cost**, and some must remain **incompatible** pending reasons to decide between them. Political toleration is possible in all three cases (§§0A, 9.6), and is not evidence that every doctrine is true.
+- **15-mark spine:** Specify a same-respect contradiction → Hick's Real/manifestations argument → test its revisionary cost → compare Vedāntic and Jain repairs and Heim's different-ends alternative → distinguish reconciliation of **experience, salvation, propositions and coexistence** → conclude partial, not total reconciliation.
+
+### 9.14 What is *absolute truth*, and is it possible under pluralism? (2021 Q5(b), 2024 Q5(b), 2022 Q7(a))
+
+| Distinction | Question to settle | Consequence for an exam answer |
+|---|---|---|
+| **Objective truth** | Is a proposition's truth independent of whether a group accepts it? | Can hold without claiming any group has identified all true propositions |
+| **An absolute referent** | Is there one unconditioned Reality, such as Brahman or Hick's Real? | Ontological claim needing an argument; not interchangeable with an infallible description |
+| **Infallible possession** | Can *my* scripture/interpretation exhaust truth without possible correction? | Strong epistemic thesis, not entailed by objective truth or one ultimate |
+| **Uniquely salvific path** | Does only one tradition bring liberation? | Further soteriological thesis, neither identical to nor proved by one referent |
+
+- **2024 "notion" route:** Define "absolute" (unconditioned/non-relative truth or reality), distinguish the four claims, illustrate classical exclusive revelation, Advaita's ultimate Brahman with empirical descriptions, Jain conditional standpoints and Hick's Real. ⚠️ Do not assert that every tradition accepts the **same** absolute: a plural-ends theorist can reject a single shared referent while defending objective truth about diverse ends.
+- **2021 "possibility" route:** Show a consistent position in which the ultimate is objectively real, persons' accounts are partial and corrigible, and traditions differ in valid practice; then test whether this position can account for any same-respect contradiction. Mere compatibility of **one referent and many names** is insufficient to prove that mutually exclusive existential claims are jointly true.
+- **2022 "inevitably" route:** Belief in objective truth, plus the further belief *my tradition possesses it uniquely and beyond question*, supports epistemic exclusivism; the **unquestionable acceptance of only one Absolute Truth** in the printed claim already builds in an additional epistemic posture. Distinguish holding one truth from the stronger uncorrectable-monopoly premise; even exclusivism does **not logically imply intolerance or conflict**. Adduce civic respect or non-coercion as independent reasons for peaceful coexistence.
+- **Objection → reply.** ⚠️ If we know only finite interpretations, how can we responsibly assert a determinate Absolute at all? The Vedāntin may claim partial experience or disciplined negation, and Hick may appeal to the best explanatory hypothesis; neither evades the burden of saying why **this** ultimate rather than another is posited. Agnosticism about identification is a live option, not a disguised proof of pluralism.
+
+### 9.15 "Truth is one" **in the present Indian context** (2018 Q6(b))
+
+- **Text before extension.** ✅ The one-existent/many-names verse (*Ṛgveda* 1.164.46) concerns Vedic deities (§2); Jain *naya* and *syāt* formalise perspectival qualification; Vivekananda's acceptance and Gandhi's equal regard extend a normative argument across communities. ⚠️ Distinguish *one metaphysical referent*, *many true facets*, and *equal civic rights*: the first does not establish the other two without additional reasons.
+- **Indian application rather than slogan.** ✅ The Indian Constitution's freedom of conscience and religious profession/practice/propagation (Article 25), subject to public order, morality and health, gives **equal legal standing** despite different ultimate claims. Aśoka's Rock Edict XII supplies the older dialogical ideal of listening and restraint in disparagement. ⚠️ Neither the Constitution nor the edict asserts that contradictory doctrines are simultaneously true; they concern relations between persons and communities. The constitutional position also faces tensions between collective autonomy and internal dissent (§9.7).
+- **Critical evaluation.** ⚠️ An exclusivist who denies shared metaphysics can nevertheless accept civic equality; a Vedāntic pluralist can affirm one Truth while inadvertently subordinating another tradition's self-description. A sincere believer may reject a common destination and still converse without coercion. Thus the maxim is most persuasive as a **fallibilist discipline and civic ethic**; as a universal metaphysical identity thesis it needs an argument and must confront creator/non-creator and self/no-self conflicts.
 
 
 
@@ -345,7 +414,7 @@ Concl : a high-amplitude force, not an intrinsically unifying one — the same t
 
 ## 11. CRITICISMS AND REPLIES
 
-1. **Relativism.** ⚠️ Equal validity erases truth. **Reply:** distinguish equal dignity or salvific efficacy from identical propositional truth.
+1. **Truth or moral relativism?** ⚠️ Equal validity might erase either doctrinal truth or independent moral criticism; these are separate objections. **Reply:** equal civic dignity and possible salvific efficacy do not imply identical propositional truth or equally acceptable conduct (§§9.12–9.13).
 2. **Self-reference.** ⚠️ Pluralism itself becomes an exclusive meta-truth. **Reply:** hold it as defeasible hypothesis; **rejoinder:** it still judges first-order traditions.
 3. **Conflicting salvation goals.** ⚠️ Communion with God, non-dual knowledge and nirvāṇa are not obviously one end. **Reply:** family resemblance or transformation criterion; critics call this flattening.
 4. **Conflict claim.** ⚠️ Pluralism may create, not remove, dispute by relativising commitment. **Reply:** conflict is not caused by plurality alone; power, identity and exclusivist certainty mediate it.
@@ -368,6 +437,8 @@ Concl : a high-amplitude force, not an intrinsically unifying one — the same t
 14. ⚠️ Do not present exclusivism only as bigotry. Plantinga's defence (the pluralist's own belief is equally contested) must be stated and then met with the contingency-of-birth objection.
 15. ⚠️ Do not treat "pluralism" as one position. Hick's identist pluralism and **Heim's differential pluralism** (plural religious *ends*) are incompatible answers.
 16. ⚠️ Do not say religious disagreement is "just relativism". Use Fogelin's **deep disagreement**: unresolvability is *epistemic*, not *alethic*.
+17. ⚠️ For 2026 Q6(c), do not substitute a defence of truth-pluralism for the requested **moral-relativism** entailment test; Hick's transformation criterion is an arguable moral countermodel, not a solved universal ethics.
+18. ⚠️ For 2026 Q7(c), do not declare literal creator and no-creator claims both true in the **same respect**: distinguish qualified standpoint, revisionary reinterpretation and genuinely different ends.
 
 ## 13. KEYWORD & STATEMENT BANK
 
@@ -381,12 +452,13 @@ Concl : a high-amplitude force, not an intrinsically unifying one — the same t
 - ⚠️ **Priority:** Primary ownership is 12 of 112 parts, with two owned parts in each of 2018–2021 and one in each later paper.
 - ✅ **Required doctrinal depth:** Older papers require exclusivism–inclusivism–pluralism, “truth is one”, religion as unifier, conflict-history, tolerance, multireligious freedom and absolute truth.
 - ❌ **Trap / answer consequence:** Do not infer that pluralism denies truth or that tolerance establishes equal truth; separate truth, salvation, epistemic humility and political coexistence.
+- ⚠️ **2026 extension:** Two further primary-owned parts test different issues: Q6(c) asks whether religious pluralism **necessarily entails moral relativism** (§9.12); Q7(c) asks whether it can **reconcile conflicting truth claims** (§9.13). Neither is answered by repeating a generic Hick summary.
 
 <!-- expanded-pyq-depth:end -->
 
-## 14. PYQ ROUTING (2018–2025)
+## 14. PYQ ROUTING (2018–2026)
 
-> ⚠️ **Corpus signal:** 12 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.
+> ⚠️ **Corpus signal:** 12 primary-owned question-parts in 2018–2025 plus two in 2026 (**14** in the continuous 2018–2026 corpus). Cross-links do not create duplicate ownership.
 
 | Year | Question | Marks | Exact demand |
 |---|---|---:|---|
@@ -402,8 +474,10 @@ Concl : a high-amplitude force, not an intrinsically unifying one — the same t
 | 2023 | Q8(b) | 15 marks | Does religious pluralism invite inter-religious conflicts and destroy the truth of religion? Discuss. |
 | 2024 | Q5(b) | 10 marks | Write a note on the notion of absolute truth in the context of religion. |
 | 2025 | Q7(a) | 20 marks | How does the Vedāntic view of Religious Pluralism address the conflicting truth claims of different faiths? Answer with reference to Swami Vivekananda’s view of Universal Religion. |
+| **2026** | **Q6(c)** | **15 marks** | Does the idea of Religious Pluralism necessarily entail moral relativism? Critically discuss. |
+| **2026** | **Q7(c)** | **15 marks** | Can conflicting truth claims among religions be reconciled within the framework of religious pluralism? Critically discuss. |
 
-See the [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md).
+2026 Q6(c) → §9.12 (entailment to moral relativism); 2026 Q7(c) → §9.13 (limited reconciliation of truth claims). The 2021/2024 absolute-truth variants have distinct routes in §9.14. See the [2018–2025 PYQ Bank](../_PYQ-PhilosophyOfReligion-2018-2025.md) and [2026 Supplement](../_PYQ-PhilosophyOfReligion-2026-Supplement.md).
 
 ## 15. ANSWER ARCHITECTURE (10 / 15 / 20 MARKS)
 
@@ -441,6 +515,8 @@ two objections/replies → graded conclusion on truth and coexistence.
 | **"Claim." Discuss** | The claim's **inference** tested, not its mood | Show that ontological absolutism ≠ epistemic exclusivism | 2022 Q7(a) |
 | **Does X invite A and destroy B? Discuss** | Two allegations, answered separately | Conflict-generation and truth-destruction are different charges | 2023 Q8(b) |
 | **How does [tradition]'s view address…? Answer with reference to [thinker]** | Fidelity to the named thinker | Vivekananda's own theses, not generic Vedānta | 2025 Q7(a) |
+| **Does X necessarily entail Y? Critically discuss** | Countermodel to a purported logical entailment | Define *moral relativism* separately from religious pluralism; test Hick's cross-tradition criterion and its limits | 2026 Q6(c) |
+| **Can conflicting claims be reconciled within X? Critically discuss** | Specific reconciliation mechanism and a remaining counterexample | Give a same-respect contradiction, Hick's revision, Indian and differential alternatives, and the residual incompatibility | 2026 Q7(c) |
 
 > 🔑 **Rule:** in every question here, separate four things that scripts routinely merge — **truth** (which claims are true), **salvation** (who is liberated), **epistemic access** (who can know), and **political coexistence** (how we live together). Positions differ across these independently.
 
@@ -455,7 +531,7 @@ two objections/replies → graded conclusion on truth and coexistence.
 | **Top (≈70%+)** | All the above + a discriminating distinction (Forst's ladder; Heim vs Hick; D'Costa's covert-exclusivism charge; epistemic vs alethic unresolvability) + explicit acknowledgement of hard contradictions that pluralism cannot dissolve | — |
 
 **Graded-verdict templates:**
-- ⚠️ *Absolute-truth stem:* "Ontological absolutism entails epistemic exclusivism only if one adds the premise that a finite formulation can exhaust the absolute. Deny that premise — as Advaita's nirguṇa and Jain *anekāntavāda* both do — and the inference from absolute truth to exclusivism fails."
+- ⚠️ *Absolute-truth stem:* "Ontological unity does not itself entail an incorrigible human monopoly. The printed 2022 stem adds 'unquestionable acceptance of only one': ask whether it applies to objective reality or to a claimed exhaustive interpretation; the two readings have different consequences."
 - ⚠️ *Pluralism stem:* "Pluralism does not destroy religious truth; it relocates it. What it cannot do is dissolve **hard contradictions** — a personal creator either exists or does not — and a pluralism that pretends otherwise is rhetoric, not philosophy."
 - ⚠️ *Coexistence stem:* "Political coexistence does not require agreement about truth, and does not follow from it either. It requires reciprocity, harm-limitation and the procedural virtues that deep disagreement makes obligatory."
 
@@ -498,6 +574,7 @@ two objections/replies → graded conclusion on truth and coexistence.
 - [Paper I: Jainism](../../paper-1/indian/Jainism.md) — *anekāntavāda*, *nayavāda*, *syādvāda*, *saptabhaṅgī*
 - [Paper I: Vedānta](../../paper-1/indian/Vedanta.md)
 - [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md)
+- [2026 Paper II Section B PYQ Supplement](../_PYQ-PhilosophyOfReligion-2026-Supplement.md)
 
 ## SOURCES
 

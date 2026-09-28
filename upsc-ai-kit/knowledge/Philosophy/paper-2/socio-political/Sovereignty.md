@@ -241,6 +241,16 @@ sovereignty bridge.
 - **Objection:** Modern equality, justice, and liberty are incompatible with Bodin's absolute sovereign. ✅
 - **Reply:** The compatibility is at best conditional. Bodin can support public order and impartial law by centralizing authority, but his theory offers weak guarantees against concentration of power. A balanced UPSC answer should say: **historically foundational, normatively problematic**. ⚠️
 
+**2022 Q2(a), test each ideal instead of treating all three as one objection ⚠️:**
+
+| Ideal | Bodin's strongest compatibility case | Where the case fails or remains conditional |
+|---|---|---|
+| **Equality** | A single law-giver can override feudal privilege and apply general laws across competing estates | Bodin gives no principle of equal political citizenship or independent check against discriminatory enactments |
+| **Justice** | Stable administration, higher natural/divine law, and protection of rightful property can restrain caprice (§§2.2–2.4) | Higher-law constraints alone cannot enforce a modern public test of fair distribution or impartial review against the law-giver |
+| **Liberty** | Ending religious civil war makes secure ordinary activity possible | No guaranteed sphere of political dissent or equal basic liberties against an authority supreme over positive law |
+
+⚠️ **Argumentative close:** Bodin needs absolute final law-giving power to avoid competing supreme authorities, **perpetuity** to distinguish sovereign office from a revocable magistrate, and **indivisibility** to prevent deadlock (§§2.2–2.3). Those reasons defend coherent public order, not the further conclusion that its holder will treat all citizens equally, dispense justice or protect dissent. Bodin's higher-law limits rebut “arbitrary in every sense,” but are weaker than enforceable constitutional checks. A democratic critic demands rights, review and public accountability; the Bodinian replies that dividing the **exercise** of governmental functions need not divide ultimate legal title. The unresolved question is how an unreviewable final title can remain genuinely limited in practice. This is a **qualified compatibility**, not an outright equivalence or blanket impossibility.
+
 ### 2.6 UPSC-ready Bodin formulation
 **Use in answers:**
 - Begin with the exact definition. ✅
@@ -636,6 +646,8 @@ position conceded sovereignty's importance for state power while denying omnipot
 
 **Balanced conclusion:** Laski is strongest as a critic of absolute sovereignty and as a defender of liberty through social plurality, not as a complete replacement for all concepts of final authority. ⚠️
 
+**2018 Q2(b), is pluralism satisfactory? ⚠️** It satisfies the **descriptive** test where families, unions, professional bodies and churches elicit allegiance not created by a statute (§§4.1–4.3), and the **normative** test where associational autonomy protects conscience from an unlimited state (§§4.5–4.6). Against this, associations may themselves dominate members, and clashes over public health, taxation or common defence need a binding arbiter: merely calling the state “one association” does not tell us who settles conflicts. A Laskian can reply that the state has distinctive coordinating/coercive functions but must justify their use constitutionally and by service to the common good, not by moral omnipotence. The monist rejoins that this reply reintroduces **final decision** under another name. ⚠️ Verdict: satisfactory as a check on absolute sovereignty and a theory of socially conditioned allegiance, incomplete as a stand-alone account of ultimate adjudicative authority; distinguish this from the narrower 2023 question asking only **why** he rejects absoluteness.
+
 ## 5. KAUTILYA
 
 ### 5.1 The Kautilyan framework
@@ -712,6 +724,8 @@ friends and enemies relationally, while the six measures permit policy to change
 relative power and interest. This supports a thesis of **strategic flexibility**, not a verified
 verbatim maxim. ⚠️
 
+**2026 Q2(a), what the circle adds to sovereignty ⚠️:** Begin with a ruler pursuing security or advantage (the *vijigīṣu*) among other rulers. The immediate rival (*ari*) and a potential friend (*mitra*) are **positions in a changing strategic field**, not permanent moral identities; a sufficiently powerful intermediate ruler (*madhyama*) and a more remote ruler (*udāsīna*) complicate any simple “neighbour enemy, neighbour's neighbour friend” law. The availability of peace, confrontation, waiting, advance, shelter and dual policy in the sixfold scheme below depends on **relative capabilities and interests**, not geographic adjacency alone. Internally, *svāmī* needs functioning ministers, territory, treasury and force (§§5.2–5.4); externally, alliances and constraints are part of how that capacity is preserved. Thus the circle explains **effective external autonomy**, not who is a legally illimitable sovereign within a state (§1.2). ⚠️ **Evaluate:** unlike Bodin/Austin's image of undivided legal supremacy, Kautilya shows that an independent ruler may be **strategically constrained** and must use shifting relations to survive; the model anticipates a relational, capacity-sensitive analysis of power without predicting each friendship or supplying a theory of equal sovereign rights. Objection: an aggressive king-centred circle risks normalising war and cannot simply be imposed on modern international law or democratic consent. Reply: use it as a conditional diagnostic of power and security, while treating treaty obligations, public accountability and welfare as independent constraints (§§5.6–5.8, 7.3). Do **not** attribute the 2025 question's maxim verbatim to Kautilya.
+
 **2025 PYQ provenance control ✅/⚠️:** The paper itself prints **“There is no permanent friend or
 permanent enemy.”** Treat that sentence as the examiner's framing. The exact wording has not been
 verified in the local *Arthaśāstra* synopsis or the checked Shamasastry source passages. Do not call
@@ -773,6 +787,8 @@ Kautilya's competitive interstate framework; it does not establish the line's au
 **Objection → Reply:**
 - **Objection:** Ancient categories cannot speak to modern constitutional states. ❓
 - **Reply:** Direct transposition is impossible, but conceptual adaptation is fruitful. UPSC generally rewards showing relevance through themes, not by pretending ancient monarchy equals modern democracy. ⚠️
+
+**2024 Q4(b), critical application ⚠️:** The seven limbs illuminate why a formal claim to rule fails without administrative ability, fiscal resources and social cooperation (§5.2); calibrated *daṇḍa* tests enforcement against public order and the danger of excessive coercion (§5.4); *maṇḍala* and shifting policies clarify the external capacity of a state amid unequal powers (§5.5); *yogakṣema* tests a ruler's performance against subjects' security and welfare (§5.6). Modern relevance lies in **these four distinct analytical tests**, not approval of monarchical espionage or a universal licence to coerce. Constitutional rights, elected accountability and international commitments can place restrictions on statecraft absent from Kautilya's regime (§§5.7, 7.3). The objection that realism prizes expediency over justice remains: survival and welfare do not themselves guarantee equal citizenship. Adopt his diagnostic insight without transferring his source of legitimacy or his monarchical institutional form.
 
 ## 6. INTER-THINKER / INTER-SCHOOL DEBATES
 

@@ -384,7 +384,7 @@ Gnostic being / Life Divine = transformation of earthly existence
 - ⚠️ Human unity and collective divine life are legitimate consequences of the printed evolution/Yoga doctrines, but they must not displace Supermind, involution, triple transformation and double movement in the core answer.
 
 ### 4.8 Triple Transformation ✅
-- Asked directly in **2022**. ✅
+- Asked directly in **2018**, **2022** and **2026**. ✅
 - Aurobindo describes conscious evolution through a **triple transformation**:
 
 #### (a) Psychic transformation ✅
@@ -403,6 +403,8 @@ Gnostic being / Life Divine = transformation of earthly existence
 - This transforms the whole nature, not merely the inner awareness. ✅
 - Mind, life, and body become instruments of truth-consciousness. ⚠️
 - This brings forth the **gnostic being**. ✅
+
+**2026 Q6(b) — causal route, not a three-name list.** ⚠️ Integral Yoga integrates knowledge, devotion and works, but also acts on **mind, vital nature and body** (§5.2); its operative discipline is aspiration, rejection and surrender to the Divine Śakti (§§5.6–5.7). **Psychicisation** brings the evolving soul forward to guide the ego-bound nature (§§4.9–4.10A). **Spiritualisation** opens the being to peace, light and universal consciousness through higher planes, but an illumination of the mind **is not yet** the Supermind (§§2.8B, 4.8(b)). **Supramentalisation** requires descent of truth-consciousness into the whole nature, rather than an inward state alone (§§4.8(c), 5.4–5.5). Ascending contact and descending force work together; individual effort prepares and consents, but cannot manufacture the supramental descent. ⚠️ Thus triple transformation is the **means and process** of realising supramental consciousness, not three separate forms of already completed liberation. Whether the final descent occurs as claimed remains an open verification objection (§6.1).
 
 ### 4.9 The psychic being (*caitya puruṣa*) ✅
 - Asked directly in **2021** as a 20-marker. ✅
@@ -522,8 +524,8 @@ Integral Yoga is “integral” in at least three senses:
 ### 5.5 Why both movements are necessary
 - Ascent alone may give liberation, illumination, or transcendence. ✅
 - But ascent alone can leave the lower nature untransformed. ✅
-- Descent alone is impossible unless higher consciousness is first contacted. ✅
-- Therefore transformation requires both. ✅
+- Higher consciousness must become effective in the person for lasting transformation; its **descent may itself initiate or deepen** the aspirant's ascent, rather than always waiting for a completed ascent first. ⚠️
+- Therefore transformation requires **reciprocal** ascent and descent, not a rigid one-way timetable. ✅
 
 ### 5.6 The practical method: aspiration, rejection, surrender ✅
 | Element | Meaning | Function |
@@ -590,17 +592,16 @@ Integral Yoga is “integral” in at least three senses:
 
 ### 5.10 “Both ascetic and materialist are partial” ✅
 - Asked directly in **2025**. ✅
-- The **ascetic** affirms Spirit but denies Matter. ✅
-- The **materialist** affirms Matter but denies Spirit. ✅
-- Both are one-sided because each absolutises one pole of reality and rejects the other. ⚠️
-- Aurobindo's integral philosophy affirms that Spirit is the truth of Matter, and Matter is the field of Spirit's manifestation. ✅
-- Therefore the final aim is neither world-flight nor flat naturalism, but **divine life on earth**. ✅
+- The **ascetic negation** recognises Spirit and the possibility of transcendence but treats material life as an obstacle or lesser reality; its strength is refusal to reduce consciousness to physical processes, its cost is making embodied transformation unintelligible. ⚠️ Not every spiritual path literally denies that matter exists.
+- The **materialist negation** takes bodily reality and empirical explanation seriously but treats consciousness as an effect of matter alone; its strength is attention to the actual world, its cost, for Aurobindo, is leaving inward consciousness and spiritual experience unexplained. ⚠️ A naturalist may respond that emergent consciousness needs no prior involvement (§4.4A).
+- Both become **partial** when they deny the other pole's significance. Aurobindo's positive alternative starts with one dynamic Saccidānanda (§1), explains Matter as the result of self-concealment (§3), and reads the appearance of life and mind as the disclosure of involved consciousness (§4). Supermind holds real plurality within unity (§2); Integral Yoga makes ascended insight descend into mind, life and body (§§5.2–5.6). Thus neither world-flight nor flat naturalism is the end: **divine life on earth** is a possible and, within his teleology, ultimately intended transformation (§5A). ⚠️ The argument depends on involution and supramental knowledge, neither independently demonstrated to a materialist (§§4A.2, 6.1); the two denials are incomplete **within Aurobindo's system**, not refuted by simply naming integration.
 
 ### 5.11 The Gnostic being ✅
 - The **gnostic being** is the supramental being produced by the highest transformation. ✅
 - In such a being, knowledge is direct and integral. ✅
 - Action springs from truth-consciousness rather than ignorance, conflict, or ego. ✅
 - The division between inner and outer, individual and cosmic, becomes healed in lived consciousness. ⚠️
+- ⚠️ **2018 Q8(c), nature rather than label:** individuality persists as a conscious expression of the Divine, no longer an isolated ego; truth-knowing and truth-willing work together in conduct, and life and body become fields of spiritual expression. The gnostic being is **not** a perfected ordinary intellect, a disembodied liberated self or an empirically established new species (§§2.5, 4.6, 4.7A). Its possibility follows if the involved Supermind can emerge and transform the whole nature; its actual collective realization remains contestable (§§5A.2–5A.4, 6.1). In a 15-marker, connect this end-state back to all three transformations (§4.8).
 
 ### 5.12 Why “all life is Yoga”
 - Aurobindo broadens yoga beyond monastery, forest, and meditation-seat. ⚠️
@@ -882,7 +883,7 @@ Integral Yoga is “integral” in at least three senses:
 
 <!-- expanded-pyq-depth:end -->
 
-## 10. PYQ ROUTING (2018–2025)
+## 10. PYQ ROUTING (2018–2026)
 
 > ⚠️ **Corpus signal:** 8 primary-owned question-parts out of 112. The local Paper I corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.
 
@@ -898,6 +899,12 @@ Integral Yoga is “integral” in at least three senses:
 | 2025 | Q8(b) | 15 marks | ‘Both Ascetic and materialist are partial in their negation of each other’. Explain Sri Aurobindo’s integral philosophy in the light of the above statement. |
 
 See the [Indian Philosophy PYQ Bank, 2018–2025](../_PYQ-Indian-Philosophy-2018-2025.md).
+
+| 2026 question | Distinct answer burden | Core route |
+|---|---|---|
+| Q6(b) · 15 marks | Integral Yoga's **basic characteristics** as a practicable path; show how **psychic, spiritual and supramental** transformations realize supramental consciousness, not merely name three stages | §§4.8–4.10A, 5.1–5.7, 6.1 |
+
+Exact wording and single primary owner: [2026 supplement](../_PYQ-Indian-Philosophy-2026.md).
 
 ## 10A. PRESUPPOSITION LEDGER ⚠️
 

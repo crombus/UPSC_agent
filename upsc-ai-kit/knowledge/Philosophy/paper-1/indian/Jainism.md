@@ -486,11 +486,15 @@ JAINISM
 
 **Distinction.** ✅ “Indescribable” does not mean mystical silence simpliciter. It means that an unqualified or simultaneous statement is not straightforwardly expressible.
 
-**Example.** ✅ A clay jar exists now on the table; it does not exist as a lump of raw clay; it both is and is not under different modal descriptions; in a complex state of transition it may be called avaktavya.
+**Example.** ✅ A clay jar exists in its present form and place, but not as a jar at another place or before its production. Both judgements can hold under *different* qualifications. A transition alone does not establish *avaktavya*: it concerns what cannot be expressed by **one simultaneous, unqualified affirmation-and-negation**, not mere uncertainty about whether the jar is there.
 
 **Objection (Śaṃkara/Rāmānuja objection).** ✅ Critics say this violates non-contradiction.
 
 **Reply.** ✅ The Jaina response is that contradiction would arise only if affirmation and negation were made in the same respect at the same time in the same sense. Syāt blocks that absolutist reading.
+
+**2021 Q7(c) printed-wording safeguard.** ⚠️ The paper calls sevenfold (*saptabhaṅgī*) judgement a “‘Naya’.” State the seven **bhaṅgas** in order, as above; explain that each qualified predication is made from an appropriate **naya** or standpoint (§2.1). Do not replace them with the seven named **nayas** in §2.2. Conversely, do not erase the naya–judgement connection just because the printed terminology is compressed.
+
+**2026 Q7(b): application, not merely recital.** ⚠️ Keep a single subject—*this clay jar*—while making every contrast's respect explicit. Under **substance/place/time/mode** qualifications, (1) *syād asti*: it exists here and now as this jar; (2) *syād nāsti*: it does not exist elsewhere or at a time before its formation; (3) *syād asti ca nāsti ca*: both judgements hold **successively across distinct respects**, never in the identical respect; (4) *syād avaktavyam*: its opposed qualified aspects cannot be jointly expressed by one **simultaneous, unqualified** predicate; (5) *syād asti ca avaktavyam*: affirmation under the first respect plus the limitation of one simultaneous exhaustive statement; (6) *syād nāsti ca avaktavyam*: negation under the second respect plus that limitation; (7) *syād asti ca nāsti ca avaktavyam*: qualified affirmation and negation under different respects plus the inexpressibility of their unqualified simultaneous combination. **Logic:** many real aspects (*anekānta*, §1.1) → finite standpoint (*naya*, §2.1) → qualified assertion (*syāt*, §2.3) → seven possible forms; this is **non-absolutism**, not seven objective truth-values or a licence for same-respect contradiction. A critic may still ask whether a universally binding qualification rule is itself absolute (§2.8).
 
 ### 2.5 Blind men and the elephant ✅
 
@@ -566,6 +570,14 @@ JAINISM
 4. Hence the charge succeeds only if one confuses finite judgement with omniscient cognition.
 
 **Assessment.** ⚠️ This is a subtle and strong reply: Jainism can admit a difference between omniscience and ordinary language without abandoning its critique of dogmatic partiality.
+
+**2022 Q6(b): test the strongest form of the objection.** ⚠️ The critic does **not** merely demand an omniscient knower. If “every assertion is relative” is an **unqualified universal**, it contradicts itself; if it is only relative, why must a rival obey it? Further, requiring a stable **same object**, real distinctions between aspects, and valid indexing of substance/place/time/mode seems to commit Jainism to some invariant rules. The Jaina may accept **determinate, context-invariant conditions for a valid conditional judgement** without accepting an exhaustive, one-sided proposition about every object: *syāt* restricts a claim's **scope**, not its truth within that scope. A kevalin can in principle know the entire many-sided object, but appeal to kevala-jñāna **alone** does not show how a finite speaker knows a general rule of non-absolutism. The remaining challenge is to justify that rule without covertly treating its own standpoint as exempt. Conclude that qualified realism needs some stable logical and ontological commitments, **not** that it collapses into the one-sided absolutism it opposes.
+
+### 2.8A Is **all human knowledge empirical and therefore relative**? (2023 Q5(a)) ⚠️
+
+**Separate the two inferences in the printed claim.** ⚠️ First, "human knowledge is empirical": ordinary embodied people rely on *mati* (sense-and-mind knowledge) and *śruta* (mediated verbal knowledge), both limited by karmic obstruction (§1A.2). But Jainism also admits *avadhi* and *manaḥparyāya* as extraordinary direct knowledge and **kevala-jñāna** as unmediated omniscience attained by an embodied kevalin (§§1A.2, 3C.2). Thus the absolute premise "all human knowledge is empirical" is **not** Jaina doctrine. Second, finite cognition can be partial because of the **many-sided object and limited, karmically conditioned knower** (§1A.5), not simply because it is empirical. Even *avadhi* is direct yet limited; the kevalin is direct without such partiality. Do not infer that every empirical assertion is false, merely probable or subjectively chosen.
+
+**Apply to sevenfold judgement.** ⚠️ A non-omniscient speaker qualifies claims about one real object by viewpoint, place, time and mode; §§2.3–2.4 explain how *syāt* and the seven **bhaṅgas** state true-as-qualified aspects. This is objective **conditional predication**, not the sceptical claim that no fact can be known. An absolutist critic asks whether the general rule exempting no standpoint refutes itself; the Jaina reply and its residual difficulty are in §2.8. **10-mark verdict:** accept limited empirical cognition as a common human starting point, reject both "all" and the bare "therefore," then state why many-sided reality plus finite cognition—not empiricism alone—motivates *saptabhaṅgī*.
 
 ### 2.9 Is Jainism pluralistic and realistic? (2025) ⚠️
 
@@ -656,11 +668,11 @@ JAINISM
 **Statement.** ✅ Bondage has two closely related forms: **bhāvabandha** (psychic bondage) and **dravyabandha** (material bondage).
 
 **Argument.** ✅
-1. The soul first undergoes affective-volitional corruption through passions, attachment, aversion, delusion, and wrong disposition.
+1. In a given act, the soul's affective-volitional corruption through passions, attachment, aversion, delusion, and wrong disposition supplies a condition of karmic adhesion.
 2. This inner deformation is **bhāvabandha**.
-3. Corresponding karmic particles then attach materially to the soul.
+3. Corresponding karmic particles attach materially to the soul; beginningless previously bound karma can also condition present passions.
 4. This actual material adhesion is **dravyabandha**.
-5. Thus psychic and material bondage are distinct yet interlinked.
+5. Thus psychic and material bondage are distinct yet interlinked, not a one-time chronology with a first passion preceding all karmic matter.
 
 **Presupposition.** ⚠️ Inner states are causally efficacious; moral psychology precedes material karmic accretion.
 
@@ -776,6 +788,8 @@ JAINISM
 **Objection (modern philosophical objection).** ✅ Spatial ascent of a liberated soul may seem mythic.
 
 **Reply.** ⚠️ In doctrinal exposition, one should report the cosmological picture faithfully while separating canonical doctrine from modern philosophical evaluation.
+
+**2018 Q6(c): answer all three demands.** ✅ Bondage is a concrete relation of *jīva* with karmic *pudgala*: activity (*yoga*) opens influx and passions (*kaṣāya*) fix material adhesion (§§3.1–3.3); the four obscuring and four embodiment-determining karmas differ (§3B.2). ✅ A **bound soul** is embodied, obscured in knowledge and perception, subject to pleasure/pain, changing birth and death and incapable of fully manifesting its innate powers. A **liberated soul** is *this numerically distinct jīva* with **all eight** karmas exhausted: no further birth, body, passions, or dependence on material conditions, and unobstructed knowledge, perception, power and bliss. The liberated condition is a **siddha** at *siddha-śilā* in Jaina cosmology—not merger with Brahman, annihilation or a new creator deity. ⚠️ Distinguish the **embodied kevalin**: destroying the four *ghātiyā* karmas yields omniscience while *aghātiyā* karmas still sustain a body (§§3B.2, 3C.2); only their exhaustion brings final disembodied liberation. **Critical issue:** a critic asks how a distinct, spatially located liberated soul can be changelessly perfect, or how subtle matter formerly touched a conscious *jīva*. The Jaina answers using the real but distinct substance/mode and *pradeśa* doctrines (§§1.2, 1.6), without claiming this dissolves every cross-school objection.
 
 ### 3.8 No creator, but perfected religious authority ✅
 
@@ -1307,23 +1321,24 @@ mokṣa   (all karma gone; ananta-catuṣṭaya manifest)
 - **15 marks:** Its genius lies in connecting many-sided reality with conditional judgement, but its material karma and omniscience doctrines remain philosophically contestable.
 - **20 marks:** Jainism is best evaluated as a rigorous qualified realism: internally systematic, ethically powerful, and logically subtle, though vulnerable to external critiques of contradiction, soul-matter interaction, and unverifiable higher knowledge.
 
-## 8. PYQ ROUTING (2018–2025)
+## 8. PYQ ROUTING (2018–2026)
 
-> ⚠️ **Corpus signal:** 9 primary-owned question-parts out of 112. The local Paper I corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.
+> ⚠️ **Corpus signal:** 9 primary-owned question-parts out of 112 in 2018–2025, plus one in the separately banked 2026 paper. Cross-links do not create duplicate ownership.
 
-| Year | Question | Marks | Exact demand |
-|---|---|---:|---|
-| 2018 | Q6(c) | 15 marks | How do the Jaina philosophers explain 'bondage'? What, according to them, is the distinction between 'liberated soul' and 'bound soul'? What do the Jainas think about the condition of the 'liberated soul'? Discuss. |
-| 2019 | Q6(a) | 20 marks | How is reality defined by the Jainas? How is this theory of reality reflected in their view on judgements? Discuss. |
-| 2020 | Q5(a) | 10 marks | Examine the concept of Karma according to Jainism. How does it bear upon their conception of Liberation? |
-| 2021 | Q7(c) | 15 marks | Explain the Jaina view of seven-fold (sapta-bhaṅgī) ‘Naya’. |
-| 2022 | Q5(d) | 10 marks | How does Jaina view of Karma bear upon their soteriology? Critically discuss. |
-| 2022 | Q6(b) | 15 marks | ‘The doctrine of Relativism of Jain Philosophy cannot be logically sustained without postulating ‘Absolutism’.’ Critically examine this view and give reasons in the favour of your answer. |
-| 2023 | Q5(a) | 10 marks | “All human knowledge is empirical and therefore relative.” Critically examine Jaina theory of sevenfold judgement (saptabhaṅgīnaya) in the light of above statement. |
-| 2024 | Q6(c) | 15 marks | What is the distinction between Bhāvabandha and Dravyabandha, according to the Jainas? Discuss. |
-| 2025 | Q7(c) | 15 marks | Is Jaina philosophy pluralistic and realistic? Critically discuss. |
+| Year | Question | Marks | Exact demand | Substantive owner route |
+|---|---|---:|---|---|
+| 2018 | Q6(c) | 15 marks | How do the Jaina philosophers explain 'bondage'? What, according to them, is the distinction between 'liberated soul' and 'bound soul'? What do the Jainas think about the condition of the 'liberated soul'? Discuss. | §§3.1–3.3, 3.7 (2018 dossier), 3B.2 |
+| 2019 | Q6(a) | 20 marks | How is reality defined by the Jainas? How is this theory of reality reflected in their view on judgements? Discuss. | §§1.1–1.4, 1A.5, 2.1–2.4 |
+| 2020 | Q5(a) | 10 marks | Examine the concept of Karma according to Jainism. How does it bear upon their conception of Liberation? | §§3.1–3.2, 3A.3, 3B.1 |
+| 2021 | Q7(c) | 15 marks | Explain the Jaina view of seven-fold (sapta-bhaṅgī) ‘Naya’. | §§2.1–2.4 (printed-wording safeguard) |
+| 2022 | Q5(d) | 10 marks | How does Jaina view of Karma bear upon their soteriology? Critically discuss. | §§3.1–3.2, 3.5A, 3B.1–3B.3 |
+| 2022 | Q6(b) | 15 marks | ‘The doctrine of Relativism of Jain Philosophy cannot be logically sustained without postulating ‘Absolutism’.’ Critically examine this view and give reasons in the favour of your answer. | §§2.7–2.8, 5.1 |
+| 2023 | Q5(a) | 10 marks | “All human knowledge is empirical and therefore relative.” Critically examine Jaina theory of sevenfold judgement (saptabhaṅgīnaya) in the light of above statement. | §§1A.2, 1A.5, 2.8A |
+| 2024 | Q6(c) | 15 marks | What is the distinction between Bhāvabandha and Dravyabandha, according to the Jainas? Discuss. | §§3.3, 3B.1–3B.3 |
+| 2025 | Q7(c) | 15 marks | Is Jaina philosophy pluralistic and realistic? Critically discuss. | §§1.2–1.5, 2.9 |
+| 2026 | Q7(b) | 15 marks | Explain the meaning of seven steps of judgement (Saptabhanginaya) and its application in Jaina's Syadvada for advocating a philosophy of non-absolutism (Anekantavada). | §§1.1, 1A.5, 2.3–2.4 (applied jar sequence) |
 
-See the [Indian Philosophy PYQ Bank, 2018–2025](../_PYQ-Indian-Philosophy-2018-2025.md).
+See the [Indian Philosophy PYQ Bank, 2018–2025](../_PYQ-Indian-Philosophy-2018-2025.md) and [2026 supplement](../_PYQ-Indian-Philosophy-2026.md).
 
 ## 9. ANSWER ARCHITECTURE (10 / 15 / 20 marks) ⚠️
 

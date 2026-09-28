@@ -2,7 +2,7 @@
 
 > **Syllabus (verbatim):** Existentialism (Kierkegaard, Sarte, Heidegger): Existence and Essence; Choice, Responsibility and Authentic Existence; Being-in-the-world and Temporality.
 > **Evidence key:** ✅ canonical doctrine · ⚠️ analytical synthesis (mine, for exam use) · ❓ contested/uncertain
-> **Placement:** A joint-highest Western owner with 14 primary-owned parts across 2018–2025. This is a retrospective family of distinct projects, not one doctrine: **Kierkegaard** is theistic and anti-systematic, **Sartre** atheistic and freedom-centred, and **Heidegger** ontological and anti-humanist. Restored questions add bad faith/alienation, the single individual, facticity and Heidegger's critique of transcendental reduction.
+> **Placement:** A Western owner with 16 primary-owned parts across 2018–2026 (14 from 2018–2025, two from 2026). This is a retrospective family of distinct projects, not one doctrine: **Kierkegaard** is theistic and anti-systematic, **Sartre** atheistic and freedom-centred, and **Heidegger** ontological and anti-humanist. Restored questions add bad faith/alienation, the single individual, facticity and Heidegger's critique of transcendental reduction.
 
 ---
 
@@ -430,6 +430,39 @@ from Husserl's notion of consciousness? Discuss."):
 - **Being-in-the-world** is a *unitary* phenomenon — a single hyphenated structure, NOT three separate elements (subject + relation + world). It is intended to dissolve the Cartesian split between an inner subject and an external world.
 - Dasein does not first *exist* and then subsequently *encounter* a world; it IS constitutively *in* a world — practically engaged, absorbed, concerned. ✅
 
+### 3.1A Epoché, reduction and being-in-the-world (2018 Q4(a))
+
+**Husserlian starting point:** *epoché* suspends the natural attitude's
+positing of the world as independently existing; it neither denies the
+world nor performs a Cartesian inference from a worldless mind.
+Phenomenological/transcendental reduction then investigates how objects
+are given and acquire sense for constituting subjectivity (cross-owner
+`Phenomenology-Husserl.md` §§1.1–1.2, 1.5).
+
+**Heidegger's reversal:** If the primary phenomenon is Dasein's
+*already being-in-the-world*, one cannot start from an isolated
+transcendental ego and subsequently ask how it constitutes or gains a
+world. Dasein understands itself through practical involvements: the
+hammer appears within work, materials, purposes and relations with
+others before it appears as a detached object (§§3.0–3.3). Worldhood
+is this meaningful referential whole, not the sum of physical things;
+“in” is involvement rather than spatial containment. Care (§3.4)
+unifies thrownness, projection and everyday dealings. Temporality
+(§3.5) makes that unity possible through having-been, coming-toward
+and making-present. Heidegger thus **redirects phenomenology**
+towards Dasein and the question of Being; he does not reject
+descriptive attention to phenomena as such.
+
+⚠️ **Objection/reply:** Husserl need not posit a Cartesian substance:
+his transcendental ego is a field of intentional world-correlation,
+and suspension is methodological, not an assertion of worldlessness.
+Heidegger's stronger complaint is about **priority**: reflective
+constitution presupposes the practical and temporal involvement it
+claims to reveal. Whether Husserl's intentional correlation can
+accommodate that involvement is contested. For the 2018 20-marker,
+define epoché → explain Heidegger's changed starting point → show
+worldhood/care with the equipment example → assess this reply.
+
 ### 3.2 The Worldhood of the World ✅
 
 - The "world" is not the totality of physical objects (the universe of natural science); it is the **referential context** of meaning within which things show up as significant.
@@ -537,7 +570,7 @@ Heidegger replaces the traditional "categories" (which apply to things) with **e
 - ✅ Kierkegaard: existing individual, subjective appropriation, spheres, choice/anxiety/despair, faith and anti-Hegel critique.
 - ✅ Sartre: existence/essence, in-itself/for-itself, nothingness, facticity/transcendence, freedom, bad faith and responsibility.
 - ✅ Heidegger: Being-question, Dasein, being-in-the-world, care, authenticity and temporality.
-- ✅ All fourteen routed PYQs with thinker-specific answer routes.
+- ✅ All sixteen routed 2018–2026 PYQs with thinker-specific answer routes.
 
 ### Bounded prerequisites
 
@@ -617,14 +650,14 @@ Heidegger replaces the traditional "categories" (which apply to things) with **e
 
 <!-- expanded-pyq-depth:end -->
 
-## 7. PYQ ROUTING (2018–2025)
+## 7. PYQ ROUTING (2018–2026)
 
 > ⚠️ **Corpus signal:** 14 primary-owned question-parts out of 112. The local Paper I corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.
 
 | Year | Question | Marks | Exact demand | Answer route |
 |---|---|---:|---|---|
 | 2018 | Q1(d) | 10 marks | How does Sartre connect inauthenticity with bad faith? Why does Sartre show that inauthenticity and bad faith lead to alienation? Discuss. | facticity/transcendence evasion → waiter/date examples cautiously → self-alienation → authenticity difficulty |
-| 2018 | Q4(a) | 20 marks | What is 'Epoché'? How does Heidegger reject this method of phenomenological reduction? Explain Heidegger's concept of 'being in the world' as opposed to the concept of a transcendental ego. | Husserlian suspension → Heidegger's Being-question → Dasein/world unity → care/equipment → anti-subjectivist verdict |
+| 2018 | Q4(a) | 20 marks | What is 'Epoché'? How does Heidegger reject this method of phenomenological reduction? Explain Heidegger's concept of 'being in the world' as opposed to the concept of a transcendental ego. | §3.1A: Husserlian suspension → Heidegger's Being-question → Dasein/world unity → care/equipment → priority objection and reply |
 | 2019 | Q3(a) | 20 marks | Is Dasein authentic existence for Heidegger? How does he relate temporality with Dasein? Discuss. | Dasein not authenticity → they/falling → conscience/death → care's temporal ecstases → formal-emptiness objection |
 | 2019 | Q4(c) | 15 marks | How does Sartre look at the problem of freedom of choice and determinism? Explain. | for-itself/nihilation → motive meaning → facticity/situation → structural constraint criticism |
 | 2020 | Q3(a) | 20 marks | What does Kierkegaard mean by saying “Subjectivity is the truth” in the context of the problem of 'the single individual'? | Climacus attribution → appropriation not relativism → existing individual/Hegel → indirect communication → fideism verdict |

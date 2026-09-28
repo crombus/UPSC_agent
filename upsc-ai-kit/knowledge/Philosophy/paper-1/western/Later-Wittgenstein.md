@@ -108,6 +108,37 @@ The later Wittgenstein's method is **descriptive, not explanatory:**
 - Training and correction establish how to continue; no further mental interpretation can supply a final foundation without restarting the regress.
 - This does not make meaning conventional whim. Human reactions, material circumstances and established practices constrain what can count as teaching and following.
 
+### 2.5 Are words ideas in the speaker's mind? (2026 Q3(c))
+
+**Target:** the claim that each word means an inner image or idea possessed
+by the person using it. This is one version of the Augustinian picture,
+not a claim that people never have images or sensations when speaking.
+
+1. A picture of a cube can accompany “cube,” but the same image by
+   itself does not tell us whether to use the word for a shape, a
+   drawing, a toy, or a counting object. An idea requires interpretation
+   within a practice; another inner image does not settle that
+   interpretation (§§2.1, 2.4).
+2. “If,” “five” and “pain” have different grammatical roles. No one
+   uniform act of mentally presenting an object explains how speakers
+   use each of them. Understanding is a capacity to go on appropriately
+   with a word, not necessarily the occurrence of an inner episode
+   (§§2.1, 3.1–3.3).
+3. If a sensation-word were fixed solely by pointing inward to a
+   private idea, the diary's “S” would need a standard for repeating it
+   correctly. Present seeming cannot alone supply that standard
+   (§§4.3, 5.1–5.4).
+
+✅ **Conclusion:** ideas and images may accompany thought and be
+*used as samples* in language-games, but they are neither a universal
+meaning of words nor an autonomous private foundation for their correct
+application. ⚠️ **Objection:** a speaker sometimes understands silently
+without overt action. **Reply:** capacity for trained use need not be
+exercised on each occasion; this is a grammatical claim about how
+understanding is attributed, not an identity of thought with behaviour.
+For “pain,” preserve first-person avowal and outward third-person
+criteria rather than denying the sensation (§§5.7–5.9).
+
 ---
 
 ## 3. LANGUAGE-GAMES ✅
@@ -419,7 +450,7 @@ Wittgenstein raises the objection **against himself**, in the interlocutor's voi
 - ✅ Language-games, training, grammar and form-of-life background without arbitrariness/relativism.
 - ✅ Rule-following regress, practice and normativity.
 - ✅ Private ostension, diary, criteria, avowals, beetle and anti-behaviourist reply.
-- ✅ All seven routed PYQs, including exact printed wording cautions.
+- ✅ All eight routed 2018–2026 PYQs, including exact printed wording cautions and the 2026 ideas-in-the-mind question (§2.5).
 
 ### Bounded prerequisites
 
@@ -521,6 +552,14 @@ Wittgenstein raises the objection **against himself**, in the interlocutor's voi
 | 2025 | Q3(a) | 20 marks | “We should look not to an ideal language which derives its meaning from facts and has a precise ‘logical structure but empirically, to the ways in which languages are actually used.” Explain the transition from early views of Wittgenstein to his later views on language and meaning with reference to this statement. ❓ The unmatched opening quotation before **logical structure** is visible in the official English line and is retained. | preserve printed punctuation → early/later comparison → reasons for revision → use/games/therapy → quietism/normativity verdict |
 
 See the [Western Philosophy PYQ Bank, 2018–2025](../_PYQ-Western-Philosophy-2018-2025.md).
+
+### 2026 addition ✅
+
+| Year | Question | Marks | Exact demand | Owner route |
+|---|---|---:|---|---|
+| 2026 | Q3(c) | 15 marks | Can words be viewed as the ideas in the mind of the person who uses them? Answer with reference to the philosophy of later Wittgenstein. | **primary** — §2.5 with §§2.1, 2.4, 3.1–3.3, 4.3 and 5.1–5.9 |
+
+See the [Western Philosophy PYQ Bank, 2026](../_PYQ-Western-Philosophy-2026.md).
 
 ## 11. ANSWER ARCHITECTURE (10 / 15 / 20 marks) ⚠️
 

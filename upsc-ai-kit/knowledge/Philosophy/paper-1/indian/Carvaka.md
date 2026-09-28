@@ -119,17 +119,17 @@ CĀRVĀKA (Lokāyata)
 **Statement.** ✅ Even where observed cases seem constant, hidden conditions (**upādhi**) may be operating; therefore observed regularity cannot guarantee invariable concomitance.
 
 **Argument.** ✅
-1. Suppose smoke is repeatedly seen with fire.
-2. One may hastily universalize: smoke invariably indicates fire.
-3. But perhaps what was really constant was not mere fire, but fire-plus-wet-fuel, or combustion under specific unnoticed conditions.
-4. If so, the supposed universal was too broad.
-5. Since unperceived vitiating conditions may always exist, inference remains insecure.
+1. Suppose one repeatedly sees **fire** accompanied by smoke.
+2. One may hastily universalize: wherever there is fire, there is smoke.
+3. But smoke may require **wet fuel** (a standard illustration of a conditioning factor), so fire alone does not establish smoke.
+4. This qualifies **fire → smoke**, *not* the opposite **smoke → fire** used to infer fire from observed smoke.
+5. For smoke → fire, the broader Cārvāka question is whether all relevant hidden exceptions to a purported universal have been excluded; the wet-fuel example is not a counterexample to that inference.
 
 **Presupposition.** ⚠️ This attack is devastating if hidden variables cannot be finally ruled out.
 
 **Distinction.** ✅ The problem is not mere accidental error in one inference. It is structural: even well-confirmed patterns may conceal unobserved qualifiers.
 
-**Example.** ✅ A novice may take all shining things for silver-like objects; later he learns that lighting conditions, distance, and substrate matter. Likewise, smoke-like appearance may conceal multiple causal backgrounds.
+**Example.** ⚠️ A novice who infers smoke from fire may overlook the fuel condition. The reverse inference from *genuine* smoke to fire needs its own assessment of concomitance and of what counts as smoke; a smoke-like appearance raises a separate perception-error question.
 
 **Objection.** ✅ Then no generalization at all would be possible.
 
@@ -233,6 +233,30 @@ CĀRVĀKA (Lokāyata)
 **Objection.** ✅ This seems inconsistent: if inference is admitted in one domain, why not in another?
 
 **Reply.** ⚠️ The Cārvāka can answer that worldly inference remains corrigible by perception, whereas transcendental inference lacks any possible perceptual check.
+
+### 1.8 "All men are mortal; Socrates is a man" (2019 Q6(c) owner-route) ⚠️
+
+**Do not confuse formal validity with epistemic warrant.** ⚠️ From the premises "All men are mortal" and "Socrates is a man," "Socrates is mortal" **does follow** in classical syllogistic logic. The Cārvāka challenge is not that the conclusion fails *if both premises hold*; it is that the **universal major premise** is not directly perceived or established by an independently valid *pramāṇa* on their strict view.
+
+1. ✅ Perception may show that particular people have died; it cannot survey **all** persons past, present and future, including those not yet dead. Thus repeated cases of death do not by themselves give the necessary *vyāpti* connecting being human with mortality.
+2. ⚠️ Inferring the universal from observed cases would **presuppose an inductive warrant**; citing an additional universal generates the regress/circularity in §1.2. Invoking scripture or a trusted teacher simply transfers the problem to the authority of *śabda* (§1.4).
+3. ⚠️ The minor premise can be secured if Socrates' humanity is directly known in the example; if the subject is inaccessible and known only through testimony, it poses an *additional* warrant question. The central defect UPSC tests remains the unperceived universal, not doubts about one name.
+4. ⚠️ If major and minor premises were independently granted, the conclusion would be a **valid conditional derivation**. Strict Cārvāka denies that this inference yields guaranteed new *knowledge* of an unperceived case; moderate reconstructions allow a highly useful expectation without an infallible *pramāṇa* (§1.7).
+5. ✅ Nyāya replies with positive and negative observation, search for *upādhi*, and *tarka* in support of *vyāpti* (§1.5). ⚠️ It need not claim anyone watched every death; its challenge is to the Cārvāka demand for exhaustive observation. A sceptic can still ask how Nyāya's process excludes every unobserved exception.
+
+**15-mark spine:** State formal validity → locate the missing epistemic warrant in "all men are mortal" → show why finite perception, further inference and testimony do not establish universality on Cārvāka's premises → distinguish minor premise and useful prediction → give Nyāya's strongest reply and its residual burden → qualified verdict. Do **not** say "Socrates is not mortal" or present a hidden *upādhi* as a demonstrated exception to mortality.
+
+### 1.9 Is rejection of inference acceptable to **other Indian systems**? (2018 Q8(b))
+
+| Rival | Why it rejects the Cārvāka restriction | What still requires defence |
+|---|---|---|
+| **Nyāya–Vaiśeṣika** | Inference is a distinct *pramāṇa*: sign (*hetu*), *vyāpti*, positive and negative cases, removal of conditions, and *tarka* permit knowledge of unperceived fire | Infallibility of the universal, not just success in familiar cases (§1.5) |
+| **Buddhist epistemology** | Dignāga/Dharmakīrti accept inference alongside perception, with a valid inferential sign constrained by its occurrence in the subject, positive cases and absence from contrary cases (*trairūpya*); developed accounts appeal to causal or identity relations | Inferred universals are conceptually constructed; a materialist can still dispute extrapolation to karma beyond observable life |
+| **Jain epistemology** | Indirect cognition (*parokṣa*) includes inference; claims must be assessed with stated standpoint and applicable evidence | Conditionality cannot excuse a defective inferential sign |
+| **Sāṃkhya/Yoga** | Perception alone cannot disclose *prakṛti*, *puruṣa* and the causal order; inference from effects plays a constructive role, alongside testimony | Whether the posited principles are uniquely required by those effects |
+| **Mīmāṃsā and Vedānta** | Inference is admitted for suitable domains, while Vedic/Upaniṣadic testimony has a separate claimed scope for otherwise inaccessible *dharma*/Brahman | Authority of the text and bounds of inference remain disputed, not proven by naming scripture |
+
+**The question has two verdicts.** ⚠️ (a) **Not acceptable to the rivals:** they cannot defend their inferential and scriptural commitments if all cognition beyond immediate perception is disqualified. (b) **Are the rivals justified?** Their accounts explain everyday prediction, corrigible error and intersubjective reasoning better than total prohibition, but none is *made* justified simply by prevailing in debate. Nyāya's disciplined warrant answers practical induction; a stricter challenge to unobserved universal necessity and a further challenge to suprasensible extensions survive. Do not give five systems an identical Nyāya theory of *vyāpti*.
 
 
 ## 1A. JAYARĀŚI BHAṬṬA AND THE SCEPTICAL WING ❓/⚠️
@@ -515,8 +539,8 @@ CĀRVĀKA (Lokāyata)
 **Statement.** ⚠️ Cārvāka can be called “positivistic” in a loose comparative sense, but the label must be qualified.
 
 **Why the label fits.** ⚠️
-1. It uses an empiricist criterion: the meaningful or knowable must be tied to experience.
-2. It rejects unverifiable metaphysical and theological claims.
+1. It uses an empiricist criterion for warranted knowledge: claims must be tied to experience. This is **not** the logical-positivist claim that unverified sentences are literally meaningless.
+2. It rejects the epistemic authority of unverified metaphysical and theological claims, without thereby proving that the sentences expressing them lack meaning.
 3. It treats transcendence with suspicion and pushes philosophy toward the observable.
 4. In this limited respect it resembles later anti-metaphysical tendencies such as Comtean or logical-positivist suspicion of unverifiable assertions.
 
@@ -535,6 +559,36 @@ CĀRVĀKA (Lokāyata)
 **Objection.** ✅ The comparison imports Western categories into Indian debate.
 
 **Reply.** ⚠️ That is acceptable if presented as an analogical comparison, not a claim of historical influence.
+
+### 2.11 Four-element reality versus Jaina plural reality (2020 Q7(c))
+
+| Examinable axis | Cārvāka | Jainism |
+|---|---|---|
+| **Admission of entities** | Perceptually grounded four elements: earth, water, fire, air (§2.2) | **Six substances (*dravya*):** conscious *jīva*, material *pudgala*, media of motion (*dharma*) and rest (*adharma*), space (*ākāśa*) and time (*kāla*) |
+| **Space and subtle realities** | An imperceptible fifth *bhūta* called *ākāśa* is not established by hearing sound | Space is admitted as a **substance** accommodating other substances; Jain space is not simply the Nyāya sound-substratum, and *dharma/adharma* here are media, **not** moral merit/demerit |
+| **Self and consciousness** | Body/self identity; consciousness depends on organized matter | Plural conscious *jīvas* distinct from material *pudgala*, obscured by karmic matter |
+| **Persistence and change** | Bodily compounds arise and perish; no persisting transmigrating person | Substances persist through changing **modes (*paryāya*)**; *jīva* can remain the bearer of bondage through change |
+| **Knowledge** | Strict doctrine: perception alone; inference to unseen substances denied | Multiple kinds of knowledge, including indirect inference and advanced direct knowledge; *anekāntavāda* qualifies judgements by standpoint |
+| **Moral/life consequence** | Unseen karma, rebirth and post-mortem liberation rejected | Materially conceived karmic bondage, rebirth and release of *jīva* are central |
+
+**Argument and counterargument.** ⚠️ Cārvāka presses: what independent perception establishes these subtle media, *jīva* and karmic matter? The Jaina replies that perceptualism cannot even justify universal claims about four-element causation or explain an enduring knower, and offers indirect and purported extraordinary knowledge. Cārvāka can still challenge the warrant of those sources; the Jaina can press the inadequacy of material emergence for experience. *Anekāntavāda* is **not** the assertion that four-element-only ontology and six-substance ontology are both literally true in the same respect.
+
+**15-mark spine:** Fix the *pramāṇa* dispute → compare substances (name all six rather than saying "spiritual") → conscious bearer and modes → karma/rebirth/liberation → each side's objection and reply. The 2020 Q6(b) asks a different pairing: Cārvāka's rejection of *ākāśa* **and** soul's transmigration (§2.12), not the full Jaina system.
+
+### 2.12 Ākāśa **and** transmigration: two tests of perceptualism (2020 Q6(b))
+
+- **First demand, elements:** ✅ In the standard Cārvāka reconstruction there are four materially perceptible elements, **not five**. Sound is perceived, but a separately existing imperceptible *ākāśa* as its substratum is **inferred**; hearing a sound is not perceiving that putative substratum. ⚠️ A Nyāya/Vaiśeṣika critic can argue that a ground of sound or spatial accommodation must be posited; the Cārvāka replies that effects do not uniquely establish this substance and that the inferred relation rests on contested *vyāpti*. **Assessment:** the absence of direct perception alone does not demonstrate non-existence if indirect knowledge is possible—precisely the rival's disputed premise.
+- **Second demand, transmigration:** ✅ Rebirth as movement of a persisting soul between bodies requires an independently identifiable surviving bearer and some causal continuity (often karma), neither given in embodied perception. *Dehātmavāda* and consciousness as body-dependent (*bhūta-caitanya*) undercut the separate soul, while the denial of unseen karma blocks the bridge to another body. ⚠️ A Jaina or Vedāntin may appeal to continuity, memory or scriptural testimony; Buddhism supplies a sharper comparison because its rebirth does **not** require an eternal transmigrating *ātman*. Cārvāka still challenges an unseen cross-life causal stream, but refuting a **soul's** migration does not by itself refute **every** rebirth theory.
+- **Critical verdict.** ⚠️ The two rejections stem from one epistemic rule, but the target differs: an **imperceptible physical substratum** in the first case, an **imperceptible persisting agent and moral continuity** in the second. The strongest objection is that Cārvāka itself relies on unperceived combinations/continuities for material emergence; the moderate reply distinguishes hypotheses tied to possible perceptual checks from claims permanently beyond them. Neither side wins merely by announcing a preferred *pramāṇa* list.
+
+### 2.13 Embodied self versus Buddhist no-self (2024 Q6(a))
+
+1. **Common denial, different target.** ✅ Both reject a *separable, eternal ātman* established solely by metaphysical postulation. ⚠️ Cārvāka replaces it with an **embodied material self** whose consciousness ceases at bodily dissolution (§§2.3–2.4); Buddhism denies permanent self in the body **and** beyond it, analysing experience through dependent and, in relevant schools, momentary psycho-physical aggregates.
+2. **Different arguments.** ⚠️ Cārvāka asks for direct perception of a disembodied bearer and uses dependence of awareness on bodily conditions and emergence analogies. Buddhism examines any proposed "I" among changing aggregates and rejects appropriation of the aggregates as an enduring owner; its argument is not merely "I cannot see a soul."
+3. **Different consequences.** ✅ A Cārvāka body-self dies without karmic residue; the Buddhist path preserves karma and rebirth **without** transferring an identical permanent substance, and interprets nirvāṇa as the cessation of craving. ⚠️ A Cārvāka objects that the alleged post-mortem continuity is unobserved; a Buddhist objects that equating personhood to the body does not explain first-person continuity of a stream or make embodied craving cease. Each owes a separate causal account.
+4. **Critical balance.** ⚠️ The Buddhist must answer "who is responsible/liberated?" through causal continuity without an eternal owner; the Cārvāka must explain subjective awareness through organized matter. A shared word "no soul" is **not** a shared doctrine of self or release.
+
+**20-mark spine:** State the different theses and grounds → body/emergence versus aggregates/dependent origination → compare self, cognition, death, karma and liberation → objections in **both** directions → conclude that Cārvāka denies a transcendental *self in favour of the body*, while Buddhism denies substantial self *even in the body*.
 
 ## 3. INTER-THINKER / INTER-SCHOOL DEBATES ⚠️
 

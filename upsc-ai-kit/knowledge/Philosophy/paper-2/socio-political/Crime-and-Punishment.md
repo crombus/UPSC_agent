@@ -144,6 +144,8 @@ using guilt, desert and rights as deontological constraints on liability and amo
 **Objection:** suffering does not undo suffering, and desert alone cannot show why the state should add pain.
 **Reply:** ✅ modern retributivism can be limiting rather than maximising: no one may be punished without desert, and no penalty may exceed it. ⚠️ It still needs an account of humane institutions.
 
+**2020 Q3(c), retribution and human rights ⚠️:** Retribution is **not inherently** a denial of rights: culpability, fair trial, no punishment of innocents and a proportionate ceiling protect persons from being used merely as deterrent examples (§1A.1). Its strongest human-rights objection arises when “desert” is used to license degrading or excessive treatment, disregard unequal access to defence, or deny every possibility of reform. **Reply:** a limiting retributivism treats the offender as an accountable rights-holder, not a person stripped of standing; rights constrain the permissible *form* and *amount* of penalty. **Residual problem:** even deserved hard treatment needs a public justification, and some forms (especially irreversible execution) may still violate dignity despite proportionate desert (§§5.3–5.5). Thus distinguish a rights-respecting principle of **liability and limit** from any claim that a particular severe punishment automatically passes the rights test.
+
 ### 1.5 Deterrence: utilitarian justification
 
 ✅ Deterrence justifies punishment by expected reduction of future harm. **Specific deterrence** addresses the offender; **general deterrence** addresses others.
@@ -185,6 +187,8 @@ For juveniles, moral assessment must distinguish:
 - procedural reliability.
 
 ⚠️ The nature of the crime is relevant but not conclusive. A juvenile's reduced and developing agency can alter culpability even where harm is grave. The offence-centred and offender-centred perspectives must be integrated.
+
+**2023 Q4(a), two dimensions of proportionality ⚠️:** A grave offence sets the **ordinal** need to take harm seriously, including victims' claims; it does not alone fix an offender's desert or the **cardinal** upper limit of punishment. A juvenile's understanding, control, susceptibility to coercion and capacity for change affect culpability independently of the harm (§§1.1A–1.2A). **Objection:** allowing age to mitigate grave crime trivialises victims' injuries. **Reply:** publicly name the full gravity of the wrong while individualising responsibility and retaining a path to reform; equal respect for victims is not a licence to ignore differences in agency. The bounded verdict is that the **nature of the crime must be considered**, but “severity proportional to crime” needs qualification by blameworthiness, procedure and humane limits; it is not automatic adult-equivalent punishment.
 
 ---
 
@@ -388,6 +392,8 @@ It is wider than bribery and may include favouritism, nepotism, embezzlement, re
 
 **Argument:** regime type affects information, accountability and competition, but outcomes also depend on institutional design, social inequality and norms of office.
 
+**2020 Q4(c), “how far” regimes condition practices ⚠️:** A political regime sets who may scrutinise an official, whether decisions can be challenged, how office-holders are selected, and what sanctions follow exposure. An authoritarian arrangement may hide abuse through weak contestation; a competitive democracy may uncover abuse yet supply finance or patronage incentives. Neither inference proves corruption's *prevalence* in an actual regime: public disclosure can raise **observed** cases even while making abuse riskier. **Objection:** a corrupt act is an individual choice, not a regime's action. **Reply:** culpability remains individual (§2.4), but secrecy, concentrated discretion and impunity change opportunities and expectations. **Verdict:** regimes condition the *form, visibility and incentives* of corruption, not its inevitability; evaluate institutional safeguards and enforcement rather than labelling a country or counting allegations as convictions.
+
 ### 2.6 Is corruption a form of mass violence?
 
 ⚠️ Corruption is not normally **direct physical violence**, but large-scale corruption can become structurally violent where diversion of essential resources foreseeably exposes many persons to avoidable deprivation, danger or exclusion.
@@ -397,12 +403,16 @@ It is wider than bribery and may include favouritism, nepotism, embezzlement, re
 
 **Verdict:** call corruption “mass violence” only analogically and with a demonstrated harm-chain; otherwise use **structural harm**.
 
+**2019 Q1(d), make the analogy conditional ⚠️:** To defend “mass violence”, specify (1) entrusted power diverted at scale, (2) loss of an essential service or protection, (3) foreseeable and widespread serious harm, and (4) a credible causal link rather than merely a correlation. This explains how cumulative institutional wrongdoing can threaten many people without equating every bribe with direct assault. **Objection:** ordinary corruption lacks violence's physical act and intentional attack on a population; stretching the term conceals differences in blame and remedy. **Reply:** the phrase may illuminate **structural exposure to harm**, but when the harm-chain is unproven, say “systemic injustice” instead. Do not reclassify corruption as **genocide**: the Convention's specific destructive intent is a separate test (§4.1). The answer is a qualified analogy, neither an outright equation nor a denial of mass consequences.
+
 ### 2.7 Indian institutional illustrations
 
 - ✅ The Prevention of Corruption Act, **1988**, as amended in **2018**, is an **enacted criminal-law framework**.
 - ✅ The Lokpal and Lokayuktas Act, **2013**, created an **institutional accountability framework**.
 
 ⚠️ Neither enactment proves that corruption is ethically solved; implementation, independence, enforcement and public norms remain separate questions.
+
+**2018 Q1(e), measures in an Indian democracy ⚠️:** Combine the statutes above with reasons for their design: transparent selection/procurement reduces hidden discretion; disclosure and recusal enforce the boundary between private loyalty and public office (§2.3); independent audit and accessible grievance channels make wrongdoing contestable; credible and fair enforcement changes impunity; protected reporting and civic education address fear and the expectation that abuse is normal (§2.8). **Objection:** multiplying bodies and rules can itself add discretion and become performative compliance. **Reply:** require reviewable decisions, oversight of the overseer and protection of complainants while preserving due process for the accused. These are **normative institutional proposals**, not claims that any statute has eradicated corruption. “Eradicate” is an aspiration, not a verified forecast; the realistic test is reduced opportunity, detection and justified accountability without political retaliation.
 
 ### 2.8 Value-based education as an answer to corruption
 
@@ -782,6 +792,10 @@ capability; [Individual and State](Individual-and-State.md) §2.5 for duties and
 **Social justice:** a penalty administered through unequal social conditions can magnify injustice even if its abstract rule is neutral.
 **Deterrence:** acceptance or rejection must separate empirical effectiveness from moral permissibility; even an effective deterrent may violate rights, and an ineffective one loses its utilitarian basis.
 
+**2019 Q4(c), social justice and the death penalty ⚠️:** Abstractly identical death sentences can conceal unequal quality of defence, fact-finding, mitigation and discretionary sentencing. Irreversible error or status bias then undermines the principle that like culpability receives like treatment; unequal conditions also weaken the *state's standing* to impose an irrevocable penalty (§1A.3). **Objection:** justice to victims and public condemnation of grave crime require an appropriately severe response, not automatic abolition. **Reply:** acknowledge harm and proportionate responsibility while asking whether a less final penalty can protect people and express censure (§§5.2–5.5). **Conditional verdict:** capital punishment weakens social justice where fair and consistent administration cannot be secured; the retributive claim remains a distinct argument and is not defeated merely by noting inequality in society.
+
+**2024 Q3(b), effective deterrence is a separate empirical proposition ⚠️:** To accept the death penalty *as a deterrent*, one would have to show an additional preventive effect **over** a feasible alternative such as secure long-term imprisonment, with credible attention to how likely offenders perceive punishment and to the certainty of detection (§1.5). The severity of a penalty alone does not establish that extra effect. Even if such evidence were supplied, proportionality, irreversibility and unequal administration remain independent moral constraints (§§5.3, 5.7). Conversely, uncertainty about deterrence does not by itself refute a *desert*-based argument (§5.2). **Verdict:** do not claim a measured effect without evidence; place the comparative burden on the deterrence defender, assess less harmful alternatives and give an independently rights-bound conclusion.
+
 ---
 
 ## 6. INTER-THINKER / INTER-SCHOOL DEBATES
@@ -909,7 +923,7 @@ See the [Socio-Political PYQ Bank, 2018–2025](../_PYQ-SocioPolitical-2018-2025
 | Year | Question | Marks | Exact demand | Core route in this file |
 |---|---|---:|---|---|
 | 2026 | Q1(e) | 10 | How does value based education address the problem of corruption? | §2.8, with §2.1, §2.2, §2.4 and §2.7 |
-| 2026 | Q3(a) | 20 | Is capital punishment justified? Discuss with reference to retributivism and deterrence theories of punishment. | §1.3A, §1.4, §1.5 and §5 (capital punishment cluster) — pre-existing coverage, no new section required |
+| 2026 | Q3(a) | 20 | Retributivism presents a deontological justification for capital punishment, whereas deterrence presents a consequential justification for it. Explain. | §1.3A, §1.4, §1.5 and §5 (capital punishment cluster) — pre-existing coverage |
 
 See the [2026 Socio-Political PYQ Supplement](../_PYQ-SocioPolitical-2026-Supplement.md) for the
 full 2026 Section-A routing ledger.
