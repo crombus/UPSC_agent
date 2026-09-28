@@ -160,6 +160,7 @@
 | Modern Indian History | Topic 31 - Integration of Tribals and National Unity | 15 | 29,787 | `af7f99993193` | [Modern-Indian-History/31-Integration-of-Tribals-and-National-Unity/Learning-Session-Live-Edition.md](Modern-Indian-History/31-Integration-of-Tribals-and-National-Unity/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 32 - Nehru Era: Hope, Foreign Policy and Legacy | 17 | 45,543 | `32cb1ace5c1b` | [Modern-Indian-History/32-Nehru-Era-Hope-Foreign-Policy-and-Legacy/Learning-Session-Live-Edition.md](Modern-Indian-History/32-Nehru-Era-Hope-Foreign-Policy-and-Legacy/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 33 - Party Politics, 1947-1967: Congress System and Opposition | 14 | 28,774 | `007dfe3ef64b` | [Modern-Indian-History/33-Party-Politics-1947-1967-Congress-System-and-Opposition/Learning-Session-Live-Edition.md](Modern-Indian-History/33-Party-Politics-1947-1967-Congress-System-and-Opposition/Learning-Session-Live-Edition.md) |
+| Modern Indian History | Topic 34 - From Shastri to Indira Gandhi, 1964-1973 | 15 | 37,049 | `0edf6df1d4ec` | [Modern-Indian-History/34-From-Shastri-to-Indira-1964-1973/Learning-Session-Live-Edition.md](Modern-Indian-History/34-From-Shastri-to-Indira-1964-1973/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
