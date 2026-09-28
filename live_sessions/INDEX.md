@@ -179,6 +179,7 @@
 | World History | Topic 12 - Rise of Fascism in Italy, Germany and Japan | 16 | 79,065 | `012b9b243277` | [World-History/12-Rise-of-Fascism-Italy-Germany-Japan/Learning-Session-Live-Edition.md](World-History/12-Rise-of-Fascism-Italy-Germany-Japan/Learning-Session-Live-Edition.md) |
 | World History | Topic 13 - Russian Revolution and USSR under Stalin | 21 | 89,884 | `198ed1f0a998` | [World-History/13-Russian-Revolution-and-USSR-under-Stalin/Learning-Session-Live-Edition.md](World-History/13-Russian-Revolution-and-USSR-under-Stalin/Learning-Session-Live-Edition.md) |
 | World History | Topic 14 - Second World War | 20 | 99,526 | `f6543ca50dc3` | [World-History/14-Second-World-War/Learning-Session-Live-Edition.md](World-History/14-Second-World-War/Learning-Session-Live-Edition.md) |
+| World History | Topic 15 - Cold War and International Relations | 22 | 124,545 | `5813d0b6bc4a` | [World-History/15-Cold-War-and-International-Relations/Learning-Session-Live-Edition.md](World-History/15-Cold-War-and-International-Relations/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
