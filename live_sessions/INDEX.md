@@ -168,6 +168,7 @@
 | World History | Topic 01 - Enlightenment and Age of Revolutions Overview | 15 | 56,735 | `a54ae4b9db17` | [World-History/01-Enlightenment-and-Age-of-Revolutions-Overview/Learning-Session-Live-Edition.md](World-History/01-Enlightenment-and-Age-of-Revolutions-Overview/Learning-Session-Live-Edition.md) |
 | World History | Topic 02 - American Revolution | 14 | 47,218 | `2c2c1a8db5da` | [World-History/02-American-Revolution/Learning-Session-Live-Edition.md](World-History/02-American-Revolution/Learning-Session-Live-Edition.md) |
 | World History | Topic 03 - French Revolution and Napoleon | 18 | 80,687 | `712b12a43428` | [World-History/03-French-Revolution-and-Napoleon/Learning-Session-Live-Edition.md](World-History/03-French-Revolution-and-Napoleon/Learning-Session-Live-Edition.md) |
+| World History | Topic 04 - Industrial Revolution | 17 | 70,386 | `2a713a59b165` | [World-History/04-Industrial-Revolution/Learning-Session-Live-Edition.md](World-History/04-Industrial-Revolution/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
