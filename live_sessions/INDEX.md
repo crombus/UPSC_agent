@@ -163,6 +163,7 @@
 | Modern Indian History | Topic 34 - From Shastri to Indira Gandhi, 1964-1973 | 15 | 37,049 | `0edf6df1d4ec` | [Modern-Indian-History/34-From-Shastri-to-Indira-1964-1973/Learning-Session-Live-Edition.md](Modern-Indian-History/34-From-Shastri-to-Indira-1964-1973/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 35 - JP Movement and the Emergency | 14 | 28,736 | `bde639ea44e1` | [Modern-Indian-History/35-JP-Movement-and-the-Emergency/Learning-Session-Live-Edition.md](Modern-Indian-History/35-JP-Movement-and-the-Emergency/Learning-Session-Live-Edition.md) |
 | Modern Indian History | Topic 36 - Janata Interregnum, Indira's Return and Regional Crises | 14 | 30,630 | `46ef72b3a685` | [Modern-Indian-History/36-Janata-Interregnum-Indiras-Return-and-Regional-Crises/Learning-Session-Live-Edition.md](Modern-Indian-History/36-Janata-Interregnum-Indiras-Return-and-Regional-Crises/Learning-Session-Live-Edition.md) |
+| Modern Indian History | Topic 37 - The Rajiv Years and Run-up to the Millennium | 10 | 38,340 | `8d636bbe3190` | [Modern-Indian-History/37-The-Rajiv-Years-and-Run-up-to-the-Millennium/Learning-Session-Live-Edition.md](Modern-Indian-History/37-The-Rajiv-Years-and-Run-up-to-the-Millennium/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
