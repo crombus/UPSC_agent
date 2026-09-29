@@ -81,7 +81,9 @@ Internal Security · Disaster Management · Current Affairs
   answer become identifiable because it is consistently the longest or most elaborated option.
 - Preserve clear, concept-rich teaching and MCQ lines from successful interactive sessions for
   later notes, workbooks, and topic exports; do not replace them with weaker generic paraphrases.
-- **Anti-bias:** rotate the correct option A→B→C→D; never repeat the same option consecutively.
+- **Anti-bias (updated 7 September 2026):** randomize the correct option independently for every
+  MCQ. Keep all options comparable in length, specificity, grammar and detail so the answer cannot
+  be identified visually. Do not use a predictable A→B→C→D rotation.
 - CA MCQs must test **concept + geography + institution + data** — NOT ceremony details
   (signing dates, venues, who represented whom). Concept-level facts = higher UPSC probability.
 - When a topic was covered in the current session's CA analysis, use **session-verified CA data first**;
@@ -103,15 +105,17 @@ format.
    coverage ledger before asking questions. Use OCR PDFs only for deeper evidence and live web
    sources for current facts; Qdrant remains optional.
 2. Ask **one MCQ at a time**. Do not show the answer before the learner responds.
-3. Rotate topics fairly and rotate correct options strictly **A → B → C → D**, continuing the
-   sequence across the whole test.
-4. Begin with foundation/medium questions, then progress to hard UPSC-style statement,
-   close-option, chronology, matching and conceptual-comparison questions once the foundation is
-   covered.
+3. Rotate topics fairly and randomize the correct option independently for every question. Do not
+   use a predictable answer-key sequence.
+4. Use hard UPSC-style questions by default, including close statements, chronology, matching,
+   conceptual comparisons and plausible distractors. Keep every option comparable in visible
+   length, specificity, grammar and detail so the correct answer cannot be guessed from its shape.
 5. After each learner response:
    - state `Correct` or `Incorrect` and give the correct option;
    - analyse every statement or option independently;
    - define every relevant technical term and abbreviation;
+   - give the full form, objectives/functions and key establishment or legal timeline for every
+     relevant institution, scheme, law or formal mechanism (saved 7 September 2026);
    - add the relevant timeline, wider context and at least one concrete example;
    - explain the exact trap that makes the wrong choice fail;
    - answer any doubt raised by the learner;
@@ -131,6 +135,21 @@ format.
    strongest areas and priority-revision areas. Record that no further question is pending.
 10. If the user stops early, preserve the exact pending-question state so the same loop can resume
     later without losing answer rotation, topic rotation or coverage tracking.
+
+### All-topic MCQ practice atlas (saved 9 September 2026)
+
+- `upsc-ai-kit\practice\All-Topics-MCQ\` contains one practice folder for each of the 479 final
+  standard learning-package topics and retains every hard/remedial MCQ available in the final
+  solved workbook.
+- Trigger topic practice with:
+  `Start MCQ Practice: <Subject> — <Topic>`.
+- Use the topic's `MCQ-Bank-With-Solutions.md` as the source bank, but never expose its answer
+  before the learner responds. Independently randomize option placement when delivering each
+  question and keep choices visually balanced.
+- Save progress in the topic's `PRACTICE-LOG.md`; when a delivered question needs a detailed
+  learner-specific record, save it in that same topic folder.
+- Continue until the topic's substantive coverage is complete rather than stopping at an
+  arbitrary question count.
 
 ---
 
@@ -177,6 +196,12 @@ format.
   conclusion. Use branches and arrows with minimal prose, but do not remove exact examinable
   dates, articles, sections or names. This quick-glance chart is a separate revision artifact and
   never replaces the complete ASCII Master Flow Diagram or graphical master-flow package.
+- **Terminal tree-chart formation standard (saved 8 September 2026):** start from the exact
+  syllabus boundary, identify the topic's central logical chain, and arrange numbered branches in
+  dependency-based learning order. Use English-first technical terms with original terminology in
+  parentheses, convert prose into claim → reason → consequence flows, and add concrete examples at
+  difficult points. End with examiner traps, relevant comparisons, an executable PYQ answer route
+  and a qualified verdict. Prefer a continuous, readable tree over disconnected fact lists.
 - **Whole-knowledge-base quick-glance atlas (saved 5 September 2026):** generate a separate
   quick-glance tree for every source-ready catalogue topic except Essay, CSAT, Qualifying English
   and Qualifying Hindi. Follow the order in
@@ -202,6 +227,44 @@ format.
   explanations, traps, revision notes, MCQs, remedial feedback and completion messages. Do not
   summarize, compress, rewrite or reorganize the taught session. A separately requested workbook
   may remain structured for practice.
+- **Forward-only live-session MCQ answer-separation rule (saved 28 September 2026):** do not alter
+  already released History or Philosophy live sessions solely for this formatting defect. For
+  every new live session and every future repair, never reveal the key in a question heading such
+  as `MCQ 1: A`. Use an answer-free heading such as `MCQ 1`, show the complete local question set
+  first, and reveal `Correct answer: A/B/C/D` only in a separate answer-and-explanation block.
+  The question heading, stem and option formatting must remain answer-neutral.
+- **Mandatory live-session style references (saved 28 September 2026):** before every generation
+  or repair pass, read the learner-facing opening and at least one complete lesson from
+  Nyaya-Vaisesika, Yoga and Mimamsa. Use their integrated learner-first teaching architecture as
+  the style benchmark without copying their doctrine, wording or lesson length.
+- **Topic 36+ live-session concept-check rule (saved 28 September 2026):** from Modern Indian
+  History Topic 36 onward, do not build a compiled four-option MCQ corpus inside
+  `Learning-Session-Live-Edition.md`. Each lesson instead contains exactly one answer-free
+  concept check, one concise model answer and one misconception-to-avoid note; major blocks and
+  the final synthesis use cumulative concept checks. Full hard MCQs, distractor engineering,
+  option balancing and elimination practice remain mandatory in the separate workbook workflow.
+  Live-session generation does not automatically copy or relocate its removed MCQs into a
+  workbook. A later complete-topic workbook follows strict A→B→C→D rotation; exam-generation and
+  interactive-test delivery continue to randomize option placement under their own rules.
+  Topics 35 and earlier keep their already-frozen MCQ format and must not be retrofitted solely
+  for this change. Teaching, PYQs, Mains models, remediation, sources and no-skipping rules remain
+  unchanged.
+- **History bounded-research rule (saved 28 September 2026):** for History live-session
+  generation and repair, do not conduct extensive research. The substantive base is the
+  complete `basic/` owner, the complete `advanced/` owner and one core OCR history source
+  for the period. External or live research is limited to (a) exact PYQ verification and
+  routing, (b) one bounded material-fact pass for a disputed point or a short pre-declared
+  list of standard connecting names and dates whose omission would create a real syllabus
+  gap, and (c) one brief bounded current linkage where a genuine one exists. The pass is
+  not a general research licence: use the minimum reliable sources, stop when the list is
+  resolved, and keep its provenance in the final ledger rather than learner-facing labels. Do not
+  chase optional sources, exhaustive corroboration or decorative current affairs; finish
+  promptly from material already collected. This limits source volume only - full syllabus
+  coverage, the no-skipping and no-compression locks, lesson-level completeness, practice,
+  remediation, Mains models and the hostile pre-handoff self-audit remain binding. Record
+  anything the bounded base and single pass cannot settle as open uncertainty. Full text:
+  `instructions\GENERATION-OPTIMIZATION-AND-INTEGRITY.md`; pointer in
+  `live_sessions\LIVE-SESSION-GENERATION-RULES.md` under Source Priority.
 - **Universal Export PDF workflow (all subjects):** whenever the user asks to export a PDF for
   any topic, first create the complete Guided Tutor-style learning session in the approved format,
   even if that topic was not previously taught interactively. Then save the session Markdown and
@@ -671,6 +734,12 @@ format.
   Mains answer writing (1/day) = **9 June 2026** · Essay (1/week, Sunday) = **9 June 2026**.
 - **Daily Mains (20 min):** 2 min read+directive, 2 min outline, 12 min write, 4 min self-evaluate on
   Content /3 · Structure /2 · Multidimensionality /3 · Language /2 = **/10**.
+- **Directive-word learning rule (saved 12 September 2026):** during every UPSC answer-writing
+  exercise, explicitly decode the directive before outlining the answer. Explain what the
+  directive demands, the appropriate body structure, the required type of conclusion and the
+  standard mistake to avoid. Maintain and expand the reusable guide at
+  `simple_learnning\UPSC-Mains-Directive-Words-Guide.md` whenever a common or uncommon directive
+  appears that is not already covered.
 - **Essay (weekly, Sunday):** 3 stages — Deconstruct (5 min: hidden assumption, both sides, verdict) →
   Build Spine (10 min: narrative arc, not a point list) → Write with philosophy (optional edge:
   Rawls, Sen, biocentrism, etc.).
@@ -729,3 +798,13 @@ format.
   `python tools\generate_semantic_completeness_tracker.py`.
 - Universal recovery command:
   `Resume semantic-completeness review from KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md`.
+
+## 10. Philosophy Optional syllabus-linked coverage map (saved 28 September 2026)
+
+- Follow `PHILOSOPHY-OPTIONAL-COVERAGE-PLAN.md` for the separately saved, reviewed plan.
+  Inventory syllabus-relevant concepts, arguments, critics, comparisons and applications
+  as well as philosophers across all four sections. Keep the learner-facing coverage map
+  separate from canonical knowledge owners and existing completeness trackers.
+- An inventory is not a repair or a claim of future-proof completeness: verify actual
+  answer-ready treatment, flag confirmed Core gaps, and obtain a separate remediation
+  decision before editing canonical owners or regenerating dependent artifacts.

@@ -16,6 +16,13 @@ The controller must still independently review:
 - original Mains questions and model answers;
 - source reliability and fact/inference typing.
 
+Before independent review, the generation or repair writer must complete the
+`Mandatory Pre-Handoff Hostile Self-Audit` defined in
+`live_sessions\LIVE-SESSION-GENERATION-RULES.md`. The handoff is invalid without a
+fresh exact hash and reported coverage, MCQ-cue, model-answer, PYQ, source and
+formatting results. Any subsequent edit invalidates that self-audit and requires a new
+one.
+
 ## Learner-first pass preamble
 
 Every generation and repair instruction must explicitly state:
@@ -39,9 +46,9 @@ Every new or repaired topic must contain this H2 section inside its final
 | Category | Status | Evidence or reason |
 |---|---|---|
 | Canonical Markdown | checked | Exact path and material audited |
-| Final learner package | checked | Exact Final-Learning-Packages learning-session path |
+| Final learner package | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
 | Layered/complete session | checked | Exact path, or why not available/relevant |
-| Solved workbook | checked | Exact Final-Learning-Packages workbook path |
+| Solved workbook | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
 | Advanced dossier | checked | Exact path/section, or why not available/relevant |
 | OCR books | checked | Exact book/pages, or why not available/relevant |
 | PYQs through 2026 | checked | Exact ledger and official/provisional control |
@@ -57,8 +64,19 @@ Allowed statuses are exactly:
 Every row requires concrete evidence or a reason. A missing row, unsupported status or
 empty reason blocks release.
 
-Do not use learner-v2 artifacts for this workflow. The learner-facing reference is the
-complete learning session and solved workbook under `notes\Final-Learning-Packages\`.
+For all live-session work, do not read, search, cite, compare against or derive any
+finding from any artifact under `notes\Final-Learning-Packages\`. This includes its
+learning sessions, solved workbooks, ASCII and graphical flowcharts, package reviews,
+indexes and validation artifacts. The exclusion applies during source discovery,
+generation, repair, independent semantic review, validation and release. Existing
+files remain untouched for possible future use under a separately approved workflow.
+
+Do not use learner-v2 artifacts for this workflow either.
+
+Relevant artifacts under `learning_package_final\` may be consulted only when needed
+as optional bounded checks for completeness, learner sequencing, practice or
+remediation. Their use is not required for validation or release, and they cannot
+override canonical Markdown, verified PYQs, books or official evidence.
 
 ## Authoritative mechanical validator
 
@@ -72,11 +90,10 @@ It checks:
 
 - continuous `## Lesson N` headings;
 - lesson-bounded progress lines, pre-teach checklists and visuals;
-- 2-4 concept-sensitive local MCQs with no constant, alternating or short repeating
-  count pattern;
-- exact answer labels, continuous numbering and A-B-C-D rotation;
-- one correct and three incorrect option explanations per MCQ;
-- unique incorrect explanations;
+- for Topic 36 onward, exactly one concept check, model answer and misconception note
+  in every lesson, with no compiled MCQ corpus;
+- for the frozen Topic 35-and-earlier legacy cycle, the existing local-MCQ count,
+  numbering, answer and explanation checks;
 - exact final H1 arc;
 - prohibited wording and package-language leakage;
 - balanced fences, trailing whitespace and final newline;
@@ -92,6 +109,18 @@ python tools\validate_live_session.py <topic-markdown> --allow-missing-source-ma
 
 That compatibility flag is forbidden for new or repaired releases.
 
+For an already-generated live-session draft that predates the answer-separation rule
+approved on 28 September 2026, retain its existing keyed MCQ headings only when the user
+has explicitly chosen not to retrofit earlier History or Philosophy sessions:
+
+```powershell
+python tools\validate_live_session.py <topic-markdown> `
+  --allow-legacy-keyed-mcq-headings
+```
+
+This exception applies only to pre-rule artifacts. It must not be used for a session
+generated after 28 September 2026, and it must never be used for Topic 36 onward.
+
 ## Fail-fast release
 
 After independent semantic review and after adding the verified index row, run a dry
@@ -99,7 +128,8 @@ preflight:
 
 ```powershell
 python tools\release_live_session.py <topic-markdown> `
-  --commit-title "<topic commit title>"
+  --commit-title "<topic commit title>" `
+  [--allow-legacy-keyed-mcq-headings]
 ```
 
 If it passes, execute:
@@ -107,6 +137,7 @@ If it passes, execute:
 ```powershell
 python tools\release_live_session.py <topic-markdown> `
   --commit-title "<topic commit title>" `
+  [--allow-legacy-keyed-mcq-headings] `
   --execute
 ```
 

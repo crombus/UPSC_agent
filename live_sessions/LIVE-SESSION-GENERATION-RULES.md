@@ -27,11 +27,12 @@ instructions\GENERATION-OPTIMIZATION-AND-INTEGRITY.md
 It governs execution efficiency around this contract but cannot replace, reduce or
 override any requirement in this file.
 
-Canonical knowledge files, books, PYQ ledgers, previous live editions, layered
-packages, solved workbooks, checkpoints and conversation summaries supply content,
-evidence or continuity only. They must never introduce, replace or override the
-workflow, lesson structure, interaction pattern, roadmap rules or practice sequence
-defined here.
+Canonical knowledge files, books, PYQ ledgers, permitted previous live editions,
+checkpoints and conversation summaries supply content, evidence or continuity only.
+They must never introduce, replace or override the workflow, lesson structure,
+interaction pattern, roadmap rules or practice sequence defined here. Artifacts under
+`notes\Final-Learning-Packages\` are excluded entirely from live-session work as
+specified in Source Priority below.
 
 Mandatory use:
 
@@ -61,32 +62,86 @@ Mandatory use:
     `tools\release_live_session.py` only after semantic review and index preparation.
     Mechanical automation never replaces semantic review.
 11. Before every generation or repair pass, read the learner-facing opening and at
-    least one complete lesson from both:
+    least one complete lesson from each of:
     `live_sessions\Philosophy-Optional\01-Nyaya-Vaisesika\Learning-Session-Live-Edition.md`
-    and
+    `live_sessions\Philosophy-Optional\06-Yoga\Learning-Session-Live-Edition.md`, and
     `live_sessions\Philosophy-Optional\07-Mimamsa\Learning-Session-Live-Edition.md`.
     Use their integrated terminal-teaching flow as the primary style check:
     roadmap-led sequencing, pre-teach checklist, visible progress, visual-first
     intuition, numbered explanation, comparison or distinction, qualification, exam
     linkage, mini recap, revision notes and adaptive misconception-driven mastery
-    practice. This check is mandatory for every subject and every pass, including
-    History. It does not permit copying Nyaya-Vaisesika or Mimamsa doctrine, wording
-    or fixed lesson length into another topic.
+    practice.     This check is mandatory for every subject and every pass, including History. It
+    does not permit copying Nyaya-Vaisesika, Yoga or Mimamsa doctrine, wording or
+    fixed lesson length into another topic.
+12. After every generation or repair pass, reread this entire file and the central
+    instruction registry before accepting the pass outcome. Then perform the mandatory
+    pre-handoff hostile self-audit below. A writer's completion claim is invalid until
+    that self-audit passes.
 
-## Nyaya-Vaisesika, Mimamsa, Vedanta and Economy Reference-Session Fidelity Lock
+## Mandatory Pre-Handoff Hostile Self-Audit
+
+Every generation and repair lane must complete a separate adversarial review of its
+own exact final artifact before handing it to the independent reviewer. This is a
+second pass, not a continuation of drafting and not a substitute for independent
+review.
+
+The writer must:
+
+1. recompute and freeze the artifact's SHA-256 before the self-audit;
+2. reread this file, `instructions\README.md`,
+   `instructions\GENERATION-OPTIMIZATION-AND-INTEGRITY.md` and
+   `instructions\LIVE-SESSION-VALIDATION-AND-RELEASE.md`;
+3. recheck every syllabus, Basic/Core, Advanced, book and PYQ coverage unit against
+   the final lesson and coverage matrix;
+4. verify that no Basic/Core unit is omitted, compressed, merged away or labelled
+   optional/Advanced;
+5. inspect every lesson for learner-first sequencing, concept-appropriate visual
+   design and natural structural variation rather than repeated shells;
+6. inspect every MCQ stem, all four options, the key and all four explanations for
+   semantic correctness, local teachability, plausible close distractors, chronology,
+   grammatical parallelism, answer-length distribution, categorical cues, duplication
+   and forward references; also verify that no question heading, stem or option formatting
+   reveals the correct answer before the separate answer-and-explanation block;
+7. verify that correct-option length ranks vary naturally across the complete MCQ
+   corpus rather than clustering as shortest or longest;
+8. verify every lesson-local and final Mains model for directive fidelity, stated word
+   ceiling, claim -> named evidence/example -> analysis -> qualification, and unique
+   scoring guidance;
+9. verify exact PYQ wording, response choices where present, marks, word limits,
+   ownership, lesson mapping and prominent inferred-answer warnings whenever an
+   official key is unavailable;
+10. verify every factual, chronological, numerical and source claim against permitted
+    evidence, preserving uncertainty and never inventing or silently completing
+    missing evidence;
+11. validate exact source paths, source-manifest statuses, prohibited-source
+    exclusions, final H1 order, encoding, whitespace and the scoped Git diff;
+12. run `tools\validate_live_session.py` and all topic-specific semantic scans, repair
+    every defect, then repeat this self-audit on the new hash.
+
+The handoff report must state the final hash, metrics, coverage result, MCQ length-rank
+distribution, model/scoring-note counts, exact PYQ status, sources actually used,
+checks performed and remaining uncertainty. Independent review remains mandatory and
+must start from the reported exact hash.
+
+No time, token, context or throughput target may weaken this gate. Prefer fewer
+first-pass defects through deeper source mapping and adversarial self-review; never
+obtain speed by skipping, compressing, guessing, fabricating or reducing coverage.
+
+## Nyaya-Vaisesika, Yoga, Mimamsa, Vedanta and Economy Reference-Session Fidelity Lock
 
 The required learner-facing standard is the teaching architecture demonstrated by:
 
 ```text
 live_sessions\Philosophy-Optional\01-Nyaya-Vaisesika\Learning-Session-Live-Edition.md
+live_sessions\Philosophy-Optional\06-Yoga\Learning-Session-Live-Edition.md
 live_sessions\Philosophy-Optional\07-Mimamsa\Learning-Session-Live-Edition.md
 live_sessions\Philosophy-Optional\08-Vedanta\Learning-Session-Live-Edition.md
 live_sessions\Economy\<completed topic>\Learning-Session-Live-Edition.md
 ```
 
 These files are structural and pedagogical benchmarks, not independent rulebooks.
-This file remains the single source of truth. Nyaya-Vaisesika and Mimamsa are the
-mandatory primary style references before every pass; Vedanta and the completed
+This file remains the single source of truth. Nyaya-Vaisesika, Yoga and Mimamsa are
+the mandatory primary style references before every pass; Vedanta and the completed
 Economy sessions provide additional subject-specific calibration. When a future
 session does not feel like these learner-first sessions, repair the rules here before
 repairing the topic.
@@ -216,7 +271,7 @@ After the complete lesson sequence, consolidate in this learner-facing order:
 
 ```text
 verified PYQ linkage and answer approaches
-  -> original cumulative MCQs with explanations
+  -> cumulative concept checks with model answers
   -> original 10-, 15- and 20-mark Mains practice with model answers
   -> common-error remediation
   -> master comparisons, causal chains or argument maps
@@ -251,19 +306,65 @@ Do not overwrite an existing canonical knowledge file or generated learning pack
 
 Use sources in this order:
 
-1. Canonical Markdown knowledge file for the topic.
-2. The exact complete learning-session and solved-practice artifacts under
-   `notes\Final-Learning-Packages\` for learner sequencing, visual teaching,
-   completeness, practice and remediation.
-3. Verified UPSC PYQ ledgers and question papers through 2026.
-4. Relevant layered/complete sessions and advanced dossiers as bounded completeness
-   checks.
+1. Canonical Basic/Core, Advanced and relevant cross-topic Markdown knowledge files.
+2. Verified UPSC PYQ ledgers and official question papers through 2026.
+3. When genuinely needed, relevant artifacts under `learning_package_final\`, used
+   only as optional bounded checks for completeness, learner sequencing, practice or
+   remediation.
+4. Other relevant permitted layered/complete sessions and advanced dossiers outside
+   the excluded paths, used only as bounded completeness checks.
 5. OCR-searchable local books and source PDFs.
 6. Official or otherwise reliable live sources where current linkage is relevant.
 7. Qdrant only as an optional fallback.
 
-Do not use learner-v2 artifacts for this live-session workflow. Final-Learning-Packages
-is the learner-session and solved-workbook reference.
+`learning_package_final\` is permitted but never mandatory or authoritative. Do not
+consult it routinely when the canonical Markdown, verified PYQs and books already
+resolve the requirement. Never let it override canonical evidence, introduce an
+unsupported claim or substitute for the independent no-skipping and no-compression
+audit.
+
+### History bounded-research rule (approved 28 September 2026)
+
+For History topics, do not conduct extensive research. Use the complete basic and
+advanced Markdown owners plus one core OCR history source as the substantive base.
+External or live research is limited to (a) exact PYQ verification and routing,
+(b) one bounded material-fact pass for a genuinely disputed point or a short
+pre-declared list of standard connecting names and dates whose omission would create
+a real syllabus gap, and (c) one brief bounded current linkage where a genuine one exists. Do
+not chase optional sources, exhaustive corroboration or decorative current affairs;
+finish promptly from material already collected. This limits source volume only:
+full syllabus coverage, the no-skipping and no-compression locks, practice,
+remediation, Mains models and the hostile self-audit remain binding. The full text
+is recorded in `instructions\GENERATION-OPTIMIZATION-AND-INTEGRITY.md`. Keep the
+material-fact-pass provenance in the final ledger; do not expose the pass or source
+ownership as repeated learner-facing teaching machinery.
+
+### Permanent live-session source exclusion
+
+Do not read, search, cite, compare against or derive findings from any artifact under:
+
+```text
+notes\Final-Learning-Packages\
+```
+
+This exclusion applies to every live-session roadmap, source preflight, gap audit,
+generation, reconstruction, repair, independent semantic review, validation and
+release pass across all subjects. It includes, without limitation:
+
+- complete learning sessions;
+- solved-practice workbooks;
+- ASCII master flowcharts;
+- graphical flowcharts, specifications, previews and validation reports;
+- package indexes, review reports and other derived package artifacts.
+
+No coverage requirement, factual claim, chronology, teaching structure, MCQ,
+explanation, PYQ treatment, model answer, defect finding or release verdict may rely
+on those files. Existing files remain untouched so the user can decide whether they
+are needed in a future, separately approved workflow.
+
+Do not use learner-v2 artifacts for this live-session workflow either. If the
+source-manifest gate retains rows for `Final learner package` or `Solved workbook`,
+mark them `not relevant` and cite this permanent live-session source exclusion.
 
 If sources disagree, preserve the canonical distinction, verify the disputed point and
 state the qualification. Never silently choose a convenient formulation.
@@ -415,6 +516,41 @@ The first use of this protocol is a two-topic pilot. After both topics are separ
 validated, committed and pushed, compare their defect rate and teaching integrity with
 the accepted sequential rebuilds before applying the protocol to another pair.
 
+## Active History Completion Order
+
+For the current UPSC completion programme:
+
+1. complete every remaining Medieval Indian History topic in authoritative catalogue
+   order;
+2. release each Medieval topic separately and sequentially after independent exact-hash
+   approval;
+3. only after Medieval Indian History is complete, begin Modern Indian History in its
+   authoritative catalogue order;
+4. only after Modern Indian History is complete, begin Modern World History in its
+   authoritative catalogue order;
+5. only after Modern World History is complete, begin Art and Culture in its
+   authoritative catalogue order;
+6. only after Art and Culture is complete, begin Polity in its authoritative
+   catalogue order;
+7. release every Modern Indian History, Modern World History, Art and Culture and
+   Polity topic separately and sequentially after independent exact-hash approval;
+8. continue using at most two isolated generation lanes, while keeping independent
+   review, indexing, commit and release sequential.
+
+No topic may be skipped because it appears repetitive, narrow, low-yield or covered
+elsewhere. The locked subject sequence is:
+
+```text
+Modern Indian History
+  -> Modern World History
+  -> Art and Culture
+  -> Polity
+```
+
+No subject transition may occur while an earlier required topic remains unreleased.
+Facts, dates, quotations, PYQs, answer keys and numerical claims must never be guessed
+or reconstructed without permitted evidence.
+
 ## Learner-First Teaching Order
 
 Teach in dependency order rather than merely copying source order:
@@ -522,7 +658,7 @@ For each subtopic, create an internal evidence dossier containing:
 9. comparisons with directly relevant thinkers or schools;
 10. strongest criticisms, strongest replies and the unresolved residual;
 11. UPSC traps, directive demands and answer-writing uses;
-12. conceptual, applied and remedial practice requirements.
+12. concept-check, application and misconception-remediation requirements.
 
 Only begin drafting after all frozen subtopics have a completed dossier and every
 confirmed source item is mapped to a lesson or internal Part.
@@ -553,15 +689,17 @@ Follow the original Indian Philosophy file-generation workflow:
 1. Audit the complete topic and present the learner-facing roadmap.
 2. Wait for `Start`; that acceptance freezes the roadmap.
 3. Generate every frozen subtopic, internal Part, visual, doctrine, argument, example,
-   criticism, reply, PYQ linkage and answer approach, MCQ, original Mains model answer
-   and register-note section into the topic's `Learning-Session-Live-Edition.md` file
-   in one uninterrupted generation run.
+   criticism, reply, PYQ linkage and answer approach, concept check, original Mains
+   model answer and register-note section into the topic's
+   `Learning-Session-Live-Edition.md` file in one uninterrupted generation run.
 4. Every lesson inside the file must independently follow the Required Lesson
    Structure below and contain its own practice. Do not postpone all practice to the
    final lesson.
-5. Include conceptual, applied and remedial MCQs, their answer key and an explanation
-   of every option inside the Markdown. The learner is not required to answer them
-   live unless test mode is explicitly requested.
+5. For Modern Indian History Topic 36 and every later live-session topic, include one
+   concise answer-free concept check, model answer and misconception note in every
+   lesson. Do not include a compiled four-option MCQ corpus in the live-session file;
+   hard Prelims MCQs and option-elimination practice belong in the learner's separate
+   workbook. Topics 35 and earlier retain their already-frozen MCQ contract.
 6. Include every directly owned verified PYQ through 2026 as a year/question linkage
    with directive, demand and concise answer approach, mapped to the lesson where its
    concepts are taught. Do not include its solved model answer in the live-session file
@@ -575,13 +713,14 @@ Follow the original Indian Philosophy file-generation workflow:
 10. If generation or validation is incomplete, do not claim completion and do not move
     to the next topic.
 
-The roadmap lists the doctrinal learning sequence. It must not imply that MCQs, PYQs,
-remediation or Mains practice are postponed to a final lesson. Practice is embedded in
-every subtopic, with cumulative practice added at major blocks and final synthesis.
+The roadmap lists the doctrinal learning sequence. It must not imply that concept
+checks, PYQs, remediation or Mains practice are postponed to a final lesson. Practice
+is embedded in every subtopic, with cumulative concept checks added at major blocks and
+final synthesis.
 
-The completed Markdown live edition preserves all teaching, MCQs, explanations,
-remediation, PYQ linkage and answer approaches, original Mains practice and mastery
-guidance while excluding navigation-only turns and tool logs.
+The completed Markdown live edition preserves all teaching, concept checks, model
+answers, remediation, PYQ linkage and answer approaches, original Mains practice and
+mastery guidance while excluding navigation-only turns and tool logs.
 
 ## Structural Format Lock — Original Terminal Flow
 
@@ -704,9 +843,8 @@ truthfully when no meaningful recent linkage exists.
     - mnemonics only where they genuinely aid recall.
 
 12. **Practice**
-    - conceptual MCQs;
-    - applied MCQs;
-    - remedial MCQs for predictable errors;
+    - Topic 36 onward: one concept check, concise model answer and misconception note;
+    - Topic 35 and earlier: the frozen lesson-local MCQ contract;
     - Mains questions and model answers;
     - relevant PYQ year/question linkage, demand and answer approach without a solved
       model answer.
@@ -740,35 +878,44 @@ truthfully when no meaningful recent linkage exists.
 
 ## Practice Rules
 
-### Whole-topic Markdown generation
+### Topic 36 onward: concept-check mode
 
-- Write conceptual, applied and remedial MCQs into every relevant lesson.
-- Put answers after the question set, not beside each question.
-- Explain why every option is right or wrong.
-- Include mastery guidance and predictable-error remediation in the file.
+- Include exactly one learner-facing concept check in every lesson after the teaching,
+  revision notes and UPSC application.
+- Use this compact structure:
+
+```text
+### Concept check
+
+**Question:** <one conceptual or applied question>
+
+**Model answer:** <direct answer with the decisive reasoning>
+
+**Misconception to avoid:** <the most likely error and why it fails>
+```
+
+- The question must test understanding of the lesson's central mechanism, distinction,
+  chronology or argument rather than mere term recognition.
+- The model answer must be sufficient to confirm concept understanding but must not
+  become a second long-form Mains answer.
+- The misconception note replaces lesson-local remedial distractor engineering.
+- Add cumulative concept checks after major blocks and in the final synthesis.
+- Do not include four-option MCQs, answer-key rotation, distractor balancing or
+  option-by-option explanations in Topic 36 onward live-session files.
+- Preserve full hard MCQ and option-elimination practice in the separate workbook
+  workflow; removing it from the live session does not reduce workbook requirements.
 - Do not ask the learner to answer live unless test mode is explicitly requested.
 - Complete and validate the entire topic file before accepting `Next` to a new topic.
 
-### Compiled or pre-generated Markdown edition
+### Legacy boundary: Topic 35 and earlier
 
-- A live two-consecutive-correct feedback loop is **not required** because no learner
-  is answering in real time unless test mode was explicitly requested.
-- Preserve the pedagogical purpose of the loop by including:
-  - standard MCQs;
-  - answers after the question set, not beside each question;
-  - explanation of every option;
-  - remedial MCQs targeting common misconceptions;
-  - cumulative tests after major blocks.
-- Rotate correct options strictly:
-
-```text
-A -> B -> C -> D -> repeat
-```
-
-- Never repeat the same correct option consecutively.
-- Questions must test understanding, not merely terminology recognition.
-- Mains practice must include 10-, 15- and 20-mark questions with complete model
-  answers.
+- Existing released sessions and the already-frozen Topic 34-35 repair/release cycle
+  retain their MCQ structure and validation contract.
+- The legacy compatibility flag must not be used to introduce a new MCQ corpus into
+  Topic 36 or any later topic.
+- Do not retrofit Topics 35 and earlier solely to adopt concept-check mode.
+- Mains practice in every mode must include 10-, 15- and 20-mark questions with
+  complete model answers.
 
 ## Fact and Inference Control
 
@@ -845,7 +992,7 @@ The completed Markdown must end with:
 
 1. verified PYQ linkage and answer-approach index through 2026, without solved model
    answers;
-2. original cumulative MCQ practice with explanations;
+2. cumulative concept checks with model answers;
 3. original 10-, 15- and 20-mark Mains practice with model answers;
 4. common-error remediation set;
 5. master comparison tables, causal chains and argument or criticism maps;

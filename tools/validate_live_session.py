@@ -17,9 +17,19 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-FINAL_ARC = [
+LEGACY_FINAL_ARC = [
     "VERIFIED PYQ LINKAGE AND ANSWER APPROACHES",
     "CUMULATIVE MCQS",
+    "ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE",
+    "REMEDIATION",
+    "MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS",
+    "COMPLETE CONSOLIDATED REGISTER NOTES",
+    "COVERAGE MATRIX",
+    "SOURCE LEDGER",
+]
+CONCEPT_CHECK_FINAL_ARC = [
+    "VERIFIED PYQ LINKAGE AND ANSWER APPROACHES",
+    "CUMULATIVE CONCEPT CHECKS",
     "ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE",
     "REMEDIATION",
     "MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS",
@@ -35,6 +45,7 @@ PROHIBITED_PATTERNS = [
     r"canonical position is",
     r"\bLAYER [1-5]\b",
     r"five-layer package",
+    r"notes[\\/]+Final-Learning-Packages[\\/]",
 ]
 SOURCE_CATEGORIES = [
     "canonical markdown",
@@ -47,6 +58,22 @@ SOURCE_CATEGORIES = [
     "official live sources",
 ]
 SOURCE_STATUSES = {"checked", "not available", "not relevant"}
+EXCLUDED_SOURCE_CATEGORIES = {
+    "final learner package",
+    "solved workbook",
+}
+QUESTION_LABEL_PATTERN = re.compile(r"(?m)^\*\*MCQ (\d+)\*\*$")
+ANSWER_LABEL_PATTERN = re.compile(
+    r"(?m)^\*\*MCQ (\d+) — Answer and explanation\*\*\s*$"
+    r"\n+\*\*Correct answer: ([A-D])\*\*$"
+)
+LEGACY_KEYED_LABEL_PATTERN = re.compile(r"(?m)^\*\*MCQ (\d+): ([A-D])\*\*$")
+CONCEPT_CHECK_HEADING_PATTERN = re.compile(r"(?m)^### Concept check\s*$")
+CONCEPT_QUESTION_PATTERN = re.compile(r"(?m)^\*\*Question:\*\*\s+\S.+$")
+CONCEPT_ANSWER_PATTERN = re.compile(r"(?m)^\*\*Model answer:\*\*\s+\S.+$")
+MISCONCEPTION_PATTERN = re.compile(
+    r"(?m)^\*\*Misconception to avoid:\*\*\s+\S.+$"
+)
 
 
 @dataclass
@@ -86,6 +113,55 @@ def natural_variation(counts: list[int]) -> bool:
     return True
 
 
+def parse_mcq_labels(
+    raw: str, allow_legacy: bool
+) -> tuple[list[tuple[str, str]], re.Pattern[str]]:
+    legacy_labels = LEGACY_KEYED_LABEL_PATTERN.findall(raw)
+    question_numbers = QUESTION_LABEL_PATTERN.findall(raw)
+    answer_labels = ANSWER_LABEL_PATTERN.findall(raw)
+
+    if legacy_labels:
+        if not allow_legacy:
+            fail(
+                "answer-bearing MCQ headings are prohibited; use `**MCQ N**` for "
+                "questions and a separate answer-and-explanation block"
+            )
+        if question_numbers or answer_labels:
+            fail("legacy and answer-separated MCQ formats must not be mixed")
+        return legacy_labels, LEGACY_KEYED_LABEL_PATTERN
+
+    if not question_numbers:
+        fail("no answer-free `**MCQ N**` question headings found")
+    if len(answer_labels) != len(question_numbers):
+        fail(
+            "each answer-free MCQ heading must have one separate "
+            "answer-and-explanation block"
+        )
+
+    question_sequence = [int(number) for number in question_numbers]
+    answer_sequence = [int(number) for number, _ in answer_labels]
+    expected_sequence = list(range(1, len(question_numbers) + 1))
+    if question_sequence != expected_sequence:
+        fail("MCQ question headings are not continuously numbered from 1")
+    if answer_sequence != expected_sequence:
+        fail("MCQ answer blocks are not continuously numbered from 1")
+
+    return answer_labels, QUESTION_LABEL_PATTERN
+
+
+def validate_concept_check_chunk(chunk: str, lesson_number: int) -> int:
+    checks = len(CONCEPT_CHECK_HEADING_PATTERN.findall(chunk))
+    questions = len(CONCEPT_QUESTION_PATTERN.findall(chunk))
+    answers = len(CONCEPT_ANSWER_PATTERN.findall(chunk))
+    misconceptions = len(MISCONCEPTION_PATTERN.findall(chunk))
+    if (checks, questions, answers, misconceptions) != (1, 1, 1, 1):
+        fail(
+            f"Lesson {lesson_number} must contain exactly one concept check, "
+            "question, model answer and misconception note"
+        )
+    return checks
+
+
 def parse_source_manifest(raw: str, allow_missing: bool) -> dict[str, str]:
     match = re.search(
         r"(?ms)^## SOURCE-MANIFEST GATE\s*$\n(?P<body>.*?)(?=^#{1,2} |\Z)",
@@ -121,6 +197,11 @@ def parse_source_manifest(raw: str, allow_missing: bool) -> dict[str, str]:
                 f"source manifest status for {category!r} must be one of "
                 f"{sorted(SOURCE_STATUSES)}"
             )
+        if category in EXCLUDED_SOURCE_CATEGORIES and status != "not relevant":
+            fail(
+                f"source manifest status for excluded category {category!r} "
+                "must be 'not relevant'"
+            )
         if len(evidence.strip()) < 8:
             fail(f"source manifest evidence/reason is too short for {category!r}")
         result[category] = status
@@ -148,7 +229,11 @@ def run_git_diff_check(path: Path) -> str:
     return status.stdout.strip()
 
 
-def validate(path: Path, allow_missing_source_manifest: bool = False) -> ValidationResult:
+def validate(
+    path: Path,
+    allow_missing_source_manifest: bool = False,
+    allow_legacy_keyed_mcq_headings: bool = False,
+) -> ValidationResult:
     path = path.resolve()
     try:
         path.relative_to(ROOT)
@@ -180,6 +265,16 @@ def validate(path: Path, allow_missing_source_manifest: bool = False) -> Validat
     if lesson_numbers != list(range(1, len(lesson_matches) + 1)):
         fail(f"lesson numbering is not continuous: {lesson_numbers}")
 
+    concept_check_mode = "# CUMULATIVE CONCEPT CHECKS" in raw
+    labels: list[tuple[str, str]] = []
+    lesson_mcq_pattern = QUESTION_LABEL_PATTERN
+    if concept_check_mode:
+        if QUESTION_LABEL_PATTERN.search(raw) or LEGACY_KEYED_LABEL_PATTERN.search(raw):
+            fail("concept-check mode must not contain a compiled MCQ corpus")
+    else:
+        labels, lesson_mcq_pattern = parse_mcq_labels(
+            raw, allow_legacy=allow_legacy_keyed_mcq_headings
+        )
     lesson_counts: list[int] = []
     for index, lesson in enumerate(lesson_matches):
         end = (
@@ -194,51 +289,60 @@ def validate(path: Path, allow_missing_source_manifest: bool = False) -> Validat
             fail(f"Lesson {index + 1} lacks a Progress line")
         if "```" not in chunk and not re.search(r"(?m)^\|.+\|$", chunk):
             fail(f"Lesson {index + 1} lacks a visual block")
-        lesson_counts.append(
-            len(re.findall(r"(?m)^\*\*MCQ \d+: [A-D]\*\*$", chunk))
-        )
-    if not natural_variation(lesson_counts):
+        if concept_check_mode:
+            lesson_counts.append(validate_concept_check_chunk(chunk, index + 1))
+        else:
+            lesson_counts.append(len(lesson_mcq_pattern.findall(chunk)))
+    if not concept_check_mode and not natural_variation(lesson_counts):
         fail(f"lesson MCQ counts fail natural-variation gate: {lesson_counts}")
 
-    labels = re.findall(r"(?m)^\*\*MCQ (\d+): ([A-D])\*\*$", raw)
-    numbers = [int(number) for number, _ in labels]
-    answers = [answer for _, answer in labels]
-    if numbers != list(range(1, len(labels) + 1)):
-        fail("MCQ labels are not continuously numbered from 1")
-    expected_answers = ["ABCD"[index % 4] for index in range(len(labels))]
-    if answers != expected_answers:
-        mismatch = next(
-            index + 1
-            for index, (actual, expected) in enumerate(
-                zip(answers, expected_answers, strict=True)
+    explanations: list[tuple[str, str, str]] = []
+    correct: list[str] = []
+    incorrect: list[str] = []
+    if not concept_check_mode:
+        numbers = [int(number) for number, _ in labels]
+        answers = [answer for _, answer in labels]
+        if numbers != list(range(1, len(labels) + 1)):
+            fail("MCQ labels are not continuously numbered from 1")
+        expected_answers = ["ABCD"[index % 4] for index in range(len(labels))]
+        if answers != expected_answers:
+            mismatch = next(
+                index + 1
+                for index, (actual, expected) in enumerate(
+                    zip(answers, expected_answers, strict=True)
+                )
+                if actual != expected
             )
-            if actual != expected
-        )
-        fail(f"answer rotation fails at MCQ {mismatch}")
+            fail(f"answer rotation fails at MCQ {mismatch}")
 
-    explanation_pattern = re.compile(
-        r"(?m)^- \*\*([A-D]) — (Correct|Incorrect):\*\*\s*(.+)$"
-    )
-    explanations = explanation_pattern.findall(raw)
-    if len(explanations) != 4 * len(labels):
-        fail(
-            f"expected {4 * len(labels)} option explanations, found "
-            f"{len(explanations)}"
+        explanation_pattern = re.compile(
+            r"(?m)^- \*\*([A-D]) — (Correct|Incorrect):\*\*\s*(.+)$"
         )
-    correct = [text.strip() for _, state, text in explanations if state == "Correct"]
-    incorrect = [
-        text.strip() for _, state, text in explanations if state == "Incorrect"
-    ]
-    if len(correct) != len(labels) or len(incorrect) != 3 * len(labels):
-        fail("each MCQ must have one correct and three incorrect explanations")
-    if len(set(incorrect)) != len(incorrect):
-        fail(
-            f"incorrect explanations are not unique: "
-            f"{len(set(incorrect))}/{len(incorrect)}"
-        )
+        explanations = explanation_pattern.findall(raw)
+        if len(explanations) != 4 * len(labels):
+            fail(
+                f"expected {4 * len(labels)} option explanations, found "
+                f"{len(explanations)}"
+            )
+        correct = [
+            text.strip() for _, state, text in explanations if state == "Correct"
+        ]
+        incorrect = [
+            text.strip() for _, state, text in explanations if state == "Incorrect"
+        ]
+        if len(correct) != len(labels) or len(incorrect) != 3 * len(labels):
+            fail("each MCQ must have one correct and three incorrect explanations")
+        if len(set(incorrect)) != len(incorrect):
+            fail(
+                f"incorrect explanations are not unique: "
+                f"{len(set(incorrect))}/{len(incorrect)}"
+            )
 
     h1_headings = re.findall(r"(?m)^# (.+)$", raw)
-    if h1_headings[-len(FINAL_ARC) :] != FINAL_ARC:
+    expected_final_arc = (
+        CONCEPT_CHECK_FINAL_ARC if concept_check_mode else LEGACY_FINAL_ARC
+    )
+    if h1_headings[-len(expected_final_arc) :] != expected_final_arc:
         fail("final H1 arc does not exactly match the required order")
     prohibited = [
         pattern
@@ -276,6 +380,14 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Audit a legacy released file; forbidden in release automation.",
     )
+    parser.add_argument(
+        "--allow-legacy-keyed-mcq-headings",
+        action="store_true",
+        help=(
+            "Grandfather a live-session draft created before 28 September 2026; "
+            "newly generated sessions must not use keyed question headings."
+        ),
+    )
     parser.add_argument("--json", action="store_true")
     return parser.parse_args()
 
@@ -286,6 +398,7 @@ def main() -> int:
         result = validate(
             args.path,
             allow_missing_source_manifest=args.allow_missing_source_manifest,
+            allow_legacy_keyed_mcq_headings=args.allow_legacy_keyed_mcq_headings,
         )
     except (OSError, UnicodeError, subprocess.SubprocessError, ValidationFailure) as error:
         print(f"FAIL: {error}", file=sys.stderr)

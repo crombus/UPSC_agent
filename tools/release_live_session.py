@@ -12,7 +12,7 @@ from validate_live_session import ROOT, ValidationFailure, validate
 
 TRAILERS = [
     "Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
-    "Copilot-Session: 997f5bd4-ce48-4df1-8d71-68989c4ce262",
+    "Copilot-Session: f6c2bb95-ebd1-4751-a0ec-a32fda56f9fd",
 ]
 
 
@@ -49,6 +49,14 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--remote", default="origin")
     parser.add_argument("--branch")
     parser.add_argument(
+        "--allow-legacy-keyed-mcq-headings",
+        action="store_true",
+        help=(
+            "Release a pre-28 September 2026 draft without rewriting its existing "
+            "keyed MCQ headings."
+        ),
+    )
+    parser.add_argument(
         "--execute",
         action="store_true",
         help="Commit and push. Without this flag, perform a release preflight only.",
@@ -76,7 +84,10 @@ def main() -> int:
             raise ValidationFailure(
                 "topic and index paths must be inside the repository"
             ) from error
-        result = validate(topic)
+        result = validate(
+            topic,
+            allow_legacy_keyed_mcq_headings=args.allow_legacy_keyed_mcq_headings,
+        )
         topic_rel = topic.relative_to(ROOT).as_posix()
         index_rel = index.relative_to(ROOT).as_posix()
         index_raw = index.read_text(encoding="utf-8")
