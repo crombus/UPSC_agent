@@ -196,6 +196,7 @@
 | Indian Art and Culture | Topic 08 - Indian Music | 19 | 75,165 | `20b7c69dbbe7` | [Indian-Art-and-Culture/08-Indian-Music/Learning-Session-Live-Edition.md](Indian-Art-and-Culture/08-Indian-Music/Learning-Session-Live-Edition.md) |
 | Indian Art and Culture | Topic 09 - Indian Dance | 23 | 81,637 | `6dac35618e8e` | [Indian-Art-and-Culture/09-Indian-Dance/Learning-Session-Live-Edition.md](Indian-Art-and-Culture/09-Indian-Dance/Learning-Session-Live-Edition.md) |
 | Indian Art and Culture | Topic 10 - Theatre, Puppetry and Performance Traditions | 23 | 84,937 | `bab7670f118e` | [Indian-Art-and-Culture/10-Theatre-Puppetry-and-Performance-Traditions/Learning-Session-Live-Edition.md](Indian-Art-and-Culture/10-Theatre-Puppetry-and-Performance-Traditions/Learning-Session-Live-Edition.md) |
+| Indian Art and Culture | Topic 11 - Languages, Scripts, Literature and Manuscripts | 23 | 107,935 | `e55cc8ffef3a` | [Indian-Art-and-Culture/11-Languages-Scripts-Literature-and-Manuscripts/Learning-Session-Live-Edition.md](Indian-Art-and-Culture/11-Languages-Scripts-Literature-and-Manuscripts/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
