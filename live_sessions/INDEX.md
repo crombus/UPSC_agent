@@ -187,6 +187,7 @@
 | World History | Topic 20 - World Economy and Population since 1900 | 22 | 112,185 | `3cc0b291ae67` | [World-History/20-World-Economy-and-Population-since-1900/Learning-Session-Live-Edition.md](World-History/20-World-Economy-and-Population-since-1900/Learning-Session-Live-Edition.md) |
 | World History | Topic 21 - End of the Cold War and New World Order | 21 | 89,935 | `da68a99ca055` | [World-History/21-Cold-War-End-and-New-World-Order/Learning-Session-Live-Edition.md](World-History/21-Cold-War-End-and-New-World-Order/Learning-Session-Live-Edition.md) |
 | Indian Art and Culture | Topic 01 - Architecture Foundations and Harappan Urbanism | 16 | 43,364 | `ece727fbcf8b` | [Indian-Art-and-Culture/01-Architecture-Foundations-and-Harappan-Urbanism/Learning-Session-Live-Edition.md](Indian-Art-and-Culture/01-Architecture-Foundations-and-Harappan-Urbanism/Learning-Session-Live-Edition.md) |
+| Indian Art and Culture | Topic 02 - Mauryan, Buddhist, Jain and Rock-Cut Heritage | 18 | 59,670 | `2a6947981596` | [Indian-Art-and-Culture/02-Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage/Learning-Session-Live-Edition.md](Indian-Art-and-Culture/02-Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
