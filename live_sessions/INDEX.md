@@ -190,6 +190,7 @@
 | Indian Art and Culture | Topic 02 - Mauryan, Buddhist, Jain and Rock-Cut Heritage | 18 | 59,670 | `2a6947981596` | [Indian-Art-and-Culture/02-Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage/Learning-Session-Live-Edition.md](Indian-Art-and-Culture/02-Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage/Learning-Session-Live-Edition.md) |
 | Indian Art and Culture | Topic 03 - Temple Architecture and Chandella-Khajuraho | 21 | 86,373 | `550c01d5bac0` | [Indian-Art-and-Culture/03-Temple-Architecture-and-Chandella-Khajuraho/Learning-Session-Live-Edition.md](Indian-Art-and-Culture/03-Temple-Architecture-and-Chandella-Khajuraho/Learning-Session-Live-Edition.md) |
 | Indian Art and Culture | Topic 04 - Indo-Islamic and Regional Architecture | 21 | 84,098 | `8f94e50405d0` | [Indian-Art-and-Culture/04-Indo-Islamic-and-Regional-Architecture/Learning-Session-Live-Edition.md](Indian-Art-and-Culture/04-Indo-Islamic-and-Regional-Architecture/Learning-Session-Live-Edition.md) |
+| Indian Art and Culture | Topic 05 - Colonial and Post-Independence Architecture | 18 | 68,697 | `a9afec25851d` | [Indian-Art-and-Culture/05-Colonial-and-Post-Independence-Architecture/Learning-Session-Live-Edition.md](Indian-Art-and-Culture/05-Colonial-and-Post-Independence-Architecture/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
