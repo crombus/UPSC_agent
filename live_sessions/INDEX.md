@@ -185,6 +185,7 @@
 | World History | Topic 18 - Decolonization of Africa and Asia | 24 | 143,300 | `f6df068b5f74` | [World-History/18-Decolonization-of-Africa-and-Asia/Learning-Session-Live-Edition.md](World-History/18-Decolonization-of-Africa-and-Asia/Learning-Session-Live-Edition.md) |
 | World History | Topic 19 - Latin America in the Twentieth Century | 21 | 111,884 | `b20711a32092` | [World-History/19-Latin-America-20th-Century/Learning-Session-Live-Edition.md](World-History/19-Latin-America-20th-Century/Learning-Session-Live-Edition.md) |
 | World History | Topic 20 - World Economy and Population since 1900 | 22 | 112,185 | `3cc0b291ae67` | [World-History/20-World-Economy-and-Population-since-1900/Learning-Session-Live-Edition.md](World-History/20-World-Economy-and-Population-since-1900/Learning-Session-Live-Edition.md) |
+| World History | Topic 21 - End of the Cold War and New World Order | 21 | 89,935 | `da68a99ca055` | [World-History/21-Cold-War-End-and-New-World-Order/Learning-Session-Live-Edition.md](World-History/21-Cold-War-End-and-New-World-Order/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
