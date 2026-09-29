@@ -194,6 +194,7 @@
 | Indian Art and Culture | Topic 06 - Sculpture, Pottery and Iconography | 20 | 89,995 | `838cddab050a` | [Indian-Art-and-Culture/06-Sculpture-Pottery-and-Iconography/Learning-Session-Live-Edition.md](Indian-Art-and-Culture/06-Sculpture-Pottery-and-Iconography/Learning-Session-Live-Edition.md) |
 | Indian Art and Culture | Topic 07 - Painting Traditions | 19 | 81,686 | `2de78e0e78fc` | [Indian-Art-and-Culture/07-Painting-Traditions/Learning-Session-Live-Edition.md](Indian-Art-and-Culture/07-Painting-Traditions/Learning-Session-Live-Edition.md) |
 | Indian Art and Culture | Topic 08 - Indian Music | 19 | 75,165 | `20b7c69dbbe7` | [Indian-Art-and-Culture/08-Indian-Music/Learning-Session-Live-Edition.md](Indian-Art-and-Culture/08-Indian-Music/Learning-Session-Live-Edition.md) |
+| Indian Art and Culture | Topic 09 - Indian Dance | 23 | 81,637 | `6dac35618e8e` | [Indian-Art-and-Culture/09-Indian-Dance/Learning-Session-Live-Edition.md](Indian-Art-and-Culture/09-Indian-Dance/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
