@@ -192,6 +192,7 @@
 | Indian Art and Culture | Topic 04 - Indo-Islamic and Regional Architecture | 21 | 84,098 | `8f94e50405d0` | [Indian-Art-and-Culture/04-Indo-Islamic-and-Regional-Architecture/Learning-Session-Live-Edition.md](Indian-Art-and-Culture/04-Indo-Islamic-and-Regional-Architecture/Learning-Session-Live-Edition.md) |
 | Indian Art and Culture | Topic 05 - Colonial and Post-Independence Architecture | 18 | 68,697 | `a9afec25851d` | [Indian-Art-and-Culture/05-Colonial-and-Post-Independence-Architecture/Learning-Session-Live-Edition.md](Indian-Art-and-Culture/05-Colonial-and-Post-Independence-Architecture/Learning-Session-Live-Edition.md) |
 | Indian Art and Culture | Topic 06 - Sculpture, Pottery and Iconography | 20 | 89,995 | `838cddab050a` | [Indian-Art-and-Culture/06-Sculpture-Pottery-and-Iconography/Learning-Session-Live-Edition.md](Indian-Art-and-Culture/06-Sculpture-Pottery-and-Iconography/Learning-Session-Live-Edition.md) |
+| Indian Art and Culture | Topic 07 - Painting Traditions | 19 | 81,686 | `2de78e0e78fc` | [Indian-Art-and-Culture/07-Painting-Traditions/Learning-Session-Live-Edition.md](Indian-Art-and-Culture/07-Painting-Traditions/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
