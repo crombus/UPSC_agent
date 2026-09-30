@@ -207,6 +207,7 @@
 | Polity | Topic 04 - Preamble | 10 | 19,790 | `d9f70fbdf4df` | [Polity/04-Preamble/Learning-Session-Live-Edition.md](Polity/04-Preamble/Learning-Session-Live-Edition.md) |
 | Polity | Topic 05 - Union and Territory | 11 | 21,055 | `46d459d7244b` | [Polity/05-Union-and-Territory/Learning-Session-Live-Edition.md](Polity/05-Union-and-Territory/Learning-Session-Live-Edition.md) |
 | Polity | Topic 06 - Citizenship | 12 | 23,863 | `45ff5f111cec` | [Polity/06-Citizenship/Learning-Session-Live-Edition.md](Polity/06-Citizenship/Learning-Session-Live-Edition.md) |
+| Polity | Topic 07 - Fundamental Rights | 25 | 37,861 | `397a6cf4d7e3` | [Polity/07-Fundamental-Rights/Learning-Session-Live-Edition.md](Polity/07-Fundamental-Rights/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
