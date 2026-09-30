@@ -838,7 +838,9 @@ truthfully when no meaningful recent linkage exists.
     - answer-use guidance.
 
 11. **Revision notes**
-    - 8-15 complete recall points;
+    - use as many complete recall points as the subject, subtopic importance,
+      conceptual complexity and examination value require; do not impose a fixed
+      numerical range;
     - definitions, argument sequence and contrasts;
     - mnemonics only where they genuinely aid recall.
 
