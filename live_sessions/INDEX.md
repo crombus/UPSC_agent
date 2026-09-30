@@ -210,6 +210,7 @@
 | Polity | Topic 07 - Fundamental Rights | 25 | 37,861 | `397a6cf4d7e3` | [Polity/07-Fundamental-Rights/Learning-Session-Live-Edition.md](Polity/07-Fundamental-Rights/Learning-Session-Live-Edition.md) |
 | Polity | Topic 08 - Directive Principles | 14 | 24,162 | `fc0bc8b38800` | [Polity/08-Directive-Principles/Learning-Session-Live-Edition.md](Polity/08-Directive-Principles/Learning-Session-Live-Edition.md) |
 | Polity | Topic 09 - Fundamental Duties | 11 | 21,110 | `735f17b9b82a` | [Polity/09-Fundamental-Duties/Learning-Session-Live-Edition.md](Polity/09-Fundamental-Duties/Learning-Session-Live-Edition.md) |
+| Polity | Topic 10 - Amendment and Basic Structure | 14 | 23,631 | `01aad3a3008a` | [Polity/10-Amendment-and-Basic-Structure/Learning-Session-Live-Edition.md](Polity/10-Amendment-and-Basic-Structure/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
