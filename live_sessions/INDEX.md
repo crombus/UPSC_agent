@@ -213,6 +213,7 @@
 | Ethics | Topic 02 - Human Values and Lessons from Leaders | 11 | 22,631 | `17acf321f76a` | [Ethics/02-Human-Values-and-Lessons-from-Leaders/Learning-Session-Live-Edition.md](Ethics/02-Human-Values-and-Lessons-from-Leaders/Learning-Session-Live-Edition.md) |
 | Ethics | Topic 03 - Attitude: Content, Structure and Persuasion | 13 | 16,225 | `f73bba1d8544` | [Ethics/03-Attitude-Content-Structure-and-Persuasion/Learning-Session-Live-Edition.md](Ethics/03-Attitude-Content-Structure-and-Persuasion/Learning-Session-Live-Edition.md) |
 | Ethics | Topic 04 - Aptitude and Foundational Values for Civil Service | 12 | 17,806 | `b591c840a88e` | [Ethics/04-Aptitude-and-Foundational-Values-for-Civil-Service/Learning-Session-Live-Edition.md](Ethics/04-Aptitude-and-Foundational-Values-for-Civil-Service/Learning-Session-Live-Edition.md) |
+| Ethics | Topic 05 - Emotional Intelligence in Administration | 11 | 16,476 | `cecac8068801` | [Ethics/05-Emotional-Intelligence-in-Administration/Learning-Session-Live-Edition.md](Ethics/05-Emotional-Intelligence-in-Administration/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
