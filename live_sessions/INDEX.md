@@ -201,6 +201,7 @@
 | Indian Art and Culture | Topic 13 - Religion, Philosophy and Cultural Synthesis | 20 | 84,189 | `701db6c34282` | [Indian-Art-and-Culture/13-Religion-Philosophy-and-Cultural-Synthesis/Learning-Session-Live-Edition.md](Indian-Art-and-Culture/13-Religion-Philosophy-and-Cultural-Synthesis/Learning-Session-Live-Edition.md) |
 | Indian Art and Culture | Topic 14 - Heritage Conservation, Institutions and UNESCO | 17 | 85,002 | `b5f2337e8a81` | [Indian-Art-and-Culture/14-Heritage-Conservation-Institutions-and-UNESCO/Learning-Session-Live-Edition.md](Indian-Art-and-Culture/14-Heritage-Conservation-Institutions-and-UNESCO/Learning-Session-Live-Edition.md) |
 | Indian Art and Culture | Topic 15 - Indian Cinema, Film Institutions and Awards | 16 | 83,441 | `9daf82c8cca5` | [Indian-Art-and-Culture/15-Indian-Cinema-Film-Institutions-and-Awards/Learning-Session-Live-Edition.md](Indian-Art-and-Culture/15-Indian-Cinema-Film-Institutions-and-Awards/Learning-Session-Live-Edition.md) |
+| Polity | Topic 01 - Historical Background | 9 | 19,270 | `3e9f3b013b28` | [Polity/01-Historical-Background/Learning-Session-Live-Edition.md](Polity/01-Historical-Background/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
