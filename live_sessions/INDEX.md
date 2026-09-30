@@ -211,6 +211,7 @@
 | Polity | Topic 08 - Directive Principles | 14 | 24,162 | `fc0bc8b38800` | [Polity/08-Directive-Principles/Learning-Session-Live-Edition.md](Polity/08-Directive-Principles/Learning-Session-Live-Edition.md) |
 | Ethics | Topic 01 - Ethics and Human Interface | 7 | 16,477 | `ea7097be5b40` | [Ethics/01-Ethics-and-Human-Interface/Learning-Session-Live-Edition.md](Ethics/01-Ethics-and-Human-Interface/Learning-Session-Live-Edition.md) |
 | Ethics | Topic 02 - Human Values and Lessons from Leaders | 11 | 22,631 | `17acf321f76a` | [Ethics/02-Human-Values-and-Lessons-from-Leaders/Learning-Session-Live-Edition.md](Ethics/02-Human-Values-and-Lessons-from-Leaders/Learning-Session-Live-Edition.md) |
+| Ethics | Topic 03 - Attitude: Content, Structure and Persuasion | 13 | 16,225 | `f73bba1d8544` | [Ethics/03-Attitude-Content-Structure-and-Persuasion/Learning-Session-Live-Edition.md](Ethics/03-Attitude-Content-Structure-and-Persuasion/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
